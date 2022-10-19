@@ -13,4 +13,4 @@
 
 
 ### Archive:
-[2022-10](archive\ja-JP\202210\README.md) | 
+[2022-10](archive/ja-JP/202210/README.md) | 

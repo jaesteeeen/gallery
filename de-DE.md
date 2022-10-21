@@ -14,4 +14,4 @@
 |![](https://www.bing.com/th?id=OHR.LotsOBalloons_DE-DE2625769949_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-02 [download 4k](https://www.bing.com/th?id=OHR.LotsOBalloons_DE-DE2625769949_UHD.jpg)|![](https://www.bing.com/th?id=OHR.SwedishAntenna_DE-DE2391805008_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-01 [download 4k](https://www.bing.com/th?id=OHR.SwedishAntenna_DE-DE2391805008_UHD.jpg)|
 
 ### Archive:
-[2022-10](archive\de-DE\202210\README.md) | 
+[2022-10](archive/de-DE/202210/README.md) | 

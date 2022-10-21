@@ -14,4 +14,4 @@
 |![](https://www.bing.com/th?id=OHR.LotsOBalloons_EN-GB2400897363_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-02 [download 4k](https://www.bing.com/th?id=OHR.LotsOBalloons_EN-GB2400897363_UHD.jpg)|![](https://www.bing.com/th?id=OHR.MandelaCamden_EN-GB1953677756_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-01 [download 4k](https://www.bing.com/th?id=OHR.MandelaCamden_EN-GB1953677756_UHD.jpg)|
 
 ### Archive:
-[2022-10](archive\en-GB\202210\README.md) | 
+[2022-10](archive/en-GB/202210/README.md) | 

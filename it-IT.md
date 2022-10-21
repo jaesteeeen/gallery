@@ -14,4 +14,4 @@
 |![](https://www.bing.com/th?id=OHR.TriesteSailingboats_IT-IT7054680724_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-02 [download 4k](https://www.bing.com/th?id=OHR.TriesteSailingboats_IT-IT7054680724_UHD.jpg)|![](https://www.bing.com/th?id=OHR.LotsOBalloons_IT-IT7966841051_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-01 [download 4k](https://www.bing.com/th?id=OHR.LotsOBalloons_IT-IT7966841051_UHD.jpg)|
 
 ### Archive:
-[2022-10](archive\it-IT\202210\README.md) | 
+[2022-10](archive/it-IT/202210/README.md) | 

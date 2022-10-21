@@ -14,4 +14,4 @@
 |![](https://www.bing.com/th?id=OHR.LotsOBalloons_JA-JP4459187595_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-02 [download 4k](https://www.bing.com/th?id=OHR.LotsOBalloons_JA-JP4459187595_UHD.jpg)|![](https://www.bing.com/th?id=OHR.BridalVeilFalls_JA-JP4311611826_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-01 [download 4k](https://www.bing.com/th?id=OHR.BridalVeilFalls_JA-JP4311611826_UHD.jpg)|
 
 ### Archive:
-[2022-10](archive\ja-JP\202210\README.md) | 
+[2022-10](archive/ja-JP/202210/README.md) | 

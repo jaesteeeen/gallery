@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-02)
 ![](https://www.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg&w=1000)Today: [霜雪覆盖下的科茨沃尔德，英格兰 (© Peter Adams/Getty Images)](https://www.bing.com/th?id=OHR.WinterCotswolds_ZH-CN6017348883_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-02-27 [download 4k](https://www.bing.com/th?id=OHR.IPBDMom_ZH-CN5918907676_UHD.jpg)|![](https://www.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-02-26 [download 4k](https://www.bing.com/th?id=OHR.LamplughGlacier_ZH-CN5709513673_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WheatonYukon_ZH-CN5573629391_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-02-25 [download 4k](https://www.bing.com/th?id=OHR.WheatonYukon_ZH-CN5573629391_UHD.jpg)|

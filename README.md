@@ -2,6 +2,7 @@
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
 ![](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg&w=1000)Today: [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-20 [download 4k](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-19 [download 4k](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg)|![](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-18 [download 4k](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg)|
@@ -17,4 +18,4 @@
 
 
 ### 历史存档:
-[2022-10](archive/zh-CN/202210/README.md) | [2022-09](archive/zh-CN/202209/README.md) | [2022-08](archive/zh-CN/202208/README.md) | [2022-07](archive/zh-CN/202207/README.md) | [2022-06](archive/zh-CN/202206/README.md) | [2022-05](archive/zh-CN/202205/README.md) | [2022-04](archive/zh-CN/202204/README.md) | [2022-03](archive/zh-CN/202203/README.md) | [2022-02](archive/zh-CN/202202/README.md) | [2022-01](archive/zh-CN/202201/README.md) | 
+[2022-10](archive\zh-CN\202210\README.md) | [2022-09](archive\zh-CN\202209\README.md) | [2022-08](archive\zh-CN\202208\README.md) | [2022-07](archive\zh-CN\202207\README.md) | [2022-06](archive\zh-CN\202206\README.md) | [2022-05](archive\zh-CN\202205\README.md) | [2022-04](archive\zh-CN\202204\README.md) | [2022-03](archive\zh-CN\202203\README.md) | [2022-02](archive\zh-CN\202202\README.md) | [2022-01](archive\zh-CN\202201\README.md) | 

@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-01)
 ![](https://www.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg&w=1000)Today: [烟花绽放的除夕夜，中国 (© MediaProduction/E+/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.WinterHalo_ZH-CN0666553211_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-01-30 [download 4k](https://www.bing.com/th?id=OHR.WinterHalo_ZH-CN0666553211_UHD.jpg)|![](https://www.bing.com/th?id=OHR.BrainCoral_ZH-CN8354100992_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-01-29 [download 4k](https://www.bing.com/th?id=OHR.BrainCoral_ZH-CN8354100992_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WinteringFowl_ZH-CN8158075445_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-01-28 [download 4k](https://www.bing.com/th?id=OHR.WinteringFowl_ZH-CN8158075445_UHD.jpg)|

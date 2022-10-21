@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-04)
 ![](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg&w=1000)Today: [正在投喂幼鸟的戴胜鸟，德国 (© Slawek Staszczuk/Alamy)](https://www.bing.com/th?id=OHR.WiedehopfElbe_ZH-CN6286311611_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-04-29 [download 4k](https://www.bing.com/th?id=OHR.RedwoodSprout_ZH-CN6224667074_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-04-28 [download 4k](https://www.bing.com/th?id=OHR.GreatRidge_ZH-CN6165605288_UHD.jpg)|![](https://www.bing.com/th?id=OHR.SvalbardSun_ZH-CN6108396467_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-04-27 [download 4k](https://www.bing.com/th?id=OHR.SvalbardSun_ZH-CN6108396467_UHD.jpg)|

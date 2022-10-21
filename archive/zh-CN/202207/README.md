@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-07)
 ![](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg&w=1000)Today: [立陶宛的夜光云 (© ljphoto7/Getty Images)](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-07-30 [download 4k](https://www.bing.com/th?id=OHR.FiordlandRainforest_ZH-CN4528847139_UHD.jpg)|![](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-07-29 [download 4k](https://www.bing.com/th?id=OHR.FourTigresses_ZH-CN4095017352_UHD.jpg)|![](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-07-28 [download 4k](https://www.bing.com/th?id=OHR.LongsPeak_ZH-CN5927119555_UHD.jpg)|

@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-10)
 ![](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-IN7514884484_UHD.jpg&w=1000)Today: [Cypress trees in autumn, Georgia (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_EN-IN7514884484_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.SlothDay_EN-IN0763536539_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-20 [download 4k](https://www.bing.com/th?id=OHR.SlothDay_EN-IN0763536539_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WartburgCastle_EN-IN0185565397_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-19 [download 4k](https://www.bing.com/th?id=OHR.WartburgCastle_EN-IN0185565397_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GB25Anni_EN-IN9809281562_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-18 [download 4k](https://www.bing.com/th?id=OHR.GB25Anni_EN-IN9809281562_UHD.jpg)|

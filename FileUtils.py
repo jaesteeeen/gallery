@@ -69,7 +69,7 @@ class FileUtils:
                     [Français(CA)](fr-CA.md) |\
                     \n\n")
             f.write(today.toLarge())
-            f.write('\n|      |      |      |\n')
+            f.write('\n\n|      |      |      |\n')
             f.write('| :----: | :----: | :----: |\n')
             index = 1
             item_list = [ item for item in items["images"] ][-31:-1]
@@ -104,7 +104,7 @@ class FileUtils:
             f.write('## Bing Wallpaper ({}-{})\n'.format(month[:4],month[-2:]))
             last = Images(last)
             f.write(last.toLarge())
-            f.write('\n|      |      |      |\n')
+            f.write('\n\n|      |      |      |\n')
             f.write('| :----: | :----: | :----: |\n')
             index = 1
             for row in rows:

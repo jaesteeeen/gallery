@@ -2,6 +2,7 @@
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
 ![](https://www.bing.com/th?id=OHR.GeorgiaCypress_JA-JP7307401588_UHD.jpg&w=1000)Today: [紅葉するラクウショウ, 米国 ジョージア州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_JA-JP7307401588_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.SlothDay_JA-JP0098706537_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-20 [download 4k](https://www.bing.com/th?id=OHR.SlothDay_JA-JP0098706537_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WartburgCastle_JA-JP0246037593_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-19 [download 4k](https://www.bing.com/th?id=OHR.WartburgCastle_JA-JP0246037593_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GB25Anni_JA-JP0330783123_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-18 [download 4k](https://www.bing.com/th?id=OHR.GB25Anni_JA-JP0330783123_UHD.jpg)|
@@ -13,4 +14,4 @@
 |![](https://www.bing.com/th?id=OHR.LotsOBalloons_JA-JP4459187595_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-02 [download 4k](https://www.bing.com/th?id=OHR.LotsOBalloons_JA-JP4459187595_UHD.jpg)|![](https://www.bing.com/th?id=OHR.BridalVeilFalls_JA-JP4311611826_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-01 [download 4k](https://www.bing.com/th?id=OHR.BridalVeilFalls_JA-JP4311611826_UHD.jpg)|
 
 ### Archive:
-[2022-10](archive/ja-JP/202210/README.md) | 
+[2022-10](archive\ja-JP\202210\README.md) | 

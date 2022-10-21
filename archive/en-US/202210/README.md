@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-10)
 ![](https://www.bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg&w=1000)Today: [Hoffmann's two-toed sloth mother and young, Puerto Viejo de Talamanca, Costa Rica (© Suzi Eszterhas/Minden Pictures)](https://www.bing.com/th?id=OHR.SlothDay_EN-US8418438094_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-20 [download 4k](https://www.bing.com/th?id=OHR.WartburgCastle_EN-US8283353282_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-19 [download 4k](https://www.bing.com/th?id=OHR.GB25Anni_EN-US8198972228_UHD.jpg)|![](https://www.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-18 [download 4k](https://www.bing.com/th?id=OHR.SwedenOwl_EN-US8107135630_UHD.jpg)|

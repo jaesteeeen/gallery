@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-02)
 ![](https://www.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg&w=1000)Today: [Polar bear mother with cubs in Wapusk National Park, Manitoba, Canada (© Andre Gilden/Minden Pictures)](https://www.bing.com/th?id=OHR.IPBDMom_EN-US5866127837_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-02-27 [download 4k](https://www.bing.com/th?id=OHR.LamplughGlacier_EN-US2202288609_UHD.jpg)|![](https://www.bing.com/th?id=OHR.LegacyMural_EN-US8368318184_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-02-26 [download 4k](https://www.bing.com/th?id=OHR.LegacyMural_EN-US8368318184_UHD.jpg)|![](https://www.bing.com/th?id=OHR.CrystalCave_EN-US8679086426_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-02-25 [download 4k](https://www.bing.com/th?id=OHR.CrystalCave_EN-US8679086426_UHD.jpg)|

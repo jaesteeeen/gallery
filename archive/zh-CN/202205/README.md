@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-05)
 ![](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg&w=1000)Today: [展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-05-30 [download 4k](https://www.bing.com/th?id=OHR.MountFryatt_ZH-CN0611142036_UHD.jpg)|![](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-05-29 [download 4k](https://www.bing.com/th?id=OHR.HyaliteCreek_ZH-CN0400013447_UHD.jpg)|![](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-05-28 [download 4k](https://www.bing.com/th?id=OHR.PurnululuNP_ZH-CN0102753224_UHD.jpg)|

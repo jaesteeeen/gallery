@@ -1,5 +1,6 @@
 ## Bing Wallpaper (2022-10)
 ![](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg&w=1000)Today: [秋季的落羽杉，美国佐治亚州 (© Chris Moore/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.GeorgiaCypress_ZH-CN3705257154_UHD.jpg)
+
 |      |      |      |
 | :----: | :----: | :----: |
 |![](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-20 [download 4k](https://www.bing.com/th?id=OHR.SlothDay_ZH-CN4945330735_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-19 [download 4k](https://www.bing.com/th?id=OHR.WartburgCastle_ZH-CN4201605751_UHD.jpg)|![](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-10-18 [download 4k](https://www.bing.com/th?id=OHR.BridalVeilFalls_ZH-CN3954641670_UHD.jpg)|

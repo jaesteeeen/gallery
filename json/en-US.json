@@ -1817,6 +1817,12 @@
       "url": "https://www.bing.com/th?id=OHR.SeaAngel_EN-US5531672696_UHD.jpg",
       "copyright": "Sea angel (© Alexander Semenov Images/Shutterstock)",
       "copyrightlink": "/search?q=sea+angel+sea+slug&form=hpcapt&filters=HpDate%3a%2220221029_0700%22"
+    },
+    {
+      "enddate": "20221031",
+      "url": "https://www.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg",
+      "copyright": "Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)",
+      "copyrightlink": "/search?q=Polar+bear&form=hpcapt&filters=HpDate%3a%2220221030_0700%22"
     }
   ],
   "months": {
@@ -1829,10 +1835,9 @@
       "202206",
       "202207",
       "202208",
-      "202209"
-    ],
-    "active": [
+      "202209",
       "202210"
-    ]
+    ],
+    "active": []
   }
 }

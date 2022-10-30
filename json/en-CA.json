@@ -173,12 +173,18 @@
       "url": "https://www.bing.com/th?id=OHR.TremblantFoliage_EN-CA7348328850_UHD.jpg",
       "copyright": "Fall foliage in Mont-Tremblant National Park, Quebec (© Mircea Costina/Alamy Stock Photo)",
       "copyrightlink": "/search?q=mont-tremblant+national+park&form=hpcapt&filters=HpDate%3a%2220221029_0400%22"
+    },
+    {
+      "enddate": "20221031",
+      "url": "https://www.bing.com/th?id=OHR.SealRiver_EN-CA9320252191_UHD.jpg",
+      "copyright": "Polar bear at the edge of Hudson Bay, Manitoba (© Sean Crane/Minden Pictures)",
+      "copyrightlink": "/search?q=Polar+bear&form=hpcapt&filters=HpDate%3a%2220221030_0400%22"
     }
   ],
   "months": {
-    "archive": [],
-    "active": [
+    "archive": [
       "202210"
-    ]
+    ],
+    "active": []
   }
 }

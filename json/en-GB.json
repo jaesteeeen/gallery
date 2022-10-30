@@ -173,12 +173,18 @@
       "url": "https://www.bing.com/th?id=OHR.SeaAngel_EN-GB7917935603_UHD.jpg",
       "copyright": "Sea angel (© Alexander Semenov Images/Shutterstock)",
       "copyrightlink": "/search?q=sea+angel+sea+slug&form=hpcapt&filters=HpDate%3a%2220221028_2300%22"
+    },
+    {
+      "enddate": "20221031",
+      "url": "https://www.bing.com/th?id=OHR.EastgateClock_EN-GB8506882527_UHD.jpg",
+      "copyright": "The sun sets over the Eastgate Clock in Chester. (© ZinCat/Getty Images)",
+      "copyrightlink": "/search?q=Greenwich+Mean+Time+UK&form=hpcapt&filters=HpDate%3a%2220221029_2300%22"
     }
   ],
   "months": {
-    "archive": [],
-    "active": [
+    "archive": [
       "202210"
-    ]
+    ],
+    "active": []
   }
 }

@@ -179,12 +179,18 @@
       "url": "https://www.bing.com/th?id=OHR.SealRiver_EN-IN3503931734_UHD.jpg",
       "copyright": "Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)",
       "copyrightlink": "/search?q=Polar+bear&form=hpcapt&filters=HpDate%3a%2220221029_1830%22"
+    },
+    {
+      "enddate": "20221031",
+      "url": "https://www.bing.com/th?id=OHR.WychwoodForest_EN-IN4221356081_UHD.jpg",
+      "copyright": "Trees in Wychwood Forest near Chipping Norton, Oxfordshire, England (© Frederick Ardley/Getty Images)",
+      "copyrightlink": "/search?q=halloween&form=hpcapt&filters=HpDate%3a%2220221030_1830%22"
     }
   ],
   "months": {
-    "archive": [],
-    "active": [
+    "archive": [
       "202210"
-    ]
+    ],
+    "active": []
   }
 }

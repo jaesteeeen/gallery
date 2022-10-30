@@ -1817,6 +1817,12 @@
       "url": "https://www.bing.com/th?id=OHR.SealRiver_ZH-CN6334858649_UHD.jpg",
       "copyright": "哈德逊湾边缘的北极熊，加拿大 (© Sean Crane/Minden Pictures)",
       "copyrightlink": "/search?q=%e5%8c%97%e6%9e%81%e7%86%8a&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20221031",
+      "url": "https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg",
+      "copyright": "牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)",
+      "copyrightlink": "/search?q=%e4%b8%87%e5%9c%a3%e8%8a%82&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -1829,10 +1835,9 @@
       "202206",
       "202207",
       "202208",
-      "202209"
-    ],
-    "active": [
+      "202209",
       "202210"
-    ]
+    ],
+    "active": []
   }
 }

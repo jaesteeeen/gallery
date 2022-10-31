@@ -48,6 +48,7 @@ class Gallery:
         months.reverse()
         file.writeToReadme(all, today, months, self.region)
         print("主目录{}的README已重新生成!".format(self.region))
+        print("-------------------------------")
 
 
     def archive(self):
@@ -65,8 +66,8 @@ class Gallery:
                 months = all["months"]["active"]
             else:
                 old_archive = all["months"]["archive"]
-                all = [ item["enddate"][:6] for item in all["images"] ]
-                months = list(set(all) - set(old_archive))
+                total = [ item["enddate"][:6] for item in all["images"] ]
+                months = list(set(total) - set(old_archive))
         
         for month in months:
             path = os.path.join("archive", self.region, month)

@@ -179,12 +179,20 @@
       "url": "https://www.bing.com/th?id=OHR.SealRiver_FR-CA2968443449_UHD.jpg",
       "copyright": "Ours polaire dans la baie d’Hudson, Manitoba (© Sean Crane/Minden Pictures)",
       "copyrightlink": "/search?q=ours+blanc&form=hpcapt&filters=HpDate%3a%2220221030_0400%22"
+    },
+    {
+      "enddate": "20221101",
+      "url": "https://www.bing.com/th?id=OHR.WychwoodForest_FR-CA3380358498_UHD.jpg",
+      "copyright": "Arbres dans la forêt de Wychwood près de Chipping Norton, Oxfordshire, Angleterre (© Frederick Ardley/Getty Images)",
+      "copyrightlink": "/search?q=halloween&form=hpcapt&filters=HpDate%3a%2220221031_0400%22"
     }
   ],
   "months": {
     "archive": [
       "202210"
     ],
-    "active": []
+    "active": [
+      "202211"
+    ]
   }
 }

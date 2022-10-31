@@ -179,12 +179,20 @@
       "url": "https://www.bing.com/th?id=OHR.SealRiver_PT-BR6246600554_UHD.jpg",
       "copyright": "Urso-polar na Baía de Hudson, Manitoba, no Canadá (© Sean Crane/Minden Pictures)",
       "copyrightlink": "/search?q=Urso-polar&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20221101",
+      "url": "https://www.bing.com/th?id=OHR.CarlosDrummond120_PT-BR1070507633_UHD.jpg",
+      "copyright": "Estátua do poeta Carlos Drummond de Andrade em Copacabana, Rio de Janeiro (© Bruno Martins/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Carlos+Drummond+de+Andrade&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
     "archive": [
       "202210"
     ],
-    "active": []
+    "active": [
+      "202211"
+    ]
   }
 }

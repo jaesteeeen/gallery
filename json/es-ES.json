@@ -179,12 +179,18 @@
       "url": "https://www.bing.com/th?id=OHR.SealRiver_ES-ES0198633436_UHD.jpg",
       "copyright": "Oso polar en el borde de la Bahía de Hudson, Manitoba, Canadá  (© Sean Crane/Minden Pictures)",
       "copyrightlink": "/search?q=oso+polar&form=hpcapt&filters=HpDate%3a%2220221029_2200%22"
+    },
+    {
+      "enddate": "20221031",
+      "url": "https://www.bing.com/th?id=OHR.WychwoodForest_ES-ES0246979359_UHD.jpg",
+      "copyright": "Árboles en el bosque de Wychwood cerca de Chipping Norton, Oxfordshire, Inglaterra (© Frederick Ardley/Getty Images)",
+      "copyrightlink": "/search?q=halloween&form=hpcapt&filters=HpDate%3a%2220221030_2300%22"
     }
   ],
   "months": {
-    "archive": [],
-    "active": [
+    "archive": [
       "202210"
-    ]
+    ],
+    "active": []
   }
 }

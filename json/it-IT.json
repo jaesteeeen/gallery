@@ -179,12 +179,18 @@
       "url": "https://www.bing.com/th?id=OHR.VeniceClock_IT-IT0264860156_UHD.jpg",
       "copyright": "Orologio astronomico sulla Torre dell’Orologio a Piazza San Marco, Venezia (©  Songquan Deng/Alamy Stock Photo)",
       "copyrightlink": "/search?q=ora+legale&form=hpcapt"
+    },
+    {
+      "enddate": "20221031",
+      "url": "https://www.bing.com/th?id=OHR.WychwoodForest_IT-IT0337124415_UHD.jpg",
+      "copyright": "Alberi nella Foresta di Wychwood vicino Chipping Norton nello Oxfordshire, Inghilterra (© Frederick Ardley/Getty Images)",
+      "copyrightlink": "/search?q=halloween&form=hpcapt"
     }
   ],
   "months": {
-    "archive": [],
-    "active": [
+    "archive": [
       "202210"
-    ]
+    ],
+    "active": []
   }
 }

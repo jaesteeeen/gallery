@@ -179,12 +179,20 @@
       "url": "https://www.bing.com/th?id=OHR.EastgateClock_EN-GB8506882527_UHD.jpg",
       "copyright": "The sun sets over the Eastgate Clock in Chester. (© ZinCat/Getty Images)",
       "copyrightlink": "/search?q=Greenwich+Mean+Time+UK&form=hpcapt&filters=HpDate%3a%2220221029_2300%22"
+    },
+    {
+      "enddate": "20221101",
+      "url": "https://www.bing.com/th?id=OHR.WychwoodForest_EN-GB9336729827_UHD.jpg",
+      "copyright": "Trees in Wychwood Forest near Chipping Norton, Oxfordshire (© Frederick Ardley/Getty Images)",
+      "copyrightlink": "/search?q=halloween&form=hpcapt&filters=HpDate%3a%2220221031_0000%22"
     }
   ],
   "months": {
     "archive": [
       "202210"
     ],
-    "active": []
+    "active": [
+      "202211"
+    ]
   }
 }

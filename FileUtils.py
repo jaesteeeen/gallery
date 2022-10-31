@@ -104,14 +104,15 @@ class FileUtils:
             f.write('## Bing Wallpaper ({}-{})\n'.format(month[:4],month[-2:]))
             last = Images(last)
             f.write(last.toLarge())
-            f.write('\n\n|      |      |      |\n')
-            f.write('| :----: | :----: | :----: |\n')
-            index = 1
-            for row in rows:
-                row = Images(row)
-                f.write('|' + row.toString())
-                if index % 3 == 0:
-                    f.write('|\n')
-                index += 1
-            if index % 3 != 1:
-                f.write('|')
+            if len(rows) > 1:
+                f.write('\n\n|      |      |      |\n')
+                f.write('| :----: | :----: | :----: |\n')
+                index = 1
+                for row in rows:
+                    row = Images(row)
+                    f.write('|' + row.toString())
+                    if index % 3 == 0:
+                        f.write('|\n')
+                    index += 1
+                if index % 3 != 1:
+                    f.write('|')

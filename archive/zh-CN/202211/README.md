@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-11)
+![](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg&w=1000)Today: [神秘森林里木桌上的两个微笑的万圣节南瓜 (© sandsun/Getty Images)](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_ZH-CN6763384812_UHD.jpg)

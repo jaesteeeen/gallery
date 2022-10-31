@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-11)
+![](https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_UHD.jpg&w=1000)Today: [ケープバッファロー, ケニア (© RealityImages/Shutterstock)](https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_UHD.jpg)

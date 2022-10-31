@@ -185,12 +185,20 @@
       "url": "https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg",
       "copyright": "笑う 2 つのカボチャ (© sandsun/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%8f%e3%83%ad%e3%82%a6%e3%82%a3%e3%83%b3+%e3%82%ab%e3%83%9c%e3%83%81%e3%83%a3&form=hpcapt&filters=HpDate%3a%2220221030_1500%22"
+    },
+    {
+      "enddate": "20221101",
+      "url": "https://www.bing.com/th?id=OHR.AmboseliBioshere_JA-JP8635683385_UHD.jpg",
+      "copyright": "ケープバッファロー, ケニア (© RealityImages/Shutterstock)",
+      "copyrightlink": "/search?q=%e3%82%b1%e3%83%bc%e3%83%97%e3%83%90%e3%83%83%e3%83%95%e3%82%a1%e3%83%ad%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220221031_1500%22"
     }
   ],
   "months": {
     "archive": [
       "202210"
     ],
-    "active": []
+    "active": [
+      "202211"
+    ]
   }
 }

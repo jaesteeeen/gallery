@@ -18,4 +18,4 @@
 
 
 ### Archive:
-[2022-10](archive\de-DE\202210\README.md) | 
+[2022-10](archive/de-DE/202210/README.md) | 

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-11)
+![](https://www.bing.com/th?id=OHR.Calacas_DE-DE0872821664_UHD.jpg&w=1000)Today: [Pappmaché-Skelette (Calacas) am Tag der Toten (Día de los Muertos) in Mexiko (© Amelia Fuentes Marin/Getty Images)](https://www.bing.com/th?id=OHR.Calacas_DE-DE0872821664_UHD.jpg)

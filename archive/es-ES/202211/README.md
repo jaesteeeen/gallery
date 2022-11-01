@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-11)
+![](https://www.bing.com/th?id=OHR.Calacas_ES-ES0332786536_UHD.jpg&w=1000)Today: [Esqueletos (calacas) vestidos para las celebraciones del Día de los Muertos en México (© Amelia Fuentes Marin/Getty Images)](https://www.bing.com/th?id=OHR.Calacas_ES-ES0332786536_UHD.jpg)

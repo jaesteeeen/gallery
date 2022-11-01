@@ -185,12 +185,20 @@
       "url": "https://www.bing.com/th?id=OHR.WychwoodForest_FR-FR2398175122_UHD.jpg",
       "copyright": "La forêt de Wychwood près de Chipping Norton, Oxfordshire, Angleterre (© Frederick Ardley/Getty Images)",
       "copyrightlink": "/search?q=halloween&form=hpcapt&filters=HpDate%3a%2220221030_2300%22"
+    },
+    {
+      "enddate": "20221101",
+      "url": "https://www.bing.com/th?id=OHR.Calacas_FR-FR4752711220_UHD.jpg",
+      "copyright": "Figurines de squelettes pour el Día de los Muertos (le Jour des morts) au Mexique (© Amelia Fuentes Marin/Getty Images)",
+      "copyrightlink": "/search?q=dia+de+los+muertos&form=hpcapt&filters=HpDate%3a%2220221031_2300%22"
     }
   ],
   "months": {
     "archive": [
       "202210"
     ],
-    "active": []
+    "active": [
+      "202211"
+    ]
   }
 }

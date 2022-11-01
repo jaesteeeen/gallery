@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-11)
+![](https://www.bing.com/th?id=OHR.Calacas_FR-FR4752711220_UHD.jpg&w=1000)Today: [Figurines de squelettes pour el Día de los Muertos (le Jour des morts) au Mexique (© Amelia Fuentes Marin/Getty Images)](https://www.bing.com/th?id=OHR.Calacas_FR-FR4752711220_UHD.jpg)

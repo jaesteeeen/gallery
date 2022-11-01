@@ -1,2 +1,2 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.CarlosDrummond120_PT-BR1070507633_UHD.jpg&w=1000)Today: [Estátua do poeta Carlos Drummond de Andrade em Copacabana, Rio de Janeiro (© Bruno Martins/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.CarlosDrummond120_PT-BR1070507633_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.Calacas_PT-BR6425689711_UHD.jpg&w=1000)Today: [Esqueletos (calacas) vestidos para as celebrações do tradicional Día de los Muertos, no México (© Amelia Fuentes Marin/Getty Images)](https://www.bing.com/th?id=OHR.Calacas_PT-BR6425689711_UHD.jpg)

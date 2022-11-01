@@ -185,12 +185,20 @@
       "url": "https://www.bing.com/th?id=OHR.WychwoodForest_IT-IT0337124415_UHD.jpg",
       "copyright": "Alberi nella Foresta di Wychwood vicino Chipping Norton nello Oxfordshire, Inghilterra (© Frederick Ardley/Getty Images)",
       "copyrightlink": "/search?q=halloween&form=hpcapt"
+    },
+    {
+      "enddate": "20221101",
+      "url": "https://www.bing.com/th?id=OHR.Calacas_IT-IT0389753487_UHD.jpg",
+      "copyright": "Scheletri (calacas) travestiti per le celebrazioni del Día de los Muertos in Messico (© Amelia Fuentes Marin/Getty Images)",
+      "copyrightlink": "/search?q=D%c3%ada+de+los+Muertos&form=hpcapt"
     }
   ],
   "months": {
     "archive": [
       "202210"
     ],
-    "active": []
+    "active": [
+      "202211"
+    ]
   }
 }

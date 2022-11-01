@@ -1,2 +1,2 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.WychwoodForest_FR-CA3380358498_UHD.jpg&w=1000)Today: [Arbres dans la forêt de Wychwood près de Chipping Norton, Oxfordshire, Angleterre (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_FR-CA3380358498_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.Calacas_FR-CA3736936313_UHD.jpg&w=1000)Today: [Figurines de squelettes pour el día de los Muertos au Mexique (© Amelia Fuentes Marin/Getty Images)](https://www.bing.com/th?id=OHR.Calacas_FR-CA3736936313_UHD.jpg)

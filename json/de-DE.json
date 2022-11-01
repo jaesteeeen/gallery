@@ -185,12 +185,20 @@
       "url": "https://www.bing.com/th?id=OHR.WychwoodForest_DE-DE0714020420_UHD.jpg",
       "copyright": "Wychwood Forest nahe Chipping Norton, Oxfordshire, England, Vereinigtes Königreich (© Frederick Ardley/Getty Images)",
       "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220221030_2300%22"
+    },
+    {
+      "enddate": "20221101",
+      "url": "https://www.bing.com/th?id=OHR.Calacas_DE-DE0872821664_UHD.jpg",
+      "copyright": "Pappmaché-Skelette (Calacas) am Tag der Toten (Día de los Muertos) in Mexiko (© Amelia Fuentes Marin/Getty Images)",
+      "copyrightlink": "/search?q=Tag+der+Toten&form=hpcapt&filters=HpDate%3a%2220221031_2300%22"
     }
   ],
   "months": {
     "archive": [
       "202210"
     ],
-    "active": []
+    "active": [
+      "202211"
+    ]
   }
 }

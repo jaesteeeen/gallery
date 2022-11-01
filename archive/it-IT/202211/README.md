@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-11)
+![](https://www.bing.com/th?id=OHR.Calacas_IT-IT0389753487_UHD.jpg&w=1000)Today: [Scheletri (calacas) travestiti per le celebrazioni del Día de los Muertos in Messico (© Amelia Fuentes Marin/Getty Images)](https://www.bing.com/th?id=OHR.Calacas_IT-IT0389753487_UHD.jpg)

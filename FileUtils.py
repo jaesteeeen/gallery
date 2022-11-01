@@ -104,7 +104,7 @@ class FileUtils:
             f.write('## Bing Wallpaper ({}-{})\n'.format(month[:4],month[-2:]))
             last = Images(last)
             f.write(last.toLarge())
-            if len(rows) > 1:
+            if rows:
                 f.write('\n\n|      |      |      |\n')
                 f.write('| :----: | :----: | :----: |\n')
                 index = 1

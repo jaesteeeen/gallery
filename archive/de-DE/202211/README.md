@@ -1,2 +1,6 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.Calacas_DE-DE0872821664_UHD.jpg&w=1000)Today: [Pappmaché-Skelette (Calacas) am Tag der Toten (Día de los Muertos) in Mexiko (© Amelia Fuentes Marin/Getty Images)](https://www.bing.com/th?id=OHR.Calacas_DE-DE0872821664_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BridgeofSighs_DE-DE1060202609_UHD.jpg&w=1000)Today: [Seufzerbrücke, Venedig, Italien (© Doug Pearson/Alamy)](https://www.bing.com/th?id=OHR.BridgeofSighs_DE-DE1060202609_UHD.jpg)
+
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://www.bing.com/th?id=OHR.Calacas_DE-DE0872821664_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-11-01 [download 4k](https://www.bing.com/th?id=OHR.Calacas_DE-DE0872821664_UHD.jpg)|

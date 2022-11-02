@@ -1,7 +1,7 @@
 #!/usr/bin/env python 
 # -*- coding: utf-8 -*-
 
-import os
+from pathlib import *
 import calendar
 from queue import Queue
 import requests
@@ -70,9 +70,8 @@ class Gallery:
                 months = list(set(total) - set(old_archive))
         
         for month in months:
-            path = os.path.join("archive", self.region, month)
-            if not os.path.exists(path):
-                os.makedirs(path)
+            path = PurePosixPath("archive", self.region, month)
+            Path(path).mkdir(parents=True, exist_ok=True)
             file.writeToArchive(all, path, month)
             print("{}历史存档整理完成!".format(self.region))
             print("*******************************")

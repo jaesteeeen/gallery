@@ -359,14 +359,19 @@
       "url": "https://www.bing.com/th?id=OHR.HeronGiving_EN-IN3807811033_UHD.jpg",
       "copyright": "Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)",
       "copyrightlink": "/search?q=giving+tuesday&form=hpcapt&filters=HpDate%3a%2220221128_1830%22"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg",
+      "copyright": "View of the Himalayas from Khalia top trek trail in Kumaon, India (© Amit kg/Shutterstock)",
+      "copyrightlink": "/search?q=Himalayas&form=hpcapt&filters=HpDate%3a%2220221129_1830%22"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

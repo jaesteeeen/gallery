@@ -353,14 +353,19 @@
       "url": "https://www.bing.com/th?id=OHR.RedPlanetDay_PT-BR0687494844_UHD.jpg",
       "copyright": "Marte (© NASA/Alamy)",
       "copyrightlink": "/search?q=Planeta+Marte&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.HeronGiving_PT-BR0915216293_UHD.jpg",
+      "copyright": "Garças-azuis-grandes construindo um ninho no Wakodahatchee Wetlands, em Delray Beach, na Flórida, Estados Unidos (© Imagebroker/Alamy)",
+      "copyrightlink": "/search?q=Gar%c3%a7a-azul-grande&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

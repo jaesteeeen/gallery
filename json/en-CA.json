@@ -353,14 +353,19 @@
       "url": "https://www.bing.com/th?id=OHR.RedPlanetDay_EN-CA6802228398_UHD.jpg",
       "copyright": "Mars (© NASA/Alamy)",
       "copyrightlink": "/search?q=Mars+planet&form=hpcapt&filters=HpDate%3a%2220221128_0500%22"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.HeronGiving_EN-CA0899005896_UHD.jpg",
+      "copyright": "Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)",
+      "copyrightlink": "/search?q=giving+tuesday&form=hpcapt&filters=HpDate%3a%2220221129_0500%22"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

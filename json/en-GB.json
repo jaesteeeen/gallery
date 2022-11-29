@@ -353,14 +353,19 @@
       "url": "https://www.bing.com/th?id=OHR.SkeltonTower_EN-GB3304434806_UHD.jpg",
       "copyright": "The Milky Way over Skelton Tower on the North York Moors (© Martin Williams/Alamy)",
       "copyrightlink": "/search?q=North+York+Moors&form=hpcapt&filters=HpDate%3a%2220221128_0000%22"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.HeronGiving_EN-GB3624332195_UHD.jpg",
+      "copyright": "Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida, USA (© Imagebroker/Alamy)",
+      "copyrightlink": "/search?q=giving+tuesday&form=hpcapt&filters=HpDate%3a%2220221129_0000%22"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

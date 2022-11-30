@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg&w=1000)Today: [パラダイス湾, 南極 (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg)

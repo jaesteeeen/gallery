@@ -365,6 +365,12 @@
       "url": "https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg",
       "copyright": "View of the Himalayas from Khalia top trek trail in Kumaon, India (© Amit kg/Shutterstock)",
       "copyrightlink": "/search?q=Himalayas&form=hpcapt&filters=HpDate%3a%2220221129_1830%22"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticaDay_EN-IN4515439418_UHD.jpg",
+      "copyright": "Paradise Harbour, Antarctica (© SinghaphanAllB/Getty Images)",
+      "copyrightlink": "/search?q=antarctica&form=hpcapt&filters=HpDate%3a%2220221130_1830%22"
     }
   ],
   "months": {
@@ -372,6 +378,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

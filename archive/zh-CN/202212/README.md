@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.QingmingCandle2020_ZH-CN6775701680_UHD.jpg&w=1000)Today: [江泽民逝世 (© Luca Flor/Shutterstock)](https://www.bing.com/th?id=OHR.QingmingCandle2020_ZH-CN6775701680_UHD.jpg)

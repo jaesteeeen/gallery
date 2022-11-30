@@ -365,6 +365,12 @@
       "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_JA-JP9150123532_UHD.jpg",
       "copyright": "ロヴィニ, クロアチア (© trabantos/Shutterstock)",
       "copyrightlink": "/search?q=%e3%83%ad%e3%83%b4%e3%82%a3%e3%83%8b+%e3%82%af%e3%83%ad%e3%82%a2%e3%83%81%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220221129_1500%22"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg",
+      "copyright": "パラダイス湾, 南極 (© SinghaphanAllB/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%91%e3%83%a9%e3%83%80%e3%82%a4%e3%82%b9%e6%b9%be&form=hpcapt&filters=HpDate%3a%2220221130_1500%22"
     }
   ],
   "months": {
@@ -372,6 +378,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

@@ -359,6 +359,12 @@
       "url": "https://www.bing.com/th?id=OHR.HeronGiving_PT-BR0915216293_UHD.jpg",
       "copyright": "Garças-azuis-grandes construindo um ninho no Wakodahatchee Wetlands, em Delray Beach, na Flórida, Estados Unidos (© Imagebroker/Alamy)",
       "copyrightlink": "/search?q=Gar%c3%a7a-azul-grande&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_PT-BR1521547595_UHD.jpg",
+      "copyright": "A antiga cidade de Rovinj, na Croácia (© trabantos/Shutterstock)",
+      "copyrightlink": "/search?q=Rovinj+Cro%c3%a1cia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -366,6 +372,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

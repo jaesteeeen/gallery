@@ -359,6 +359,12 @@
       "url": "https://www.bing.com/th?id=OHR.HeronGiving_EN-CA0899005896_UHD.jpg",
       "copyright": "Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida (© Imagebroker/Alamy)",
       "copyrightlink": "/search?q=giving+tuesday&form=hpcapt&filters=HpDate%3a%2220221129_0500%22"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_EN-CA3151237604_UHD.jpg",
+      "copyright": "The Old Town of Rovinj, Croatia (© trabantos/Shutterstock)",
+      "copyrightlink": "/search?q=rovinj+croatia&form=hpcapt&filters=HpDate%3a%2220221130_0500%22"
     }
   ],
   "months": {
@@ -366,6 +372,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

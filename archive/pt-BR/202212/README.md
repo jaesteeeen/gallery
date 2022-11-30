@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.RovinjCroatia_PT-BR1521547595_UHD.jpg&w=1000)Today: [A antiga cidade de Rovinj, na Croácia (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_PT-BR1521547595_UHD.jpg)

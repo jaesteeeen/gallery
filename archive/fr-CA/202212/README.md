@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.RovinjCroatia_FR-CA3188342312_UHD.jpg&w=1000)Today: [Le centre historique de Rovinj, Croatie (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_FR-CA3188342312_UHD.jpg)

@@ -359,14 +359,19 @@
       "url": "https://www.bing.com/th?id=OHR.HeronGiving_ES-ES1166122333_UHD.jpg",
       "copyright": "Garzas de gran azul construyendo un nido en los humedales de Wakodahatchee, Delray Beach, Florida (© Imagebroker/Alamy)",
       "copyrightlink": "/search?q=garza+azul&form=hpcapt&filters=HpDate%3a%2220221128_2300%22"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_ES-ES4775430067_UHD.jpg",
+      "copyright": "El casco antiguo de Rovinj, Croacia (© trabantos/Shutterstock)",
+      "copyrightlink": "/search?q=rovinj+croacia&form=hpcapt&filters=HpDate%3a%2220221129_2300%22"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

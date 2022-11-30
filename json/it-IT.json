@@ -359,14 +359,19 @@
       "url": "https://www.bing.com/th?id=OHR.HeronGiving_IT-IT1873839262_UHD.jpg",
       "copyright": "Aironi azzurri che costruiscono un nido nelle zone umide di Wakodahatchee, Delray Beach, Florida (© Imagebroker/Alamy)",
       "copyrightlink": "/search?q=giving+tuesday&form=hpcapt"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_IT-IT2055846992_UHD.jpg",
+      "copyright": "Il centro storico di Rovigno, Croazia (© trabantos/Shutterstock)",
+      "copyrightlink": "/search?q=rovigno+croazia&form=hpcapt"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

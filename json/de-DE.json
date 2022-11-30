@@ -359,14 +359,19 @@
       "url": "https://www.bing.com/th?id=OHR.AschauChiemgau_DE-DE6716018830_UHD.jpg",
       "copyright": "Blick von der Kampenwand auf die Chiemgauer Alpen, Aschau im Chiemgau, Bayern (© Toni Anzenberger/plainpicture)",
       "copyrightlink": "/search?q=Kampenwand&form=hpcapt&filters=HpDate%3a%2220221128_2300%22"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_DE-DE6853361778_UHD.jpg",
+      "copyright": "Altstadt von Rovinj, Kroatien (© trabantos/Shutterstock)",
+      "copyrightlink": "/search?q=Rovinj&form=hpcapt&filters=HpDate%3a%2220221129_2300%22"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

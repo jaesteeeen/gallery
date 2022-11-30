@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.StorrRocks_EN-GB3689850780_UHD.jpg&w=1000)Today: [The Storr, Isle of Skye (© Aliaume Chapelle/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.StorrRocks_EN-GB3689850780_UHD.jpg)

@@ -359,14 +359,19 @@
       "url": "https://www.bing.com/th?id=OHR.HeronGiving_FR-FR0180452185_UHD.jpg",
       "copyright": "Grand héron apportant des brindilles à sa compagne pour construire un nid dans les marais de Wakodahatchee, Delray Beach, Floride, États-Unis (© Imagebroker/Alamy)",
       "copyrightlink": "/search?q=grand+h%c3%a9ron&form=hpcapt&filters=HpDate%3a%2220221128_2300%22"
+    },
+    {
+      "enddate": "20221130",
+      "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_FR-FR0620572016_UHD.jpg",
+      "copyright": "Le centre historique de Rovinj, Croatie (© trabantos/Shutterstock)",
+      "copyrightlink": "/search?q=Rovinj&form=hpcapt&filters=HpDate%3a%2220221129_2300%22"
     }
   ],
   "months": {
     "archive": [
-      "202210"
-    ],
-    "active": [
+      "202210",
       "202211"
-    ]
+    ],
+    "active": []
   }
 }

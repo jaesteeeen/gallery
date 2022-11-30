@@ -359,6 +359,12 @@
       "url": "https://www.bing.com/th?id=OHR.HeronGiving_EN-GB3624332195_UHD.jpg",
       "copyright": "Great blue herons building a nest in Wakodahatchee Wetlands, Delray Beach, Florida, USA (© Imagebroker/Alamy)",
       "copyrightlink": "/search?q=giving+tuesday&form=hpcapt&filters=HpDate%3a%2220221129_0000%22"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.StorrRocks_EN-GB3689850780_UHD.jpg",
+      "copyright": "The Storr, Isle of Skye (© Aliaume Chapelle/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=St+Andrews+day&form=hpcapt&filters=HpDate%3a%2220221130_0000%22"
     }
   ],
   "months": {
@@ -366,6 +372,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

@@ -1,2 +1,6 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg&w=1000)Today: [パラダイス湾, 南極 (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BraidedRiverDelta_JA-JP5212879318_UHD.jpg&w=1000)Today: [トリカキラ川, 米国 アラスカ州 (© Dawn Wilson Photography/Getty Images)](https://www.bing.com/th?id=OHR.BraidedRiverDelta_JA-JP5212879318_UHD.jpg)
+
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2022-12-01 [download 4k](https://www.bing.com/th?id=OHR.AntarcticaDay_JA-JP9857203060_UHD.jpg)|

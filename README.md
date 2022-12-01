@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.QingmingCandle2020_ZH-CN6775701680_UHD.jpg&w=1000)Today: [江泽民逝世 (© Luca Flor/Shutterstock)](https://www.bing.com/th?id=OHR.QingmingCandle2020_ZH-CN6775701680_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5878485421_UHD.jpg&w=1000)Today: [天堂湾，南极洲 (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_ZH-CN5878485421_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

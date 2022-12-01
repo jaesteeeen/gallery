@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.AntarcticaDay_IT-IT2652307435_UHD.jpg&w=1000)Today: [Paradise Bay, Antartide (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_IT-IT2652307435_UHD.jpg)

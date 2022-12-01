@@ -365,6 +365,12 @@
       "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_DE-DE6853361778_UHD.jpg",
       "copyright": "Altstadt von Rovinj, Kroatien (© trabantos/Shutterstock)",
       "copyrightlink": "/search?q=Rovinj&form=hpcapt&filters=HpDate%3a%2220221129_2300%22"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticaDay_DE-DE7006023135_UHD.jpg",
+      "copyright": "Paradise Harbour, Antarktika (© SinghaphanAllB/Getty Images)",
+      "copyrightlink": "/search?q=Antarktika&form=hpcapt&filters=HpDate%3a%2220221130_2300%22"
     }
   ],
   "months": {
@@ -372,6 +378,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

@@ -365,6 +365,12 @@
       "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_FR-FR0620572016_UHD.jpg",
       "copyright": "Le centre historique de Rovinj, Croatie (© trabantos/Shutterstock)",
       "copyrightlink": "/search?q=Rovinj&form=hpcapt&filters=HpDate%3a%2220221129_2300%22"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticaDay_FR-FR1000836814_UHD.jpg",
+      "copyright": "Le port du Paradis (Paradise Harbour), Antarctique (© SinghaphanAllB/Getty Images)",
+      "copyrightlink": "/search?q=antarctique&form=hpcapt&filters=HpDate%3a%2220221130_2300%22"
     }
   ],
   "months": {
@@ -372,6 +378,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

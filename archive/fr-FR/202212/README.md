@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.AntarcticaDay_FR-FR1000836814_UHD.jpg&w=1000)Today: [Le port du Paradis (Paradise Harbour), Antarctique (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_FR-FR1000836814_UHD.jpg)

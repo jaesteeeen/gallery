@@ -365,6 +365,12 @@
       "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_ES-ES4775430067_UHD.jpg",
       "copyright": "El casco antiguo de Rovinj, Croacia (© trabantos/Shutterstock)",
       "copyrightlink": "/search?q=rovinj+croacia&form=hpcapt&filters=HpDate%3a%2220221129_2300%22"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticaDay_ES-ES2524546522_UHD.jpg",
+      "copyright": "Puerto Paraíso, Antártida (© SinghaphanAllB/Getty Images)",
+      "copyrightlink": "/search?q=antartida&form=hpcapt&filters=HpDate%3a%2220221130_2300%22"
     }
   ],
   "months": {
@@ -372,6 +378,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

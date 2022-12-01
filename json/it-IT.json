@@ -365,6 +365,12 @@
       "url": "https://www.bing.com/th?id=OHR.RovinjCroatia_IT-IT2055846992_UHD.jpg",
       "copyright": "Il centro storico di Rovigno, Croazia (© trabantos/Shutterstock)",
       "copyrightlink": "/search?q=rovigno+croazia&form=hpcapt"
+    },
+    {
+      "enddate": "20221201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticaDay_IT-IT2652307435_UHD.jpg",
+      "copyright": "Paradise Bay, Antartide (© SinghaphanAllB/Getty Images)",
+      "copyrightlink": "/search?q=Antartide&form=hpcapt"
     }
   ],
   "months": {
@@ -372,6 +378,8 @@
       "202210",
       "202211"
     ],
-    "active": []
+    "active": [
+      "202212"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.AntarcticaDay_ES-ES2524546522_UHD.jpg&w=1000)Today: [Puerto Paraíso, Antártida (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_ES-ES2524546522_UHD.jpg)

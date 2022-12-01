@@ -1,0 +1,2 @@
+## Bing Wallpaper (2022-12)
+![](https://www.bing.com/th?id=OHR.AntarcticaDay_DE-DE7006023135_UHD.jpg&w=1000)Today: [Paradise Harbour, Antarktika (© SinghaphanAllB/Getty Images)](https://www.bing.com/th?id=OHR.AntarcticaDay_DE-DE7006023135_UHD.jpg)

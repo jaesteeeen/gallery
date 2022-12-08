@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.FlorenceAerial_PT-BR7634877783_UHD.jpg&w=1000)Today: [Catedral de Florença, em Florença, na Itália Florence Cathedral in Florence, Italy (© Alexander Baert/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.FlorenceAerial_PT-BR7634877783_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.FlorenceAerial_PT-BR7634877783_UHD.jpg&w=1000)Today: [Catedral de Florença, em Florença, na Itália (© Alexander Baert/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.FlorenceAerial_PT-BR7634877783_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

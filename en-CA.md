@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.ButchartDisplay_EN-CA7304117724_UHD.jpg&w=1000)Today: [The 12 Days of Christmas display at Butchart Gardens, Vancouver, B.C. (© Michael Wheatley/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.ButchartDisplay_EN-CA7304117724_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ButchartDisplay_EN-CA6004185985_UHD.jpg&w=1000)Today: [The 12 Days of Christmas display at Butchart Gardens, Vancouver, B.C. (© Michael Wheatley/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.ButchartDisplay_EN-CA6004185985_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -539,15 +539,20 @@
       "url": "https://www.bing.com/th?id=OHR.ButterflyEffect_EN-CA0206470149_UHD.jpg",
       "copyright": "A pair of silver-studded blue butterflies (© Misja Smits/Minden Pictures)",
       "copyrightlink": "/search?q=silver+studded+blue+butterfly&form=hpcapt&filters=HpDate%3a%2220221229_0500%22"
+    },
+    {
+      "enddate": "20221231",
+      "url": "https://www.bing.com/th?id=OHR.ChalkRock_EN-CA1146526049_UHD.jpg",
+      "copyright": "Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)",
+      "copyrightlink": "/search?q=White+Desert+National+Park+Egypt&form=hpcapt&filters=HpDate%3a%2220221230_0500%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
-      "202211"
-    ],
-    "active": [
+      "202211",
       "202212"
-    ]
+    ],
+    "active": []
   }
 }

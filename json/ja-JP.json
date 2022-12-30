@@ -545,15 +545,20 @@
       "url": "https://www.bing.com/th?id=OHR.ChalkRock_JA-JP9713256399_UHD.jpg",
       "copyright": "ホワイトデザート, エジプト (© Anton Petrus/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%a8%e3%82%b8%e3%83%97%e3%83%88+%e3%83%9b%e3%83%af%e3%82%a4%e3%83%88%e3%83%87%e3%82%b6%e3%83%bc%e3%83%88&form=hpcapt&filters=HpDate%3a%2220221229_1500%22"
+    },
+    {
+      "enddate": "20221231",
+      "url": "https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg",
+      "copyright": "東大寺の梵鐘, 奈良 (© Yellow Cat/Shutterstock)",
+      "copyrightlink": "/search?q=%e6%9d%b1%e5%a4%a7%e5%af%ba%e3%81%ae%e9%90%98%e6%a5%bc&form=hpcapt&filters=HpDate%3a%2220221230_1500%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
-      "202211"
-    ],
-    "active": [
+      "202211",
       "202212"
-    ]
+    ],
+    "active": []
   }
 }

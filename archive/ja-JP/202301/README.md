@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.Gantan2023_JA-JP0780615179_UHD.jpg&w=1000)Today: [富士山と日の出 (© Carlos Lorenzo/Shutterstock)](https://www.bing.com/th?id=OHR.Gantan2023_JA-JP0780615179_UHD.jpg)

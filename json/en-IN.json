@@ -551,6 +551,12 @@
       "url": "https://www.bing.com/th?id=OHR.SydneyNYE_EN-IN5785868049_UHD.jpg",
       "copyright": "New Year's Eve fireworks, Sydney Harbour Bridge in Sydney, Australia (© Wendell Teodoro/Getty Images)",
       "copyrightlink": "/search?q=Sydney+Harbour+Bridge+&form=hpcapt&filters=HpDate%3a%2220221230_1830%22"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.NorwayNYD_EN-IN6052154590_UHD.jpg",
+      "copyright": "Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)",
+      "copyrightlink": "/search?q=Svalbard+Norway&form=hpcapt&filters=HpDate%3a%2220221231_1830%22"
     }
   ],
   "months": {
@@ -559,6 +565,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

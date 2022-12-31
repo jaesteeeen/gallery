@@ -551,6 +551,12 @@
       "url": "https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg",
       "copyright": "東大寺の梵鐘, 奈良 (© Yellow Cat/Shutterstock)",
       "copyrightlink": "/search?q=%e6%9d%b1%e5%a4%a7%e5%af%ba%e3%81%ae%e9%90%98%e6%a5%bc&form=hpcapt&filters=HpDate%3a%2220221230_1500%22"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.Gantan2023_JA-JP0780615179_UHD.jpg",
+      "copyright": "富士山と日の出 (© Carlos Lorenzo/Shutterstock)",
+      "copyrightlink": "/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220221231_1500%22"
     }
   ],
   "months": {
@@ -559,6 +565,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

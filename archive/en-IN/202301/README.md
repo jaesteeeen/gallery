@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.NorwayNYD_EN-IN6052154590_UHD.jpg&w=1000)Today: [Polar bear in Svalbard, Norway (© Dennis Stogsdill/Getty Images)](https://www.bing.com/th?id=OHR.NorwayNYD_EN-IN6052154590_UHD.jpg)

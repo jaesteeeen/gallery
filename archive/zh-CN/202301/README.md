@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg&w=1000)Today: [北极熊斯瓦尔巴群岛，挪威 (© Dennis Stogsdill/Getty Images)](https://www.bing.com/th?id=OHR.NorwayNYD_ZH-CN7856439066_UHD.jpg)

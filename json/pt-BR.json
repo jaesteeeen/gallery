@@ -545,6 +545,12 @@
       "url": "https://www.bing.com/th?id=OHR.SaoSilvestre_PT-BR8562839549_UHD.jpg",
       "copyright": "Corrida Internacional de São Silvestre em São Paulo (© Dario Oliveira/Getty Images)",
       "copyrightlink": "/search?q=Corrida+de+S%c3%a3o+Silvestre&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.SydneyNYE_PT-BR5711249068_UHD.jpg",
+      "copyright": "Fogos de artifício na noite de ano novo em Sidney, na Austrália (© Wendell Teodoro/Getty Images)",
+      "copyrightlink": "/search?q=Ponte+da+Ba%c3%ada+de+Sydney&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -553,6 +559,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

@@ -545,6 +545,12 @@
       "url": "https://www.bing.com/th?id=OHR.ChalkRock_FR-CA9030356335_UHD.jpg",
       "copyright": "Formations rocheuses dans le désert blanc, Égypte (© Anton Petrus/Getty Images)",
       "copyrightlink": "/search?q=d%c3%a9sert+blanc+egypte&FORM=hpcapt&filters=HpDate%3a%2220221230_0500%22"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.SydneyNYE_FR-CA9125191528_UHD.jpg",
+      "copyright": "Feux d’artifice du Nouvel An, Harbor Bridge, Sydney, Australie (© Wendell Teodoro/Getty Images)",
+      "copyrightlink": "/search?q=nouvel+an+&form=hpcapt&filters=HpDate%3a%2220221231_0500%22"
     }
   ],
   "months": {
@@ -553,6 +559,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

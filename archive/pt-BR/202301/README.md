@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.SydneyNYE_PT-BR5711249068_UHD.jpg&w=1000)Today: [Fogos de artifício na noite de ano novo em Sidney, na Austrália (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_PT-BR5711249068_UHD.jpg)

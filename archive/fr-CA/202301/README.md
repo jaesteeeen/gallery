@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.SydneyNYE_FR-CA9125191528_UHD.jpg&w=1000)Today: [Feux d’artifice du Nouvel An, Harbor Bridge, Sydney, Australie (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_FR-CA9125191528_UHD.jpg)

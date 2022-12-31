@@ -545,6 +545,12 @@
       "url": "https://www.bing.com/th?id=OHR.ChalkRock_EN-CA1146526049_UHD.jpg",
       "copyright": "Rock formations in the White Desert, Egypt (© Anton Petrus/Getty Images)",
       "copyrightlink": "/search?q=White+Desert+National+Park+Egypt&form=hpcapt&filters=HpDate%3a%2220221230_0500%22"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.SydneyNYE_EN-CA1516687107_UHD.jpg",
+      "copyright": "New Year's Eve fireworks, Sydney Harbour Bridge in Sydney, Australia (© Wendell Teodoro/Getty Images)",
+      "copyrightlink": "/search?q=Sydney+Harbor+Bridge+&form=hpcapt&filters=HpDate%3a%2220221231_0500%22"
     }
   ],
   "months": {
@@ -553,6 +559,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

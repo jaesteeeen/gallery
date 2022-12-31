@@ -545,15 +545,20 @@
       "url": "https://www.bing.com/th?id=OHR.ChalkRock_IT-IT6238441928_UHD.jpg",
       "copyright": "Formazioni rocciose nel Deserto Bianco, Egitto (© Anton Petrus/Getty Images)",
       "copyrightlink": "/search?q=Deserto+Bianco+Egitto&form=hpcapt"
+    },
+    {
+      "enddate": "20221231",
+      "url": "https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_UHD.jpg",
+      "copyright": "Fuochi d'artificio di Capodanno, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)",
+      "copyrightlink": "/search?q=Ponte+Sydney&form=hpcapt"
     }
   ],
   "months": {
     "archive": [
       "202210",
-      "202211"
-    ],
-    "active": [
+      "202211",
       "202212"
-    ]
+    ],
+    "active": []
   }
 }

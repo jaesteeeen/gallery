@@ -545,15 +545,20 @@
       "url": "https://www.bing.com/th?id=OHR.ChalkRock_ES-ES6427358574_UHD.jpg",
       "copyright": "Formaciones rocosas en el Desierto Blanco, Egipto (© Anton Petrus/Getty Images)",
       "copyrightlink": "/search?q=desierto+blanco+Egipto&form=hpcapt&filters=HpDate%3a%2220221229_2300%22"
+    },
+    {
+      "enddate": "20221231",
+      "url": "https://www.bing.com/th?id=OHR.SydneyNYE_ES-ES6840908989_UHD.jpg",
+      "copyright": "Fuegos artificiales de Nochevieja, Sydney Harbour Bridge en Sídney, Australia (© Wendell Teodoro/Getty Images)",
+      "copyrightlink": "/search?q=Sidney&form=hpcapt&filters=HpDate%3a%2220221230_2300%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
-      "202211"
-    ],
-    "active": [
+      "202211",
       "202212"
-    ]
+    ],
+    "active": []
   }
 }

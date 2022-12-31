@@ -545,15 +545,20 @@
       "url": "https://www.bing.com/th?id=OHR.ChalkRock_DE-DE4812578556_UHD.jpg",
       "copyright": "Felsformationen in der Weißen Wüste, Ägypten (© Anton Petrus/Getty Images)",
       "copyrightlink": "/search?q=Wei%c3%9fe+W%c3%bcste&form=hpcapt&filters=HpDate%3a%2220221229_2300%22"
+    },
+    {
+      "enddate": "20221231",
+      "url": "https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_UHD.jpg",
+      "copyright": "Silvesterfeuerwerk, Sydney Harbour Bridge, Sydney, Australien (© Wendell Teodoro/Getty Images)",
+      "copyrightlink": "/search?q=+Sydney+Harbour+Bridge+Hafenbr%c3%bccke&form=hpcapt&filters=HpDate%3a%2220221230_2300%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
-      "202211"
-    ],
-    "active": [
+      "202211",
       "202212"
-    ]
+    ],
+    "active": []
   }
 }

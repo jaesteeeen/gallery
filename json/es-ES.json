@@ -551,6 +551,12 @@
       "url": "https://www.bing.com/th?id=OHR.SydneyNYE_ES-ES6840908989_UHD.jpg",
       "copyright": "Fuegos artificiales de Nochevieja, Sydney Harbour Bridge en Sídney, Australia (© Wendell Teodoro/Getty Images)",
       "copyrightlink": "/search?q=Sidney&form=hpcapt&filters=HpDate%3a%2220221230_2300%22"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.NorwayNYD_ES-ES7256625259_UHD.jpg",
+      "copyright": "Oso polar Svalbard, Noruega  (© Dennis Stogsdill/Getty Images)",
+      "copyrightlink": "/search?q=Svalbard+Noruega&form=hpcapt&filters=HpDate%3a%2220221231_2300%22"
     }
   ],
   "months": {
@@ -559,6 +565,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

@@ -551,6 +551,12 @@
       "url": "https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_UHD.jpg",
       "copyright": "Silvesterfeuerwerk, Sydney Harbour Bridge, Sydney, Australien (© Wendell Teodoro/Getty Images)",
       "copyrightlink": "/search?q=+Sydney+Harbour+Bridge+Hafenbr%c3%bccke&form=hpcapt&filters=HpDate%3a%2220221230_2300%22"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.NorwayNYD_DE-DE5087400553_UHD.jpg",
+      "copyright": "Eisbär, Spitzbergen, Norwegen (© Dennis Stogsdill/Getty Images)",
+      "copyrightlink": "/search?q=Spitzbergen&form=hpcapt&filters=HpDate%3a%2220221231_2300%22"
     }
   ],
   "months": {
@@ -559,6 +565,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

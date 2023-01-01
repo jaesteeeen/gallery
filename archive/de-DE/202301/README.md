@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.NorwayNYD_DE-DE5087400553_UHD.jpg&w=1000)Today: [Eisbär, Spitzbergen, Norwegen (© Dennis Stogsdill/Getty Images)](https://www.bing.com/th?id=OHR.NorwayNYD_DE-DE5087400553_UHD.jpg)

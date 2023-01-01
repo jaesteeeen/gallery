@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.NorwayNYD_ES-ES7256625259_UHD.jpg&w=1000)Today: [Oso polar Svalbard, Noruega  (© Dennis Stogsdill/Getty Images)](https://www.bing.com/th?id=OHR.NorwayNYD_ES-ES7256625259_UHD.jpg)

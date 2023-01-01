@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-01)
+![](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_UHD.jpg&w=1000)Today: [Le Grand-Bornand, Massif des Aravis, Haute-Savoie (© Lansard Gilles/Hémis.fr/Alamy Photo Stock)](https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_UHD.jpg)

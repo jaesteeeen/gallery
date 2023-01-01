@@ -551,6 +551,12 @@
       "url": "https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_UHD.jpg",
       "copyright": "Fuochi d'artificio di Capodanno, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)",
       "copyrightlink": "/search?q=Ponte+Sydney&form=hpcapt"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.NorwayNYD_IT-IT5778701679_UHD.jpg",
+      "copyright": "Orso polare alle Svalbard, Norvegia (© Dennis Stogsdill/Getty Images)",
+      "copyrightlink": "/search?q=Svalbard+Norvegia&form=hpcapt"
     }
   ],
   "months": {
@@ -559,6 +565,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

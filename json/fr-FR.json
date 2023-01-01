@@ -551,6 +551,12 @@
       "url": "https://www.bing.com/th?id=OHR.SydneyNYE_FR-FR3788226039_UHD.jpg",
       "copyright": "Feux d’artifice du Nouvel An, Harbor Bridge, Sydney, Australie (© Wendell Teodoro/Getty Images)",
       "copyrightlink": "/search?q=nouvel+an+&form=hpcapt&filters=HpDate%3a%2220221230_2300%22"
+    },
+    {
+      "enddate": "20230101",
+      "url": "https://www.bing.com/th?id=OHR.NewDawn_FR-FR6604030929_UHD.jpg",
+      "copyright": "Le Grand-Bornand, Massif des Aravis, Haute-Savoie (© Lansard Gilles/Hémis.fr/Alamy Photo Stock)",
+      "copyrightlink": "/search?q=les+aravis&form=hpcapt&filters=HpDate%3a%2220221231_2300%22"
     }
   ],
   "months": {
@@ -559,6 +565,8 @@
       "202211",
       "202212"
     ],
-    "active": []
+    "active": [
+      "202301"
+    ]
   }
 }

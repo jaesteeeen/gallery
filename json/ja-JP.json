@@ -731,16 +731,21 @@
       "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_JA-JP6368044010_UHD.jpg",
       "copyright": "アイス・スノーセーリング世界選手権大会, ハンガリー (© mauritius images GmbH/Alamy Stock Photo)",
       "copyrightlink": "/search?q=%e3%82%a2%e3%82%a4%e3%82%b9%e3%82%bb%e3%83%bc%e3%83%aa%e3%83%b3%e3%82%b0&form=hpcapt&filters=HpDate%3a%2220230129_1500%22"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraTrio_JA-JP6416622799_UHD.jpg",
+      "copyright": "バーチェルサバンナシマウマ, 南アフリカ (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=%e5%9b%bd%e9%9a%9b%e3%82%b7%e3%83%9e%e3%82%a6%e3%83%9e%e3%81%ae%e6%97%a5&form=hpcapt&filters=HpDate%3a%2220230130_1500%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

@@ -731,16 +731,21 @@
       "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-IN8180074749_UHD.jpg",
       "copyright": "Ice and snow sailing European Championship on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)",
       "copyrightlink": "/search?q=iceboats&form=hpcapt&filters=HpDate%3a%2220230129_1830%22"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraTrio_EN-IN8432077047_UHD.jpg",
+      "copyright": "Burchell's zebras, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=burchell%27s+zebra&form=hpcapt&filters=HpDate%3a%2220230130_1830%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

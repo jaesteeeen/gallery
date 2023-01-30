@@ -2369,6 +2369,12 @@
       "url": "https://www.bing.com/th?id=OHR.BlackbirdDay_EN-US2693700478_UHD.jpg",
       "copyright": "Blackbird in Essex, England (© Bill Coster/Alamy)",
       "copyrightlink": "/search?q=common+blackbird&form=hpcapt&filters=HpDate%3a%2220230129_0800%22"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-US2751943390_UHD.jpg",
+      "copyright": "Ice and Snow Sailing European Championships on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=iceboats+sport&form=hpcapt&filters=HpDate%3a%2220230130_0800%22"
     }
   ],
   "months": {
@@ -2384,10 +2390,9 @@
       "202209",
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

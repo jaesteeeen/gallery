@@ -725,16 +725,21 @@
       "url": "https://www.bing.com/th?id=OHR.BlackbirdDay_FR-CA0058017190_UHD.jpg",
       "copyright": "Merle Carouge de l’Essex, Angleterre (© Bill Coster/Alamy)",
       "copyrightlink": "/search?q=Merle+noir&form=hpcapt&filters=HpDate%3a%2220230129_0500%22"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_FR-CA1258299335_UHD.jpg",
+      "copyright": "Championnat du monde de voile sur glace, lac Balaton, Hongrie (© mauritius images GmbH/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Voile+sur+glace&form=hpcapt&filters=HpDate%3a%2220230130_0500%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

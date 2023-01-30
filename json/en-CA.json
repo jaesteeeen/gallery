@@ -725,16 +725,21 @@
       "url": "https://www.bing.com/th?id=OHR.BlackbirdDay_EN-CA5971454214_UHD.jpg",
       "copyright": "Blackbird in Essex, England (© Bill Coster/Alamy)",
       "copyrightlink": "/search?q=winter+blackbird&form=hpcapt&filters=HpDate%3a%2220230129_0500%22"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-CA5928374623_UHD.jpg",
+      "copyright": "Ice and snow sailing European Championship on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=iceboats&form=hpcapt&filters=HpDate%3a%2220230130_0500%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

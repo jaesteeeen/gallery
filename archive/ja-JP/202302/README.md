@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-02)
+![](https://www.bing.com/th?id=OHR.TangleCreekFalls_JA-JP6469824642_UHD.jpg&w=1000)Today: [ジャスパー国立公園, カナダ アルバータ州 (© Jeff Foott/Minden Pictures)](https://www.bing.com/th?id=OHR.TangleCreekFalls_JA-JP6469824642_UHD.jpg)

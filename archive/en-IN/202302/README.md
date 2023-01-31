@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-02)
+![](https://www.bing.com/th?id=OHR.SunriseCastle_EN-IN9910172594_UHD.jpg&w=1000)Today: [The Château de Pierrefonds in the Oise department of Picardy, France (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.SunriseCastle_EN-IN9910172594_UHD.jpg)

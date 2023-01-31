@@ -731,16 +731,21 @@
       "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_IT-IT2657386089_UHD.jpg",
       "copyright": "Campionato europeo di vela su ghiaccio e neve sul lago Balaton in Ungheria (© mauritius images GmbH/Alamy Stock Photo)",
       "copyrightlink": "/search?q=vela+su+ghiaccio+cos%27%c3%a8&form=hpcapt"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraTrio_IT-IT2903449182_UHD.jpg",
+      "copyright": "Zebre di Burchell, Riserva naturale di Rietvlei, Sudafrica (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=zebra+di+Burchell&form=hpcapt"
     }
   ],
   "months": {
     "archive": [
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

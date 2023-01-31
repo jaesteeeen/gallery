@@ -731,16 +731,21 @@
       "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_DE-DE6659044258_UHD.jpg",
       "copyright": "Europameisterschaft im Eis- und Schneesegeln auf dem Plattensee in Ungarn (© mauritius images GmbH/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Bojer+ice+boot&form=hpcapt&filters=HpDate%3a%2220230129_2300%22"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg",
+      "copyright": "Samenköpfe der Kanadischen Goldrute im Raureif im Morgenlicht, Wasgau, NP Pfälzerwald, Biosphärenreservat Pfälzerwald-Nordvogesen, Rheinland-Pfalz (©  mauritius images GmbH/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=naturpark+pf%c3%a4lzerwald&form=hpcapt&filters=HpDate%3a%2220230130_2300%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

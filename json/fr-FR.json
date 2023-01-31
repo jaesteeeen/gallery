@@ -731,16 +731,21 @@
       "url": "https://www.bing.com/th?id=OHR.IceSailingBalaton_FR-FR1401946049_UHD.jpg",
       "copyright": "Championnat du monde de voile sur glace, lac Balaton, Hongrie (© mauritius images GmbH/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Voile+sur+glace&form=hpcapt&filters=HpDate%3a%2220230129_2300%22"
+    },
+    {
+      "enddate": "20230131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraTrio_FR-FR2125282944_UHD.jpg",
+      "copyright": "Zèbres de Burchell, Réserve de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=Z%c3%a8bres+de+Burchell&form=hpcapt&filters=HpDate%3a%2220230130_2300%22"
     }
   ],
   "months": {
     "archive": [
       "202210",
       "202211",
-      "202212"
-    ],
-    "active": [
+      "202212",
       "202301"
-    ]
+    ],
+    "active": []
   }
 }

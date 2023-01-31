@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-02)
+![](https://www.bing.com/th?id=OHR.ZebraTrio_PT-BR4226850473_UHD.jpg&w=1000)Today: [Zebras de Burchell Rietvlei Nature Reserve, na África do Sul (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_PT-BR4226850473_UHD.jpg)

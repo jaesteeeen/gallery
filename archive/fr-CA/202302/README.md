@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-02)
+![](https://www.bing.com/th?id=OHR.ZebraTrio_FR-CA2888022589_UHD.jpg&w=1000)Today: [Zèbres de Burchell, Réserve de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_FR-CA2888022589_UHD.jpg)

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-02)
+![](https://www.bing.com/th?id=OHR.SpainOlive_ES-ES8566663896_UHD.jpg&w=1000)Today: [Olivos centenarios en Deyá, Islas Baleares, España (© mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.SpainOlive_ES-ES8566663896_UHD.jpg)

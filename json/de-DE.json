@@ -737,6 +737,12 @@
       "url": "https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg",
       "copyright": "Samenköpfe der Kanadischen Goldrute im Raureif im Morgenlicht, Wasgau, NP Pfälzerwald, Biosphärenreservat Pfälzerwald-Nordvogesen, Rheinland-Pfalz (©  mauritius images GmbH/Alamy Stock Photo)",
       "copyrightlink": "/search?q=naturpark+pf%c3%a4lzerwald&form=hpcapt&filters=HpDate%3a%2220230130_2300%22"
+    },
+    {
+      "enddate": "20230201",
+      "url": "https://www.bing.com/th?id=OHR.SunriseCastle_DE-DE6987321313_UHD.jpg",
+      "copyright": "Das Château de Pierrefonds im Departement Oise in der Picardie, Frankreich (© Hemis/Alamy)",
+      "copyrightlink": "/search?q=Ch%c3%a2teau+de+Pierrefonds+im+Departement+Oise+in+der+Picardie&form=hpcapt&filters=HpDate%3a%2220230131_2300%22"
     }
   ],
   "months": {
@@ -746,6 +752,8 @@
       "202212",
       "202301"
     ],
-    "active": []
+    "active": [
+      "202302"
+    ]
   }
 }

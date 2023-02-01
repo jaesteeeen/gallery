@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-02)
+![](https://www.bing.com/th?id=OHR.SunriseCastle_FR-FR3693166026_UHD.jpg&w=1000)Today: [Château de Pierrefonds, Haut-de-France, France (© Hemis/Alamy)](https://www.bing.com/th?id=OHR.SunriseCastle_FR-FR3693166026_UHD.jpg)

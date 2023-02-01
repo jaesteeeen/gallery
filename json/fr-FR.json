@@ -737,6 +737,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraTrio_FR-FR2125282944_UHD.jpg",
       "copyright": "Zèbres de Burchell, Réserve de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=Z%c3%a8bres+de+Burchell&form=hpcapt&filters=HpDate%3a%2220230130_2300%22"
+    },
+    {
+      "enddate": "20230201",
+      "url": "https://www.bing.com/th?id=OHR.SunriseCastle_FR-FR3693166026_UHD.jpg",
+      "copyright": "Château de Pierrefonds, Haut-de-France, France (© Hemis/Alamy)",
+      "copyrightlink": "/search?q=ch%c3%a2teau+de+pierrefonds&form=hpcapt&filters=HpDate%3a%2220230131_2300%22"
     }
   ],
   "months": {
@@ -746,6 +752,8 @@
       "202212",
       "202301"
     ],
-    "active": []
+    "active": [
+      "202302"
+    ]
   }
 }

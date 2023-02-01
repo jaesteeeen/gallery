@@ -737,6 +737,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraTrio_ES-ES2489777747_UHD.jpg",
       "copyright": "Cebras de Burchell Reserva Natural de Rietvlei, Sudáfrica (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=cebra+de+burchell&form=hpcapt&filters=HpDate%3a%2220230130_2300%22"
+    },
+    {
+      "enddate": "20230201",
+      "url": "https://www.bing.com/th?id=OHR.SpainOlive_ES-ES8566663896_UHD.jpg",
+      "copyright": "Olivos centenarios en Deyá, Islas Baleares, España (© mauritius images GmbH/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=La+Casa+de+Robert+Graves&form=hpcapt&filters=HpDate%3a%2220230131_2300%22"
     }
   ],
   "months": {
@@ -746,6 +752,8 @@
       "202212",
       "202301"
     ],
-    "active": []
+    "active": [
+      "202302"
+    ]
   }
 }

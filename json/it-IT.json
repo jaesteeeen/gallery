@@ -737,6 +737,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraTrio_IT-IT2903449182_UHD.jpg",
       "copyright": "Zebre di Burchell, Riserva naturale di Rietvlei, Sudafrica (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=zebra+di+Burchell&form=hpcapt"
+    },
+    {
+      "enddate": "20230201",
+      "url": "https://www.bing.com/th?id=OHR.SunriseCastle_IT-IT9001887835_UHD.jpg",
+      "copyright": "Il castello di Pierrefonds, nel dipartimento dell'Oise in Piccardia, Francia (© Hemis/Alamy)",
+      "copyrightlink": "/search?q=Il+castello+di+Pierrefonds&form=hpcapt"
     }
   ],
   "months": {
@@ -746,6 +752,8 @@
       "202212",
       "202301"
     ],
-    "active": []
+    "active": [
+      "202302"
+    ]
   }
 }

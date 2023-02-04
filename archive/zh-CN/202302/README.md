@@ -1,6 +1,7 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg&w=1000)Today: [永福樱花园，福建省龙岩市, 中国 (© SEN LI/Getty Images)](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg&w=1000)Today: [毛茸茸又可爱的山兔 (© Ben Hall/Minden Pictures)](https://www.bing.com/th?id=OHR.YearRabbit_ZH-CN2751166096_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-03 [download 4k](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-02 [download 4k](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg)|![](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-01 [download 4k](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-04 [download 4k](https://www.bing.com/th?id=OHR.Lichun2023_ZH-CN7842399047_UHD.jpg)|![](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-03 [download 4k](https://www.bing.com/th?id=OHR.QuebecFrontenac_ZH-CN9519096458_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-02 [download 4k](https://www.bing.com/th?id=OHR.GroundhogThree_ZH-CN6720558481_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-01 [download 4k](https://www.bing.com/th?id=OHR.SunriseCastle_ZH-CN6235928386_UHD.jpg)|

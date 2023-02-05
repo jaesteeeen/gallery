@@ -1,6 +1,7 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.Alectorisrufa_ES-ES7873431973_UHD.jpg&w=1000)Today: [Perdices Rojas en la Sierra de Andujar, España (© Andres M. Dominguez/Minden)](https://www.bing.com/th?id=OHR.Alectorisrufa_ES-ES7873431973_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.MonarchPismo_ES-ES3099060841_UHD.jpg&w=1000)Today: [Mariposas monarca en Pismo Beach, California, EE.UU. (© Mimi Ditchie/Getty Images)](https://www.bing.com/th?id=OHR.MonarchPismo_ES-ES3099060841_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.QuebecFrontenac_ES-ES2773167504_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-03 [download 4k](https://www.bing.com/th?id=OHR.QuebecFrontenac_ES-ES2773167504_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GroundhogThree_ES-ES2648264092_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-02 [download 4k](https://www.bing.com/th?id=OHR.GroundhogThree_ES-ES2648264092_UHD.jpg)|![](https://www.bing.com/th?id=OHR.SpainOlive_ES-ES8566663896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-01 [download 4k](https://www.bing.com/th?id=OHR.SpainOlive_ES-ES8566663896_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.Alectorisrufa_ES-ES7873431973_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-04 [download 4k](https://www.bing.com/th?id=OHR.Alectorisrufa_ES-ES7873431973_UHD.jpg)|![](https://www.bing.com/th?id=OHR.QuebecFrontenac_ES-ES2773167504_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-03 [download 4k](https://www.bing.com/th?id=OHR.QuebecFrontenac_ES-ES2773167504_UHD.jpg)|![](https://www.bing.com/th?id=OHR.GroundhogThree_ES-ES2648264092_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-02 [download 4k](https://www.bing.com/th?id=OHR.GroundhogThree_ES-ES2648264092_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.SpainOlive_ES-ES8566663896_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-02-01 [download 4k](https://www.bing.com/th?id=OHR.SpainOlive_ES-ES8566663896_UHD.jpg)|

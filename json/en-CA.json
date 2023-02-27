@@ -893,6 +893,12 @@
       "url": "https://www.bing.com/th?id=OHR.CanopyPeru_EN-CA5502838718_UHD.jpg",
       "copyright": "Suspension bridge in Tambopata National Reserve, Amazon Basin, Peru (© Pere Rubi/Getty Images)",
       "copyrightlink": "/search?q=tambopata+national+reserve&form=hpcapt&filters=HpDate%3a%2220230226_0500%22"
+    },
+    {
+      "enddate": "20230228",
+      "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_EN-CA5779985371_UHD.jpg",
+      "copyright": "Polar bears asleep in Canada (© David Pike/Minden Pictures)",
+      "copyrightlink": "/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220230227_0500%22"
     }
   ],
   "months": {
@@ -900,10 +906,9 @@
       "202210",
       "202211",
       "202212",
-      "202301"
-    ],
-    "active": [
+      "202301",
       "202302"
-    ]
+    ],
+    "active": []
   }
 }

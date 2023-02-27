@@ -893,6 +893,12 @@
       "url": "https://www.bing.com/th?id=OHR.CanopyPeru_PT-BR0041708254_UHD.jpg",
       "copyright": "Aventura de dossel na Amazônia peruana, Reserva Natural de Tambopata, no Peru (© Pere Rubi/Getty Images)",
       "copyrightlink": "/search?q=Reserva+Natural+de+Tambopata&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230228",
+      "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_PT-BR0431198913_UHD.jpg",
+      "copyright": "Ursos polares dormindo no Canadá (© David Pike/Minden Pictures)",
+      "copyrightlink": "/search?q=urso+polar&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -900,10 +906,9 @@
       "202210",
       "202211",
       "202212",
-      "202301"
-    ],
-    "active": [
+      "202301",
       "202302"
-    ]
+    ],
+    "active": []
   }
 }

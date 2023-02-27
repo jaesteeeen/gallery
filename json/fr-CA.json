@@ -893,6 +893,12 @@
       "url": "https://www.bing.com/th?id=OHR.CanopyPeru_FR-CA7530382241_UHD.jpg",
       "copyright": "Aventure dans la canopée péruvienne, réserve naturelle de Tambopata, Pérou (© Pere Rubi/Getty Images)",
       "copyrightlink": "/search?q=r%c3%a9serve+nationale+Tambopata&form=hpcapt&filters=HpDate%3a%2220230226_0500%22"
+    },
+    {
+      "enddate": "20230228",
+      "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_FR-CA8461034075_UHD.jpg",
+      "copyright": "Ours polaires endormis au Canada (© David Pike/Minden Pictures)",
+      "copyrightlink": "/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220230227_0500%22"
     }
   ],
   "months": {
@@ -900,10 +906,9 @@
       "202210",
       "202211",
       "202212",
-      "202301"
-    ],
-    "active": [
+      "202301",
       "202302"
-    ]
+    ],
+    "active": []
   }
 }

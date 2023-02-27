@@ -899,6 +899,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_JA-JP6183765831_UHD.jpg",
       "copyright": "ぐっすりと寝ているホッキョクグマ親子, カナダ (© David Pike/Minden Pictures)",
       "copyrightlink": "/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%a7%e3%82%af%e3%82%b0%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220230226_1500%22"
+    },
+    {
+      "enddate": "20230228",
+      "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_UHD.jpg",
+      "copyright": "アトラーニ, イタリア カンパニア州 (© Amazing Aerial/Shutterstock)",
+      "copyrightlink": "/search?q=%e3%82%a2%e3%83%88%e3%83%a9%e3%83%bc%e3%83%8b&form=hpcapt&filters=HpDate%3a%2220230227_1500%22"
     }
   ],
   "months": {
@@ -906,10 +912,9 @@
       "202210",
       "202211",
       "202212",
-      "202301"
-    ],
-    "active": [
+      "202301",
       "202302"
-    ]
+    ],
+    "active": []
   }
 }

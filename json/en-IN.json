@@ -899,6 +899,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_EN-IN2230168012_UHD.jpg",
       "copyright": "Polar bears asleep in Canada (© David Pike/Minden Pictures)",
       "copyrightlink": "/search?q=polar+bear&form=hpcapt&filters=HpDate%3a%2220230226_1830%22"
+    },
+    {
+      "enddate": "20230228",
+      "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_EN-IN2291116818_UHD.jpg",
+      "copyright": "Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)",
+      "copyrightlink": "/search?q=Atrani+Italy&form=hpcapt&filters=HpDate%3a%2220230227_1830%22"
     }
   ],
   "months": {
@@ -906,10 +912,9 @@
       "202210",
       "202211",
       "202212",
-      "202301"
-    ],
-    "active": [
+      "202301",
       "202302"
-    ]
+    ],
+    "active": []
   }
 }

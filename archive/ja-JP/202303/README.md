@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-03)
+![](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_JA-JP7896748071_UHD.jpg&w=1000)Today: [フィヒテルベルク, ドイツ (© Jan Drahokoupil/Getty Images)](https://www.bing.com/th?id=OHR.FriedensglockeFichtelberg_JA-JP7896748071_UHD.jpg)

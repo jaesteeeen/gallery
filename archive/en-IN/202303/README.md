@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-03)
+![](https://www.bing.com/th?id=OHR.SanMartinoVillage_EN-IN2402786658_UHD.jpg&w=1000)Today: [Village of Castelmezzano, Potenza, Basilicata, Italy (© Roberto Moiola/Getty Images)](https://www.bing.com/th?id=OHR.SanMartinoVillage_EN-IN2402786658_UHD.jpg)

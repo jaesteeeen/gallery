@@ -905,6 +905,12 @@
       "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_EN-IN2291116818_UHD.jpg",
       "copyright": "Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)",
       "copyrightlink": "/search?q=Atrani+Italy&form=hpcapt&filters=HpDate%3a%2220230227_1830%22"
+    },
+    {
+      "enddate": "20230301",
+      "url": "https://www.bing.com/th?id=OHR.SanMartinoVillage_EN-IN2402786658_UHD.jpg",
+      "copyright": "Village of Castelmezzano, Potenza, Basilicata, Italy (© Roberto Moiola/Getty Images)",
+      "copyrightlink": "/search?q=castelmezzano+italy&form=hpcapt&filters=HpDate%3a%2220230228_1830%22"
     }
   ],
   "months": {
@@ -915,6 +921,8 @@
       "202301",
       "202302"
     ],
-    "active": []
+    "active": [
+      "202303"
+    ]
   }
 }

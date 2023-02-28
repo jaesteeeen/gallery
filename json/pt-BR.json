@@ -899,6 +899,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_PT-BR0431198913_UHD.jpg",
       "copyright": "Ursos polares dormindo no Canadá (© David Pike/Minden Pictures)",
       "copyrightlink": "/search?q=urso+polar&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230301",
+      "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_PT-BR0850219257_UHD.jpg",
+      "copyright": "Atrani, Costa Amalfitana, na Itália (© Amazing Aerial/Shutterstock)",
+      "copyrightlink": "/search?q=Atrani+It%c3%a1lia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -909,6 +915,8 @@
       "202301",
       "202302"
     ],
-    "active": []
+    "active": [
+      "202303"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-03)
+![](https://www.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg&w=1000)Today: [Atrani, Amalfi Coast, Italy (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_EN-US0095082556_UHD.jpg)

@@ -899,6 +899,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_FR-CA8461034075_UHD.jpg",
       "copyright": "Ours polaires endormis au Canada (© David Pike/Minden Pictures)",
       "copyrightlink": "/search?q=ours+polaire&form=hpcapt&filters=HpDate%3a%2220230227_0500%22"
+    },
+    {
+      "enddate": "20230301",
+      "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_FR-CA9061853835_UHD.jpg",
+      "copyright": "Atrani, Côte Amalfitaine, Italie (© Amazing Aerial/Shutterstock)",
+      "copyrightlink": "/search?q=Cote+Amalfitaine&form=hpcapt&filters=HpDate%3a%2220230228_0500%22"
     }
   ],
   "months": {
@@ -909,6 +915,8 @@
       "202301",
       "202302"
     ],
-    "active": []
+    "active": [
+      "202303"
+    ]
   }
 }

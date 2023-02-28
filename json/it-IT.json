@@ -899,6 +899,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_IT-IT2519594160_UHD.jpg",
       "copyright": "Orsi polari addormentati in Canada (© David Pike/Minden Pictures)",
       "copyrightlink": "/search?q=orso+polare&form=hpcapt"
+    },
+    {
+      "enddate": "20230228",
+      "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_IT-IT2694956413_UHD.jpg",
+      "copyright": "Atrani, Costiera Amalfitana (© Amazing Aerial/Shutterstock)",
+      "copyrightlink": "/search?q=Atrani&form=hpcapt"
     }
   ],
   "months": {
@@ -906,10 +912,9 @@
       "202210",
       "202211",
       "202212",
-      "202301"
-    ],
-    "active": [
+      "202301",
       "202302"
-    ]
+    ],
+    "active": []
   }
 }

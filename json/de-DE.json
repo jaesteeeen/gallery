@@ -899,6 +899,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearFrost_DE-DE6073981048_UHD.jpg",
       "copyright": "Schlafende Eisbären in Kanada (© David Pike/Minden Pictures)",
       "copyrightlink": "/search?q=Eisb%c3%a4r&form=hpcapt&filters=HpDate%3a%2220230226_2300%22"
+    },
+    {
+      "enddate": "20230228",
+      "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_DE-DE5478327830_UHD.jpg",
+      "copyright": "Atrani, Amalfiküste, Italien (© Amazing Aerial/Shutterstock)",
+      "copyrightlink": "/search?q=Atrani+Amalfik%c3%bcste&form=hpcapt&filters=HpDate%3a%2220230227_2300%22"
     }
   ],
   "months": {
@@ -906,10 +912,9 @@
       "202210",
       "202211",
       "202212",
-      "202301"
-    ],
-    "active": [
+      "202301",
       "202302"
-    ]
+    ],
+    "active": []
   }
 }

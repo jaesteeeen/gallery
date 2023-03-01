@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-03)
+![](https://www.bing.com/th?id=OHR.BalearicIslands_ES-ES0270743799_UHD.jpg&w=1000)Today: [Vista aérea de barcos, yates de lujo y mar transparente en un día soleado en Mallorca, España (© Den-belitsky/iStock/Getty Images Plus)](https://www.bing.com/th?id=OHR.BalearicIslands_ES-ES0270743799_UHD.jpg)

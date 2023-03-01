@@ -905,6 +905,12 @@
       "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_IT-IT2694956413_UHD.jpg",
       "copyright": "Atrani, Costiera Amalfitana (© Amazing Aerial/Shutterstock)",
       "copyrightlink": "/search?q=Atrani&form=hpcapt"
+    },
+    {
+      "enddate": "20230301",
+      "url": "https://www.bing.com/th?id=OHR.LuebeckCityGate_IT-IT2872927643_UHD.jpg",
+      "copyright": "La Porta di Holsten a Lubecca, Germania (© Harald Nachtmann/Getty Images)",
+      "copyrightlink": "/search?q=La+Porta+di+Holsten+a+Lubecca%2c+Germania&form=hpcapt"
     }
   ],
   "months": {
@@ -915,6 +921,8 @@
       "202301",
       "202302"
     ],
-    "active": []
+    "active": [
+      "202303"
+    ]
   }
 }

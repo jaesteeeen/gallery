@@ -905,6 +905,12 @@
       "url": "https://www.bing.com/th?id=OHR.BronzeSculptureCordoba_ES-ES1480422781_UHD.jpg",
       "copyright": "Figura de bronce de un abuelo y su nieto cuidando de las plantas y las flores, Córdoba, España (© David M G/Alamy Stock Photo)",
       "copyrightlink": "/search?q=c%c3%b3rdoba&FORM=Hpcapt&filters=HpDate%3a%2220230227_2300%22"
+    },
+    {
+      "enddate": "20230301",
+      "url": "https://www.bing.com/th?id=OHR.BalearicIslands_ES-ES0270743799_UHD.jpg",
+      "copyright": "Vista aérea de barcos, yates de lujo y mar transparente en un día soleado en Mallorca, España (© Den-belitsky/iStock/Getty Images Plus)",
+      "copyrightlink": "/search?q=islas+baleares&FORM=Hpcapt&filters=HpDate%3a%2220230228_2300%22"
     }
   ],
   "months": {
@@ -915,6 +921,8 @@
       "202301",
       "202302"
     ],
-    "active": []
+    "active": [
+      "202303"
+    ]
   }
 }

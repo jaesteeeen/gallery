@@ -905,6 +905,12 @@
       "url": "https://www.bing.com/th?id=OHR.AtraniAmalfi_DE-DE5478327830_UHD.jpg",
       "copyright": "Atrani, Amalfiküste, Italien (© Amazing Aerial/Shutterstock)",
       "copyrightlink": "/search?q=Atrani+Amalfik%c3%bcste&form=hpcapt&filters=HpDate%3a%2220230227_2300%22"
+    },
+    {
+      "enddate": "20230301",
+      "url": "https://www.bing.com/th?id=OHR.LuebeckCityGate_DE-DE8410564862_UHD.jpg",
+      "copyright": "Holstentor in Lübeck (© Harald Nachtmann/Getty Images)",
+      "copyrightlink": "/search?q=Holstentor&form=hpcapt&filters=HpDate%3a%2220230228_2300%22"
     }
   ],
   "months": {
@@ -915,6 +921,8 @@
       "202301",
       "202302"
     ],
-    "active": []
+    "active": [
+      "202303"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg&w=1000)Today: [盛开的野蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN1869796625_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_UHD.jpg&w=1000)Today: [盛开的熊蒜，海尼希国家公园，德国 (© Frank Sommariva/Getty Images)](https://www.bing.com/th?id=OHR.WildGarlic_ZH-CN6787340186_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

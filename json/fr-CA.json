@@ -1079,6 +1079,12 @@
       "url": "https://www.bing.com/th?id=OHR.NuzzleManatee_FR-CA3926125178_UHD.jpg",
       "copyright": "Deux lamantins, Crystal River, Floride, États-Unis (© Gregory Sweeney/Getty Images)",
       "copyrightlink": "/search?q=lamantin&form=hpcapt&filters=HpDate%3a%2220230329_0400%22"
+    },
+    {
+      "enddate": "20230331",
+      "url": "https://www.bing.com/th?id=OHR.PeacockFeathers_FR-CA4269901196_UHD.jpg",
+      "copyright": "Plumes de paon (© Sarayut Thaneerat/Getty Images)",
+      "copyrightlink": "/search?q=paon&form=hpcapt&filters=HpDate%3a%2220230330_0400%22"
     }
   ],
   "months": {
@@ -1087,10 +1093,9 @@
       "202211",
       "202212",
       "202301",
-      "202302"
-    ],
-    "active": [
+      "202302",
       "202303"
-    ]
+    ],
+    "active": []
   }
 }

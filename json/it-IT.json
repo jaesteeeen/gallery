@@ -1085,6 +1085,12 @@
       "url": "https://www.bing.com/th?id=OHR.PeacockFeathers_IT-IT3031908961_UHD.jpg",
       "copyright": "Piume di pavone (© Sarayut Thaneerat/Getty Images)",
       "copyrightlink": "/search?q=Pavone+piume&form=hpcapt"
+    },
+    {
+      "enddate": "20230331",
+      "url": "https://www.bing.com/th?id=OHR.SteyrRiver_IT-IT3416305819_UHD.jpg",
+      "copyright": "Fiume Steyr, Austria (© guenterguni/Getty Images)",
+      "copyrightlink": "/search?q=Fiume+Steyr+dell%27Alta+Austria&form=hpcapt"
     }
   ],
   "months": {
@@ -1093,10 +1099,9 @@
       "202211",
       "202212",
       "202301",
-      "202302"
-    ],
-    "active": [
+      "202302",
       "202303"
-    ]
+    ],
+    "active": []
   }
 }

@@ -1085,6 +1085,12 @@
       "url": "https://www.bing.com/th?id=OHR.PeacockFeathers_ES-ES9759278724_UHD.jpg",
       "copyright": "Plumas de pavo real, Nakhon Si Thammarat, Tailandia (© Sarayut Thaneerat/Getty Images)",
       "copyrightlink": "/search?q=Pavo+real&form=hpcapt&filters=HpDate%3a%2220230329_2200%22"
+    },
+    {
+      "enddate": "20230331",
+      "url": "https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg",
+      "copyright": "Cerezos en flor en el Valle del Jerte, provincia de Cáceres, Extremadura, España (© Gonzalo Azumendi/Getty Images)",
+      "copyrightlink": "/search?q=%c3%89poca+de+los+cerezos+valle+del+Jerte&form=hpcapt&filters=HpDate%3a%2220230330_2200%22"
     }
   ],
   "months": {
@@ -1093,10 +1099,9 @@
       "202211",
       "202212",
       "202301",
-      "202302"
-    ],
-    "active": [
+      "202302",
       "202303"
-    ]
+    ],
+    "active": []
   }
 }

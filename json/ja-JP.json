@@ -1091,6 +1091,12 @@
       "url": "https://www.bing.com/th?id=OHR.SteyrRiver_JA-JP7431516519_UHD.jpg",
       "copyright": "シュタイアー川, オーストリア オーバーエスターライヒ州 (© guenterguni/Getty Images)",
       "copyrightlink": "/search?q=Steyr+River&form=hpcapt&filters=HpDate%3a%2220230330_1500%22"
+    },
+    {
+      "enddate": "20230401",
+      "url": "https://www.bing.com/th?id=OHR.JavaBromo_JA-JP8216089017_UHD.jpg",
+      "copyright": "ブロモ山, インドネシア ジャワ島東部 (© Bento Fotography/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%96%e3%83%ad%e3%83%a2%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220230331_1500%22"
     }
   ],
   "months": {
@@ -1102,6 +1108,8 @@
       "202302",
       "202303"
     ],
-    "active": []
+    "active": [
+      "202304"
+    ]
   }
 }

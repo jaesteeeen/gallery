@@ -1091,6 +1091,12 @@
       "url": "https://www.bing.com/th?id=OHR.SteyrRiver_EN-IN8520980811_UHD.jpg",
       "copyright": "Steyr River, Austria (© guenterguni/Getty Images)",
       "copyrightlink": "/search?q=steyr+river&form=hpcapt&filters=HpDate%3a%2220230330_1830%22"
+    },
+    {
+      "enddate": "20230401",
+      "url": "https://www.bing.com/th?id=OHR.FrogMonth_EN-IN8624430207_UHD.jpg",
+      "copyright": "Javan tree frog (© kuritafsheen/Getty Images)",
+      "copyrightlink": "/search?q=Javan+tree+frog&form=hpcapt&filters=HpDate%3a%2220230331_1830%22"
     }
   ],
   "months": {
@@ -1102,6 +1108,8 @@
       "202302",
       "202303"
     ],
-    "active": []
+    "active": [
+      "202304"
+    ]
   }
 }

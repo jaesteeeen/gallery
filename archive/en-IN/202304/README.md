@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-04)
+![](https://www.bing.com/th?id=OHR.FrogMonth_EN-IN8624430207_UHD.jpg&w=1000)Today: [Javan tree frog (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.FrogMonth_EN-IN8624430207_UHD.jpg)

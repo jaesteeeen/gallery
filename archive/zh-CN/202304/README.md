@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-04)
+![](https://www.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg&w=1000)Today: [爪哇树蛙 (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.FrogMonth_ZH-CN3874143397_UHD.jpg)

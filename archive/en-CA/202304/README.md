@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-04)
+![](https://www.bing.com/th?id=OHR.SteyrRiver_EN-CA3898889206_UHD.jpg&w=1000)Today: [Steyr River, Austria (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.SteyrRiver_EN-CA3898889206_UHD.jpg)

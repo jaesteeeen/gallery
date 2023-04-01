@@ -1091,6 +1091,12 @@
       "url": "https://www.bing.com/th?id=OHR.SteyrRiver_FR-FR1114341287_UHD.jpg",
       "copyright": "Rivière Steyr, Autriche (© guenterguni/Getty Images)",
       "copyrightlink": "/search?q=steyr+(riviere)&form=hpcapt&filters=HpDate%3a%2220230330_2200%22"
+    },
+    {
+      "enddate": "20230401",
+      "url": "https://www.bing.com/th?id=OHR.MinouLighthouse_FR-FR1992597632_UHD.jpg",
+      "copyright": "Phare du Petit-Minou, Plouzané, France (© RooM the Agency/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=+phare+du+petit+minou&form=hpcapt&filters=HpDate%3a%2220230331_2200%22"
     }
   ],
   "months": {
@@ -1102,6 +1108,8 @@
       "202302",
       "202303"
     ],
-    "active": []
+    "active": [
+      "202304"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-04)
+![](https://www.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_UHD.jpg&w=1000)Today: [Tower Bridge, London, England (© Pajor Pawel/Shutterstock)](https://www.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_UHD.jpg)

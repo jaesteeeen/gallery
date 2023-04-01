@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-04)
+![](https://www.bing.com/th?id=OHR.FrogMonth_IT-IT3655283450_UHD.jpg&w=1000)Today: [Rana volante di Giava (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.FrogMonth_IT-IT3655283450_UHD.jpg)

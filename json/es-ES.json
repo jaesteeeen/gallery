@@ -1091,6 +1091,12 @@
       "url": "https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg",
       "copyright": "Cerezos en flor en el Valle del Jerte, provincia de Cáceres, Extremadura, España (© Gonzalo Azumendi/Getty Images)",
       "copyrightlink": "/search?q=%c3%89poca+de+los+cerezos+valle+del+Jerte&form=hpcapt&filters=HpDate%3a%2220230330_2200%22"
+    },
+    {
+      "enddate": "20230401",
+      "url": "https://www.bing.com/th?id=OHR.FrogMonth_ES-ES0659962691_UHD.jpg",
+      "copyright": "Rana arborícola de Java (© kuritafsheen/Getty Images)",
+      "copyrightlink": "/search?q=rhacophorus+margaritifer&form=hpcapt&filters=HpDate%3a%2220230331_2200%22"
     }
   ],
   "months": {
@@ -1102,6 +1108,8 @@
       "202302",
       "202303"
     ],
-    "active": []
+    "active": [
+      "202304"
+    ]
   }
 }

@@ -1091,6 +1091,12 @@
       "url": "https://www.bing.com/th?id=OHR.SteyrRiver_IT-IT3416305819_UHD.jpg",
       "copyright": "Fiume Steyr, Austria (© guenterguni/Getty Images)",
       "copyrightlink": "/search?q=Fiume+Steyr+dell%27Alta+Austria&form=hpcapt"
+    },
+    {
+      "enddate": "20230401",
+      "url": "https://www.bing.com/th?id=OHR.FrogMonth_IT-IT3655283450_UHD.jpg",
+      "copyright": "Rana volante di Giava (© kuritafsheen/Getty Images)",
+      "copyrightlink": "/search?q=rana+volante+di+Giava&form=hpcapt"
     }
   ],
   "months": {
@@ -1102,6 +1108,8 @@
       "202302",
       "202303"
     ],
-    "active": []
+    "active": [
+      "202304"
+    ]
   }
 }

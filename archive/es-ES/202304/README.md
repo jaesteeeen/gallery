@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-04)
+![](https://www.bing.com/th?id=OHR.FrogMonth_ES-ES0659962691_UHD.jpg&w=1000)Today: [Rana arborícola de Java (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.FrogMonth_ES-ES0659962691_UHD.jpg)

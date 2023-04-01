@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-04)
+![](https://www.bing.com/th?id=OHR.FrogMonth_DE-DE7731658257_UHD.jpg&w=1000)Today: [Java Flug-Frosch (© kuritafsheen/Getty Images)](https://www.bing.com/th?id=OHR.FrogMonth_DE-DE7731658257_UHD.jpg)

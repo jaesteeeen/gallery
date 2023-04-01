@@ -1091,6 +1091,12 @@
       "url": "https://www.bing.com/th?id=OHR.SteyrRiver_DE-DE6443128128_UHD.jpg",
       "copyright": "Fluss Steyr, Österreich (© guenterguni/Getty Images)",
       "copyrightlink": "/search?q=Fluss+Steyr%2c+%c3%96sterreich&form=hpcapt&filters=HpDate%3a%2220230330_2200%22"
+    },
+    {
+      "enddate": "20230401",
+      "url": "https://www.bing.com/th?id=OHR.FrogMonth_DE-DE7731658257_UHD.jpg",
+      "copyright": "Java Flug-Frosch (© kuritafsheen/Getty Images)",
+      "copyrightlink": "/search?q=Java-Flugfrosch&form=hpcapt&filters=HpDate%3a%2220230331_2200%22"
     }
   ],
   "months": {
@@ -1102,6 +1108,8 @@
       "202302",
       "202303"
     ],
-    "active": []
+    "active": [
+      "202304"
+    ]
   }
 }

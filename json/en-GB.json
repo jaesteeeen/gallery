@@ -1085,6 +1085,12 @@
       "url": "https://www.bing.com/th?id=OHR.SteyrRiver_EN-GB6776891369_UHD.jpg",
       "copyright": "Steyr River, Austria (© guenterguni/Getty Images)",
       "copyrightlink": "/search?q=steyr+river&form=hpcapt&filters=HpDate%3a%2220230330_2300%22"
+    },
+    {
+      "enddate": "20230401",
+      "url": "https://www.bing.com/th?id=OHR.TowerBridge_EN-GB5189458174_UHD.jpg",
+      "copyright": "Tower Bridge, London, England (© Pajor Pawel/Shutterstock)",
+      "copyrightlink": "/search?q=london+tower+bridge&form=hpcapt&filters=HpDate%3a%2220230331_2300%22"
     }
   ],
   "months": {
@@ -1096,6 +1102,8 @@
       "202302",
       "202303"
     ],
-    "active": []
+    "active": [
+      "202304"
+    ]
   }
 }

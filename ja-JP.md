@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.JapanKokuu2023_JA-JP8883775456_UHD.jpg&w=1000)Today: [南三ツ谷町の水田, 滋賀県彦根市 (© imagewerks/Getty Images)](https://www.bing.com/th?id=OHR.JapanKokuu2023_JA-JP8883775456_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.JapanKokuu2023_JA-JP2741515738_UHD.jpg&w=1000)Today: [南三ツ谷町の水田, 滋賀県彦根市 (© imagewerks/Getty Images)](https://www.bing.com/th?id=OHR.JapanKokuu2023_JA-JP2741515738_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

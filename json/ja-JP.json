@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_JA-JP0040708702_UHD.jpg",
       "copyright": "ジョシュア・ツリー国立公園, 米国 カリフォルニア州 (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b8%e3%83%a7%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%bb%e3%83%84%e3%83%aa%e3%83%bc%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220230428_1500%22"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg",
+      "copyright": "プリザベーション・ホール, 米国 ルイジアナ州 (© Cosmo Condina North America/Alamy)",
+      "copyrightlink": "/search?q=%e3%83%97%e3%83%aa%e3%82%b6%e3%83%99%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%83%bb%e3%83%9b%e3%83%bc%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220230429_1500%22"
     }
   ],
   "months": {
@@ -1274,10 +1280,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

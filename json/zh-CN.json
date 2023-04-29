@@ -2903,6 +2903,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_ZH-CN9128830420_UHD.jpg",
       "copyright": "约书亚树国家公园上空的银河，美国加利福尼亚州 (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=%e7%ba%a6%e4%b9%a6%e4%ba%9a%e6%a0%91%e5%9b%bd%e5%ae%b6%e5%85%ac%e5%9b%ad&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg",
+      "copyright": "塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)",
+      "copyrightlink": "/search?q=%e5%a1%9e%e5%88%a9%e5%86%9c%e7%89%b9&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -2921,10 +2927,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

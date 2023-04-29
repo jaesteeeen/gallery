@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-IN2861486147_UHD.jpg",
       "copyright": "Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=joshua+tree+national+park+stars&form=hpcapt&filters=HpDate%3a%2220230428_1830%22"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg",
+      "copyright": "Interior of Hawa Mahal or Palace of Winds, India (© Inti St Clair/age fotostock)",
+      "copyrightlink": "/search?q=hawa+mahal&form=hpcapt&filters=HpDate%3a%2220230429_1830%22"
     }
   ],
   "months": {
@@ -1274,10 +1280,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

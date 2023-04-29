@@ -2903,6 +2903,12 @@
       "url": "https://www.bing.com/th?id=OHR.MariposaGrove_EN-US0790407793_UHD.jpg",
       "copyright": "Mariposa Grove of Giant Sequoias in Yosemite National Park, California (© Orbon Alija/Getty Images)",
       "copyrightlink": "/search?q=Mariposa+Grove&form=hpcapt&filters=HpDate%3a%2220230428_0700%22"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg",
+      "copyright": "Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)",
+      "copyrightlink": "/search?q=joshua+tree+national+park+stars&form=hpcapt&filters=HpDate%3a%2220230429_0700%22"
     }
   ],
   "months": {
@@ -2921,10 +2927,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

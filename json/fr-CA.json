@@ -1259,6 +1259,12 @@
       "url": "https://www.bing.com/th?id=OHR.MariposaGrove_FR-CA2354902853_UHD.jpg",
       "copyright": "Fôret de séquoias géants de Mariposa Grove, Yosemite, Californie, États-Unis (© Orbon Alija/Getty Images)",
       "copyrightlink": "/search?q=sequoias+Mariposa+Grove&form=hpcapt&filters=HpDate%3a%2220230428_0400%22"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_FR-CA1115905295_UHD.jpg",
+      "copyright": "Voie lactée sur le Parc National de Joshua Tree, Californie, États-Unis (© Schroptschop/Getty Images)",
+      "copyrightlink": "/search?q=parc+national+de+joshua+tree&form=hpcapt&filters=HpDate%3a%2220230429_0400%22"
     }
   ],
   "months": {
@@ -1268,10 +1274,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

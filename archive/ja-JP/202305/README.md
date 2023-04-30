@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-05)
+![](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_UHD.jpg&w=1000)Today: [シルブレッタアルプスと湖, スイス (© Florin Baumann/Getty Images)](https://www.bing.com/th?id=OHR.KlostersSerneus_JA-JP1346156954_UHD.jpg)

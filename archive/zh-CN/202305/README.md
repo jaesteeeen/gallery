@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-05)
+![](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_UHD.jpg&w=1000)Today: [横跨圣劳伦斯河下游的魁北克大桥，加拿大 (© Ronald Santerre/Getty Images)](https://www.bing.com/th?id=OHR.QuebecCityBridge_ZH-CN9618387961_UHD.jpg)

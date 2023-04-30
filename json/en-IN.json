@@ -1271,6 +1271,12 @@
       "url": "https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg",
       "copyright": "Interior of Hawa Mahal or Palace of Winds, India (© Inti St Clair/age fotostock)",
       "copyrightlink": "/search?q=hawa+mahal&form=hpcapt&filters=HpDate%3a%2220230429_1830%22"
+    },
+    {
+      "enddate": "20230501",
+      "url": "https://www.bing.com/th?id=OHR.QuebecCityBridge_EN-IN8012696513_UHD.jpg",
+      "copyright": "Quebec Bridge across the lower Saint Lawrence River, Canada (© Ronald Santerre/Getty Images)",
+      "copyrightlink": "/search?q=Quebec+Bridge&form=hpcapt&filters=HpDate%3a%2220230430_1830%22"
     }
   ],
   "months": {
@@ -1283,6 +1289,8 @@
       "202303",
       "202304"
     ],
-    "active": []
+    "active": [
+      "202305"
+    ]
   }
 }

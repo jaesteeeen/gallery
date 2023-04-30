@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_ES-ES8173705095_UHD.jpg",
       "copyright": "Vía Láctea sobre el Parque Nacional de Árboles de Josué, California, EE.UU. (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=Parque+Nacional+de+%c3%81rboles+de+Josu%c3%a9+California&form=hpcapt&filters=HpDate%3a%2220230428_2200%22"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_ES-ES8232748030_UHD.jpg",
+      "copyright": "Preservation Hall, Nueva Orleans, Luisiana, EE.UU. (© Cosmo Condina North America/Alamy)",
+      "copyrightlink": "/search?q=Preservation+Hall+M%c3%basica+Jazz+en+Nueva+Orleans&form=hpcapt&filters=HpDate%3a%2220230429_2200%22"
     }
   ],
   "months": {
@@ -1274,10 +1280,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

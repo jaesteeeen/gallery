@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_IT-IT0241234588_UHD.jpg",
       "copyright": "La Via Lattea vista dal Parco Nazionale di Joshua Tree, California, Stati Uniti (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=Parco+Nazionale+di+Joshua+Tree+di+notte&form=hpcapt"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_IT-IT1147958461_UHD.jpg",
+      "copyright": "Preservation Hall, New Orleans, Louisiana, Stati Uniti (© Cosmo Condina North America/Alamy)",
+      "copyrightlink": "/search?q=Preservation+hall+Bourbon+Street+storia+immagini&form=hpcapt"
     }
   ],
   "months": {
@@ -1274,10 +1280,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

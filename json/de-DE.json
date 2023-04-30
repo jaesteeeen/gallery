@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_DE-DE7405272282_UHD.jpg",
       "copyright": "Milchstraße über dem Joshua-Tree-National-Park, Kalifornien, USA (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=Lichtschutzgebiet&form=hpcapt&filters=HpDate%3a%2220230428_2200%22"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_DE-DE8207516768_UHD.jpg",
+      "copyright": "Preservation Hall, New Orleans, Louisiana, USA (© Cosmo Condina North America/Alamy)",
+      "copyrightlink": "/search?q=Internationaler+Tag+des+Jazz&form=hpcapt&filters=HpDate%3a%2220230429_2200%22"
     }
   ],
   "months": {
@@ -1274,10 +1280,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

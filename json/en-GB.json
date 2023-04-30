@@ -1259,6 +1259,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-GB5660603519_UHD.jpg",
       "copyright": "Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=joshua+tree+national+park+stars&form=hpcapt&filters=HpDate%3a%2220230428_2300%22"
+    },
+    {
+      "enddate": "20230430",
+      "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_EN-GB5783524556_UHD.jpg",
+      "copyright": "Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)",
+      "copyrightlink": "/search?q=preservation+hall&form=hpcapt&filters=HpDate%3a%2220230429_2300%22"
     }
   ],
   "months": {
@@ -1268,10 +1274,9 @@
       "202212",
       "202301",
       "202302",
-      "202303"
-    ],
-    "active": [
+      "202303",
       "202304"
-    ]
+    ],
+    "active": []
   }
 }

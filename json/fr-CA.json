@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_FR-CA1115905295_UHD.jpg",
       "copyright": "Voie lactée sur le Parc National de Joshua Tree, Californie, États-Unis (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=parc+national+de+joshua+tree&form=hpcapt&filters=HpDate%3a%2220230429_0400%22"
+    },
+    {
+      "enddate": "20230501",
+      "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_FR-CA0966427135_UHD.jpg",
+      "copyright": "Preservation Hall, Nouvelle-Orléans, Louisiane, États-Unis (© Cosmo Condina North America/Alamy)",
+      "copyrightlink": "/search?q=preservation+hall+club+de+jazz&form=hpcapt&filters=HpDate%3a%2220230430_0400%22"
     }
   ],
   "months": {
@@ -1277,6 +1283,8 @@
       "202303",
       "202304"
     ],
-    "active": []
+    "active": [
+      "202305"
+    ]
   }
 }

@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.JTNPMilkyWay_PT-BR5635937343_UHD.jpg",
       "copyright": "Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)",
       "copyrightlink": "/search?q=Parque+Nacional+Joshua+Tree&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230501",
+      "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_PT-BR5718704073_UHD.jpg",
+      "copyright": "Preservation Hall, Nova Orleans, Louisiana, nos EUA  (© Cosmo Condina North America/Alamy)",
+      "copyrightlink": "/search?q=preservation+hall&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -1277,6 +1283,8 @@
       "202303",
       "202304"
     ],
-    "active": []
+    "active": [
+      "202305"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-05)
+![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_PT-BR5718704073_UHD.jpg&w=1000)Today: [Preservation Hall, Nova Orleans, Louisiana, nos EUA  (© Cosmo Condina North America/Alamy)](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_PT-BR5718704073_UHD.jpg)

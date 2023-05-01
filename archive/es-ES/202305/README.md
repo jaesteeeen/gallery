@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-05)
+![](https://www.bing.com/th?id=OHR.QuebecCityBridge_ES-ES5046803154_UHD.jpg&w=1000)Today: [Puente de Quebec sobre el bajo río San Lorenzo, Canadá (© Ronald Santerre/Getty Images)](https://www.bing.com/th?id=OHR.QuebecCityBridge_ES-ES5046803154_UHD.jpg)

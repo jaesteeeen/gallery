@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-05)
+![](https://www.bing.com/th?id=OHR.LilyLaborDay_FR-FR3324597226_UHD.jpg&w=1000)Today: [Muguet de mai en fleurs (© shapencolour/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.LilyLaborDay_FR-FR3324597226_UHD.jpg)

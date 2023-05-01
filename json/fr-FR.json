@@ -1271,6 +1271,12 @@
       "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_FR-FR8893416037_UHD.jpg",
       "copyright": "Preservation Hall, Nouvelle-Orléans, Louisiane (© Cosmo Condina North America/Alamy)",
       "copyrightlink": "/search?q=preservation+hall+club+de+jazz&form=hpcapt&filters=HpDate%3a%2220230429_2200%22"
+    },
+    {
+      "enddate": "20230501",
+      "url": "https://www.bing.com/th?id=OHR.LilyLaborDay_FR-FR3324597226_UHD.jpg",
+      "copyright": "Muguet de mai en fleurs (© shapencolour/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=muguet+de+mai&form=hpcapt&filters=HpDate%3a%2220230430_2200%22"
     }
   ],
   "months": {
@@ -1283,6 +1289,8 @@
       "202303",
       "202304"
     ],
-    "active": []
+    "active": [
+      "202305"
+    ]
   }
 }

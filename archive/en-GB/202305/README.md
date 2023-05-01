@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-05)
+![](https://www.bing.com/th?id=OHR.QuebecCityBridge_EN-GB5878837587_UHD.jpg&w=1000)Today: [Quebec Bridge across the lower Saint Lawrence River, Canada (© Ronald Santerre/Getty Images)](https://www.bing.com/th?id=OHR.QuebecCityBridge_EN-GB5878837587_UHD.jpg)

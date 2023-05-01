@@ -1271,6 +1271,12 @@
       "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_IT-IT1147958461_UHD.jpg",
       "copyright": "Preservation Hall, New Orleans, Louisiana, Stati Uniti (© Cosmo Condina North America/Alamy)",
       "copyrightlink": "/search?q=Preservation+hall+Bourbon+Street+storia+immagini&form=hpcapt"
+    },
+    {
+      "enddate": "20230501",
+      "url": "https://www.bing.com/th?id=OHR.QuebecCityBridge_IT-IT2390988840_UHD.jpg",
+      "copyright": "Ponte del Quebec sul fiume San Lorenzo, Canada  (© Ronald Santerre/Getty Images)",
+      "copyrightlink": "/search?q=Il+Ponte+del+Quebec+cos%27%c3%a8&form=hpcapt"
     }
   ],
   "months": {
@@ -1283,6 +1289,8 @@
       "202303",
       "202304"
     ],
-    "active": []
+    "active": [
+      "202305"
+    ]
   }
 }

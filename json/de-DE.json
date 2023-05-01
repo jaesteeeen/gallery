@@ -1271,6 +1271,12 @@
       "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_DE-DE8207516768_UHD.jpg",
       "copyright": "Preservation Hall, New Orleans, Louisiana, USA (© Cosmo Condina North America/Alamy)",
       "copyrightlink": "/search?q=Internationaler+Tag+des+Jazz&form=hpcapt&filters=HpDate%3a%2220230429_2200%22"
+    },
+    {
+      "enddate": "20230501",
+      "url": "https://www.bing.com/th?id=OHR.SunflowerBee_DE-DE9415817741_UHD.jpg",
+      "copyright": "Biene im Sonnenblumenfeld bei Fresdorf (© Ralf Hirschberger/dpa-Zentralbild/dpa/Alamy Live News)",
+      "copyrightlink": "/search?q=Tag+der+Arbeit&form=hpcapt&filters=HpDate%3a%2220230430_2200%22"
     }
   ],
   "months": {
@@ -1283,6 +1289,8 @@
       "202303",
       "202304"
     ],
-    "active": []
+    "active": [
+      "202305"
+    ]
   }
 }

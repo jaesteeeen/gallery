@@ -1265,6 +1265,12 @@
       "url": "https://www.bing.com/th?id=OHR.ExteriorPreservationHall_EN-GB5783524556_UHD.jpg",
       "copyright": "Preservation Hall, New Orleans, Louisiana (© Cosmo Condina North America/Alamy)",
       "copyrightlink": "/search?q=preservation+hall&form=hpcapt&filters=HpDate%3a%2220230429_2300%22"
+    },
+    {
+      "enddate": "20230501",
+      "url": "https://www.bing.com/th?id=OHR.QuebecCityBridge_EN-GB5878837587_UHD.jpg",
+      "copyright": "Quebec Bridge across the lower Saint Lawrence River, Canada (© Ronald Santerre/Getty Images)",
+      "copyrightlink": "/search?q=Quebec+Bridge&form=hpcapt&filters=HpDate%3a%2220230430_2300%22"
     }
   ],
   "months": {
@@ -1277,6 +1283,8 @@
       "202303",
       "202304"
     ],
-    "active": []
+    "active": [
+      "202305"
+    ]
   }
 }

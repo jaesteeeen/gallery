@@ -1445,6 +1445,12 @@
       "url": "https://www.bing.com/th?id=OHR.Antilles_PT-BR7757709340_UHD.jpg",
       "copyright": "Grand Cul-de-Sac Marin, Parque Nacional de Guadalupe, Pequenas Antilhas (© Hemis/Alamy)",
       "copyrightlink": "/search?q=grand+cul+de+sac+marin&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230531",
+      "url": "https://www.bing.com/th?id=OHR.HiddenBeach_PT-BR5412203730_UHD.jpg",
+      "copyright": "Playa del Amor, Ilhas Marietas, Puerto Vallarta, no México (© ferrantraite/Getty Images)",
+      "copyrightlink": "/search?q=Playa+del+Amor+Ilhas+Marietas&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -1455,10 +1461,9 @@
       "202301",
       "202302",
       "202303",
-      "202304"
-    ],
-    "active": [
+      "202304",
       "202305"
-    ]
+    ],
+    "active": []
   }
 }

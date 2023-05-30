@@ -1445,6 +1445,12 @@
       "url": "https://www.bing.com/th?id=OHR.WesternBrookPond_FR-CA0177161628_UHD.jpg",
       "copyright": "Passerelle dans le Parc National du Gros-Morne (© Cavan Images - Offset/Shutterstock)",
       "copyrightlink": "/search?q=%c3%a9tang+western+brook+gros+morne&form=hpcapt&filters=HpDate%3a%2220230529_0400%22"
+    },
+    {
+      "enddate": "20230531",
+      "url": "https://www.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg",
+      "copyright": "Playa del Amor, Îles Marietas, Puerto Vallarta, Mexique (© ferrantraite/Getty Images)",
+      "copyrightlink": "/search?q=Playa+del+Amor%2c+%c3%aeles+Marietas&form=hpcapt&filters=HpDate%3a%2220230530_0400%22"
     }
   ],
   "months": {
@@ -1455,10 +1461,9 @@
       "202301",
       "202302",
       "202303",
-      "202304"
-    ],
-    "active": [
+      "202304",
       "202305"
-    ]
+    ],
+    "active": []
   }
 }

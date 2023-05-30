@@ -1451,6 +1451,12 @@
       "url": "https://www.bing.com/th?id=OHR.HiddenBeach_JA-JP3236921669_UHD.jpg",
       "copyright": "マリエタス諸島のプラヤ・デル・アモール, メキシコ (© ferrantraite/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%97%e3%83%a9%e3%83%a4%e3%83%bb%e3%83%87%e3%83%ab%e3%83%bb%e3%82%a2%e3%83%a2%e3%83%bc%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220230529_1500%22"
+    },
+    {
+      "enddate": "20230531",
+      "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_JA-JP3462049774_UHD.jpg",
+      "copyright": "ラッコの赤ちゃん, 米国 アラスカ州 (© Donald M. Jones/Minden Pictures)",
+      "copyrightlink": "/search?q=%e3%83%a9%e3%83%83%e3%82%b3%e3%81%ae%e8%b5%a4%e3%81%a1%e3%82%83%e3%82%93&form=hpcapt&filters=HpDate%3a%2220230530_1500%22"
     }
   ],
   "months": {
@@ -1461,10 +1467,9 @@
       "202301",
       "202302",
       "202303",
-      "202304"
-    ],
-    "active": [
+      "202304",
       "202305"
-    ]
+    ],
+    "active": []
   }
 }

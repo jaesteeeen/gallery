@@ -1451,6 +1451,12 @@
       "url": "https://www.bing.com/th?id=OHR.HiddenBeach_DE-DE7094795169_UHD.jpg",
       "copyright": "Playa del Amor, Marietas-Inseln, Mexiko (© ferrantraite/Getty Images)",
       "copyrightlink": "/search?q=Nayarit+Mexiko&form=hpcapt&filters=HpDate%3a%2220230529_2200%22"
+    },
+    {
+      "enddate": "20230531",
+      "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_DE-DE7818224728_UHD.jpg",
+      "copyright": "Seeotterwelpe, Prince-William-Sund, Alaska (© Donald M. Jones/Minden Pictures)",
+      "copyrightlink": "/search?q=Seeotter+&form=hpcapt&filters=HpDate%3a%2220230530_2200%22"
     }
   ],
   "months": {
@@ -1461,10 +1467,9 @@
       "202301",
       "202302",
       "202303",
-      "202304"
-    ],
-    "active": [
+      "202304",
       "202305"
-    ]
+    ],
+    "active": []
   }
 }

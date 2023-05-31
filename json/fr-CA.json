@@ -1451,6 +1451,12 @@
       "url": "https://www.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg",
       "copyright": "Playa del Amor, Îles Marietas, Puerto Vallarta, Mexique (© ferrantraite/Getty Images)",
       "copyrightlink": "/search?q=Playa+del+Amor%2c+%c3%aeles+Marietas&form=hpcapt&filters=HpDate%3a%2220230530_0400%22"
+    },
+    {
+      "enddate": "20230601",
+      "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_FR-CA2234387113_UHD.jpg",
+      "copyright": "Petit de loutre de mer, Baie du Prince William, Alaska (© Donald M. Jones/Minden Pictures)",
+      "copyrightlink": "/search?q=loutre+de+mer&form=hpcapt&filters=HpDate%3a%2220230531_0400%22"
     }
   ],
   "months": {
@@ -1464,6 +1470,8 @@
       "202304",
       "202305"
     ],
-    "active": []
+    "active": [
+      "202306"
+    ]
   }
 }

@@ -1451,6 +1451,12 @@
       "url": "https://www.bing.com/th?id=OHR.HiddenBeach_PT-BR5412203730_UHD.jpg",
       "copyright": "Playa del Amor, Ilhas Marietas, Puerto Vallarta, no México (© ferrantraite/Getty Images)",
       "copyrightlink": "/search?q=Playa+del+Amor+Ilhas+Marietas&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230601",
+      "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_PT-BR8489449093_UHD.jpg",
+      "copyright": "Filhote de lontra marinha, Prince William Sound, na Alasca (© Donald M. Jones/Minden Pictures)",
+      "copyrightlink": "/search?q=lontra+marinha&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -1464,6 +1470,8 @@
       "202304",
       "202305"
     ],
-    "active": []
+    "active": [
+      "202306"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-06)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_PT-BR8489449093_UHD.jpg&w=1000)Today: [Filhote de lontra marinha, Prince William Sound, na Alasca (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_PT-BR8489449093_UHD.jpg)

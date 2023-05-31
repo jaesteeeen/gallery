@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.HiddenBeach_EN-US8990991711_UHD.jpg",
       "copyright": "Playa del Amor in the Marietas Islands, off the coast of Puerto Vallarta, Mexico (© ferrantraite/Getty Images)",
       "copyrightlink": "/search?q=Playa+del+Amor%2c+Marietas+Islands&form=hpcapt&filters=HpDate%3a%2220230530_0700%22"
+    },
+    {
+      "enddate": "20230601",
+      "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg",
+      "copyright": "Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)",
+      "copyrightlink": "/search?q=sea+otter&form=hpcapt&filters=HpDate%3a%2220230531_0700%22"
     }
   ],
   "months": {
@@ -3117,6 +3123,8 @@
       "202304",
       "202305"
     ],
-    "active": []
+    "active": [
+      "202306"
+    ]
   }
 }

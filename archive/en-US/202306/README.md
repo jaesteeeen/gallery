@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-06)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg&w=1000)Today: [Sea otter pup, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_EN-US4690332709_UHD.jpg)

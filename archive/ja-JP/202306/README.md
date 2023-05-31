@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-06)
+![](https://www.bing.com/th?id=OHR.ReefAwareness_JA-JP3893578762_UHD.jpg&w=1000)Today: [グレートバリアリーフ, オーストラリア (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_JA-JP3893578762_UHD.jpg)

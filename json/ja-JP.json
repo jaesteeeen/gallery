@@ -1457,6 +1457,12 @@
       "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_JA-JP3462049774_UHD.jpg",
       "copyright": "ラッコの赤ちゃん, 米国 アラスカ州 (© Donald M. Jones/Minden Pictures)",
       "copyrightlink": "/search?q=%e3%83%a9%e3%83%83%e3%82%b3%e3%81%ae%e8%b5%a4%e3%81%a1%e3%82%83%e3%82%93&form=hpcapt&filters=HpDate%3a%2220230530_1500%22"
+    },
+    {
+      "enddate": "20230601",
+      "url": "https://www.bing.com/th?id=OHR.ReefAwareness_JA-JP3893578762_UHD.jpg",
+      "copyright": "グレートバリアリーフ, オーストラリア (© AirPano LLC/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%88%e3%83%90%e3%83%aa%e3%82%a2%e3%83%aa%e3%83%bc%e3%83%95&form=hpcapt&filters=HpDate%3a%2220230531_1500%22"
     }
   ],
   "months": {
@@ -1470,6 +1476,8 @@
       "202304",
       "202305"
     ],
-    "active": []
+    "active": [
+      "202306"
+    ]
   }
 }

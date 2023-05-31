@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-06)
+![](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg&w=1000)Today: [大堡礁的航拍图，澳大利亚 (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_ZH-CN8840949729_UHD.jpg)

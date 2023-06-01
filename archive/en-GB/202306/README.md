@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-06)
+![](https://www.bing.com/th?id=OHR.ReefAwareness_EN-GB8413195988_UHD.jpg&w=1000)Today: [Aerial image of the Great Barrier Reef, Australia (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_EN-GB8413195988_UHD.jpg)

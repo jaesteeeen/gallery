@@ -1457,6 +1457,12 @@
       "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_IT-IT6594215443_UHD.jpg",
       "copyright": "Cucciolo di lontra marina, Prince William Sound, Alaska  (© Donald M. Jones/Minden Pictures)",
       "copyrightlink": "/search?q=lontra+marina&form=hpcapt"
+    },
+    {
+      "enddate": "20230601",
+      "url": "https://www.bing.com/th?id=OHR.ReefAwareness_IT-IT7365437503_UHD.jpg",
+      "copyright": "Immagine aerea della Grande barriera corallina, Australia (© AirPano LLC/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Grande+barriera+corallina&form=hpcapt"
     }
   ],
   "months": {
@@ -1470,6 +1476,8 @@
       "202304",
       "202305"
     ],
-    "active": []
+    "active": [
+      "202306"
+    ]
   }
 }

@@ -1457,6 +1457,12 @@
       "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_FR-FR6635303643_UHD.jpg",
       "copyright": "Petit de loutre de mer, Baie du Prince William, Alaska (© Donald M. Jones/Minden Pictures)",
       "copyrightlink": "/search?q=loutre+de+mer&form=hpcapt&filters=HpDate%3a%2220230530_2200%22"
+    },
+    {
+      "enddate": "20230601",
+      "url": "https://www.bing.com/th?id=OHR.ReefAwareness_FR-FR6730128355_UHD.jpg",
+      "copyright": "Vue aérienne de la Grande Barrière de Corail, Australie (© AirPano LLC/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=grande+barri%c3%a8re+de+corail&form=hpcapt&filters=HpDate%3a%2220230531_2200%22"
     }
   ],
   "months": {
@@ -1470,6 +1476,8 @@
       "202304",
       "202305"
     ],
-    "active": []
+    "active": [
+      "202306"
+    ]
   }
 }

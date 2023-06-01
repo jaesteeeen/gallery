@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-06)
+![](https://www.bing.com/th?id=OHR.ReefAwareness_FR-FR6730128355_UHD.jpg&w=1000)Today: [Vue aérienne de la Grande Barrière de Corail, Australie (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_FR-FR6730128355_UHD.jpg)

@@ -1457,6 +1457,12 @@
       "url": "https://www.bing.com/th?id=OHR.WorldOtterDay_ES-ES1844828627_UHD.jpg",
       "copyright": "Cría de nutria marina, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)",
       "copyrightlink": "/search?q=nutria+marina&form=hpcapt&filters=HpDate%3a%2220230530_2200%22"
+    },
+    {
+      "enddate": "20230601",
+      "url": "https://www.bing.com/th?id=OHR.ReefAwareness_ES-ES1945757538_UHD.jpg",
+      "copyright": "Imagen aérea de la Gran Barrera de Coral, Australia (© AirPano LLC/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Gran+Barrera+de+Coral&form=hpcapt&filters=HpDate%3a%2220230531_2200%22"
     }
   ],
   "months": {
@@ -1470,6 +1476,8 @@
       "202304",
       "202305"
     ],
-    "active": []
+    "active": [
+      "202306"
+    ]
   }
 }

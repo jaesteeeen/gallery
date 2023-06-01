@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-06)
+![](https://www.bing.com/th?id=OHR.ReefAwareness_IT-IT7365437503_UHD.jpg&w=1000)Today: [Immagine aerea della Grande barriera corallina, Australia (© AirPano LLC/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.ReefAwareness_IT-IT7365437503_UHD.jpg)

@@ -3269,6 +3269,12 @@
       "url": "https://www.bing.com/th?id=OHR.BanyakIslands_ZH-CN6620304821_UHD.jpg",
       "copyright": "巴尼亚群岛，苏门答腊，印度尼西亚 (© fbxx/Getty Imagesz)",
       "copyrightlink": "/search?q=%e5%b7%b4%e5%b0%bc%e4%ba%9a%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20230630",
+      "url": "https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg",
+      "copyright": "棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)",
+      "copyrightlink": "/search?q=%e6%a3%95%e7%86%8a&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -3289,10 +3295,9 @@
       "202302",
       "202303",
       "202304",
-      "202305"
-    ],
-    "active": [
+      "202305",
       "202306"
-    ]
+    ],
+    "active": []
   }
 }

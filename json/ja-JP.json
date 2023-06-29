@@ -1631,6 +1631,12 @@
       "url": "https://www.bing.com/th?id=OHR.BanyakIslands_JA-JP5494773758_UHD.jpg",
       "copyright": "バニャック諸島, インドネシア (© fbxx/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%90%e3%83%8b%e3%83%a3%e3%83%83%e3%82%af%e8%ab%b8%e5%b3%b6&form=hpcapt&filters=HpDate%3a%2220230628_1500%22"
+    },
+    {
+      "enddate": "20230630",
+      "url": "https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_UHD.jpg",
+      "copyright": "レイク・クラーク国立公園, 米国 アラスカ州 (© Carlos Carreno/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%ac%e3%82%a4%e3%82%af%e3%83%bb%e3%82%af%e3%83%a9%e3%83%bc%e3%82%af%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%e3%81%ae%e3%83%92%e3%82%b0%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220230629_1500%22"
     }
   ],
   "months": {
@@ -1642,10 +1648,9 @@
       "202302",
       "202303",
       "202304",
-      "202305"
-    ],
-    "active": [
+      "202305",
       "202306"
-    ]
+    ],
+    "active": []
   }
 }

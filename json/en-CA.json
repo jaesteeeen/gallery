@@ -1625,6 +1625,12 @@
       "url": "https://www.bing.com/th?id=OHR.PrideIceland_EN-CA3805551224_UHD.jpg",
       "copyright": "Rainbow flags and confetti (© Arctic-Images/Getty Images)",
       "copyrightlink": "/search?q=pride+month&form=hpcapt&filters=HpDate%3a%2220230628_0400%22"
+    },
+    {
+      "enddate": "20230630",
+      "url": "https://www.bing.com/th?id=OHR.BanyakIslands_EN-CA9071693780_UHD.jpg",
+      "copyright": "Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)",
+      "copyrightlink": "/search?q=Banyak+Islands&form=hpcapt&filters=HpDate%3a%2220230629_0400%22"
     }
   ],
   "months": {
@@ -1636,10 +1642,9 @@
       "202302",
       "202303",
       "202304",
-      "202305"
-    ],
-    "active": [
+      "202305",
       "202306"
-    ]
+    ],
+    "active": []
   }
 }

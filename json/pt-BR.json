@@ -1625,6 +1625,12 @@
       "url": "https://www.bing.com/th?id=OHR.PrideIceland_PT-BR9247748028_UHD.jpg",
       "copyright": "Bandeiras de arco-íris e confetes, Reykjavík, Islândia (© Arctic-Images/Getty Images)",
       "copyrightlink": "/search?q=m%c3%aa+do+orgulho&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230630",
+      "url": "https://www.bing.com/th?id=OHR.BanyakIslands_PT-BR9478942704_UHD.jpg",
+      "copyright": "Ilhas Banyak, Sumatra, Indonésia  (© fbxx/Getty Images)",
+      "copyrightlink": "/search?q=Ilhas+Banyak&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -1636,10 +1642,9 @@
       "202302",
       "202303",
       "202304",
-      "202305"
-    ],
-    "active": [
+      "202305",
       "202306"
-    ]
+    ],
+    "active": []
   }
 }

@@ -1625,6 +1625,12 @@
       "url": "https://www.bing.com/th?id=OHR.PrideIceland_FR-CA6167251109_UHD.jpg",
       "copyright": "Drapeaux arc-en-ciel et confettis (© Arctic-Images/Getty Images)",
       "copyrightlink": "/search?q=Journ%c3%a9e+des+Fiert%c3%a9s&form=hpcapt&filters=HpDate%3a%2220230628_0400%22"
+    },
+    {
+      "enddate": "20230630",
+      "url": "https://www.bing.com/th?id=OHR.BanyakIslands_FR-CA5862995087_UHD.jpg",
+      "copyright": "Îles Banyak, Sumatra, Indonésie (© fbxx/Getty Images)",
+      "copyrightlink": "/search?q=iles+Banyak&form=hpcapt&filters=HpDate%3a%2220230629_0400%22"
     }
   ],
   "months": {
@@ -1636,10 +1642,9 @@
       "202302",
       "202303",
       "202304",
-      "202305"
-    ],
-    "active": [
+      "202305",
       "202306"
-    ]
+    ],
+    "active": []
   }
 }

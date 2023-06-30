@@ -1637,6 +1637,12 @@
       "url": "https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_UHD.jpg",
       "copyright": "レイク・クラーク国立公園, 米国 アラスカ州 (© Carlos Carreno/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%ac%e3%82%a4%e3%82%af%e3%83%bb%e3%82%af%e3%83%a9%e3%83%bc%e3%82%af%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%e3%81%ae%e3%83%92%e3%82%b0%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220230629_1500%22"
+    },
+    {
+      "enddate": "20230701",
+      "url": "https://www.bing.com/th?id=OHR.PelotonPont_JA-JP8854375139_UHD.jpg",
+      "copyright": "ポン・デュ・ガールを横断するサイクリストたち, フランス (© Gonzalo Fuentes/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%84%e3%83%bc%e3%83%ab%e3%83%bb%e3%83%89%e3%83%bb%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220230630_1500%22"
     }
   ],
   "months": {
@@ -1651,6 +1657,8 @@
       "202305",
       "202306"
     ],
-    "active": []
+    "active": [
+      "202307"
+    ]
   }
 }

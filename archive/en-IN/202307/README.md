@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-07)
+![](https://www.bing.com/th?id=OHR.PelotonPont_EN-IN5341162153_UHD.jpg&w=1000)Today: [Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Getty Images)](https://www.bing.com/th?id=OHR.PelotonPont_EN-IN5341162153_UHD.jpg)

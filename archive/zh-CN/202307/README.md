@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-07)
+![](https://www.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg&w=1000)Today: [从意大利圣天使城堡俯瞰罗马 (© sborisov/Getty Images)](https://www.bing.com/th?id=OHR.RomeView_ZH-CN5882212305_UHD.jpg)

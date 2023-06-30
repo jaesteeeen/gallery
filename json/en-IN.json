@@ -1637,6 +1637,12 @@
       "url": "https://www.bing.com/th?id=OHR.ClamBears_EN-IN4861399396_UHD.jpg",
       "copyright": "Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska, USA (© Carlos Carreno/Getty Images)",
       "copyrightlink": "/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220230629_1830%22"
+    },
+    {
+      "enddate": "20230701",
+      "url": "https://www.bing.com/th?id=OHR.PelotonPont_EN-IN5341162153_UHD.jpg",
+      "copyright": "Tour de France cyclists crossing the Pont du Gard, France (© Gonzalo Fuentes/Getty Images)",
+      "copyrightlink": "/search?q=pont+du+gard+france&form=hpcapt&filters=HpDate%3a%2220230630_1830%22"
     }
   ],
   "months": {
@@ -1651,6 +1657,8 @@
       "202305",
       "202306"
     ],
-    "active": []
+    "active": [
+      "202307"
+    ]
   }
 }

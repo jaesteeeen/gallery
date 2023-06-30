@@ -1631,6 +1631,12 @@
       "url": "https://www.bing.com/th?id=OHR.BanyakIslands_EN-CA9071693780_UHD.jpg",
       "copyright": "Banyak Islands, Sumatra, Indonesia (© fbxx/Getty Images)",
       "copyrightlink": "/search?q=Banyak+Islands&form=hpcapt&filters=HpDate%3a%2220230629_0400%22"
+    },
+    {
+      "enddate": "20230701",
+      "url": "https://www.bing.com/th?id=OHR.ClamBears_EN-CA1275958061_UHD.jpg",
+      "copyright": "Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)",
+      "copyrightlink": "/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220230630_0400%22"
     }
   ],
   "months": {
@@ -1645,6 +1651,8 @@
       "202305",
       "202306"
     ],
-    "active": []
+    "active": [
+      "202307"
+    ]
   }
 }

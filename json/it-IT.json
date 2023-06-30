@@ -1631,6 +1631,12 @@
       "url": "https://www.bing.com/th?id=OHR.AlgheroCapoCaccia_IT-IT6529245223_UHD.jpg",
       "copyright": "Capo Caccia, Alghero (© Francesco Riccardo Iacomino/Getty Images)",
       "copyrightlink": "/search?q=Capo+Caccia+scheda&form=hpcapt"
+    },
+    {
+      "enddate": "20230630",
+      "url": "https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg",
+      "copyright": "Lago di Braies, Bolzano (© Anton Petrus/Getty Images)",
+      "copyrightlink": "/search?q=Lago+di+Braies+scheda&form=hpcapt"
     }
   ],
   "months": {
@@ -1642,10 +1648,9 @@
       "202302",
       "202303",
       "202304",
-      "202305"
-    ],
-    "active": [
+      "202305",
       "202306"
-    ]
+    ],
+    "active": []
   }
 }

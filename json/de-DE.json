@@ -1631,6 +1631,12 @@
       "url": "https://www.bing.com/th?id=OHR.BanyakIslands_DE-DE6241631222_UHD.jpg",
       "copyright": "Banyak-Inseln, Sumatra, Indonesien (© fbxx/Getty Imagesz)",
       "copyrightlink": "/search?q=Banyak-Inseln&form=hpcapt&filters=HpDate%3a%2220230628_2200%22"
+    },
+    {
+      "enddate": "20230630",
+      "url": "https://www.bing.com/th?id=OHR.Footbridge_DE-DE3295548042_UHD.jpg",
+      "copyright": "Fußgängerbrücke über den See zu den Stelzenhäusern, Unteruhldingen, Baden-Württemberg (© Harald Nachtmann/Getty Images)",
+      "copyrightlink": "/search?q=Unterhuldingen&form=hpcapt&filters=HpDate%3a%2220230629_2200%22"
     }
   ],
   "months": {
@@ -1642,10 +1648,9 @@
       "202302",
       "202303",
       "202304",
-      "202305"
-    ],
-    "active": [
+      "202305",
       "202306"
-    ]
+    ],
+    "active": []
   }
 }

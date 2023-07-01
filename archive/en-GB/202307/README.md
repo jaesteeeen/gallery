@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-07)
+![](https://www.bing.com/th?id=OHR.LondonPride_EN-GB2746181543_UHD.jpg&w=1000)Today: [London Eye illuminated at dawn, England (© Pajor Pawel/Shutterstock)](https://www.bing.com/th?id=OHR.LondonPride_EN-GB2746181543_UHD.jpg)

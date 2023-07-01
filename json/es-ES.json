@@ -1637,6 +1637,12 @@
       "url": "https://www.bing.com/th?id=OHR.ClamBears_ES-ES4527663075_UHD.jpg",
       "copyright": "Madre y osezno de oso pardo, Parque Nacional y Reserva del Lago Clark, Alaska, EE.UU. (© Carlos Carreno/Getty Images)",
       "copyrightlink": "/search?q=oso+pardo&form=hpcapt&filters=HpDate%3a%2220230629_2200%22"
+    },
+    {
+      "enddate": "20230701",
+      "url": "https://www.bing.com/th?id=OHR.PelotonPont_ES-ES5136624994_UHD.jpg",
+      "copyright": "Ciclistas del Tour de Francia cruzando el Puente del Gard, Francia (© Gonzalo Fuentes/Reuters)",
+      "copyrightlink": "/search?q=Tour+de+Francia&form=hpcapt&filters=HpDate%3a%2220230630_2200%22"
     }
   ],
   "months": {
@@ -1651,6 +1657,8 @@
       "202305",
       "202306"
     ],
-    "active": []
+    "active": [
+      "202307"
+    ]
   }
 }

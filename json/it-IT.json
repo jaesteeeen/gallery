@@ -1637,6 +1637,12 @@
       "url": "https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg",
       "copyright": "Lago di Braies, Bolzano (© Anton Petrus/Getty Images)",
       "copyrightlink": "/search?q=Lago+di+Braies+scheda&form=hpcapt"
+    },
+    {
+      "enddate": "20230701",
+      "url": "https://www.bing.com/th?id=OHR.PelotonPont_IT-IT1171234733_UHD.jpg",
+      "copyright": "Ciclisti del Tour de France attraversano il Pont du Gard, Francia (© Gonzalo Fuentes/Reuters)",
+      "copyrightlink": "/search?q=tour+de+france&form=hpcapt"
     }
   ],
   "months": {
@@ -1651,6 +1657,8 @@
       "202305",
       "202306"
     ],
-    "active": []
+    "active": [
+      "202307"
+    ]
   }
 }

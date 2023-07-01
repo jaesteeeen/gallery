@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-07)
+![](https://www.bing.com/th?id=OHR.PelotonPont_FR-FR8876137653_UHD.jpg&w=1000)Today: [Cyclistes du Tour de France traversant le Pont du Gard, Occitanie (© Gonzalo Fuentes/Reuters)](https://www.bing.com/th?id=OHR.PelotonPont_FR-FR8876137653_UHD.jpg)

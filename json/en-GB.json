@@ -1631,6 +1631,12 @@
       "url": "https://www.bing.com/th?id=OHR.ClamBears_EN-GB2655650762_UHD.jpg",
       "copyright": "Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)",
       "copyrightlink": "/search?q=brown+bear&form=hpcapt&filters=HpDate%3a%2220230629_2300%22"
+    },
+    {
+      "enddate": "20230701",
+      "url": "https://www.bing.com/th?id=OHR.LondonPride_EN-GB2746181543_UHD.jpg",
+      "copyright": "London Eye illuminated at dawn, England (© Pajor Pawel/Shutterstock)",
+      "copyrightlink": "/search?q=London+eye&form=hpcapt&filters=HpDate%3a%2220230630_2300%22"
     }
   ],
   "months": {
@@ -1645,6 +1651,8 @@
       "202305",
       "202306"
     ],
-    "active": []
+    "active": [
+      "202307"
+    ]
   }
 }

@@ -1637,6 +1637,12 @@
       "url": "https://www.bing.com/th?id=OHR.ClamBears_FR-FR8687588186_UHD.jpg",
       "copyright": "Grizzlis, parc national et réserve du Lake Clark, Alaska, États-Unis (© Carlos Carreno/Getty Images)",
       "copyrightlink": "/search?q=ours+brun&form=hpcapt&filters=HpDate%3a%2220230629_2200%22"
+    },
+    {
+      "enddate": "20230701",
+      "url": "https://www.bing.com/th?id=OHR.PelotonPont_FR-FR8876137653_UHD.jpg",
+      "copyright": "Cyclistes du Tour de France traversant le Pont du Gard, Occitanie (© Gonzalo Fuentes/Reuters)",
+      "copyrightlink": "/search?q=tour+de+france&form=hpcapt&filters=HpDate%3a%2220230630_2200%22"
     }
   ],
   "months": {
@@ -1651,6 +1657,8 @@
       "202305",
       "202306"
     ],
-    "active": []
+    "active": [
+      "202307"
+    ]
   }
 }

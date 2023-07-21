@@ -1757,6 +1757,12 @@
       "url": "https://www.bing.com/th?id=OHR.MoonDayArtemis_FR-FR9915827128_UHD.jpg",
       "copyright": "La lune vue depuis le vaisseau spatial Orion de la mission Artemis de la NASA (© NASA)",
       "copyrightlink": "/search?q=lune&form=hpcapt&filters=HpDate%3a%2220230719_2200%22"
+    },
+    {
+      "enddate": "20230721",
+      "url": "https://www.bing.com/th?id=OHR.BridgeNorway_FR-FR0244724672_UHD.jpg",
+      "copyright": "Pont Storseisundet, route de l'océan Atlantique, Norvège (© Morten Falch Sortland/Getty Images)",
+      "copyrightlink": "/search?q=Storseisundet+pont+atlantique+&form=hpcapt&filters=HpDate%3a%2220230720_2200%22"
     }
   ],
   "months": {

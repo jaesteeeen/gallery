@@ -1817,6 +1817,12 @@
       "url": "https://www.bing.com/th?id=OHR.PalouseHills_EN-IN2524496030_UHD.jpg",
       "copyright": "Farmland in the Palouse, Washington, USA (© EJ-J/Getty Images)",
       "copyrightlink": "/search?q=palouse&form=hpcapt&filters=HpDate%3a%2220230729_1830%22"
+    },
+    {
+      "enddate": "20230731",
+      "url": "https://www.bing.com/th?id=OHR.RockHouse_EN-IN6324813643_UHD.jpg",
+      "copyright": "Rock House, Hocking Hills State Park, Ohio, USA (© Kenneth Keifer/Getty Images)",
+      "copyrightlink": "/search?q=hocking+hills+state+park&form=hpcapt&filters=HpDate%3a%2220230730_1830%22"
     }
   ],
   "months": {
@@ -1829,10 +1835,9 @@
       "202303",
       "202304",
       "202305",
-      "202306"
-    ],
-    "active": [
+      "202306",
       "202307"
-    ]
+    ],
+    "active": []
   }
 }

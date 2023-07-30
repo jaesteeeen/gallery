@@ -1811,6 +1811,12 @@
       "url": "https://www.bing.com/th?id=OHR.TigerIndia_PT-BR0729553270_UHD.jpg",
       "copyright": "Tigre de Bengala, Parque Nacional de Ranthambore, Índia (© Andy Rouse/Minden Pictures)",
       "copyrightlink": "/search?q=Tigre+de+Bengala&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230731",
+      "url": "https://www.bing.com/th?id=OHR.PalouseHills_PT-BR1134118082_UHD.jpg",
+      "copyright": "Terras agrícolas em Palouse, Washington (© EJ-J/Getty Images)",
+      "copyrightlink": "/search?q=palouse&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -1823,10 +1829,9 @@
       "202303",
       "202304",
       "202305",
-      "202306"
-    ],
-    "active": [
+      "202306",
       "202307"
-    ]
+    ],
+    "active": []
   }
 }

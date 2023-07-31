@@ -1823,6 +1823,12 @@
       "url": "https://www.bing.com/th?id=OHR.RockHouse_JA-JP8879635056_UHD.jpg",
       "copyright": "ホッキングヒルズ州立公園にある洞窟, 米国 オハイオ州 (© Kenneth Keifer/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%9b%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%92%e3%83%ab%e3%82%ba%e5%b7%9e%e7%ab%8b%e5%85%ac%e5%9c%92%e3%81%ab%e3%81%82%e3%82%8b%e6%b4%9e%e7%aa%9f&form=hpcapt&filters=HpDate%3a%2220230730_1500%22"
+    },
+    {
+      "enddate": "20230801",
+      "url": "https://www.bing.com/th?id=OHR.Neputa2023_JA-JP9406912677_UHD.jpg",
+      "copyright": "絢爛華麗な弘前ねぷた, 青森県 弘前市 (© David Parker/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=%e5%bc%98%e5%89%8d%e3%81%ad%e3%81%b7%e3%81%9f&form=hpcapt&filters=HpDate%3a%2220230731_1500%22"
     }
   ],
   "months": {
@@ -1838,6 +1844,8 @@
       "202306",
       "202307"
     ],
-    "active": []
+    "active": [
+      "202308"
+    ]
   }
 }

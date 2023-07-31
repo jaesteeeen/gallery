@@ -1823,6 +1823,12 @@
       "url": "https://www.bing.com/th?id=OHR.RockHouse_EN-IN6324813643_UHD.jpg",
       "copyright": "Rock House, Hocking Hills State Park, Ohio, USA (© Kenneth Keifer/Getty Images)",
       "copyrightlink": "/search?q=hocking+hills+state+park&form=hpcapt&filters=HpDate%3a%2220230730_1830%22"
+    },
+    {
+      "enddate": "20230801",
+      "url": "https://www.bing.com/th?id=OHR.DenaliClimber_EN-IN8763043099_UHD.jpg",
+      "copyright": "Mount Foraker viewed from Denali, Denali National Park, Alaska, USA (© Andrew Peacock/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=denali+mountain&form=hpcapt&filters=HpDate%3a%2220230731_1830%22"
     }
   ],
   "months": {
@@ -1838,6 +1844,8 @@
       "202306",
       "202307"
     ],
-    "active": []
+    "active": [
+      "202308"
+    ]
   }
 }

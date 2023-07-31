@@ -1817,6 +1817,12 @@
       "url": "https://www.bing.com/th?id=OHR.PalouseHills_FR-CA4883644400_UHD.jpg",
       "copyright": "Terres agricoles dans la région de Palouse, Washington, États-Unis (© EJ-J/Getty Images)",
       "copyrightlink": "/search?q=palouse&form=hpcapt&filters=HpDate%3a%2220230730_0400%22"
+    },
+    {
+      "enddate": "20230801",
+      "url": "https://www.bing.com/th?id=OHR.RockHouse_FR-CA1855600416_UHD.jpg",
+      "copyright": "Rock House, Parc d’État de Hocking Hills, Ohio, États-Unis (© Kenneth Keifer/Getty Images)",
+      "copyrightlink": "/search?q=Les+Hocking+Hills+Ohio&form=hpcapt&filters=HpDate%3a%2220230731_0400%22"
     }
   ],
   "months": {
@@ -1832,6 +1838,8 @@
       "202306",
       "202307"
     ],
-    "active": []
+    "active": [
+      "202308"
+    ]
   }
 }

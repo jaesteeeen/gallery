@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-08)
+![](https://www.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg&w=1000)Today: [Rock House, Hocking Hills State Park, Ohio (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_EN-US1852534234_UHD.jpg)

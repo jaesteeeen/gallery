@@ -1817,6 +1817,12 @@
       "url": "https://www.bing.com/th?id=OHR.FoxCubs_DE-DE0132480419_UHD.jpg",
       "copyright": "Zwei Jungfüchse spielen auf einer Wiese, Deutschland (© Reibertb/Getty Images)",
       "copyrightlink": "/search?q=Internationale+Tag+der+Freundschaft&form=hpcapt&filters=HpDate%3a%2220230729_2200%22"
+    },
+    {
+      "enddate": "20230731",
+      "url": "https://www.bing.com/th?id=OHR.RockHouse_DE-DE8842375533_UHD.jpg",
+      "copyright": "Felsenhaus, Hocking Hills State Park, Ohio, USA (© Kenneth Keifer/Getty Images)",
+      "copyrightlink": "/search?q=Ohio&form=hpcapt&filters=HpDate%3a%2220230730_2200%22"
     }
   ],
   "months": {
@@ -1829,10 +1835,9 @@
       "202303",
       "202304",
       "202305",
-      "202306"
-    ],
-    "active": [
+      "202306",
       "202307"
-    ]
+    ],
+    "active": []
   }
 }

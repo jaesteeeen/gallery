@@ -1817,6 +1817,12 @@
       "url": "https://www.bing.com/th?id=OHR.ApostolSantiagoGalicia_ES-ES8270984455_UHD.jpg",
       "copyright": "Allariz, Orense, Galicia, España (© Brais Seara via Getty Images)",
       "copyrightlink": "/search?q=fiestas+de+santiago+apostol+en+galicia&form=hpcapt&filters=HpDate%3a%2220230729_2200%22"
+    },
+    {
+      "enddate": "20230731",
+      "url": "https://www.bing.com/th?id=OHR.RockHouse_ES-ES2728189388_UHD.jpg",
+      "copyright": "Casa Cueva, Parque Estatal de Hocking Hills, Ohio, EE.UU. (© Kenneth Keifer/Getty Images)",
+      "copyrightlink": "/search?q=Parque+Estatal+de+Hocking+Hills+en+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220230730_2200%22"
     }
   ],
   "months": {
@@ -1829,10 +1835,9 @@
       "202303",
       "202304",
       "202305",
-      "202306"
-    ],
-    "active": [
+      "202306",
       "202307"
-    ]
+    ],
+    "active": []
   }
 }

@@ -1817,6 +1817,12 @@
       "url": "https://www.bing.com/th?id=OHR.PalouseHills_IT-IT1015358131_UHD.jpg",
       "copyright": "Terreni agricoli nel Palouse, Washington, Stati Uniti (© EJ-J/Getty Images)",
       "copyrightlink": "/search?q=palouse+dov%27%c3%a8&form=hpcapt"
+    },
+    {
+      "enddate": "20230731",
+      "url": "https://www.bing.com/th?id=OHR.RockHouse_IT-IT3726334751_UHD.jpg",
+      "copyright": "Casa nella roccia, Parco nazionale di Hocking Hills, Ohio  (© Kenneth Keifer/Getty Images)",
+      "copyrightlink": "/search?q=Grotte+di+Hocking+hills+dove+sono&form=hpcapt"
     }
   ],
   "months": {
@@ -1829,10 +1835,9 @@
       "202303",
       "202304",
       "202305",
-      "202306"
-    ],
-    "active": [
+      "202306",
       "202307"
-    ]
+    ],
+    "active": []
   }
 }

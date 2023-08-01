@@ -1823,6 +1823,12 @@
       "url": "https://www.bing.com/th?id=OHR.RockHouse_ES-ES2728189388_UHD.jpg",
       "copyright": "Casa Cueva, Parque Estatal de Hocking Hills, Ohio, EE.UU. (© Kenneth Keifer/Getty Images)",
       "copyrightlink": "/search?q=Parque+Estatal+de+Hocking+Hills+en+Estados+Unidos&form=hpcapt&filters=HpDate%3a%2220230730_2200%22"
+    },
+    {
+      "enddate": "20230801",
+      "url": "https://www.bing.com/th?id=OHR.DenaliClimber_ES-ES3274030285_UHD.jpg",
+      "copyright": "Monte Foraker visto desde Denali, Parque Nacional de Denali, Alaska, EE.UU. (© Andrew Peacock/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=Parque+Nacional+y+Reserva+Denali+en+Alaska&form=hpcapt&filters=HpDate%3a%2220230731_2200%22"
     }
   ],
   "months": {
@@ -1838,6 +1844,8 @@
       "202306",
       "202307"
     ],
-    "active": []
+    "active": [
+      "202308"
+    ]
   }
 }

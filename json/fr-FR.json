@@ -1823,6 +1823,12 @@
       "url": "https://www.bing.com/th?id=OHR.RockHouse_FR-FR0741762840_UHD.jpg",
       "copyright": "Rock House, Parc d’État de Hocking Hills, Ohio, États-Unis (© Kenneth Keifer/Getty Images)",
       "copyrightlink": "/search?q=Les+Hocking+Hills+Ohio&form=hpcapt&filters=HpDate%3a%2220230730_2200%22"
+    },
+    {
+      "enddate": "20230801",
+      "url": "https://www.bing.com/th?id=OHR.Corse_FR-FR1073041933_UHD.jpg",
+      "copyright": "Plage de Rondinara et sa réserve naturelle, Bonifacio, Corse (© Hemis/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=+rondinara+plage+corse&form=hpcapt&filters=HpDate%3a%2220230731_2200%22"
     }
   ],
   "months": {
@@ -1838,6 +1844,8 @@
       "202306",
       "202307"
     ],
-    "active": []
+    "active": [
+      "202308"
+    ]
   }
 }

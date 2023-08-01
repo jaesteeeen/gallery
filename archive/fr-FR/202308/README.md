@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-08)
+![](https://www.bing.com/th?id=OHR.Corse_FR-FR1073041933_UHD.jpg&w=1000)Today: [Plage de Rondinara et sa réserve naturelle, Bonifacio, Corse (© Hemis/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.Corse_FR-FR1073041933_UHD.jpg)

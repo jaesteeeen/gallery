@@ -1823,6 +1823,12 @@
       "url": "https://www.bing.com/th?id=OHR.RockHouse_IT-IT3726334751_UHD.jpg",
       "copyright": "Casa nella roccia, Parco nazionale di Hocking Hills, Ohio  (© Kenneth Keifer/Getty Images)",
       "copyrightlink": "/search?q=Grotte+di+Hocking+hills+dove+sono&form=hpcapt"
+    },
+    {
+      "enddate": "20230801",
+      "url": "https://www.bing.com/th?id=OHR.DenaliClimber_IT-IT5864283089_UHD.jpg",
+      "copyright": "Il Monte Foraker visto da Denali, Parco Nazionale di Denali, Alaska, USA (© Andrew Peacock/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=parco+nazionale+del+denali+dove&form=hpcapt"
     }
   ],
   "months": {
@@ -1838,6 +1844,8 @@
       "202306",
       "202307"
     ],
-    "active": []
+    "active": [
+      "202308"
+    ]
   }
 }

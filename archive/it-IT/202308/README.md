@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-08)
+![](https://www.bing.com/th?id=OHR.DenaliClimber_IT-IT5864283089_UHD.jpg&w=1000)Today: [Il Monte Foraker visto da Denali, Parco Nazionale di Denali, Alaska, USA (© Andrew Peacock/Tandem Stills + Motion)](https://www.bing.com/th?id=OHR.DenaliClimber_IT-IT5864283089_UHD.jpg)

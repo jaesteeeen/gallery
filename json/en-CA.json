@@ -1997,6 +1997,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZelenciSprings_EN-CA7318324404_UHD.jpg",
       "copyright": "Zelenci Nature Reserve, Slovenia (© Andrey Danilovich/Getty Images)",
       "copyrightlink": "/search?q=Zelenci+Springs+Slovenia&form=hpcapt&filters=HpDate%3a%2220230829_0400%22"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.NingalooShark_EN-CA3502575327_UHD.jpg",
+      "copyright": "Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)",
+      "copyrightlink": "/search?q=whale+shark&form=hpcapt&filters=HpDate%3a%2220230830_0400%22"
     }
   ],
   "months": {
@@ -2010,10 +2016,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

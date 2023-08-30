@@ -1997,6 +1997,12 @@
       "url": "https://www.bing.com/th?id=OHR.TetonBison_PT-BR0402928868_UHD.jpg",
       "copyright": "Bisão Americano, Parque Nacional Grand Teton, Wyoming, EUA (© Enrique Aguirre Aves/Getty Images)",
       "copyrightlink": "/search?q=Bis%c3%a3o+Americano&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.NingalooShark_PT-BR6162667843_UHD.jpg",
+      "copyright": "Tubarão-baleia, Ningaloo Reef, Austrália Ocidental (© Jason Edwards/Getty Images)",
+      "copyrightlink": "/search?q=Tubar%c3%a3o+baleia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -2010,10 +2016,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

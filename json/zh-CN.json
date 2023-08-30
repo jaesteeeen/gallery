@@ -3641,6 +3641,12 @@
       "url": "https://www.bing.com/th?id=OHR.NingalooShark_ZH-CN9014712175_UHD.jpg",
       "copyright": "鲸鲨，宁加洛珊瑚礁，西澳大利亚 (© Jason Edwards/Getty Images)",
       "copyrightlink": "/search?q=%e9%b2%b8%e9%b2%a8&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_ZH-CN9290037977_UHD.jpg",
+      "copyright": "巨人柱，铁木森林国家纪念地，亚利桑那州，美国 (© Jack Dykinga/Minden Pictures)",
+      "copyrightlink": "/search?q=%e5%b7%a8%e4%ba%ba%e6%9f%b1&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -3663,10 +3669,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

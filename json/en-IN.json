@@ -2003,6 +2003,12 @@
       "url": "https://www.bing.com/th?id=OHR.FestivalofThreads_EN-IN8502750769_UHD.jpg",
       "copyright": "Rakhi or sacred thread of different types and colors (© Ritesh Shukla/Pacific Press/LightRocket via Getty Images)",
       "copyrightlink": "/search?q=Raksha+Bandhan+tradition&form=hpcapt&filters=HpDate%3a%2220230829_1830%22"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_EN-IN8431583743_UHD.jpg",
+      "copyright": "Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)",
+      "copyrightlink": "/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220230830_1830%22"
     }
   ],
   "months": {
@@ -2016,10 +2022,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

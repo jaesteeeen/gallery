@@ -2003,6 +2003,12 @@
       "url": "https://www.bing.com/th?id=OHR.NingalooShark_JA-JP8020672335_UHD.jpg",
       "copyright": "ニンガルー・リーフのジンベエザメ, オーストラリア (© Jason Edwards/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%8b%e3%83%b3%e3%82%ac%e3%83%ab%e3%83%bc%e3%83%bb%e3%83%aa%e3%83%bc%e3%83%95%e3%81%ae%e3%82%b8%e3%83%b3%e3%83%99%e3%82%a8%e3%82%b6%e3%83%a1&form=hpcapt&filters=HpDate%3a%2220230829_1500%22"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_UHD.jpg",
+      "copyright": "アイアンウッドフォレスト国定公園, 米国 アリゾナ州 (© Jack Dykinga/Minden Pictures)",
+      "copyrightlink": "/search?q=Ironwood+Forest+National+Monument&form=hpcapt&filters=HpDate%3a%2220230830_1500%22"
     }
   ],
   "months": {
@@ -2016,10 +2022,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

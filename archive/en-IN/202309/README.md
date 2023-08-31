@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-09)
+![](https://www.bing.com/th?id=OHR.KeralaBackwaters_EN-IN5839367689_UHD.jpg&w=1000)Today: [Boat at backwaters of Kerala, India (© Goran Bogicevic/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.KeralaBackwaters_EN-IN5839367689_UHD.jpg)

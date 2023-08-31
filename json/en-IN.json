@@ -2009,6 +2009,12 @@
       "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_EN-IN8431583743_UHD.jpg",
       "copyright": "Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)",
       "copyrightlink": "/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220230830_1830%22"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.KeralaBackwaters_EN-IN5839367689_UHD.jpg",
+      "copyright": "Boat at backwaters of Kerala, India (© Goran Bogicevic/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Kerala+India&form=hpcapt&filters=HpDate%3a%2220230831_1830%22"
     }
   ],
   "months": {
@@ -2025,6 +2031,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

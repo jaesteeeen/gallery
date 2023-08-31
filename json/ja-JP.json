@@ -2009,6 +2009,12 @@
       "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_UHD.jpg",
       "copyright": "アイアンウッドフォレスト国定公園, 米国 アリゾナ州 (© Jack Dykinga/Minden Pictures)",
       "copyrightlink": "/search?q=Ironwood+Forest+National+Monument&form=hpcapt&filters=HpDate%3a%2220230830_1500%22"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.Fawn_JA-JP8985470231_UHD.jpg",
+      "copyright": "草原を走るノロジカの子鹿, フランス ノルマンディー (© Gerard Lacz/Minden)",
+      "copyrightlink": "/search?q=%e3%83%8e%e3%83%ad%e3%82%b8%e3%82%ab&form=hpcapt&filters=HpDate%3a%2220230831_1500%22"
     }
   ],
   "months": {
@@ -2025,6 +2031,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

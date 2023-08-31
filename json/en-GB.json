@@ -1997,6 +1997,12 @@
       "url": "https://www.bing.com/th?id=OHR.NingalooShark_EN-GB2488880393_UHD.jpg",
       "copyright": "Whale shark, Ningaloo Reef, Western Australia (© Jason Edwards/Getty Images)",
       "copyrightlink": "/search?q=whale+shark&form=hpcapt&filters=HpDate%3a%2220230829_2300%22"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_EN-GB2435607805_UHD.jpg",
+      "copyright": "Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)",
+      "copyrightlink": "/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220230830_2300%22"
     }
   ],
   "months": {
@@ -2010,10 +2016,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

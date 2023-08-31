@@ -2003,6 +2003,12 @@
       "url": "https://www.bing.com/th?id=OHR.NingalooShark_ES-ES4277361949_UHD.jpg",
       "copyright": "Tiburón ballena, Arrecife Ningaloo, Australia Occidental (© Jason Edwards/Getty Images)",
       "copyrightlink": "/search?q=Tibur%c3%b3n+ballena+que+es&form=hpcapt&filters=HpDate%3a%2220230829_2200%22"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_ES-ES4399804211_UHD.jpg",
+      "copyright": "Cactus saguaro, Monumento Nacional Ironwood, Arizona, EE.UU. (© Jack Dykinga/Minden Pictures)",
+      "copyrightlink": "/search?q=Cactus+saguaro&form=hpcapt&filters=HpDate%3a%2220230830_2200%22"
     }
   ],
   "months": {
@@ -2016,10 +2022,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

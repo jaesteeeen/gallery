@@ -2003,6 +2003,12 @@
       "url": "https://www.bing.com/th?id=OHR.NingalooShark_DE-DE6573151950_UHD.jpg",
       "copyright": "Walhai, Ningaloo-Riff, Westaustralien (© Jason Edwards/Getty Images)",
       "copyrightlink": "/search?q=Walhai&form=hpcapt&filters=HpDate%3a%2220230829_2200%22"
+    },
+    {
+      "enddate": "20230831",
+      "url": "https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg",
+      "copyright": "Köpfe des Heiligen Cassius und Florentius vor dem Bonner Münster, Bonn (© Peter Unger/Getty images)",
+      "copyrightlink": "/search?q=Bonner+M%c3%bcnster&form=hpcapt&filters=HpDate%3a%2220230830_2200%22"
     }
   ],
   "months": {
@@ -2016,10 +2022,9 @@
       "202304",
       "202305",
       "202306",
-      "202307"
-    ],
-    "active": [
+      "202307",
       "202308"
-    ]
+    ],
+    "active": []
   }
 }

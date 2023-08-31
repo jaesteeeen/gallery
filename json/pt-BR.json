@@ -2003,6 +2003,12 @@
       "url": "https://www.bing.com/th?id=OHR.NingalooShark_PT-BR6162667843_UHD.jpg",
       "copyright": "Tubarão-baleia, Ningaloo Reef, Austrália Ocidental (© Jason Edwards/Getty Images)",
       "copyrightlink": "/search?q=Tubar%c3%a3o+baleia&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_PT-BR6649967427_UHD.jpg",
+      "copyright": "Cactos Saguaro, Monumento Nacional Ironwood, Arizona (© Jack Dykinga/Minden Pictures)",
+      "copyrightlink": "/search?q=cactos+Saguaro&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -2019,6 +2025,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

@@ -2009,6 +2009,12 @@
       "url": "https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg",
       "copyright": "Köpfe des Heiligen Cassius und Florentius vor dem Bonner Münster, Bonn (© Peter Unger/Getty images)",
       "copyrightlink": "/search?q=Bonner+M%c3%bcnster&form=hpcapt&filters=HpDate%3a%2220230830_2200%22"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyTailMush_DE-DE7496636357_UHD.jpg",
+      "copyright": "Truthahnschwanzpilz, Brevard, North Carolina, USA (© Bill Gozansky/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Pilze&form=hpcapt&filters=HpDate%3a%2220230831_2200%22"
     }
   ],
   "months": {
@@ -2025,6 +2031,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

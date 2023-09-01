@@ -2009,6 +2009,12 @@
       "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_IT-IT9614113737_UHD.jpg",
       "copyright": "Cactus Saguaro, Monumento Nazionale di Ironwood, Arizona (© Jack Dykinga/Minden Pictures)",
       "copyrightlink": "/search?q=Parco+nazionale+di+Yellowstone&form=hpcapt"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyTailMush_IT-IT6836911122_UHD.jpg",
+      "copyright": "Fungo Trametes versicolor, Brevard, North Carolina, Stati Uniti (© Bill Gozansky/Alamy)",
+      "copyrightlink": "/search?q=Trametes+versicolor&form=hpcapt"
     }
   ],
   "months": {
@@ -2025,6 +2031,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

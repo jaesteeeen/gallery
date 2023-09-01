@@ -2003,6 +2003,12 @@
       "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_EN-GB2435607805_UHD.jpg",
       "copyright": "Saguaro cacti, Ironwood National Monument, Arizona (© Jack Dykinga/Minden Pictures)",
       "copyrightlink": "/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220230830_2300%22"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyTailMush_EN-GB2359636986_UHD.jpg",
+      "copyright": "Turkey tail mushroom, Brevard, North Carolina (© Bill Gozansky/Alamy)",
+      "copyrightlink": "/search?q=mushrooms&form=hpcapt&filters=HpDate%3a%2220230831_2300%22"
     }
   ],
   "months": {
@@ -2019,6 +2025,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

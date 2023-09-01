@@ -2009,6 +2009,12 @@
       "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_ES-ES4399804211_UHD.jpg",
       "copyright": "Cactus saguaro, Monumento Nacional Ironwood, Arizona, EE.UU. (© Jack Dykinga/Minden Pictures)",
       "copyrightlink": "/search?q=Cactus+saguaro&form=hpcapt&filters=HpDate%3a%2220230830_2200%22"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyTailMush_ES-ES2759829479_UHD.jpg",
+      "copyright": "Setas cola de pavo, Brevard, Carolina del Norte, EE.UU. (© Bill Gozansky/Alamy)",
+      "copyrightlink": "/search?q=setas&form=hpcapt&filters=HpDate%3a%2220230831_2200%22"
     }
   ],
   "months": {
@@ -2025,6 +2031,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

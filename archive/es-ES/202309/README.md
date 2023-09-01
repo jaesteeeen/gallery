@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-09)
+![](https://www.bing.com/th?id=OHR.TurkeyTailMush_ES-ES2759829479_UHD.jpg&w=1000)Today: [Setas cola de pavo, Brevard, Carolina del Norte, EE.UU. (© Bill Gozansky/Alamy)](https://www.bing.com/th?id=OHR.TurkeyTailMush_ES-ES2759829479_UHD.jpg)

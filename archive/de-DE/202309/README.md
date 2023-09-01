@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-09)
+![](https://www.bing.com/th?id=OHR.TurkeyTailMush_DE-DE7496636357_UHD.jpg&w=1000)Today: [Truthahnschwanzpilz, Brevard, North Carolina, USA (© Bill Gozansky/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.TurkeyTailMush_DE-DE7496636357_UHD.jpg)

@@ -2009,6 +2009,12 @@
       "url": "https://www.bing.com/th?id=OHR.IronwoodCactus_FR-FR2301952997_UHD.jpg",
       "copyright": "Cactus Saguaro, Ironwood National Monument, Arizona, États-Unis (© Jack Dykinga/Minden Pictures)",
       "copyrightlink": "/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220230830_2200%22"
+    },
+    {
+      "enddate": "20230901",
+      "url": "https://www.bing.com/th?id=OHR.TurkeyTailMush_FR-FR8157290874_UHD.jpg",
+      "copyright": "Champignon queue de dinde, Brevard, Caroline du Nord, États-Unis (© Bill Gozansky/Alamy)",
+      "copyrightlink": "/search?q=champignon&form=hpcapt&filters=HpDate%3a%2220230831_2200%22"
     }
   ],
   "months": {
@@ -2025,6 +2031,8 @@
       "202307",
       "202308"
     ],
-    "active": []
+    "active": [
+      "202309"
+    ]
   }
 }

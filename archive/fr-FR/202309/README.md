@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-09)
+![](https://www.bing.com/th?id=OHR.TurkeyTailMush_FR-FR8157290874_UHD.jpg&w=1000)Today: [Champignon queue de dinde, Brevard, Caroline du Nord, États-Unis (© Bill Gozansky/Alamy)](https://www.bing.com/th?id=OHR.TurkeyTailMush_FR-FR8157290874_UHD.jpg)

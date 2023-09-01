@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-09)
+![](https://www.bing.com/th?id=OHR.TurkeyTailMush_IT-IT6836911122_UHD.jpg&w=1000)Today: [Fungo Trametes versicolor, Brevard, North Carolina, Stati Uniti (© Bill Gozansky/Alamy)](https://www.bing.com/th?id=OHR.TurkeyTailMush_IT-IT6836911122_UHD.jpg)

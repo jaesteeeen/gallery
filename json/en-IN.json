@@ -2183,6 +2183,12 @@
       "url": "https://www.bing.com/th?id=OHR.SangameswaraTemple_EN-IN2298301203_UHD.jpg",
       "copyright": "The Sangameswara Temple is part of the the former capital Kisuvolal of the Chalukya Dynasty (© Frank Bienewald/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Sangameswara+Temple&form=hpcapt&filters=HpDate%3a%2220230928_1830%22"
+    },
+    {
+      "enddate": "20230930",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-IN7343206221_UHD.jpg",
+      "copyright": "Fall colours in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)",
+      "copyrightlink": "/search?q=Shenandoah+National+Park&form=hpcapt&filters=HpDate%3a%2220230929_1830%22"
     }
   ],
   "months": {
@@ -2197,10 +2203,9 @@
       "202305",
       "202306",
       "202307",
-      "202308"
-    ],
-    "active": [
+      "202308",
       "202309"
-    ]
+    ],
+    "active": []
   }
 }

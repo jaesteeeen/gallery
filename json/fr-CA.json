@@ -2177,6 +2177,12 @@
       "url": "https://www.bing.com/th?id=OHR.MaritimeDay_FR-CA6772590470_UHD.jpg",
       "copyright": "Porte-conteneurs près d'un port commercial en Thaïlande (© Suriyapong Thongsawang/Getty Images)",
       "copyrightlink": "/search?q=journ%c3%a9e+mondiale+transport+maritime+&form=hpcapt&filters=HpDate%3a%2220230928_0400%22"
+    },
+    {
+      "enddate": "20230930",
+      "url": "https://www.bing.com/th?id=OHR.GuiyangMoon_FR-CA9250844272_UHD.jpg",
+      "copyright": "Tour Jiaxiu à la pleine lune, Guiyang, province de Guizhou, Chine (© Wang Yukun/Getty Images)",
+      "copyrightlink": "/search?q=guiyang+chine&form=hpcapt&filters=HpDate%3a%2220230929_0400%22"
     }
   ],
   "months": {
@@ -2191,10 +2197,9 @@
       "202305",
       "202306",
       "202307",
-      "202308"
-    ],
-    "active": [
+      "202308",
       "202309"
-    ]
+    ],
+    "active": []
   }
 }

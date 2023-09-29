@@ -2177,6 +2177,12 @@
       "url": "https://www.bing.com/th?id=OHR.MaritimeDay_PT-BR6479092304_UHD.jpg",
       "copyright": "Navio porta-contêineres perto de um porto comercial na Tailândia (© Suriyapong Thongsawang/Getty Images)",
       "copyrightlink": "/search?q=dia+mar%c3%adtimo+mundial&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20230930",
+      "url": "https://www.bing.com/th?id=OHR.GuiyangMoon_PT-BR6803105528_UHD.jpg",
+      "copyright": "Torre Jiaxiu sob lua cheia, Guiyang, província de Guizhou, China (© Wang Yukun/Getty Images)",
+      "copyrightlink": "/search?q=Jiaxiu+Tower+Guiyang&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -2191,10 +2197,9 @@
       "202305",
       "202306",
       "202307",
-      "202308"
-    ],
-    "active": [
+      "202308",
       "202309"
-    ]
+    ],
+    "active": []
   }
 }

@@ -2183,6 +2183,12 @@
       "url": "https://www.bing.com/th?id=OHR.GuiyangMoon_ES-ES0747873964_UHD.jpg",
       "copyright": "Torre Jiaxiu bajo la luna llena, Guiyang, provincia de Guizhou, China (© Wang Yukun/Getty Images)",
       "copyrightlink": "/search?q=Guiyang&form=hpcapt&filters=HpDate%3a%2220230928_2200%22"
+    },
+    {
+      "enddate": "20230930",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahFoliage_ES-ES0953486275_UHD.jpg",
+      "copyright": "Colores otoñales en el Parque Nacional de Shenandoah, Virginia, EE.UU. (© Michael Ver Sprill/Getty Images)",
+      "copyrightlink": "/search?q=parque+nacional+shenandoah+senderos&form=hpcapt&filters=HpDate%3a%2220230929_2200%22"
     }
   ],
   "months": {
@@ -2197,10 +2203,9 @@
       "202305",
       "202306",
       "202307",
-      "202308"
-    ],
-    "active": [
+      "202308",
       "202309"
-    ]
+    ],
+    "active": []
   }
 }

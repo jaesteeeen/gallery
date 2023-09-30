@@ -2183,6 +2183,12 @@
       "url": "https://www.bing.com/th?id=OHR.GuiyangMoon_IT-IT0253411061_UHD.jpg",
       "copyright": "Torre Jiaxiu sotto la luna piena, Guiyang, provincia di Guizhou, Cina (© Wang Yukun/Getty Images)",
       "copyrightlink": "/search?q=Guiyang&form=hpcapt"
+    },
+    {
+      "enddate": "20230930",
+      "url": "https://www.bing.com/th?id=OHR.DardagnaWaterfalls_IT-IT7337701837_UHD.jpg",
+      "copyright": "Cascate del Dardagna in autunno, Bologna (© Alberto Ghizzi Panizza/Minden)",
+      "copyrightlink": "/search?q=Dardagna&form=hpcapt"
     }
   ],
   "months": {
@@ -2197,10 +2203,9 @@
       "202305",
       "202306",
       "202307",
-      "202308"
-    ],
-    "active": [
+      "202308",
       "202309"
-    ]
+    ],
+    "active": []
   }
 }

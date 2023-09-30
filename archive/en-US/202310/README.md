@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-10)
+![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg&w=1000)Today: [Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg)

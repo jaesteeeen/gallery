@@ -3827,6 +3827,12 @@
       "url": "https://www.bing.com/th?id=OHR.GuiyangMoon_EN-US2407385108_UHD.jpg",
       "copyright": "Jiaxiu Tower under a full moon, Guiyang, Guizhou province, China (© Wang Yukun/Getty Images)",
       "copyrightlink": "/search?q=mid-autumn+festival&form=hpcapt&filters=HpDate%3a%2220230929_0700%22"
+    },
+    {
+      "enddate": "20231001",
+      "url": "https://www.bing.com/th?id=OHR.ShenandoahFoliage_EN-US9719781431_UHD.jpg",
+      "copyright": "Fall colors in Shenandoah National Park, Virginia (© Michael Ver Sprill/Getty Images)",
+      "copyrightlink": "/search?q=Shenandoah+National+Park&form=hpcapt&filters=HpDate%3a%2220230930_0700%22"
     }
   ],
   "months": {
@@ -3853,6 +3859,8 @@
       "202308",
       "202309"
     ],
-    "active": []
+    "active": [
+      "202310"
+    ]
   }
 }

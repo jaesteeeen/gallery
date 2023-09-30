@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-10)
+![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_PT-BR9012725885_UHD.jpg&w=1000)Today: [Cores do outono no Parque Nacional de Shenandoah, Virgínia, EUA (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_PT-BR9012725885_UHD.jpg)

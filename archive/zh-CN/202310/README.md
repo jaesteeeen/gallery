@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-10)
+![](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg&w=1000)Today: [雄伟壮丽的中国长城 (© Jeff_Hu/Getty Images)](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg)

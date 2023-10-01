@@ -2189,6 +2189,12 @@
       "url": "https://www.bing.com/th?id=OHR.ShenandoahFoliage_ES-ES0953486275_UHD.jpg",
       "copyright": "Colores otoñales en el Parque Nacional de Shenandoah, Virginia, EE.UU. (© Michael Ver Sprill/Getty Images)",
       "copyrightlink": "/search?q=parque+nacional+shenandoah+senderos&form=hpcapt&filters=HpDate%3a%2220230929_2200%22"
+    },
+    {
+      "enddate": "20231001",
+      "url": "https://www.bing.com/th?id=OHR.LakeBledSunrise_ES-ES1096593407_UHD.jpg",
+      "copyright": "Lago de Bled al amanecer desde el mirador Mala Osojnica, Eslovenia (© Rasica/Getty Images)",
+      "copyrightlink": "/search?q=Lago+de+Bled&form=hpcapt&filters=HpDate%3a%2220230930_2200%22"
     }
   ],
   "months": {
@@ -2206,6 +2212,8 @@
       "202308",
       "202309"
     ],
-    "active": []
+    "active": [
+      "202310"
+    ]
   }
 }

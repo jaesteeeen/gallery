@@ -2189,6 +2189,12 @@
       "url": "https://www.bing.com/th?id=OHR.ShenandoahFoliage_FR-FR5502772012_UHD.jpg",
       "copyright": "Couleurs d'automne dans le parc national de Shenandoah, Virginie (© Michael Ver Sprill/Getty Images)",
       "copyrightlink": "/search?q=shenandoah+virginie&form=hpcapt&filters=HpDate%3a%2220230929_2200%22"
+    },
+    {
+      "enddate": "20231001",
+      "url": "https://www.bing.com/th?id=OHR.LakeBledSunrise_FR-FR7792923061_UHD.jpg",
+      "copyright": "Lac Bled depuis le panorama d'Osojnica au lever du soleil, Slovénie (© Rasica/Getty Images)",
+      "copyrightlink": "/search?q=Lad+de+Bled&form=hpcapt&filters=HpDate%3a%2220230930_2200%22"
     }
   ],
   "months": {
@@ -2206,6 +2212,8 @@
       "202308",
       "202309"
     ],
-    "active": []
+    "active": [
+      "202310"
+    ]
   }
 }

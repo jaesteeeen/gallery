@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-10)
+![](https://www.bing.com/th?id=OHR.LakeBledSunrise_DE-DE0873272145_UHD.jpg&w=1000)Today: [Der Bleder See, von Osojnica aus bei Sonnenaufgang gesehen, Slowenien (© Rasica/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSunrise_DE-DE0873272145_UHD.jpg)

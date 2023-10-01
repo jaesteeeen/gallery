@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-10)
+![](https://www.bing.com/th?id=OHR.LakeBledSunrise_EN-GB9672401018_UHD.jpg&w=1000)Today: [Lake Bled, Slovenia (© Rasica/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSunrise_EN-GB9672401018_UHD.jpg)

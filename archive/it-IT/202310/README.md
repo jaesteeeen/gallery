@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-10)
+![](https://www.bing.com/th?id=OHR.LakeBledSunrise_IT-IT9781591413_UHD.jpg&w=1000)Today: [Il lago di Bled dal belvedere di Osojnica all'alba, Slovenia (© Rasica/Getty Images)](https://www.bing.com/th?id=OHR.LakeBledSunrise_IT-IT9781591413_UHD.jpg)

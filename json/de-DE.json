@@ -2189,6 +2189,12 @@
       "url": "https://www.bing.com/th?id=OHR.ShenandoahFoliage_DE-DE6908193483_UHD.jpg",
       "copyright": "Herbstfarben im Shenandoah-Nationalpark, Virginia, USA (© Michael Ver Sprill/Getty Images)",
       "copyrightlink": "/search?q=Shenandoah-Nationalpark&form=hpcapt&filters=HpDate%3a%2220230929_2200%22"
+    },
+    {
+      "enddate": "20231001",
+      "url": "https://www.bing.com/th?id=OHR.LakeBledSunrise_DE-DE0873272145_UHD.jpg",
+      "copyright": "Der Bleder See, von Osojnica aus bei Sonnenaufgang gesehen, Slowenien (© Rasica/Getty Images)",
+      "copyrightlink": "/search?q=Bleder+See+&form=hpcapt&filters=HpDate%3a%2220230930_2200%22"
     }
   ],
   "months": {
@@ -2206,6 +2212,8 @@
       "202308",
       "202309"
     ],
-    "active": []
+    "active": [
+      "202310"
+    ]
   }
 }

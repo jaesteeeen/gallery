@@ -1,6 +1,7 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg&w=1000)Today: [狼蛛星云中形成的年轻恒星，詹姆斯·韦布空间望远镜 (© NASA, ESA, CSA, STScI, Webb ERO Production Team)](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg&w=1000)Today: [巴布亚企鹅，南极洲 (© Art Wolfe/Getty Images)](https://www.bing.com/th?id=OHR.GentooJump_ZH-CN9625511393_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-03 [download 4k](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg)|![](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-02 [download 4k](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg)|![](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-01 [download 4k](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-04 [download 4k](https://www.bing.com/th?id=OHR.TarantulaNebula_ZH-CN9340300473_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-03 [download 4k](https://www.bing.com/th?id=OHR.WhitsundaySwirl_ZH-CN9085371328_UHD.jpg)|![](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-02 [download 4k](https://www.bing.com/th?id=OHR.VerdonCanyon_ZH-CN8872507857_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2023-10-01 [download 4k](https://www.bing.com/th?id=OHR.NationalDay2023_ZH-CN8608297006_UHD.jpg)|

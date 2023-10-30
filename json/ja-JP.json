@@ -2369,6 +2369,12 @@
       "url": "https://www.bing.com/th?id=OHR.GlenariffForest_JA-JP1774079251_UHD.jpg",
       "copyright": "グレナリフ森林公園, 北アイルランド アントリム県 (© Peter Zelei/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b0%e3%83%ac%e3%83%8a%e3%83%aa%e3%83%95%e6%a3%ae%e6%9e%97%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220231029_1500%22"
+    },
+    {
+      "enddate": "20231031",
+      "url": "https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_UHD.jpg",
+      "copyright": "ハロウィンのシンボルであるジャック・オー・ランタン (© Bing Image Creator)",
+      "copyrightlink": "/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%83%bb%e3%82%aa%e3%83%bc%e3%83%bb%e3%83%a9%e3%83%b3%e3%82%bf%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220231030_1500%22"
     }
   ],
   "months": {
@@ -2384,10 +2390,9 @@
       "202306",
       "202307",
       "202308",
-      "202309"
-    ],
-    "active": [
+      "202309",
       "202310"
-    ]
+    ],
+    "active": []
   }
 }

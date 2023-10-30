@@ -2363,6 +2363,12 @@
       "url": "https://www.bing.com/th?id=OHR.KennyLake_FR-CA9652787331_UHD.jpg",
       "copyright": "Lac Kenny à l'aube, Parc provincial du Lac-Supérieur, Ontario, Canada  (© Don Johnston/agefotostock)",
       "copyrightlink": "/search?q=Lake+Superior+Provincidal+Park+Ontario&form=hpcapt&filters=HpDate%3a%2220231029_0400%22"
+    },
+    {
+      "enddate": "20231031",
+      "url": "https://www.bing.com/th?id=OHR.AutumnRaven_FR-CA7668123944_UHD.jpg",
+      "copyright": "Grand corbeau assis sur une branche (© WildMedia/Shutterstock)",
+      "copyrightlink": "/search?q=grand+corbeau+oiseau&form=hpcapt&filters=HpDate%3a%2220231030_0400%22"
     }
   ],
   "months": {
@@ -2378,10 +2384,9 @@
       "202306",
       "202307",
       "202308",
-      "202309"
-    ],
-    "active": [
+      "202309",
       "202310"
-    ]
+    ],
+    "active": []
   }
 }

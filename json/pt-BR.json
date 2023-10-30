@@ -2363,6 +2363,12 @@
       "url": "https://www.bing.com/th?id=OHR.RoyalCabinet_PT-BR0309884502_UHD.jpg",
       "copyright": "Interior do Real Gabinete Português de Leitura, Rio de Janeiro, Brasil (© Donatas Dabravolskas/Shutterstock)",
       "copyrightlink": "/search?q=Real+Gabinete+Portugu%c3%aas+de+Leitura&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20231031",
+      "url": "https://www.bing.com/th?id=OHR.AutumnRaven_PT-BR0746434304_UHD.jpg",
+      "copyright": "Corvo comum pousado em um galho (© WildMedia/Shutterstock)",
+      "copyrightlink": "/search?q=Corvo+comum&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -2378,10 +2384,9 @@
       "202306",
       "202307",
       "202308",
-      "202309"
-    ],
-    "active": [
+      "202309",
       "202310"
-    ]
+    ],
+    "active": []
   }
 }

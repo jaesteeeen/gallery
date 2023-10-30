@@ -2363,6 +2363,12 @@
       "url": "https://www.bing.com/th?id=OHR.SavannahSculpture_EN-CA3768697173_UHD.jpg",
       "copyright": "Bonaventure Cemetery, Savannah, Georgia (© Kelly vanDellen/Alamy)",
       "copyrightlink": "/search?q=Savannah+Georgia&form=hpcapt&filters=HpDate%3a%2220231029_0400%22"
+    },
+    {
+      "enddate": "20231031",
+      "url": "https://www.bing.com/th?id=OHR.AutumnRaven_EN-CA4419353376_UHD.jpg",
+      "copyright": "Common raven sitting on a branch (© WildMedia/Shutterstock)",
+      "copyrightlink": "/search?q=common+raven&form=hpcapt&filters=HpDate%3a%2220231030_0400%22"
     }
   ],
   "months": {
@@ -2378,10 +2384,9 @@
       "202306",
       "202307",
       "202308",
-      "202309"
-    ],
-    "active": [
+      "202309",
       "202310"
-    ]
+    ],
+    "active": []
   }
 }

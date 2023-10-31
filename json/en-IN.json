@@ -2375,6 +2375,12 @@
       "url": "https://www.bing.com/th?id=OHR.FuzerCastle_EN-IN7089088416_UHD.jpg",
       "copyright": "Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)",
       "copyrightlink": "/search?q=hungary&form=hpcapt&filters=HpDate%3a%2220231030_1830%22"
+    },
+    {
+      "enddate": "20231101",
+      "url": "https://www.bing.com/th?id=OHR.HautBarr_EN-IN3887832280_UHD.jpg",
+      "copyright": "Haut-Barr Castle, Alsace, France (© Andrea Pistolesi/Getty Images)",
+      "copyrightlink": "/search?q=ch%c3%a2teau+du+haut-barr&form=hpcapt&filters=HpDate%3a%2220231031_1830%22"
     }
   ],
   "months": {
@@ -2393,6 +2399,8 @@
       "202309",
       "202310"
     ],
-    "active": []
+    "active": [
+      "202311"
+    ]
   }
 }

@@ -2375,6 +2375,12 @@
       "url": "https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_UHD.jpg",
       "copyright": "ハロウィンのシンボルであるジャック・オー・ランタン (© Bing Image Creator)",
       "copyrightlink": "/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%af%e3%83%bb%e3%82%aa%e3%83%bc%e3%83%bb%e3%83%a9%e3%83%b3%e3%82%bf%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220231030_1500%22"
+    },
+    {
+      "enddate": "20231101",
+      "url": "https://www.bing.com/th?id=OHR.AstoriaBridge_JA-JP5052562579_UHD.jpg",
+      "copyright": "コロンビア川とアストリア・メグラー橋, 米国 オレゴン州 (© Dan Mihai/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%a2%e3%82%b9%e3%83%88%e3%83%aa%e3%82%a2%e3%83%bb%e3%83%a1%e3%82%b0%e3%83%a9%e3%83%bc%e6%a9%8b&form=hpcapt&filters=HpDate%3a%2220231031_1500%22"
     }
   ],
   "months": {
@@ -2393,6 +2399,8 @@
       "202309",
       "202310"
     ],
-    "active": []
+    "active": [
+      "202311"
+    ]
   }
 }

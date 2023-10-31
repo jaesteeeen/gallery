@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.AstoriaBridge_JA-JP5052562579_UHD.jpg&w=1000)Today: [コロンビア川とアストリア・メグラー橋, 米国 オレゴン州 (© Dan Mihai/Getty Images)](https://www.bing.com/th?id=OHR.AstoriaBridge_JA-JP5052562579_UHD.jpg)

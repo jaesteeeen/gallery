@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg&w=1000)Today: [上巴尔城堡，阿尔萨斯，法国 (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.HautBarr_ZH-CN8274813404_UHD.jpg)

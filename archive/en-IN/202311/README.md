@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HautBarr_EN-IN3887832280_UHD.jpg&w=1000)Today: [Haut-Barr Castle, Alsace, France (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.HautBarr_EN-IN3887832280_UHD.jpg)

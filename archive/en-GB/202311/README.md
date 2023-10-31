@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-GB0364731391_UHD.jpg&w=1000)Today: [Halloween jack-o'-lanterns on a porch (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-GB0364731391_UHD.jpg)

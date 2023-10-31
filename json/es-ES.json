@@ -2369,6 +2369,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnRaven_ES-ES0937725332_UHD.jpg",
       "copyright": "Cuervo común sentado en una rama (© WildMedia/Shutterstock)",
       "copyrightlink": "/search?q=cuervo&form=hpcapt&filters=HpDate%3a%2220231029_2300%22"
+    },
+    {
+      "enddate": "20231031",
+      "url": "https://www.bing.com/th?id=OHR.HalloweenPorchAI_ES-ES1106501127_UHD.jpg",
+      "copyright": "Farolillos de Halloween en un porche (© Bing Image Creator)",
+      "copyrightlink": "/search?q=calabazas+de+halloween&form=hpcapt&filters=HpDate%3a%2220231030_2300%22"
     }
   ],
   "months": {
@@ -2384,10 +2390,9 @@
       "202306",
       "202307",
       "202308",
-      "202309"
-    ],
-    "active": [
+      "202309",
       "202310"
-    ]
+    ],
+    "active": []
   }
 }

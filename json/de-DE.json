@@ -2369,6 +2369,12 @@
       "url": "https://www.bing.com/th?id=OHR.MallarDucks_DE-DE7798366188_UHD.jpg",
       "copyright": "Zwei Stockenten im Wasser, Herbst, Deutschland (© sun ok/Shutterstock)",
       "copyrightlink": "/search?q=Stockenten&form=hpcapt&filters=HpDate%3a%2220231029_2300%22"
+    },
+    {
+      "enddate": "20231031",
+      "url": "https://www.bing.com/th?id=OHR.HalloweenPorchAI_DE-DE1828718794_UHD.jpg",
+      "copyright": "Halloween-Kürbisse auf einer Veranda (© Bing Image Creator)",
+      "copyrightlink": "/search?q=Jack+O%27Lantern&form=hpcapt&filters=HpDate%3a%2220231030_2300%22"
     }
   ],
   "months": {
@@ -2384,10 +2390,9 @@
       "202306",
       "202307",
       "202308",
-      "202309"
-    ],
-    "active": [
+      "202309",
       "202310"
-    ]
+    ],
+    "active": []
   }
 }

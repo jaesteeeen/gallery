@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_PT-BR0951998014_UHD.jpg&w=1000)Today: [Abóboras de Halloween em uma varanda (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_PT-BR0951998014_UHD.jpg)

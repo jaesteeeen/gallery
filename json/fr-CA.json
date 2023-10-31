@@ -2369,6 +2369,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnRaven_FR-CA7668123944_UHD.jpg",
       "copyright": "Grand corbeau assis sur une branche (© WildMedia/Shutterstock)",
       "copyrightlink": "/search?q=grand+corbeau+oiseau&form=hpcapt&filters=HpDate%3a%2220231030_0400%22"
+    },
+    {
+      "enddate": "20231101",
+      "url": "https://www.bing.com/th?id=OHR.HalloweenPorchAI_FR-CA7805975704_UHD.jpg",
+      "copyright": "Lanternes citrouilles d'Halloween sous un porche (© Bing Image Creator)",
+      "copyrightlink": "/search?q=lanterne+citrouille+halloween&form=hpcapt&filters=HpDate%3a%2220231031_0400%22"
     }
   ],
   "months": {
@@ -2387,6 +2393,8 @@
       "202309",
       "202310"
     ],
-    "active": []
+    "active": [
+      "202311"
+    ]
   }
 }

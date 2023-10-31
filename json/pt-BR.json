@@ -2369,6 +2369,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnRaven_PT-BR0746434304_UHD.jpg",
       "copyright": "Corvo comum pousado em um galho (© WildMedia/Shutterstock)",
       "copyrightlink": "/search?q=Corvo+comum&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20231101",
+      "url": "https://www.bing.com/th?id=OHR.HalloweenPorchAI_PT-BR0951998014_UHD.jpg",
+      "copyright": "Abóboras de Halloween em uma varanda (© Bing Image Creator)",
+      "copyrightlink": "/search?q=Ab%c3%b3boras+de+Halloween&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -2387,6 +2393,8 @@
       "202309",
       "202310"
     ],
-    "active": []
+    "active": [
+      "202311"
+    ]
   }
 }

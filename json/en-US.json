@@ -4013,6 +4013,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnRaven_EN-US0686194098_UHD.jpg",
       "copyright": "Common raven sitting on a branch (© WildMedia/Shutterstock)",
       "copyrightlink": "/search?q=common+raven&form=hpcapt&filters=HpDate%3a%2220231030_0700%22"
+    },
+    {
+      "enddate": "20231101",
+      "url": "https://www.bing.com/th?id=OHR.HalloweenPorchAI_EN-US0776611565_UHD.jpg",
+      "copyright": "Halloween jack-o'-lanterns on a porch (© Bing Image Creator)",
+      "copyrightlink": "/search?q=jack+o+lantern&form=hpcapt&filters=HpDate%3a%2220231031_0700%22"
     }
   ],
   "months": {
@@ -4040,6 +4046,8 @@
       "202309",
       "202310"
     ],
-    "active": []
+    "active": [
+      "202311"
+    ]
   }
 }

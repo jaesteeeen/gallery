@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HautBarr_FR-FR8742870130_UHD.jpg&w=1000)Today: [Château de Haut-Barr, Pays de Saverne, Vosges, France (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.HautBarr_FR-FR8742870130_UHD.jpg)

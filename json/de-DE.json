@@ -2375,6 +2375,12 @@
       "url": "https://www.bing.com/th?id=OHR.HalloweenPorchAI_DE-DE1828718794_UHD.jpg",
       "copyright": "Halloween-Kürbisse auf einer Veranda (© Bing Image Creator)",
       "copyrightlink": "/search?q=Jack+O%27Lantern&form=hpcapt&filters=HpDate%3a%2220231030_2300%22"
+    },
+    {
+      "enddate": "20231101",
+      "url": "https://www.bing.com/th?id=OHR.HautBarr_DE-DE1903571271_UHD.jpg",
+      "copyright": "Burg Hohbarr, Elsass, Frankreich (© Andrea Pistolesi/Getty Images)",
+      "copyrightlink": "/search?q=Burg+Hohbarr&form=hpcapt&filters=HpDate%3a%2220231031_2300%22"
     }
   ],
   "months": {
@@ -2393,6 +2399,8 @@
       "202309",
       "202310"
     ],
-    "active": []
+    "active": [
+      "202311"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HautBarr_ES-ES1346703864_UHD.jpg&w=1000)Today: [Castillo de Haut-Barr, región de Saverne, Vosgos, Francia (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.HautBarr_ES-ES1346703864_UHD.jpg)

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HautBarr_DE-DE1903571271_UHD.jpg&w=1000)Today: [Burg Hohbarr, Elsass, Frankreich (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.HautBarr_DE-DE1903571271_UHD.jpg)

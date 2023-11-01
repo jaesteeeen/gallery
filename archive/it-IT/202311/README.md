@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-11)
+![](https://www.bing.com/th?id=OHR.HautBarr_IT-IT9951330243_UHD.jpg&w=1000)Today: [Castello di Haut-Barr, Alsazia, Francia (© Andrea Pistolesi/Getty Images)](https://www.bing.com/th?id=OHR.HautBarr_IT-IT9951330243_UHD.jpg)

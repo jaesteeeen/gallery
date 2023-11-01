@@ -2375,6 +2375,12 @@
       "url": "https://www.bing.com/th?id=OHR.HalloweenPorchAI_IT-IT0209206965_UHD.jpg",
       "copyright": "Le lanterne di Halloween in veranda (© Bing Image Creator)",
       "copyrightlink": "/search?q=jack+o+lantern&form=hpcapt"
+    },
+    {
+      "enddate": "20231101",
+      "url": "https://www.bing.com/th?id=OHR.HautBarr_IT-IT9951330243_UHD.jpg",
+      "copyright": "Castello di Haut-Barr, Alsazia, Francia (© Andrea Pistolesi/Getty Images)",
+      "copyrightlink": "/search?q=Castello+Haut-K%c5%93nigsbourg+dov%27%c3%a8&form=hpcapt"
     }
   ],
   "months": {
@@ -2393,6 +2399,8 @@
       "202309",
       "202310"
     ],
-    "active": []
+    "active": [
+      "202311"
+    ]
   }
 }

@@ -2543,6 +2543,12 @@
       "url": "https://www.bing.com/th?id=OHR.HumanKindness_PT-BR7560592724_UHD.jpg",
       "copyright": "Giant land art fresco by artist Saype in Istanbul, Türkiye (© Chris McGrath/Getty Images)",
       "copyrightlink": "/search?q=arte+de+Saype+em+Istambul&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20231130",
+      "url": "https://www.bing.com/th?id=OHR.TreeLighting_PT-BR7736994809_UHD.jpg",
+      "copyright": "Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)",
+      "copyrightlink": "/search?q=Ilumina%c3%a7%c3%a3o+da+%c3%a1rvore+de+Natal+do+Rockefeller+Center&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -2559,10 +2565,9 @@
       "202307",
       "202308",
       "202309",
-      "202310"
-    ],
-    "active": [
+      "202310",
       "202311"
-    ]
+    ],
+    "active": []
   }
 }

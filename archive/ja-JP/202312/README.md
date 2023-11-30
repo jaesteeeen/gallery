@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-12)
+![](https://www.bing.com/th?id=OHR.IcebergAntarctica_JA-JP7499377944_UHD.jpg&w=1000)Today: [ロス海の氷山, 南極 (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_JA-JP7499377944_UHD.jpg)

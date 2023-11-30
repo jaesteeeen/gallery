@@ -2555,6 +2555,12 @@
       "url": "https://www.bing.com/th?id=OHR.TrotternishStorr_JA-JP7531639858_UHD.jpg",
       "copyright": "スカイ島の奇岩, イギリス スコットランド (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=The+Storr&form=hpcapt&filters=HpDate%3a%2220231129_1500%22"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergAntarctica_JA-JP7499377944_UHD.jpg",
+      "copyright": "ロス海の氷山, 南極 (© Michel Roggo/Minden Pictures)",
+      "copyrightlink": "/search?q=%e5%8d%97%e6%a5%b5%e5%a4%a7%e9%99%b8&form=hpcapt&filters=HpDate%3a%2220231130_1500%22"
     }
   ],
   "months": {
@@ -2574,6 +2580,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

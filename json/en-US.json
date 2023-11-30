@@ -4193,6 +4193,12 @@
       "url": "https://www.bing.com/th?id=OHR.TreeLighting_EN-US4396317497_UHD.jpg",
       "copyright": "Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)",
       "copyrightlink": "/search?q=Rockefeller+Center+Christmas+Tree+Lighting&form=hpcapt&filters=HpDate%3a%2220231129_0800%22"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.TrotternishStorr_EN-US4700593682_UHD.jpg",
+      "copyright": "The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)",
+      "copyrightlink": "/search?q=saint+andrew%27s+day+scotland&form=hpcapt&filters=HpDate%3a%2220231130_0800%22"
     }
   ],
   "months": {
@@ -4221,6 +4227,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

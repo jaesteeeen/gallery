@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-12)
+![](https://www.bing.com/th?id=OHR.TrotternishStorr_FR-CA4296980433_UHD.jpg&w=1000)Today: [The Storr, un affleurement rocheux sur l'île de Skye, Écosse, Royaume-Uni (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_FR-CA4296980433_UHD.jpg)

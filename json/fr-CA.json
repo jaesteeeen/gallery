@@ -2549,6 +2549,12 @@
       "url": "https://www.bing.com/th?id=OHR.TreeLighting_FR-CA4045030545_UHD.jpg",
       "copyright": "Arbre de Noël du Rockefeller Center, New York, États-Unis (© Jonathan Orenstein/Getty Images)",
       "copyrightlink": "/search?q=sapin+de+no%c3%abl+rockefeller+center+&form=hpcapt&filters=HpDate%3a%2220231129_0500%22"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.TrotternishStorr_FR-CA4296980433_UHD.jpg",
+      "copyright": "The Storr, un affleurement rocheux sur l'île de Skye, Écosse, Royaume-Uni (© Juan Maria Coy Vergara/Getty Images)",
+      "copyrightlink": "/search?q=F%c3%aate+de+la+Saint-Andr%c3%a9&form=hpcapt&filters=HpDate%3a%2220231130_0500%22"
     }
   ],
   "months": {
@@ -2568,6 +2574,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

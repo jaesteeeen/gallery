@@ -2549,6 +2549,12 @@
       "url": "https://www.bing.com/th?id=OHR.TreeLighting_FR-FR6609307471_UHD.jpg",
       "copyright": "Arbre de Noël du Rockefeller Center, New York, États-Unis (© Jonathan Orenstein/Getty Images)",
       "copyrightlink": "/search?q=sapin+de+no%c3%abl+rockefeller+center+&form=hpcapt&filters=HpDate%3a%2220231128_2300%22"
+    },
+    {
+      "enddate": "20231130",
+      "url": "https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg",
+      "copyright": "Cyprès chauves à l'étang de Boulieu, Isère, France (© photosimysia/Getty Images)",
+      "copyrightlink": "/search?q=Cypr%c3%a8s+chauves++&form=hpcapt&filters=HpDate%3a%2220231129_2300%22"
     }
   ],
   "months": {
@@ -2565,10 +2571,9 @@
       "202307",
       "202308",
       "202309",
-      "202310"
-    ],
-    "active": [
+      "202310",
       "202311"
-    ]
+    ],
+    "active": []
   }
 }

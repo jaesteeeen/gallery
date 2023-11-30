@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-12)
+![](https://www.bing.com/th?id=OHR.LeadenhallUK_EN-GB3042111411_UHD.jpg&w=1000)Today: [Leadenhall Market, London (© Vittorio Caramazza/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.LeadenhallUK_EN-GB3042111411_UHD.jpg)

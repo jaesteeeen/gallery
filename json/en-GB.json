@@ -2543,6 +2543,12 @@
       "url": "https://www.bing.com/th?id=OHR.TreeLighting_EN-GB2794136797_UHD.jpg",
       "copyright": "Rockefeller Centre Christmas Tree, New York City, USA (© Jonathan Orenstein/Getty Images)",
       "copyrightlink": "/search?q=Rockefeller+Center+Christmas+Tree+Lighting&form=hpcapt&filters=HpDate%3a%2220231129_0000%22"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.LeadenhallUK_EN-GB3042111411_UHD.jpg",
+      "copyright": "Leadenhall Market, London (© Vittorio Caramazza/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Leadenhall+Market&form=hpcapt&filters=HpDate%3a%2220231130_0000%22"
     }
   ],
   "months": {
@@ -2562,6 +2568,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

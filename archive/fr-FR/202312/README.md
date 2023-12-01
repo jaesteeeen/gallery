@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-12)
+![](https://www.bing.com/th?id=OHR.IcebergAntarctica_FR-FR1355397777_UHD.jpg&w=1000)Today: [Iceberg, mer de Ross, Antarctique (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_FR-FR1355397777_UHD.jpg)

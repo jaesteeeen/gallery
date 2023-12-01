@@ -2555,6 +2555,12 @@
       "url": "https://www.bing.com/th?id=OHR.TrotternishStorr_ES-ES6640552170_UHD.jpg",
       "copyright": "El Storr, un afloramiento rocoso en la isla de Skye, Escocia, Reino Unido (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=isla+de+Skye&form=hpcapt&filters=HpDate%3a%2220231129_2300%22"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.SierraNevadaGranada_ES-ES5604012292_UHD.jpg",
+      "copyright": "Pradollano, Parque Nacional de Sierra Nevada, Granada, Andalucía, España (© iStock/Getty Images Plus)",
+      "copyrightlink": "/search?q=sierra+nevada+Granada&form=hpcapt&filters=HpDate%3a%2220231130_2300%22"
     }
   ],
   "months": {
@@ -2574,6 +2580,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

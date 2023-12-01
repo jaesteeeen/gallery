@@ -2555,6 +2555,12 @@
       "url": "https://www.bing.com/th?id=OHR.TrotternishStorr_DE-DE5333891461_UHD.jpg",
       "copyright": "Der Old Man of Storr, eine Felsnadel auf der Isle of Skye, Schottland, UK (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=Der+Old+Man+of+Storr+Schottland&form=hpcapt&filters=HpDate%3a%2220231129_2300%22"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergAntarctica_DE-DE5154867444_UHD.jpg",
+      "copyright": "Eisberg, Rossmeer, Antarktis (© Michel Roggo/Minden Pictures)",
+      "copyrightlink": "/search?q=Antarktis&form=hpcapt&filters=HpDate%3a%2220231130_2300%22"
     }
   ],
   "months": {
@@ -2574,6 +2580,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

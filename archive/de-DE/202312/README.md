@@ -1,0 +1,2 @@
+## Bing Wallpaper (2023-12)
+![](https://www.bing.com/th?id=OHR.IcebergAntarctica_DE-DE5154867444_UHD.jpg&w=1000)Today: [Eisberg, Rossmeer, Antarktis (© Michel Roggo/Minden Pictures)](https://www.bing.com/th?id=OHR.IcebergAntarctica_DE-DE5154867444_UHD.jpg)

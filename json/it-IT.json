@@ -2555,6 +2555,12 @@
       "url": "https://www.bing.com/th?id=OHR.TrotternishStorr_IT-IT5546138012_UHD.jpg",
       "copyright": "Lo Storr, un affioramento roccioso sull'Isola di Skye, Scozia (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=Giorno+di+Sant%27Andrea+Scozia&form=hpcapt"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergAntarctica_IT-IT9598451046_UHD.jpg",
+      "copyright": "Iceberg, Mare di Ross, Antartide (© Michel Roggo/Minden Pictures)",
+      "copyrightlink": "/search?q=il+Trattato+Antartico+cos%27%c3%a8+&form=hpcapt"
     }
   ],
   "months": {
@@ -2574,6 +2580,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

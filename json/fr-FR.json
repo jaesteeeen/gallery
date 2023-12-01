@@ -2555,6 +2555,12 @@
       "url": "https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg",
       "copyright": "Cyprès chauves à l'étang de Boulieu, Isère, France (© photosimysia/Getty Images)",
       "copyrightlink": "/search?q=Cypr%c3%a8s+chauves++&form=hpcapt&filters=HpDate%3a%2220231129_2300%22"
+    },
+    {
+      "enddate": "20231201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergAntarctica_FR-FR1355397777_UHD.jpg",
+      "copyright": "Iceberg, mer de Ross, Antarctique (© Michel Roggo/Minden Pictures)",
+      "copyrightlink": "/search?q=+Jour+Antarctique&form=hpcapt&filters=HpDate%3a%2220231130_2300%22"
     }
   ],
   "months": {
@@ -2574,6 +2580,8 @@
       "202310",
       "202311"
     ],
-    "active": []
+    "active": [
+      "202312"
+    ]
   }
 }

@@ -2723,6 +2723,12 @@
       "url": "https://www.bing.com/th?id=OHR.HogmanayFireworksSoctland_EN-GB9543718054_UHD.jpg",
       "copyright": "Hogmanay firework display, Edinburgh, Scotland (© The Travel Library/Shutterstock)",
       "copyrightlink": "/search?q=Hogmanay&form=hpcapt&filters=HpDate%3a%2220231229_0000%22"
+    },
+    {
+      "enddate": "20231231",
+      "url": "https://www.bing.com/th?id=OHR.TadamiWinter_EN-GB2259719616_UHD.jpg",
+      "copyright": "Daiichi Tadami River Bridge, Fukushima, Japan (© DoctorEgg/Getty Images)",
+      "copyrightlink": "/search?q=Tadami+River&form=hpcapt&filters=HpDate%3a%2220231230_0000%22"
     }
   ],
   "months": {
@@ -2740,10 +2746,9 @@
       "202308",
       "202309",
       "202310",
-      "202311"
-    ],
-    "active": [
+      "202311",
       "202312"
-    ]
+    ],
+    "active": []
   }
 }

@@ -2729,6 +2729,12 @@
       "url": "https://www.bing.com/th?id=OHR.BlueAmsterdam_EN-CA0805614329_UHD.jpg",
       "copyright": "Oud-West neighborhood, Amsterdam, Netherlands (© George Pachantouris/Getty Images)",
       "copyrightlink": "/search?q=Amsterdam+Netherlands&form=hpcapt&filters=HpDate%3a%2220231229_0500%22"
+    },
+    {
+      "enddate": "20231231",
+      "url": "https://www.bing.com/th?id=OHR.TadamiWinter_EN-CA2053501506_UHD.jpg",
+      "copyright": "Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)",
+      "copyrightlink": "/search?q=Tadami+River&form=hpcapt&filters=HpDate%3a%2220231230_0500%22"
     }
   ],
   "months": {
@@ -2746,10 +2752,9 @@
       "202308",
       "202309",
       "202310",
-      "202311"
-    ],
-    "active": [
+      "202311",
       "202312"
-    ]
+    ],
+    "active": []
   }
 }

@@ -2729,6 +2729,12 @@
       "url": "https://www.bing.com/th?id=OHR.TadamiWinter_EN-GB2259719616_UHD.jpg",
       "copyright": "Daiichi Tadami River Bridge, Fukushima, Japan (© DoctorEgg/Getty Images)",
       "copyrightlink": "/search?q=Tadami+River&form=hpcapt&filters=HpDate%3a%2220231230_0000%22"
+    },
+    {
+      "enddate": "20240101",
+      "url": "https://www.bing.com/th?id=OHR.ThailandNewYears_EN-GB2689906608_UHD.jpg",
+      "copyright": "Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)",
+      "copyrightlink": "/search?q=new+years+eve&form=hpcapt&filters=HpDate%3a%2220231231_0000%22"
     }
   ],
   "months": {
@@ -2749,6 +2755,8 @@
       "202311",
       "202312"
     ],
-    "active": []
+    "active": [
+      "202401"
+    ]
   }
 }

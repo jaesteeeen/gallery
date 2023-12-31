@@ -2735,6 +2735,12 @@
       "url": "https://www.bing.com/th?id=OHR.TadamiWinter_ES-ES7930493260_UHD.jpg",
       "copyright": "Puente sobre el río Daiichi Tadami, Fukushima, Japón (© DoctorEgg/Getty Images)",
       "copyrightlink": "/search?q=Rio+Tadami&form=hpcapt&filters=HpDate%3a%2220231229_2300%22"
+    },
+    {
+      "enddate": "20231231",
+      "url": "https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg",
+      "copyright": "Año Nuevo en la Puerta del Sol, Madrid, España (© ADDICTIVE STOCK CREATIVES/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Nochevieja&form=hpcapt&filters=HpDate%3a%2220231230_2300%22"
     }
   ],
   "months": {
@@ -2752,10 +2758,9 @@
       "202308",
       "202309",
       "202310",
-      "202311"
-    ],
-    "active": [
+      "202311",
       "202312"
-    ]
+    ],
+    "active": []
   }
 }

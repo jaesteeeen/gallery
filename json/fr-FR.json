@@ -2735,6 +2735,12 @@
       "url": "https://www.bing.com/th?id=OHR.TadamiWinter_FR-FR9156285439_UHD.jpg",
       "copyright": "Pont de la rivière Daiichi Tadami, Fukushima, Japon (© DoctorEgg/Getty Images)",
       "copyrightlink": "/search?q=rivi%c3%a8re+Tadami+&form=hpcapt&filters=HpDate%3a%2220231229_2300%22"
+    },
+    {
+      "enddate": "20231231",
+      "url": "https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg",
+      "copyright": "Feux d'artifice sur Phra Nakhon Khiri, Phetchaburi, Thaïlande (© noomcpk/Shutterstock)",
+      "copyrightlink": "/search?q=r%c3%a9veillon+saint+sylvestre&form=hpcapt&filters=HpDate%3a%2220231230_2300%22"
     }
   ],
   "months": {
@@ -2752,10 +2758,9 @@
       "202308",
       "202309",
       "202310",
-      "202311"
-    ],
-    "active": [
+      "202311",
       "202312"
-    ]
+    ],
+    "active": []
   }
 }

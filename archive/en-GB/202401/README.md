@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-01)
+![](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-GB2689906608_UHD.jpg&w=1000)Today: [Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)](https://www.bing.com/th?id=OHR.ThailandNewYears_EN-GB2689906608_UHD.jpg)

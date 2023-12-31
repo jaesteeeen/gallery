@@ -2735,6 +2735,12 @@
       "url": "https://www.bing.com/th?id=OHR.TadamiWinter_DE-DE9740554519_UHD.jpg",
       "copyright": "Daiichi Tadami-Flussbrücke, Fukushima, Japan (© DoctorEgg/Getty Images)",
       "copyrightlink": "/search?q=Fluss+Tadami&form=hpcapt&filters=HpDate%3a%2220231229_2300%22"
+    },
+    {
+      "enddate": "20231231",
+      "url": "https://www.bing.com/th?id=OHR.ThailandNewYears_DE-DE0040209012_UHD.jpg",
+      "copyright": "Feuerwerk in Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)",
+      "copyrightlink": "/search?q=Sylvester&form=hpcapt&filters=HpDate%3a%2220231230_2300%22"
     }
   ],
   "months": {
@@ -2752,10 +2758,9 @@
       "202308",
       "202309",
       "202310",
-      "202311"
-    ],
-    "active": [
+      "202311",
       "202312"
-    ]
+    ],
+    "active": []
   }
 }

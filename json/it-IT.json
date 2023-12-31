@@ -2735,6 +2735,12 @@
       "url": "https://www.bing.com/th?id=OHR.TadamiWinter_IT-IT9712600092_UHD.jpg",
       "copyright": "Ponte Daiichi sul fiume Tadami, Fukushima, Giappone (© DoctorEgg/Getty Images)",
       "copyrightlink": "/search?q=prefettura+di+Fukushima&form=hpcapt"
+    },
+    {
+      "enddate": "20231231",
+      "url": "https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg",
+      "copyright": "Fuochi artificiali di Venezia, Italia (© Patryk Kosmider/Getty Images)",
+      "copyrightlink": "/search?q=notte+di+San+silvestro+cosa+%c3%a8&form=hpcapt"
     }
   ],
   "months": {
@@ -2752,10 +2758,9 @@
       "202308",
       "202309",
       "202310",
-      "202311"
-    ],
-    "active": [
+      "202311",
       "202312"
-    ]
+    ],
+    "active": []
   }
 }

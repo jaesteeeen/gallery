@@ -2741,6 +2741,12 @@
       "url": "https://www.bing.com/th?id=OHR.ThailandNewYears_EN-IN4004784311_UHD.jpg",
       "copyright": "Fireworks over Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)",
       "copyrightlink": "/search?q=new+years+eve&form=hpcapt&filters=HpDate%3a%2220231230_1830%22"
+    },
+    {
+      "enddate": "20240101",
+      "url": "https://www.bing.com/th?id=OHR.SleepingFox_EN-IN4256691389_UHD.jpg",
+      "copyright": "Red fox sleeping in the snow, Abruzzo, Italy (© marco vancini/500px/Getty Images)",
+      "copyrightlink": "/search?q=new+year%27s+day&form=hpcapt&filters=HpDate%3a%2220231231_1830%22"
     }
   ],
   "months": {
@@ -2761,6 +2767,8 @@
       "202311",
       "202312"
     ],
-    "active": []
+    "active": [
+      "202401"
+    ]
   }
 }

@@ -2741,6 +2741,12 @@
       "url": "https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg",
       "copyright": "増上寺の梵鐘, 東京 (© kanzilyou/Adobe Stock)",
       "copyrightlink": "/search?q=%e5%a2%97%e4%b8%8a%e5%af%ba%e3%81%ae%e6%a2%b5%e9%90%98&form=hpcapt&filters=HpDate%3a%2220231230_1500%22"
+    },
+    {
+      "enddate": "20240101",
+      "url": "https://www.bing.com/th?id=OHR.Sunrise2024_JA-JP1927003758_UHD.jpg",
+      "copyright": "本栖湖から見る富士山の日の出, 山梨県 (© Sakarin Sawasdinaka/Shutterstock)",
+      "copyrightlink": "/search?q=%e6%9c%ac%e6%a0%96%e6%b9%96%e3%81%8b%e3%82%89%e8%a6%8b%e3%82%8b%e5%af%8c%e5%a3%ab%e5%b1%b1%e3%81%ae%e6%97%a5%e3%81%ae%e5%87%ba&form=hpcapt&filters=HpDate%3a%2220231231_1500%22"
     }
   ],
   "months": {
@@ -2761,6 +2767,8 @@
       "202311",
       "202312"
     ],
-    "active": []
+    "active": [
+      "202401"
+    ]
   }
 }

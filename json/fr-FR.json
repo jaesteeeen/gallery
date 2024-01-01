@@ -2741,6 +2741,12 @@
       "url": "https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg",
       "copyright": "Feux d'artifice sur Phra Nakhon Khiri, Phetchaburi, Thaïlande (© noomcpk/Shutterstock)",
       "copyrightlink": "/search?q=r%c3%a9veillon+saint+sylvestre&form=hpcapt&filters=HpDate%3a%2220231230_2300%22"
+    },
+    {
+      "enddate": "20240101",
+      "url": "https://www.bing.com/th?id=OHR.SleepingFox_FR-FR9573665261_UHD.jpg",
+      "copyright": "Renard roux dormant dans la neige, Abruzzes, Italie (© marco vancini/500px/Getty Images)",
+      "copyrightlink": "/search?q=Le+jour+de+l%27an&form=hpcapt&filters=HpDate%3a%2220231231_2300%22"
     }
   ],
   "months": {
@@ -2761,6 +2767,8 @@
       "202311",
       "202312"
     ],
-    "active": []
+    "active": [
+      "202401"
+    ]
   }
 }

@@ -2741,6 +2741,12 @@
       "url": "https://www.bing.com/th?id=OHR.ThailandNewYears_DE-DE0040209012_UHD.jpg",
       "copyright": "Feuerwerk in Phra Nakhon Khiri, Phetchaburi, Thailand (© noomcpk/Shutterstock)",
       "copyrightlink": "/search?q=Sylvester&form=hpcapt&filters=HpDate%3a%2220231230_2300%22"
+    },
+    {
+      "enddate": "20240101",
+      "url": "https://www.bing.com/th?id=OHR.SleepingFox_DE-DE0284095330_UHD.jpg",
+      "copyright": "Schlafender Rotfuchs im Schnee, Abruzzen, Italien (© marco vancini/500px/Getty Images)",
+      "copyrightlink": "/search?q=Neujahr&form=hpcapt&filters=HpDate%3a%2220231231_2300%22"
     }
   ],
   "months": {
@@ -2761,6 +2767,8 @@
       "202311",
       "202312"
     ],
-    "active": []
+    "active": [
+      "202401"
+    ]
   }
 }

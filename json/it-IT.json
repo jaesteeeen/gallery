@@ -2741,6 +2741,12 @@
       "url": "https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg",
       "copyright": "Fuochi artificiali di Venezia, Italia (© Patryk Kosmider/Getty Images)",
       "copyrightlink": "/search?q=notte+di+San+silvestro+cosa+%c3%a8&form=hpcapt"
+    },
+    {
+      "enddate": "20240101",
+      "url": "https://www.bing.com/th?id=OHR.SleepingFox_IT-IT1479703607_UHD.jpg",
+      "copyright": "Volpe che sonnecchia nella neve, Abruzzo, Italia (© Marco Vancini/500px/Getty Images)",
+      "copyrightlink": "/search?q=primo+dell%27anno+cos%27%c3%a8&form=hpcapt"
     }
   ],
   "months": {
@@ -2761,6 +2767,8 @@
       "202311",
       "202312"
     ],
-    "active": []
+    "active": [
+      "202401"
+    ]
   }
 }

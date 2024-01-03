@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-08)
-![](https://www.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&w=1000)Today: [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://www.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg&w=1000)Latest: [Regional Park of Migliarino, San Rossore, Massaciuccoli, Italy (© Stefano Valeri/Alamy)](https://www.bing.com/th?id=OHR.Migliarino_EN-US6999892958_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

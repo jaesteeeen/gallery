@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-03)
-![](https://www.bing.com/th?id=OHR.SteyrRiver_FR-FR1114341287_UHD.jpg&w=1000)Today: [Rivière Steyr, Autriche (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.SteyrRiver_FR-FR1114341287_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SteyrRiver_FR-FR1114341287_UHD.jpg&w=1000)Latest: [Rivière Steyr, Autriche (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.SteyrRiver_FR-FR1114341287_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

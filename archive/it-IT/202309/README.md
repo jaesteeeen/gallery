@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-09)
-![](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_IT-IT7337701837_UHD.jpg&w=1000)Today: [Cascate del Dardagna in autunno, Bologna (© Alberto Ghizzi Panizza/Minden)](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_IT-IT7337701837_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_IT-IT7337701837_UHD.jpg&w=1000)Latest: [Cascate del Dardagna in autunno, Bologna (© Alberto Ghizzi Panizza/Minden)](https://www.bing.com/th?id=OHR.DardagnaWaterfalls_IT-IT7337701837_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

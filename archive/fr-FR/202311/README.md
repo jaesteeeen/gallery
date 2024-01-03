@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-11)
-![](https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg&w=1000)Today: [Cyprès chauves à l'étang de Boulieu, Isère, France (© photosimysia/Getty Images)](https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg&w=1000)Latest: [Cyprès chauves à l'étang de Boulieu, Isère, France (© photosimysia/Getty Images)](https://www.bing.com/th?id=OHR.BaldCypress_FR-FR6892436965_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

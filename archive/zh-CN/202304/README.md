@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-04)
-![](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg&w=1000)Today: [塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg&w=1000)Latest: [塞利努斯的神庙，西西里岛，意大利 (© Antonino Bartuccio/eStock)](https://www.bing.com/th?id=OHR.TempleE_ZH-CN9455488333_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

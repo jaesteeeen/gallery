@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-01)
-![](https://www.bing.com/th?id=OHR.ZebraTrio_IT-IT2903449182_UHD.jpg&w=1000)Today: [Zebre di Burchell, Riserva naturale di Rietvlei, Sudafrica (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_IT-IT2903449182_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ZebraTrio_IT-IT2903449182_UHD.jpg&w=1000)Latest: [Zebre di Burchell, Riserva naturale di Rietvlei, Sudafrica (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_IT-IT2903449182_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

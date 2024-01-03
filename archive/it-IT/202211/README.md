@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.RovinjCroatia_IT-IT2055846992_UHD.jpg&w=1000)Today: [Il centro storico di Rovigno, Croazia (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_IT-IT2055846992_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RovinjCroatia_IT-IT2055846992_UHD.jpg&w=1000)Latest: [Il centro storico di Rovigno, Croazia (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_IT-IT2055846992_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

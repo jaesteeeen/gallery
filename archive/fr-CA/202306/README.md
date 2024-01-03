@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.BanyakIslands_FR-CA5862995087_UHD.jpg&w=1000)Today: [Îles Banyak, Sumatra, Indonésie (© fbxx/Getty Images)](https://www.bing.com/th?id=OHR.BanyakIslands_FR-CA5862995087_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BanyakIslands_FR-CA5862995087_UHD.jpg&w=1000)Latest: [Îles Banyak, Sumatra, Indonésie (© fbxx/Getty Images)](https://www.bing.com/th?id=OHR.BanyakIslands_FR-CA5862995087_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-09)
-![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg&w=1000)Today: [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg&w=1000)Latest: [在新湾潜水的南露脊鲸，阿根廷瓦尔德斯半岛 (© Gabriel Rojo/Minden Pictures)](https://www.bing.com/th?id=OHR.EubalaenaAustralis_ZH-CN3366455170_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

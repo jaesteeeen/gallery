@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.AutumnRaven_EN-CA4419353376_UHD.jpg&w=1000)Today: [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_EN-CA4419353376_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.AutumnRaven_EN-CA4419353376_UHD.jpg&w=1000)Latest: [Common raven sitting on a branch (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_EN-CA4419353376_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

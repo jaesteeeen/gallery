@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.RovinjCroatia_DE-DE6853361778_UHD.jpg&w=1000)Today: [Altstadt von Rovinj, Kroatien (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_DE-DE6853361778_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RovinjCroatia_DE-DE6853361778_UHD.jpg&w=1000)Latest: [Altstadt von Rovinj, Kroatien (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_DE-DE6853361778_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

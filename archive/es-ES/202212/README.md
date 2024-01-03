@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.SydneyNYE_ES-ES6840908989_UHD.jpg&w=1000)Today: [Fuegos artificiales de Nochevieja, Sydney Harbour Bridge en Sídney, Australia (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_ES-ES6840908989_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SydneyNYE_ES-ES6840908989_UHD.jpg&w=1000)Latest: [Fuegos artificiales de Nochevieja, Sydney Harbour Bridge en Sídney, Australia (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_ES-ES6840908989_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-07)
-![](https://www.bing.com/th?id=OHR.RockHouse_JA-JP8879635056_UHD.jpg&w=1000)Today: [ホッキングヒルズ州立公園にある洞窟, 米国 オハイオ州 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_JA-JP8879635056_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RockHouse_JA-JP8879635056_UHD.jpg&w=1000)Latest: [ホッキングヒルズ州立公園にある洞窟, 米国 オハイオ州 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_JA-JP8879635056_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

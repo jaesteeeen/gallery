@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-12)
-![](https://www.bing.com/th?id=OHR.TadamiWinter_FR-CA3172603926_UHD.jpg&w=1000)Today: [Pont de la rivière Daiichi Tadami, Fukushima, Japon (© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.TadamiWinter_FR-CA3172603926_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TadamiWinter_FR-CA3172603926_UHD.jpg&w=1000)Latest: [Pont de la rivière Daiichi Tadami, Fukushima, Japon (© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.TadamiWinter_FR-CA3172603926_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

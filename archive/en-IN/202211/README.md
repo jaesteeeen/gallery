@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg&w=1000)Today: [View of the Himalayas from Khalia top trek trail in Kumaon, India (© Amit kg/Shutterstock)](https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg&w=1000)Latest: [View of the Himalayas from Khalia top trek trail in Kumaon, India (© Amit kg/Shutterstock)](https://www.bing.com/th?id=OHR.KhaliyaTopTrek_EN-IN6085442535_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-12)
-![](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg&w=1000)Today: [Año Nuevo en la Puerta del Sol, Madrid, España (© ADDICTIVE STOCK CREATIVES/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg&w=1000)Latest: [Año Nuevo en la Puerta del Sol, Madrid, España (© ADDICTIVE STOCK CREATIVES/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.SpainNewYear_ES-ES8250941524_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

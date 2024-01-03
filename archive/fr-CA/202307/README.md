@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-07)
-![](https://www.bing.com/th?id=OHR.PalouseHills_FR-CA4883644400_UHD.jpg&w=1000)Today: [Terres agricoles dans la région de Palouse, Washington, États-Unis (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_FR-CA4883644400_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.PalouseHills_FR-CA4883644400_UHD.jpg&w=1000)Latest: [Terres agricoles dans la région de Palouse, Washington, États-Unis (© EJ-J/Getty Images)](https://www.bing.com/th?id=OHR.PalouseHills_FR-CA4883644400_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

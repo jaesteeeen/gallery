@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-10)
-![](https://www.bing.com/th?id=OHR.SealRiver_FR-CA2968443449_UHD.jpg&w=1000)Today: [Ours polaire dans la baie d’Hudson, Manitoba (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_FR-CA2968443449_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SealRiver_FR-CA2968443449_UHD.jpg&w=1000)Latest: [Ours polaire dans la baie d’Hudson, Manitoba (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_FR-CA2968443449_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

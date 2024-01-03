@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg&w=1000)Today: [一起迎接2023年 (© GettyImages)](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg&w=1000)Latest: [一起迎接2023年 (© GettyImages)](https://www.bing.com/th?id=OHR.TheNationaDay_ZH-CN7631842209_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

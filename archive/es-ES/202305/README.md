@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-05)
-![](https://www.bing.com/th?id=OHR.WorldOtterDay_ES-ES1844828627_UHD.jpg&w=1000)Today: [Cría de nutria marina, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_ES-ES1844828627_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_ES-ES1844828627_UHD.jpg&w=1000)Latest: [Cría de nutria marina, Prince William Sound, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_ES-ES1844828627_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

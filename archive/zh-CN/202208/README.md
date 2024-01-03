@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-08)
-![](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_UHD.jpg&w=1000)Today: [新爱尔兰岛上的蓝指海星，巴布亚新几内亚 (© Jurgen Freund/Minden Pictures)](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_UHD.jpg&w=1000)Latest: [新爱尔兰岛上的蓝指海星，巴布亚新几内亚 (© Jurgen Freund/Minden Pictures)](https://www.bing.com/th?id=OHR.BlueLinckia_ZH-CN1103817183_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

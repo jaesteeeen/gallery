@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-01)
-![](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg&w=1000)Today: [Samenköpfe der Kanadischen Goldrute im Raureif im Morgenlicht, Wasgau, NP Pfälzerwald, Biosphärenreservat Pfälzerwald-Nordvogesen, Rheinland-Pfalz (©  mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg&w=1000)Latest: [Samenköpfe der Kanadischen Goldrute im Raureif im Morgenlicht, Wasgau, NP Pfälzerwald, Biosphärenreservat Pfälzerwald-Nordvogesen, Rheinland-Pfalz (©  mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.GoldruteWinter_DE-DE3393829775_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

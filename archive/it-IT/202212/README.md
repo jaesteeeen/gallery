@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_UHD.jpg&w=1000)Today: [Fuochi d'artificio di Capodanno, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_UHD.jpg&w=1000)Latest: [Fuochi d'artificio di Capodanno, Sydney Harbour Bridge, Australia (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_IT-IT6506933532_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.AutumnRaven_FR-CA7668123944_UHD.jpg&w=1000)Today: [Grand corbeau assis sur une branche (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_FR-CA7668123944_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.AutumnRaven_FR-CA7668123944_UHD.jpg&w=1000)Latest: [Grand corbeau assis sur une branche (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_FR-CA7668123944_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

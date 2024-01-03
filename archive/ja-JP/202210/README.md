@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-10)
-![](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg&w=1000)Today: [笑う 2 つのカボチャ (© sandsun/Getty Images)](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg&w=1000)Latest: [笑う 2 つのカボチャ (© sandsun/Getty Images)](https://www.bing.com/th?id=OHR.SmilingPunpkins2022_JA-JP8444611281_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

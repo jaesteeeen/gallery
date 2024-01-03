@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2024-01)
-![](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg&w=1000)Today: [Virupaksha temple in the ancient city of Vijayanagar at Hampi, Karnataka, India. (© leshiy985/shutterstock)](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg&w=1000)Latest: [Virupaksha temple in the ancient city of Vijayanagar at Hampi, Karnataka, India. (© leshiy985/shutterstock)](https://www.bing.com/th?id=OHR.VirupakshaTempleIN_EN-IN4741302858_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

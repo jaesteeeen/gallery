@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_UHD.jpg&w=1000)Today: [レイク・クラーク国立公園, 米国 アラスカ州 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_UHD.jpg&w=1000)Latest: [レイク・クラーク国立公園, 米国 アラスカ州 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_JA-JP8912125986_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

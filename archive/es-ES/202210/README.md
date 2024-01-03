@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-10)
-![](https://www.bing.com/th?id=OHR.WychwoodForest_ES-ES0246979359_UHD.jpg&w=1000)Today: [Árboles en el bosque de Wychwood cerca de Chipping Norton, Oxfordshire, Inglaterra (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_ES-ES0246979359_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WychwoodForest_ES-ES0246979359_UHD.jpg&w=1000)Latest: [Árboles en el bosque de Wychwood cerca de Chipping Norton, Oxfordshire, Inglaterra (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_ES-ES0246979359_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

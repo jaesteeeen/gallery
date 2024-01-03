@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.RovinjCroatia_ES-ES4775430067_UHD.jpg&w=1000)Today: [El casco antiguo de Rovinj, Croacia (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ES-ES4775430067_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RovinjCroatia_ES-ES4775430067_UHD.jpg&w=1000)Latest: [El casco antiguo de Rovinj, Croacia (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ES-ES4775430067_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

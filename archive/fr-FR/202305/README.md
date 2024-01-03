@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-05)
-![](https://www.bing.com/th?id=OHR.WorldOtterDay_FR-FR6635303643_UHD.jpg&w=1000)Today: [Petit de loutre de mer, Baie du Prince William, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_FR-FR6635303643_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_FR-FR6635303643_UHD.jpg&w=1000)Latest: [Petit de loutre de mer, Baie du Prince William, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_FR-FR6635303643_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

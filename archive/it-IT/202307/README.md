@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-07)
-![](https://www.bing.com/th?id=OHR.RockHouse_IT-IT3726334751_UHD.jpg&w=1000)Today: [Casa nella roccia, Parco nazionale di Hocking Hills, Ohio  (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_IT-IT3726334751_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RockHouse_IT-IT3726334751_UHD.jpg&w=1000)Latest: [Casa nella roccia, Parco nazionale di Hocking Hills, Ohio  (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_IT-IT3726334751_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

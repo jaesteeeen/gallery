@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-12)
-![](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg&w=1000)Today: [Feux d'artifice sur Phra Nakhon Khiri, Phetchaburi, Thaïlande (© noomcpk/Shutterstock)](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg&w=1000)Latest: [Feux d'artifice sur Phra Nakhon Khiri, Phetchaburi, Thaïlande (© noomcpk/Shutterstock)](https://www.bing.com/th?id=OHR.ThailandNewYears_FR-FR9400381287_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

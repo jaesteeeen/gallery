@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-04)
-![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_FR-CA1115905295_UHD.jpg&w=1000)Today: [Voie lactée sur le Parc National de Joshua Tree, Californie, États-Unis (© Schroptschop/Getty Images)](https://www.bing.com/th?id=OHR.JTNPMilkyWay_FR-CA1115905295_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_FR-CA1115905295_UHD.jpg&w=1000)Latest: [Voie lactée sur le Parc National de Joshua Tree, Californie, États-Unis (© Schroptschop/Getty Images)](https://www.bing.com/th?id=OHR.JTNPMilkyWay_FR-CA1115905295_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

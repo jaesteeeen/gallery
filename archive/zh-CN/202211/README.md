@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg&w=1000)Today: [罗维尼老城，克罗地亚 (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg&w=1000)Latest: [罗维尼老城，克罗地亚 (© trabantos/Shutterstock)](https://www.bing.com/th?id=OHR.RovinjCroatia_ZH-CN5459110500_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

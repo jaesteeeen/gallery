@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-09)
-![](https://www.bing.com/th?id=OHR.GuiyangMoon_PT-BR6803105528_UHD.jpg&w=1000)Today: [Torre Jiaxiu sob lua cheia, Guiyang, província de Guizhou, China (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_PT-BR6803105528_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.GuiyangMoon_PT-BR6803105528_UHD.jpg&w=1000)Latest: [Torre Jiaxiu sob lua cheia, Guiyang, província de Guizhou, China (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_PT-BR6803105528_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

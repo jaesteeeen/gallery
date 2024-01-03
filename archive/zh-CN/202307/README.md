@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-07)
-![](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg&w=1000)Today: [霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg&w=1000)Latest: [霍金山州立公园的岩石屋，俄亥俄州，美国 (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ZH-CN7318310409_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

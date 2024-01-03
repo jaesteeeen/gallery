@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-03)
-![](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN1786932808_UHD.jpg&w=1000)Today: [埃菲尔铁塔，法国巴黎 (© Susanne Kremer/eStock Photo)](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN1786932808_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN1786932808_UHD.jpg&w=1000)Latest: [埃菲尔铁塔，法国巴黎 (© Susanne Kremer/eStock Photo)](https://www.bing.com/th?id=OHR.AnniEiffel_ZH-CN1786932808_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

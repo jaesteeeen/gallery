@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.PolarBearFrost_PT-BR0431198913_UHD.jpg&w=1000)Today: [Ursos polares dormindo no Canadá (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_PT-BR0431198913_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.PolarBearFrost_PT-BR0431198913_UHD.jpg&w=1000)Latest: [Ursos polares dormindo no Canadá (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_PT-BR0431198913_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

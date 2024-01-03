@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-03)
-![](https://www.bing.com/th?id=OHR.PeacockFeathers_FR-CA4269901196_UHD.jpg&w=1000)Today: [Plumes de paon (© Sarayut Thaneerat/Getty Images)](https://www.bing.com/th?id=OHR.PeacockFeathers_FR-CA4269901196_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.PeacockFeathers_FR-CA4269901196_UHD.jpg&w=1000)Latest: [Plumes de paon (© Sarayut Thaneerat/Getty Images)](https://www.bing.com/th?id=OHR.PeacockFeathers_FR-CA4269901196_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_UHD.jpg&w=1000)Today: [Silvesterfeuerwerk, Sydney Harbour Bridge, Sydney, Australien (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_UHD.jpg&w=1000)Latest: [Silvesterfeuerwerk, Sydney Harbour Bridge, Sydney, Australien (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_DE-DE4928573925_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

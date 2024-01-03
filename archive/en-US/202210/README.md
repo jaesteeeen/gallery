@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-10)
-![](https://www.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&w=1000)Today: [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg&w=1000)Latest: [Polar bear at the edge of Hudson Bay, Manitoba, Canada (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_EN-US6267835630_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

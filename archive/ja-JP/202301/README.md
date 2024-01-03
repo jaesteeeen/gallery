@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-01)
-![](https://www.bing.com/th?id=OHR.ZebraTrio_JA-JP6416622799_UHD.jpg&w=1000)Today: [バーチェルサバンナシマウマ, 南アフリカ (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_JA-JP6416622799_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ZebraTrio_JA-JP6416622799_UHD.jpg&w=1000)Latest: [バーチェルサバンナシマウマ, 南アフリカ (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_JA-JP6416622799_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

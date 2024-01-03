@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.ClamBears_EN-GB2655650762_UHD.jpg&w=1000)Today: [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_EN-GB2655650762_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ClamBears_EN-GB2655650762_UHD.jpg&w=1000)Latest: [Brown bear mother and cub, Lake Clark National Park and Preserve, Alaska (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_EN-GB2655650762_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

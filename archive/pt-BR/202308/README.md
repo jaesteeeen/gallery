@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-08)
-![](https://www.bing.com/th?id=OHR.NingalooShark_PT-BR6162667843_UHD.jpg&w=1000)Today: [Tubarão-baleia, Ningaloo Reef, Austrália Ocidental (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_PT-BR6162667843_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.NingalooShark_PT-BR6162667843_UHD.jpg&w=1000)Latest: [Tubarão-baleia, Ningaloo Reef, Austrália Ocidental (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_PT-BR6162667843_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2024-01)
-![](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg&w=1000)Today: [Bodleian Library, Universität von Oxford, England (© Andrew Holt/Getty Images)](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg&w=1000)Latest: [Bodleian Library, Universität von Oxford, England (© Andrew Holt/Getty Images)](https://www.bing.com/th?id=OHR.BodleianCeiling_DE-DE0740071981_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

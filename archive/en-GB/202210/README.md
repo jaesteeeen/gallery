@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-10)
-![](https://www.bing.com/th?id=OHR.EastgateClock_EN-GB8506882527_UHD.jpg&w=1000)Today: [The sun sets over the Eastgate Clock in Chester. (© ZinCat/Getty Images)](https://www.bing.com/th?id=OHR.EastgateClock_EN-GB8506882527_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.EastgateClock_EN-GB8506882527_UHD.jpg&w=1000)Latest: [The sun sets over the Eastgate Clock in Chester. (© ZinCat/Getty Images)](https://www.bing.com/th?id=OHR.EastgateClock_EN-GB8506882527_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

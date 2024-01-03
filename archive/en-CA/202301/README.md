@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-01)
-![](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-CA5928374623_UHD.jpg&w=1000)Today: [Ice and snow sailing European Championship on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-CA5928374623_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-CA5928374623_UHD.jpg&w=1000)Latest: [Ice and snow sailing European Championship on Lake Balaton in Hungary (© mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.IceSailingBalaton_EN-CA5928374623_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

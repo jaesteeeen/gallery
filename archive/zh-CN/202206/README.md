@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-06)
-![](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg&w=1000)Today: [基伯龙半岛上的海滩，法国布列塔尼地区 (© hardyun/Adobe)](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg&w=1000)Latest: [基伯龙半岛上的海滩，法国布列塔尼地区 (© hardyun/Adobe)](https://www.bing.com/th?id=OHR.CoteSauvage_ZH-CN9967984163_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

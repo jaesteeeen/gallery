@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-04)
-![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg&w=1000)Today: [プリザベーション・ホール, 米国 ルイジアナ州 (© Cosmo Condina North America/Alamy)](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg&w=1000)Latest: [プリザベーション・ホール, 米国 ルイジアナ州 (© Cosmo Condina North America/Alamy)](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_JA-JP1094294616_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

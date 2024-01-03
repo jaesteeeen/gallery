@@ -32,11 +32,16 @@ class Images():
         url = self.image_url + "&pid=hp&w=384&h=216&rs=1&c=4"
         return "![]({}){} [download 4k]({})".format(url, self.showDate, self.image_url)
 
-    # markdown文件 格式化today显示
+    # markdown文件 格式化主页today显示
     def toLarge(self):
         url = self.image_url + "&w=1000"
         return "![]({})Today: [{}]({})".format(url, self.desc, self.image_url)
-
+    
+    # markdown文件 格式化archive文件显示
+    def toLatest(self):
+        url = self.image_url + "&w=1000"
+        return "![]({})Latest: [{}]({})".format(url, self.desc, self.image_url)
+    
     # 新增json数据的格式化
     def toJson(self):
         return {

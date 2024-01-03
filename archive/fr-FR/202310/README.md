@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_FR-FR8550408492_UHD.jpg&w=1000)Today: [Lanternes citrouilles d'Halloween sous un porche (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_FR-FR8550408492_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_FR-FR8550408492_UHD.jpg&w=1000)Latest: [Lanternes citrouilles d'Halloween sous un porche (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_FR-FR8550408492_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

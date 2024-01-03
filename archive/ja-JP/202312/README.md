@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-12)
-![](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg&w=1000)Today: [増上寺の梵鐘, 東京 (© kanzilyou/Adobe Stock)](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg&w=1000)Latest: [増上寺の梵鐘, 東京 (© kanzilyou/Adobe Stock)](https://www.bing.com/th?id=OHR.Omisoka2023_JA-JP4038808718_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

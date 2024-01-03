@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-11)
-![](https://www.bing.com/th?id=OHR.TrotternishStorr_IT-IT5546138012_UHD.jpg&w=1000)Today: [Lo Storr, un affioramento roccioso sull'Isola di Skye, Scozia (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_IT-IT5546138012_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TrotternishStorr_IT-IT5546138012_UHD.jpg&w=1000)Latest: [Lo Storr, un affioramento roccioso sull'Isola di Skye, Scozia (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_IT-IT5546138012_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

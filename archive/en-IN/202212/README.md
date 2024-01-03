@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.SydneyNYE_EN-IN5785868049_UHD.jpg&w=1000)Today: [New Year's Eve fireworks, Sydney Harbour Bridge in Sydney, Australia (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_EN-IN5785868049_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SydneyNYE_EN-IN5785868049_UHD.jpg&w=1000)Latest: [New Year's Eve fireworks, Sydney Harbour Bridge in Sydney, Australia (© Wendell Teodoro/Getty Images)](https://www.bing.com/th?id=OHR.SydneyNYE_EN-IN5785868049_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.PolarBearFrost_FR-CA8461034075_UHD.jpg&w=1000)Today: [Ours polaires endormis au Canada (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_FR-CA8461034075_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.PolarBearFrost_FR-CA8461034075_UHD.jpg&w=1000)Latest: [Ours polaires endormis au Canada (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_FR-CA8461034075_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

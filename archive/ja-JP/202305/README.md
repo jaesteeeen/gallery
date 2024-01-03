@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-05)
-![](https://www.bing.com/th?id=OHR.WorldOtterDay_JA-JP3462049774_UHD.jpg&w=1000)Today: [ラッコの赤ちゃん, 米国 アラスカ州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_JA-JP3462049774_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_JA-JP3462049774_UHD.jpg&w=1000)Latest: [ラッコの赤ちゃん, 米国 アラスカ州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_JA-JP3462049774_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

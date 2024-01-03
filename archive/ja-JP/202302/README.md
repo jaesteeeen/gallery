@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_UHD.jpg&w=1000)Today: [アトラーニ, イタリア カンパニア州 (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_UHD.jpg&w=1000)Latest: [アトラーニ, イタリア カンパニア州 (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_JA-JP6744499353_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

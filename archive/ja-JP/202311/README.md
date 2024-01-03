@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-11)
-![](https://www.bing.com/th?id=OHR.TrotternishStorr_JA-JP7531639858_UHD.jpg&w=1000)Today: [スカイ島の奇岩, イギリス スコットランド (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_JA-JP7531639858_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TrotternishStorr_JA-JP7531639858_UHD.jpg&w=1000)Latest: [スカイ島の奇岩, イギリス スコットランド (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_JA-JP7531639858_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

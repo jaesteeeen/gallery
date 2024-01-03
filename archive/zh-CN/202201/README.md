@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-01)
-![](https://www.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg&w=1000)Today: [烟花绽放的除夕夜，中国 (© MediaProduction/E+/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg&w=1000)Latest: [烟花绽放的除夕夜，中国 (© MediaProduction/E+/Getty Images)](https://www.bing.com/th?id=OHR.ChineseNewYearEve_ZH-CN1901922324_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-10)
-![](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg&w=1000)Today: [牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg&w=1000)Latest: [牛津郡韦奇伍德森林的树，英国 (© Frederick Ardley/Getty Images)](https://www.bing.com/th?id=OHR.WychwoodForest_ZH-CN6560180288_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

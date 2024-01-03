@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_UHD.jpg&w=1000)Today: [ハロウィンのシンボルであるジャック・オー・ランタン (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_UHD.jpg&w=1000)Latest: [ハロウィンのシンボルであるジャック・オー・ランタン (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenCuteAI_JA-JP4715230706_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

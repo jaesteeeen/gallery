@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-08)
-![](https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_UHD.jpg&w=1000)Today: [アイアンウッドフォレスト国定公園, 米国 アリゾナ州 (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_UHD.jpg&w=1000)Latest: [アイアンウッドフォレスト国定公園, 米国 アリゾナ州 (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.IronwoodCactus_JA-JP8293481561_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

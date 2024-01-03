@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-08)
-![](https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg&w=1000)Today: [Köpfe des Heiligen Cassius und Florentius vor dem Bonner Münster, Bonn (© Peter Unger/Getty images)](https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg&w=1000)Latest: [Köpfe des Heiligen Cassius und Florentius vor dem Bonner Münster, Bonn (© Peter Unger/Getty images)](https://www.bing.com/th?id=OHR.CassiusFlorentius_DE-DE8060490789_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

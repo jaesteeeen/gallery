@@ -100,7 +100,7 @@ class FileUtils:
         with open(file, "w", encoding="utf-8")as f:
             f.write('## Bing Wallpaper ({}-{})\n'.format(month[:4],month[-2:]))
             last = Images(last)
-            f.write(last.toLarge())
+            f.write(last.toLatest())
             if rows:
                 f.write('\n\n|      |      |      |\n')
                 f.write('| :----: | :----: | :----: |\n')

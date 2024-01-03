@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.ClamBears_FR-FR8687588186_UHD.jpg&w=1000)Today: [Grizzlis, parc national et réserve du Lake Clark, Alaska, États-Unis (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_FR-FR8687588186_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ClamBears_FR-FR8687588186_UHD.jpg&w=1000)Latest: [Grizzlis, parc national et réserve du Lake Clark, Alaska, États-Unis (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_FR-FR8687588186_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

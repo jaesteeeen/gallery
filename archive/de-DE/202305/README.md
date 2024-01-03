@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-05)
-![](https://www.bing.com/th?id=OHR.WorldOtterDay_DE-DE7818224728_UHD.jpg&w=1000)Today: [Seeotterwelpe, Prince-William-Sund, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_DE-DE7818224728_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_DE-DE7818224728_UHD.jpg&w=1000)Latest: [Seeotterwelpe, Prince-William-Sund, Alaska (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_DE-DE7818224728_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

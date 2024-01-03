@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.BronzeSculptureCordoba_ES-ES1480422781_UHD.jpg&w=1000)Today: [Figura de bronce de un abuelo y su nieto cuidando de las plantas y las flores, Córdoba, España (© David M G/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BronzeSculptureCordoba_ES-ES1480422781_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BronzeSculptureCordoba_ES-ES1480422781_UHD.jpg&w=1000)Latest: [Figura de bronce de un abuelo y su nieto cuidando de las plantas y las flores, Córdoba, España (© David M G/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.BronzeSculptureCordoba_ES-ES1480422781_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

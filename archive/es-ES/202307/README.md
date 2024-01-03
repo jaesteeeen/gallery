@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-07)
-![](https://www.bing.com/th?id=OHR.RockHouse_ES-ES2728189388_UHD.jpg&w=1000)Today: [Casa Cueva, Parque Estatal de Hocking Hills, Ohio, EE.UU. (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ES-ES2728189388_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RockHouse_ES-ES2728189388_UHD.jpg&w=1000)Latest: [Casa Cueva, Parque Estatal de Hocking Hills, Ohio, EE.UU. (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_ES-ES2728189388_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

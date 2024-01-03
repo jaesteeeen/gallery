@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg&w=1000)Today: [Lago di Braies, Bolzano (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg&w=1000)Latest: [Lago di Braies, Bolzano (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.LakeBraies_IT-IT3865715087_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

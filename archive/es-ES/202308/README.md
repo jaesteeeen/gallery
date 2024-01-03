@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-08)
-![](https://www.bing.com/th?id=OHR.IronwoodCactus_ES-ES4399804211_UHD.jpg&w=1000)Today: [Cactus saguaro, Monumento Nacional Ironwood, Arizona, EE.UU. (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.IronwoodCactus_ES-ES4399804211_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.IronwoodCactus_ES-ES4399804211_UHD.jpg&w=1000)Latest: [Cactus saguaro, Monumento Nacional Ironwood, Arizona, EE.UU. (© Jack Dykinga/Minden Pictures)](https://www.bing.com/th?id=OHR.IronwoodCactus_ES-ES4399804211_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

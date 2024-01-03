@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-11)
-![](https://www.bing.com/th?id=OHR.TrotternishStorr_EN-IN9645630131_UHD.jpg&w=1000)Today: [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_EN-IN9645630131_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TrotternishStorr_EN-IN9645630131_UHD.jpg&w=1000)Latest: [The Storr, a rock outcrop on the Isle of Skye, Scotland (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_EN-IN9645630131_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-03)
-![](https://www.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg&w=1000)Today: [斯太尔河, 奥地利 (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg&w=1000)Latest: [斯太尔河, 奥地利 (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.SteyrRiver_ZH-CN3175702026_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

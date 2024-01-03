@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-08)
-![](https://www.bing.com/th?id=OHR.NingalooShark_FR-CA2661288906_UHD.jpg&w=1000)Today: [Requin-baleine, récif de Ningaloo, Australie occidentale (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_FR-CA2661288906_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.NingalooShark_FR-CA2661288906_UHD.jpg&w=1000)Latest: [Requin-baleine, récif de Ningaloo, Australie occidentale (© Jason Edwards/Getty Images)](https://www.bing.com/th?id=OHR.NingalooShark_FR-CA2661288906_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

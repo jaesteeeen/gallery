@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-12)
-![](https://www.bing.com/th?id=OHR.TadamiWinter_EN-CA2053501506_UHD.jpg&w=1000)Today: [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.TadamiWinter_EN-CA2053501506_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TadamiWinter_EN-CA2053501506_UHD.jpg&w=1000)Latest: [Daiichi Tadami River Bridge, Fukushima prefecture, Japan (© DoctorEgg/Getty Images)](https://www.bing.com/th?id=OHR.TadamiWinter_EN-CA2053501506_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

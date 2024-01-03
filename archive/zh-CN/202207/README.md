@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-07)
-![](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg&w=1000)Today: [立陶宛的夜光云 (© ljphoto7/Getty Images)](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg&w=1000)Latest: [立陶宛的夜光云 (© ljphoto7/Getty Images)](https://www.bing.com/th?id=OHR.NoctilucentClouds_ZH-CN4816301354_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

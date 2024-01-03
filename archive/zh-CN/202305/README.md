@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-05)
-![](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg&w=1000)Today: [海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg&w=1000)Latest: [海獭宝宝，威廉王子湾，美国阿拉斯加州 (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_ZH-CN8607141093_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

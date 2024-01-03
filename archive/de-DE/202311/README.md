@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-11)
-![](https://www.bing.com/th?id=OHR.TrotternishStorr_DE-DE5333891461_UHD.jpg&w=1000)Today: [Der Old Man of Storr, eine Felsnadel auf der Isle of Skye, Schottland, UK (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_DE-DE5333891461_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TrotternishStorr_DE-DE5333891461_UHD.jpg&w=1000)Latest: [Der Old Man of Storr, eine Felsnadel auf der Isle of Skye, Schottland, UK (© Juan Maria Coy Vergara/Getty Images)](https://www.bing.com/th?id=OHR.TrotternishStorr_DE-DE5333891461_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-04)
-![](https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg&w=1000)Today: [Interior of Hawa Mahal or Palace of Winds, India (© Inti St Clair/age fotostock)](https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg&w=1000)Latest: [Interior of Hawa Mahal or Palace of Winds, India (© Inti St Clair/age fotostock)](https://www.bing.com/th?id=OHR.TheHawaMahal_EN-IN8397343140_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

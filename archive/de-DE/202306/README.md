@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.Footbridge_DE-DE3295548042_UHD.jpg&w=1000)Today: [Fußgängerbrücke über den See zu den Stelzenhäusern, Unteruhldingen, Baden-Württemberg (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.Footbridge_DE-DE3295548042_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.Footbridge_DE-DE3295548042_UHD.jpg&w=1000)Latest: [Fußgängerbrücke über den See zu den Stelzenhäusern, Unteruhldingen, Baden-Württemberg (© Harald Nachtmann/Getty Images)](https://www.bing.com/th?id=OHR.Footbridge_DE-DE3295548042_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

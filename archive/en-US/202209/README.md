@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-09)
-![](https://www.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg&w=1000)Today: [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](https://www.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg&w=1000)Latest: [Infini-D, modeled during the World of WearableArt Awards in 2019 in Wellington, New Zealand (© Hagen Hopkins/Getty Images for World of WearableArt)](https://www.bing.com/th?id=OHR.InfiniD_EN-US7855471603_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

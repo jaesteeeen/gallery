@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-11)
-![](https://www.bing.com/th?id=OHR.TreeLighting_PT-BR7736994809_UHD.jpg&w=1000)Today: [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://www.bing.com/th?id=OHR.TreeLighting_PT-BR7736994809_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TreeLighting_PT-BR7736994809_UHD.jpg&w=1000)Latest: [Rockefeller Center Christmas tree, New York City (© Jonathan Orenstein/Getty Images)](https://www.bing.com/th?id=OHR.TreeLighting_PT-BR7736994809_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

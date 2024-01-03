@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-05)
-![](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg&w=1000)Today: [展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg&w=1000)Latest: [展开双翅的绯红金刚鹦鹉，哥斯达黎加 (© Harry Collins/Getty Images)](https://www.bing.com/th?id=OHR.ParrotDay_ZH-CN0775936218_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

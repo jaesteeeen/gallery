@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-04)
-![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_FR-FR8893416037_UHD.jpg&w=1000)Today: [Preservation Hall, Nouvelle-Orléans, Louisiane (© Cosmo Condina North America/Alamy)](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_FR-FR8893416037_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_FR-FR8893416037_UHD.jpg&w=1000)Latest: [Preservation Hall, Nouvelle-Orléans, Louisiane (© Cosmo Condina North America/Alamy)](https://www.bing.com/th?id=OHR.ExteriorPreservationHall_FR-FR8893416037_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

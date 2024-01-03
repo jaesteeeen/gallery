@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg&w=1000)Today: [東大寺の梵鐘, 奈良 (© Yellow Cat/Shutterstock)](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg&w=1000)Latest: [東大寺の梵鐘, 奈良 (© Yellow Cat/Shutterstock)](https://www.bing.com/th?id=OHR.Nara_TodaijiBell2022_JA-JP0129080752_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

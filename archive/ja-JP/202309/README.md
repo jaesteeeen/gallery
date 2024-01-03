@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-09)
-![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_JA-JP6899643261_UHD.jpg&w=1000)Today: [シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_JA-JP6899643261_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_JA-JP6899643261_UHD.jpg&w=1000)Latest: [シェナンドー国立公園, 米国 バージニア州 (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_JA-JP6899643261_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.AutumnRaven_PT-BR0746434304_UHD.jpg&w=1000)Today: [Corvo comum pousado em um galho (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_PT-BR0746434304_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.AutumnRaven_PT-BR0746434304_UHD.jpg&w=1000)Latest: [Corvo comum pousado em um galho (© WildMedia/Shutterstock)](https://www.bing.com/th?id=OHR.AutumnRaven_PT-BR0746434304_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

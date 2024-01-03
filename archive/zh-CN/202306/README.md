@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg&w=1000)Today: [棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg&w=1000)Latest: [棕熊妈妈和幼崽，克拉克湖国家公园和自然保护区，美国阿拉斯加州 (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_ZH-CN5686721500_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

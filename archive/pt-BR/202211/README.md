@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-11)
-![](https://www.bing.com/th?id=OHR.HeronGiving_PT-BR0915216293_UHD.jpg&w=1000)Today: [Garças-azuis-grandes construindo um ninho no Wakodahatchee Wetlands, em Delray Beach, na Flórida, Estados Unidos (© Imagebroker/Alamy)](https://www.bing.com/th?id=OHR.HeronGiving_PT-BR0915216293_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.HeronGiving_PT-BR0915216293_UHD.jpg&w=1000)Latest: [Garças-azuis-grandes construindo um ninho no Wakodahatchee Wetlands, em Delray Beach, na Flórida, Estados Unidos (© Imagebroker/Alamy)](https://www.bing.com/th?id=OHR.HeronGiving_PT-BR0915216293_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

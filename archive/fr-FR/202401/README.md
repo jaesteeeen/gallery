@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2024-01)
-![](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg&w=1000)Today: [Coucher de soleil sur les lacs des Chéserys, Chamonix-Mont Blanc, France (© Smit/Shutterstock)](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg&w=1000)Latest: [Coucher de soleil sur les lacs des Chéserys, Chamonix-Mont Blanc, France (© Smit/Shutterstock)](https://www.bing.com/th?id=OHR.Cheserys_FR-FR0495311297_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

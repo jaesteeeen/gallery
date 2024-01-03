@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-04)
-![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&w=1000)Today: [Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg&w=1000)Latest: [Milky Way over Joshua Tree National Park, California (© Schroptschop/Getty Images)](https://www.bing.com/th?id=OHR.JTNPMilkyWay_EN-US8982229546_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

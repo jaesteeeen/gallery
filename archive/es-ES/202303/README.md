@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-03)
-![](https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg&w=1000)Today: [Cerezos en flor en el Valle del Jerte, provincia de Cáceres, Extremadura, España (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg&w=1000)Latest: [Cerezos en flor en el Valle del Jerte, provincia de Cáceres, Extremadura, España (© Gonzalo Azumendi/Getty Images)](https://www.bing.com/th?id=OHR.FloweringCherryJerte_ES-ES5446108513_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

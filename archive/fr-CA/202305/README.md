@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-05)
-![](https://www.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg&w=1000)Today: [Playa del Amor, Îles Marietas, Puerto Vallarta, Mexique (© ferrantraite/Getty Images)](https://www.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg&w=1000)Latest: [Playa del Amor, Îles Marietas, Puerto Vallarta, Mexique (© ferrantraite/Getty Images)](https://www.bing.com/th?id=OHR.HiddenBeach_FR-CA9181643133_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

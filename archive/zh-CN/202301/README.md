@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-01)
-![](https://www.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_UHD.jpg&w=1000)Today: [南非自然保护区的斑马 (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_UHD.jpg&w=1000)Latest: [南非自然保护区的斑马 (© Richard Du Toit/Minden Pictures)](https://www.bing.com/th?id=OHR.ZebraTrio_ZH-CN5902552401_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

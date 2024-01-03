@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.ChalkRock_FR-CA9030356335_UHD.jpg&w=1000)Today: [Formations rocheuses dans le désert blanc, Égypte (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.ChalkRock_FR-CA9030356335_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ChalkRock_FR-CA9030356335_UHD.jpg&w=1000)Latest: [Formations rocheuses dans le désert blanc, Égypte (© Anton Petrus/Getty Images)](https://www.bing.com/th?id=OHR.ChalkRock_FR-CA9030356335_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

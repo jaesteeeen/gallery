@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_ES-ES1106501127_UHD.jpg&w=1000)Today: [Farolillos de Halloween en un porche (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_ES-ES1106501127_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_ES-ES1106501127_UHD.jpg&w=1000)Latest: [Farolillos de Halloween en un porche (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_ES-ES1106501127_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

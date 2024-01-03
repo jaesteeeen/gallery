@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-07)
-![](https://www.bing.com/th?id=OHR.RockHouse_DE-DE8842375533_UHD.jpg&w=1000)Today: [Felsenhaus, Hocking Hills State Park, Ohio, USA (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_DE-DE8842375533_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.RockHouse_DE-DE8842375533_UHD.jpg&w=1000)Latest: [Felsenhaus, Hocking Hills State Park, Ohio, USA (© Kenneth Keifer/Getty Images)](https://www.bing.com/th?id=OHR.RockHouse_DE-DE8842375533_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

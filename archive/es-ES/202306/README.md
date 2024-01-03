@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-06)
-![](https://www.bing.com/th?id=OHR.ClamBears_ES-ES4527663075_UHD.jpg&w=1000)Today: [Madre y osezno de oso pardo, Parque Nacional y Reserva del Lago Clark, Alaska, EE.UU. (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_ES-ES4527663075_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ClamBears_ES-ES4527663075_UHD.jpg&w=1000)Latest: [Madre y osezno de oso pardo, Parque Nacional y Reserva del Lago Clark, Alaska, EE.UU. (© Carlos Carreno/Getty Images)](https://www.bing.com/th?id=OHR.ClamBears_ES-ES4527663075_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

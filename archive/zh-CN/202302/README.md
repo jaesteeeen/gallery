@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg&w=1000)Today: [阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg&w=1000)Latest: [阿特拉尼，阿马尔菲海岸，意大利 (© Amazing Aerial/Shutterstock)](https://www.bing.com/th?id=OHR.AtraniAmalfi_ZH-CN6391731688_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

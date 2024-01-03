@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-02)
-![](https://www.bing.com/th?id=OHR.PolarBearFrost_EN-GB3362552109_UHD.jpg&w=1000)Today: [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_EN-GB3362552109_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.PolarBearFrost_EN-GB3362552109_UHD.jpg&w=1000)Latest: [Polar bears asleep in Canada (© David Pike/Minden Pictures)](https://www.bing.com/th?id=OHR.PolarBearFrost_EN-GB3362552109_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

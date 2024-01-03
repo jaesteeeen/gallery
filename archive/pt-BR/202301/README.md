@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-01)
-![](https://www.bing.com/th?id=OHR.IceSailingBalaton_PT-BR4468661627_UHD.jpg&w=1000)Today: [Campeonato Europeu de Vela no Gelo e na Neve no Lago Balaton, na Hungria (© mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.IceSailingBalaton_PT-BR4468661627_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.IceSailingBalaton_PT-BR4468661627_UHD.jpg&w=1000)Latest: [Campeonato Europeu de Vela no Gelo e na Neve no Lago Balaton, na Hungria (© mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.IceSailingBalaton_PT-BR4468661627_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

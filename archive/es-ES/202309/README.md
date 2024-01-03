@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-09)
-![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ES-ES0953486275_UHD.jpg&w=1000)Today: [Colores otoñales en el Parque Nacional de Shenandoah, Virginia, EE.UU. (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ES-ES0953486275_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ES-ES0953486275_UHD.jpg&w=1000)Latest: [Colores otoñales en el Parque Nacional de Shenandoah, Virginia, EE.UU. (© Michael Ver Sprill/Getty Images)](https://www.bing.com/th?id=OHR.ShenandoahFoliage_ES-ES0953486275_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

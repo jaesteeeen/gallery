@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-12)
-![](https://www.bing.com/th?id=OHR.SaoSilvestre_PT-BR8562839549_UHD.jpg&w=1000)Today: [Corrida Internacional de São Silvestre em São Paulo (© Dario Oliveira/Getty Images)](https://www.bing.com/th?id=OHR.SaoSilvestre_PT-BR8562839549_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SaoSilvestre_PT-BR8562839549_UHD.jpg&w=1000)Latest: [Corrida Internacional de São Silvestre em São Paulo (© Dario Oliveira/Getty Images)](https://www.bing.com/th?id=OHR.SaoSilvestre_PT-BR8562839549_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

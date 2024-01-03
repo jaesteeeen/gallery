@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.FuzerCastle_EN-IN7089088416_UHD.jpg&w=1000)Today: [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://www.bing.com/th?id=OHR.FuzerCastle_EN-IN7089088416_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.FuzerCastle_EN-IN7089088416_UHD.jpg&w=1000)Latest: [Füzér Castle in the Zemplén Mountains, Hungary (© ZGPhotography/Alamy)](https://www.bing.com/th?id=OHR.FuzerCastle_EN-IN7089088416_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

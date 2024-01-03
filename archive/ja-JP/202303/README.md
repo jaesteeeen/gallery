@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-03)
-![](https://www.bing.com/th?id=OHR.SteyrRiver_JA-JP7431516519_UHD.jpg&w=1000)Today: [シュタイアー川, オーストリア オーバーエスターライヒ州 (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.SteyrRiver_JA-JP7431516519_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SteyrRiver_JA-JP7431516519_UHD.jpg&w=1000)Latest: [シュタイアー川, オーストリア オーバーエスターライヒ州 (© guenterguni/Getty Images)](https://www.bing.com/th?id=OHR.SteyrRiver_JA-JP7431516519_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

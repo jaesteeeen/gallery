@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-12)
-![](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg&w=1000)Today: [Fuochi artificiali di Venezia, Italia (© Patryk Kosmider/Getty Images)](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg&w=1000)Latest: [Fuochi artificiali di Venezia, Italia (© Patryk Kosmider/Getty Images)](https://www.bing.com/th?id=OHR.SantaMariaVenice_1185725818_IT-IT0984119913_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

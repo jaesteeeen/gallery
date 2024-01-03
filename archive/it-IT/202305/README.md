@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-05)
-![](https://www.bing.com/th?id=OHR.WorldOtterDay_IT-IT6594215443_UHD.jpg&w=1000)Today: [Cucciolo di lontra marina, Prince William Sound, Alaska  (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_IT-IT6594215443_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WorldOtterDay_IT-IT6594215443_UHD.jpg&w=1000)Latest: [Cucciolo di lontra marina, Prince William Sound, Alaska  (© Donald M. Jones/Minden Pictures)](https://www.bing.com/th?id=OHR.WorldOtterDay_IT-IT6594215443_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-10)
-![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_IT-IT0209206965_UHD.jpg&w=1000)Today: [Le lanterne di Halloween in veranda (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_IT-IT0209206965_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.HalloweenPorchAI_IT-IT0209206965_UHD.jpg&w=1000)Latest: [Le lanterne di Halloween in veranda (© Bing Image Creator)](https://www.bing.com/th?id=OHR.HalloweenPorchAI_IT-IT0209206965_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

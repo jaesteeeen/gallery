@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-09)
-![](https://www.bing.com/th?id=OHR.GuiyangMoon_FR-CA9250844272_UHD.jpg&w=1000)Today: [Tour Jiaxiu à la pleine lune, Guiyang, province de Guizhou, Chine (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_FR-CA9250844272_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.GuiyangMoon_FR-CA9250844272_UHD.jpg&w=1000)Latest: [Tour Jiaxiu à la pleine lune, Guiyang, province de Guizhou, Chine (© Wang Yukun/Getty Images)](https://www.bing.com/th?id=OHR.GuiyangMoon_FR-CA9250844272_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

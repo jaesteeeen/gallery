@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-01)
-![](https://www.bing.com/th?id=OHR.IceSailingBalaton_FR-CA1258299335_UHD.jpg&w=1000)Today: [Championnat du monde de voile sur glace, lac Balaton, Hongrie (© mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.IceSailingBalaton_FR-CA1258299335_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.IceSailingBalaton_FR-CA1258299335_UHD.jpg&w=1000)Latest: [Championnat du monde de voile sur glace, lac Balaton, Hongrie (© mauritius images GmbH/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.IceSailingBalaton_FR-CA1258299335_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

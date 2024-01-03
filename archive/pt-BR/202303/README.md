@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2023-03)
-![](https://www.bing.com/th?id=OHR.PeacockFeathers_PT-BR7599537252_UHD.jpg&w=1000)Today: [Penas de Pavão (© Sarayut Thaneerat/Getty Images)](https://www.bing.com/th?id=OHR.PeacockFeathers_PT-BR7599537252_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.PeacockFeathers_PT-BR7599537252_UHD.jpg&w=1000)Latest: [Penas de Pavão (© Sarayut Thaneerat/Getty Images)](https://www.bing.com/th?id=OHR.PeacockFeathers_PT-BR7599537252_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

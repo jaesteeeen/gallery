@@ -1,5 +1,5 @@
 ## Bing Wallpaper (2022-10)
-![](https://www.bing.com/th?id=OHR.SealRiver_PT-BR6246600554_UHD.jpg&w=1000)Today: [Urso-polar na Baía de Hudson, Manitoba, no Canadá (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_PT-BR6246600554_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.SealRiver_PT-BR6246600554_UHD.jpg&w=1000)Latest: [Urso-polar na Baía de Hudson, Manitoba, no Canadá (© Sean Crane/Minden Pictures)](https://www.bing.com/th?id=OHR.SealRiver_PT-BR6246600554_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

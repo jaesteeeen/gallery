@@ -2915,6 +2915,12 @@
       "url": "https://www.bing.com/th?id=OHR.GollingerFalls_FR-CA8735743106_UHD.jpg",
       "copyright": "Cascade de Gollinger, Tennengau, Salzbourg, Autriche (© Frank Fischbach/Alamy)",
       "copyrightlink": "/search?q=Salzburg+etat&form=hpcapt&filters=HpDate%3a%2220240129_0500%22"
+    },
+    {
+      "enddate": "20240131",
+      "url": "https://www.bing.com/th?id=OHR.AlbaceteSpain_FR-CA8897837933_UHD.jpg",
+      "copyright": "Ayna, Sierra del Segura, Albacete, Espagne (© Juan Maria Coy Vergara/Getty Images)",
+      "copyrightlink": "/search?q=Ayna+village+Albacete+Espagne&form=hpcapt&filters=HpDate%3a%2220240130_0500%22"
     }
   ],
   "months": {
@@ -2933,10 +2939,9 @@
       "202309",
       "202310",
       "202311",
-      "202312"
-    ],
-    "active": [
+      "202312",
       "202401"
-    ]
+    ],
+    "active": []
   }
 }

@@ -2909,6 +2909,12 @@
       "url": "https://www.bing.com/th?id=OHR.GollingerFalls_EN-GB7103601086_UHD.jpg",
       "copyright": "Gollinger Waterfalls, Tennengau, Salzburg, Austria (© Frank Fischbach/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Salzburg+federal+state+Austria&form=hpcapt&filters=HpDate%3a%2220240129_0000%22"
+    },
+    {
+      "enddate": "20240131",
+      "url": "https://www.bing.com/th?id=OHR.AlbaceteSpain_EN-GB4279721479_UHD.jpg",
+      "copyright": "Aýna, Sierra del Segura, Albacete, Spain (© Juan Maria Coy Vergara/Getty Images)",
+      "copyrightlink": "/search?q=Ayna+Albacete+Spain&form=hpcapt&filters=HpDate%3a%2220240130_0000%22"
     }
   ],
   "months": {
@@ -2927,10 +2933,9 @@
       "202309",
       "202310",
       "202311",
-      "202312"
-    ],
-    "active": [
+      "202312",
       "202401"
-    ]
+    ],
+    "active": []
   }
 }

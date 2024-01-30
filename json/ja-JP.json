@@ -2921,6 +2921,12 @@
       "url": "https://www.bing.com/th?id=OHR.AlbaceteSpain_JA-JP9272536909_UHD.jpg",
       "copyright": "アイナ, スペイン カスティーリャ・ラ・マンチャ自治州 (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b9%e3%83%9a%e3%82%a4%e3%83%b3+%e3%82%a2%e3%82%a4%e3%83%8a&form=hpcapt&filters=HpDate%3a%2220240129_1500%22"
+    },
+    {
+      "enddate": "20240131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraMother_JA-JP9484568475_UHD.jpg",
+      "copyright": "リットフレイ自然保護区, 南アフリカ (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=%e3%83%90%e3%83%bc%e3%83%81%e3%82%a7%e3%83%ab%e3%82%b5%e3%83%90%e3%83%b3%e3%83%8a%e3%82%b7%e3%83%9e%e3%82%a6%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220240130_1500%22"
     }
   ],
   "months": {
@@ -2939,10 +2945,9 @@
       "202309",
       "202310",
       "202311",
-      "202312"
-    ],
-    "active": [
+      "202312",
       "202401"
-    ]
+    ],
+    "active": []
   }
 }

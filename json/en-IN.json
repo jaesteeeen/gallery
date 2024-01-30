@@ -2921,6 +2921,12 @@
       "url": "https://www.bing.com/th?id=OHR.MartyrsDayIndia_EN-IN0212578144_UHD.jpg",
       "copyright": "The biggest Mahatma Gandhi statue in Pondicherry (© Geraint Rowland Photography/Getty Images)",
       "copyrightlink": "/search?q=Martyrs+day&form=hpcapt&filters=HpDate%3a%2220240129_1830%22"
+    },
+    {
+      "enddate": "20240131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraMother_EN-IN5092330040_UHD.jpg",
+      "copyright": "Burchell's zebra mother and foal, Rietvlei Nature Reserve, South Africa (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=Burchell%27s+Zebra&form=hpcapt&filters=HpDate%3a%2220240130_1830%22"
     }
   ],
   "months": {
@@ -2939,10 +2945,9 @@
       "202309",
       "202310",
       "202311",
-      "202312"
-    ],
-    "active": [
+      "202312",
       "202401"
-    ]
+    ],
+    "active": []
   }
 }

@@ -2921,6 +2921,12 @@
       "url": "https://www.bing.com/th?id=OHR.AlbaceteSpain_ES-ES6264558269_UHD.jpg",
       "copyright": "Ayna, Sierra de Segura, Albacete, España (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=Ayna+Albacete&form=hpcapt&filters=HpDate%3a%2220240129_2300%22"
+    },
+    {
+      "enddate": "20240131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraMother_ES-ES6542218245_UHD.jpg",
+      "copyright": "Madre y potro de cebra de Burchell, Reserva Natural de Rietvlei, Sudáfrica (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=Cebra+de+Burchell&form=hpcapt&filters=HpDate%3a%2220240130_2300%22"
     }
   ],
   "months": {
@@ -2939,10 +2945,9 @@
       "202309",
       "202310",
       "202311",
-      "202312"
-    ],
-    "active": [
+      "202312",
       "202401"
-    ]
+    ],
+    "active": []
   }
 }

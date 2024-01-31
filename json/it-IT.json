@@ -2921,6 +2921,12 @@
       "url": "https://www.bing.com/th?id=OHR.AlbaceteSpain_IT-IT3657513736_UHD.jpg",
       "copyright": "Villaggio di Ayna, Sierra del Segura, Albacete, Spagna (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=A%c3%bdna+castiglia+la+mancia&form=hpcapt"
+    },
+    {
+      "enddate": "20240131",
+      "url": "https://www.bing.com/th?id=OHR.ZebraMother_IT-IT4043343068_UHD.jpg",
+      "copyright": "Esemplare di zebra di Burchell con il suo piccolo, Riserva naturale di Rietvlei, Sud Africa (© Richard Du Toit/Minden Pictures)",
+      "copyrightlink": "/search?q=La+zebra+di+Burchell+cos%27%c3%a8&form=hpcapt"
     }
   ],
   "months": {
@@ -2939,10 +2945,9 @@
       "202309",
       "202310",
       "202311",
-      "202312"
-    ],
-    "active": [
+      "202312",
       "202401"
-    ]
+    ],
+    "active": []
   }
 }

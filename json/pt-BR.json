@@ -2921,6 +2921,12 @@
       "url": "https://www.bing.com/th?id=OHR.AlbaceteSpain_PT-BR1055348221_UHD.jpg",
       "copyright": "Aýna, Sierra del Segura, Albacete, Espanha (© Juan Maria Coy Vergara/Getty Images)",
       "copyrightlink": "/search?q=Ayna+Albacete+Espanha&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240201",
+      "url": "https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg",
+      "copyright": "Arara-canindé voando na floresta do Pantanal, Brasil (© Ondrej Prosicky/Shutterstock)",
+      "copyrightlink": "/search?q=Arara+caninde&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -2942,6 +2948,8 @@
       "202312",
       "202401"
     ],
-    "active": []
+    "active": [
+      "202402"
+    ]
   }
 }

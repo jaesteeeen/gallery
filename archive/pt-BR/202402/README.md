@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-02)
+![](https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg&w=1000)Latest: [Arara-canindé voando na floresta do Pantanal, Brasil (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.MacawParrot_PT-BR2174373090_UHD.jpg)

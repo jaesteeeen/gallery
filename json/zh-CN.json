@@ -4565,6 +4565,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraMother_ZH-CN1947314869_UHD.jpg",
       "copyright": "布氏斑马妈妈和小马驹，里特弗雷自然保护区，南非 (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=%e5%b8%83%e6%b0%8f%e6%96%91%e9%a9%ac&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20240201",
+      "url": "https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg",
+      "copyright": "吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)",
+      "copyrightlink": "/search?q=%e5%90%95%e6%a0%b9%e5%b2%9b&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -4595,6 +4601,8 @@
       "202312",
       "202401"
     ],
-    "active": []
+    "active": [
+      "202402"
+    ]
   }
 }

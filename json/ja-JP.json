@@ -2927,6 +2927,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraMother_JA-JP9484568475_UHD.jpg",
       "copyright": "リットフレイ自然保護区, 南アフリカ (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=%e3%83%90%e3%83%bc%e3%83%81%e3%82%a7%e3%83%ab%e3%82%b5%e3%83%90%e3%83%b3%e3%83%8a%e3%82%b7%e3%83%9e%e3%82%a6%e3%83%9e&form=hpcapt&filters=HpDate%3a%2220240130_1500%22"
+    },
+    {
+      "enddate": "20240201",
+      "url": "https://www.bing.com/th?id=OHR.DevetashkaCave_JA-JP9707792334_UHD.jpg",
+      "copyright": "デヴェタシュカ洞窟, ブルガリア (© Jasmine_K/Shutterstock)",
+      "copyrightlink": "/search?q=%e3%83%87%e3%83%b4%e3%82%a7%e3%82%bf%e3%82%b7%e3%83%a5%e3%82%ab%e6%b4%9e%e7%aa%9f&form=hpcapt&filters=HpDate%3a%2220240131_1500%22"
     }
   ],
   "months": {
@@ -2948,6 +2954,8 @@
       "202312",
       "202401"
     ],
-    "active": []
+    "active": [
+      "202402"
+    ]
   }
 }

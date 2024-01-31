@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-02)
+![](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg&w=1000)Latest: [吕根岛的萨斯尼茨灯塔，德国 (© Christian Back/eStock)](https://www.bing.com/th?id=OHR.HalbinselJasmund_ZH-CN2110869056_UHD.jpg)

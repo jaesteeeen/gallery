@@ -2927,6 +2927,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraMother_IT-IT4043343068_UHD.jpg",
       "copyright": "Esemplare di zebra di Burchell con il suo piccolo, Riserva naturale di Rietvlei, Sud Africa (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=La+zebra+di+Burchell+cos%27%c3%a8&form=hpcapt"
+    },
+    {
+      "enddate": "20240201",
+      "url": "https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_UHD.jpg",
+      "copyright": "Faro di Sassnitz sull’isola di Rüge, Germania (© Christian Back/eStock)",
+      "copyrightlink": "/search?q=Sassnitz+Germania+dov%27%c3%a8&form=hpcapt"
     }
   ],
   "months": {
@@ -2948,6 +2954,8 @@
       "202312",
       "202401"
     ],
-    "active": []
+    "active": [
+      "202402"
+    ]
   }
 }

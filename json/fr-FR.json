@@ -2927,6 +2927,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraMother_FR-FR5676160511_UHD.jpg",
       "copyright": "Zèbre de Burchell, mère et poulain, réserve naturelle de Rietvlei, Afrique du Sud (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=Burchell&form=hpcapt&filters=HpDate%3a%2220240130_2300%22"
+    },
+    {
+      "enddate": "20240201",
+      "url": "https://www.bing.com/th?id=OHR.HalbinselJasmund_FR-FR6083504122_UHD.jpg",
+      "copyright": "Phare de Sassnitz, Rügen, Mecklembourg-Poméranie-Occidentale,  Allemagne (© Christian Back/eStock)",
+      "copyrightlink": "/search?q=Sassnitz+Pom%c3%a9ranie&form=hpcapt&filters=HpDate%3a%2220240131_2300%22"
     }
   ],
   "months": {
@@ -2948,6 +2954,8 @@
       "202312",
       "202401"
     ],
-    "active": []
+    "active": [
+      "202402"
+    ]
   }
 }

@@ -2927,6 +2927,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraMother_DE-DE8530297892_UHD.jpg",
       "copyright": "Burchell-Zebra Mutter und Fohlen, Rietvlei Nature Reserve, Südafrika (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=Burchell-Zebra&form=hpcapt&filters=HpDate%3a%2220240130_2300%22"
+    },
+    {
+      "enddate": "20240201",
+      "url": "https://www.bing.com/th?id=OHR.HalbinselJasmund_DE-DE8684103043_UHD.jpg",
+      "copyright": "Sassnitz Leuchtturm, Rügen, Mecklenburg-Vorpommern (© Christian Back/eStock)",
+      "copyrightlink": "/search?q=Sassnitz&form=hpcapt&filters=HpDate%3a%2220240131_2300%22"
     }
   ],
   "months": {
@@ -2948,6 +2954,8 @@
       "202312",
       "202401"
     ],
-    "active": []
+    "active": [
+      "202402"
+    ]
   }
 }

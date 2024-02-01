@@ -2927,6 +2927,12 @@
       "url": "https://www.bing.com/th?id=OHR.ZebraMother_ES-ES6542218245_UHD.jpg",
       "copyright": "Madre y potro de cebra de Burchell, Reserva Natural de Rietvlei, Sudáfrica (© Richard Du Toit/Minden Pictures)",
       "copyrightlink": "/search?q=Cebra+de+Burchell&form=hpcapt&filters=HpDate%3a%2220240130_2300%22"
+    },
+    {
+      "enddate": "20240201",
+      "url": "https://www.bing.com/th?id=OHR.HalbinselJasmund_ES-ES6725793206_UHD.jpg",
+      "copyright": "Faro de Sassnitz en la isla de Rügen, Alemania (© Christian Back/eStock)",
+      "copyrightlink": "/search?q=Sassnitz+Alemania&form=hpcapt&filters=HpDate%3a%2220240131_2300%22"
     }
   ],
   "months": {
@@ -2948,6 +2954,8 @@
       "202312",
       "202401"
     ],
-    "active": []
+    "active": [
+      "202402"
+    ]
   }
 }

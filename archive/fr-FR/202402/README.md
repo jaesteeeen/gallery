@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-02)
+![](https://www.bing.com/th?id=OHR.HalbinselJasmund_FR-FR6083504122_UHD.jpg&w=1000)Latest: [Phare de Sassnitz, Rügen, Mecklembourg-Poméranie-Occidentale,  Allemagne (© Christian Back/eStock)](https://www.bing.com/th?id=OHR.HalbinselJasmund_FR-FR6083504122_UHD.jpg)

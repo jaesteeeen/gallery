@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-02)
+![](https://www.bing.com/th?id=OHR.HalbinselJasmund_DE-DE8684103043_UHD.jpg&w=1000)Latest: [Sassnitz Leuchtturm, Rügen, Mecklenburg-Vorpommern (© Christian Back/eStock)](https://www.bing.com/th?id=OHR.HalbinselJasmund_DE-DE8684103043_UHD.jpg)

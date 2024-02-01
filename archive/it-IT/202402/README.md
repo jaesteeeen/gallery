@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-02)
+![](https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_UHD.jpg&w=1000)Latest: [Faro di Sassnitz sull’isola di Rüge, Germania (© Christian Back/eStock)](https://www.bing.com/th?id=OHR.HalbinselJasmund_IT-IT4499863722_UHD.jpg)

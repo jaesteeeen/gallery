@@ -3083,6 +3083,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearCubs_EN-GB3190423564_UHD.jpg",
       "copyright": "Polar bear cubs playing, Kaktovik, Alaska, USA (© Piriya Photography/Getty Images)",
       "copyrightlink": "/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220240227_0000%22"
+    },
+    {
+      "enddate": "20240229",
+      "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-GB3792083746_UHD.jpg",
+      "copyright": "Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)",
+      "copyrightlink": "/search?q=Bamburgh+Castle+Northumberland&form=hpcapt&filters=HpDate%3a%2220240228_0000%22"
     }
   ],
   "months": {
@@ -3102,10 +3108,9 @@
       "202310",
       "202311",
       "202312",
-      "202401"
-    ],
-    "active": [
+      "202401",
       "202402"
-    ]
+    ],
+    "active": []
   }
 }

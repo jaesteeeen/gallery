@@ -3089,6 +3089,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarBearCubs_FR-CA0127528639_UHD.jpg",
       "copyright": "Oursons polaires, Kaktovik, Alaska, États-Unis (© Piriya Photography/Getty Images)",
       "copyrightlink": "/search?q=Ours+blanc&form=hpcapt&filters=HpDate%3a%2220240227_0500%22"
+    },
+    {
+      "enddate": "20240229",
+      "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-CA0361606003_UHD.jpg",
+      "copyright": "Château de Bamburgh, Northumberland, Angleterre (© Blackbeck/Getty Images)",
+      "copyrightlink": "/search?q=bamburgh+angleterre&form=hpcapt&filters=HpDate%3a%2220240228_0500%22"
     }
   ],
   "months": {
@@ -3108,10 +3114,9 @@
       "202310",
       "202311",
       "202312",
-      "202401"
-    ],
-    "active": [
+      "202401",
       "202402"
-    ]
+    ],
+    "active": []
   }
 }

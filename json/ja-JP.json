@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_JA-JP0209461050_UHD.jpg",
       "copyright": "バンバラ城, イングランド ノーサンバーランド州 (© Blackbeck/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%90%e3%83%b3%e3%83%90%e3%83%a9%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220240227_1500%22"
+    },
+    {
+      "enddate": "20240229",
+      "url": "https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg",
+      "copyright": "バーミリオン・クリフ国定公園, 米国 アリゾナ州 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
+      "copyrightlink": "/search?q=%e3%83%90%e3%83%bc%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%83%bb%e3%82%af%e3%83%aa%e3%83%95%e5%9b%bd%e5%ae%9a%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220240228_1500%22"
     }
   ],
   "months": {
@@ -3114,10 +3120,9 @@
       "202310",
       "202311",
       "202312",
-      "202401"
-    ],
-    "active": [
+      "202401",
       "202402"
-    ]
+    ],
+    "active": []
   }
 }

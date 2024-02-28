@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_EN-IN2760491461_UHD.jpg",
       "copyright": "Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)",
       "copyrightlink": "/search?q=Bamburgh+Castle+Northumberland&form=hpcapt&filters=HpDate%3a%2220240227_1830%22"
+    },
+    {
+      "enddate": "20240229",
+      "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-IN2638979538_UHD.jpg",
+      "copyright": "Eurasian red squirrel (© Westend61/Getty Images)",
+      "copyrightlink": "/search?q=leap+day+facts&form=hpcapt&filters=HpDate%3a%2220240228_1830%22"
     }
   ],
   "months": {
@@ -3114,10 +3120,9 @@
       "202310",
       "202311",
       "202312",
-      "202401"
-    ],
-    "active": [
+      "202401",
       "202402"
-    ]
+    ],
+    "active": []
   }
 }

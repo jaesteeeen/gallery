@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_DE-DE7368019020_UHD.jpg",
       "copyright": "Bamburgh Castle, Northumberland, England (© Blackbeck/Getty Images)",
       "copyrightlink": "/search?q=Bamburgh+Castle%2c+Northumberland%2c+England&form=hpcapt&filters=HpDate%3a%2220240227_2300%22"
+    },
+    {
+      "enddate": "20240229",
+      "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_DE-DE7623766811_UHD.jpg",
+      "copyright": "Eurasisches Eichhörnchen (© Westend61/Getty Images)",
+      "copyrightlink": "/search?q=Schaltjahr&form=hpcapt&filters=HpDate%3a%2220240228_2300%22"
     }
   ],
   "months": {
@@ -3114,10 +3120,9 @@
       "202310",
       "202311",
       "202312",
-      "202401"
-    ],
-    "active": [
+      "202401",
       "202402"
-    ]
+    ],
+    "active": []
   }
 }

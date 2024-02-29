@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.SevilleAndalusiaDay_ES-ES5223382941_UHD.jpg",
       "copyright": "Plaza de España, Sevilla, España (© KavalenkavaVolha/Getty images)",
       "copyrightlink": "/search?q=Dia+de+Andalucia&form=hpcapt&filters=HpDate%3a%2220240227_2300%22"
+    },
+    {
+      "enddate": "20240229",
+      "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_ES-ES2689500178_UHD.jpg",
+      "copyright": "Ardilla roja euroasiática (© Westend61/Getty Images)",
+      "copyrightlink": "/search?q=a%c3%b1o+bisiesto&form=hpcapt&filters=HpDate%3a%2220240228_2300%22"
     }
   ],
   "months": {
@@ -3114,10 +3120,9 @@
       "202310",
       "202311",
       "202312",
-      "202401"
-    ],
-    "active": [
+      "202401",
       "202402"
-    ]
+    ],
+    "active": []
   }
 }

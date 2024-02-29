@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_IT-IT5518925488_UHD.jpg",
       "copyright": "Castello di Bamburgh, Northumberland, Inghilterra (© Blackbeck/Getty Images)",
       "copyrightlink": "/search?q=Bamburgh+dov%27e&form=hpcapt"
+    },
+    {
+      "enddate": "20240229",
+      "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_IT-IT0733873049_UHD.jpg",
+      "copyright": "Scoiattolo rosso eurasiatico (© Westend61/Getty Images)",
+      "copyrightlink": "/search?q=anno+bisestile+cos%27%c3%a8&form=hpcapt"
     }
   ],
   "months": {
@@ -3114,10 +3120,9 @@
       "202310",
       "202311",
       "202312",
-      "202401"
-    ],
-    "active": [
+      "202401",
       "202402"
-    ]
+    ],
+    "active": []
   }
 }

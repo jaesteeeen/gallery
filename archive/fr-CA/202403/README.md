@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-03)
+![](https://www.bing.com/th?id=OHR.LeapingSquirrel_FR-CA0527057560_UHD.jpg&w=1000)Latest: [Écureuil roux d'Europe (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.LeapingSquirrel_FR-CA0527057560_UHD.jpg)

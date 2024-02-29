@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-03)
+![](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_UHD.jpg&w=1000)Latest: [Eurasian red squirrel (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_UHD.jpg)

@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_FR-CA0361606003_UHD.jpg",
       "copyright": "Château de Bamburgh, Northumberland, Angleterre (© Blackbeck/Getty Images)",
       "copyrightlink": "/search?q=bamburgh+angleterre&form=hpcapt&filters=HpDate%3a%2220240228_0500%22"
+    },
+    {
+      "enddate": "20240301",
+      "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_FR-CA0527057560_UHD.jpg",
+      "copyright": "Écureuil roux d'Europe (© Westend61/Getty Images)",
+      "copyrightlink": "/search?q=ann%c3%a9e+bissextile&form=hpcapt&filters=HpDate%3a%2220240229_0500%22"
     }
   ],
   "months": {
@@ -3117,6 +3123,8 @@
       "202401",
       "202402"
     ],
-    "active": []
+    "active": [
+      "202403"
+    ]
   }
 }

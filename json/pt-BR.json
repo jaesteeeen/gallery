@@ -3095,6 +3095,12 @@
       "url": "https://www.bing.com/th?id=OHR.BamburghCastleUK_PT-BR0750396632_UHD.jpg",
       "copyright": "Castelo de Bamburgo, Northumberland, Inglaterra (© Blackbeck/Getty Images)",
       "copyrightlink": "/search?q=Castelo+Bamburgo+Northumberland&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240301",
+      "url": "https://www.bing.com/th?id=OHR.Owlchicks_PT-BR1285033341_UHD.jpg",
+      "copyright": "Filhotes de coruja-buraqueira recém-nascidos, Pantanal (© Bence Mate/Minden)",
+      "copyrightlink": "/search?q=Ano+Bissexto&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -3117,6 +3123,8 @@
       "202401",
       "202402"
     ],
-    "active": []
+    "active": [
+      "202403"
+    ]
   }
 }

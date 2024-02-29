@@ -3101,6 +3101,12 @@
       "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-IN2638979538_UHD.jpg",
       "copyright": "Eurasian red squirrel (© Westend61/Getty Images)",
       "copyrightlink": "/search?q=leap+day+facts&form=hpcapt&filters=HpDate%3a%2220240228_1830%22"
+    },
+    {
+      "enddate": "20240301",
+      "url": "https://www.bing.com/th?id=OHR.HolyVaranasi_EN-IN2569299872_UHD.jpg",
+      "copyright": "The holy city of Varanasi, India (© Jesse Rockwell/Shutterstock)",
+      "copyrightlink": "/search?q=varanasi&form=hpcapt&filters=HpDate%3a%2220240229_1830%22"
     }
   ],
   "months": {
@@ -3123,6 +3129,8 @@
       "202401",
       "202402"
     ],
-    "active": []
+    "active": [
+      "202403"
+    ]
   }
 }

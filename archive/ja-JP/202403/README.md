@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-03)
+![](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg&w=1000)Latest: [モディカ, イタリア (© Sandro Bisaro/Getty Images)](https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg)

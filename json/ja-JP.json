@@ -3101,6 +3101,12 @@
       "url": "https://www.bing.com/th?id=OHR.VermilionCliffs_JA-JP0444568228_UHD.jpg",
       "copyright": "バーミリオン・クリフ国定公園, 米国 アリゾナ州 (© Yva Momatiuk and John Eastcott/Minden Pictures)",
       "copyrightlink": "/search?q=%e3%83%90%e3%83%bc%e3%83%9f%e3%83%aa%e3%82%aa%e3%83%b3%e3%83%bb%e3%82%af%e3%83%aa%e3%83%95%e5%9b%bd%e5%ae%9a%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220240228_1500%22"
+    },
+    {
+      "enddate": "20240301",
+      "url": "https://www.bing.com/th?id=OHR.ModicaItaly_JA-JP0616823869_UHD.jpg",
+      "copyright": "モディカ, イタリア (© Sandro Bisaro/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2%e3%81%ae%e3%83%a2%e3%83%87%e3%82%a3%e3%82%ab&form=hpcapt&filters=HpDate%3a%2220240229_1500%22"
     }
   ],
   "months": {
@@ -3123,6 +3129,8 @@
       "202401",
       "202402"
     ],
-    "active": []
+    "active": [
+      "202403"
+    ]
   }
 }

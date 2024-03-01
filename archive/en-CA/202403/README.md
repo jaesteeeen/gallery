@@ -1,2 +1,6 @@
 ## Bing Wallpaper (2024-03)
-![](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_UHD.jpg&w=1000)Latest: [Eurasian red squirrel (© Westend61/Getty Images)](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.WheatonRiverYukon_EN-CA9040567643_UHD.jpg&w=1000)Latest: [Sunset colours over the icy Wheaton River, Yukon, Canada (© Robert Postma/All Canada Photos/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.WheatonRiverYukon_EN-CA9040567643_UHD.jpg)
+
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-03-01 [download 4k](https://www.bing.com/th?id=OHR.LeapingSquirrel_EN-CA7454002692_UHD.jpg)|

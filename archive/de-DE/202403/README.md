@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-03)
+![](https://www.bing.com/th?id=OHR.Schmetterlingswiese_DE-DE0613438088_UHD.jpg&w=1000)Latest: [Schmetterlinge auf einer Wiese, Deutschland (© Albert Fertl/Getty Images)](https://www.bing.com/th?id=OHR.Schmetterlingswiese_DE-DE0613438088_UHD.jpg)

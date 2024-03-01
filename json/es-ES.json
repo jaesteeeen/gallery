@@ -3101,6 +3101,12 @@
       "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_ES-ES2689500178_UHD.jpg",
       "copyright": "Ardilla roja euroasiática (© Westend61/Getty Images)",
       "copyrightlink": "/search?q=a%c3%b1o+bisiesto&form=hpcapt&filters=HpDate%3a%2220240228_2300%22"
+    },
+    {
+      "enddate": "20240301",
+      "url": "https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES5797431476_UHD.jpg",
+      "copyright": "Málaga, Andalucia, España (© Manfred Gottschalk/Getty Images)",
+      "copyrightlink": "/search?q=Malaga&form=hpcapt&filters=HpDate%3a%2220240229_2300%22"
     }
   ],
   "months": {
@@ -3123,6 +3129,8 @@
       "202401",
       "202402"
     ],
-    "active": []
+    "active": [
+      "202403"
+    ]
   }
 }

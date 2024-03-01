@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-03)
+![](https://www.bing.com/th?id=OHR.Badger_FR-FR5236947017_UHD.jpg&w=1000)Latest: [Blaireau européen (© Milan Zygmunt/Shutterstock)](https://www.bing.com/th?id=OHR.Badger_FR-FR5236947017_UHD.jpg)

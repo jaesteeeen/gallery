@@ -3101,6 +3101,12 @@
       "url": "https://www.bing.com/th?id=OHR.LeapingSquirrel_IT-IT0733873049_UHD.jpg",
       "copyright": "Scoiattolo rosso eurasiatico (© Westend61/Getty Images)",
       "copyrightlink": "/search?q=anno+bisestile+cos%27%c3%a8&form=hpcapt"
+    },
+    {
+      "enddate": "20240301",
+      "url": "https://www.bing.com/th?id=OHR.CinqueTorriCortina_IT-IT1456925506_UHD.jpg",
+      "copyright": "Gruppo delle Cinque Torri nelle Dolomiti, Cortina d'Ampezzo, Veneto, Italia (© iStock/Getty Images Plus)",
+      "copyrightlink": "/search?q=Cinque+Torri+Dolomiti&form=hpcapt"
     }
   ],
   "months": {
@@ -3123,6 +3129,8 @@
       "202401",
       "202402"
     ],
-    "active": []
+    "active": [
+      "202403"
+    ]
   }
 }

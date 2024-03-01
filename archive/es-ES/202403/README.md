@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-03)
+![](https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES5797431476_UHD.jpg&w=1000)Latest: [Málaga, Andalucia, España (© Manfred Gottschalk/Getty Images)](https://www.bing.com/th?id=OHR.FilmFestivalMalaga_ES-ES5797431476_UHD.jpg)

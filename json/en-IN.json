@@ -3281,6 +3281,12 @@
       "url": "https://www.bing.com/th?id=OHR.SleepySloth_EN-IN4281443663_UHD.jpg",
       "copyright": "Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)",
       "copyrightlink": "/search?q=brown+throated+three+toed+sloth&form=hpcapt&filters=HpDate%3a%2220240329_1830%22"
+    },
+    {
+      "enddate": "20240331",
+      "url": "https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_UHD.jpg",
+      "copyright": "Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)",
+      "copyrightlink": "/search?q=easter+weekend&form=hpcapt&filters=HpDate%3a%2220240330_1830%22"
     }
   ],
   "months": {
@@ -3301,10 +3307,9 @@
       "202311",
       "202312",
       "202401",
-      "202402"
-    ],
-    "active": [
+      "202402",
       "202403"
-    ]
+    ],
+    "active": []
   }
 }

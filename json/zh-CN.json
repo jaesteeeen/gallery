@@ -4919,6 +4919,12 @@
       "url": "https://www.bing.com/th?id=OHR.SleepySloth_ZH-CN6084460583_UHD.jpg",
       "copyright": "睡在号角树上的褐喉树懒，哥斯达黎加 (© Juan Carlos Vindas/Getty Images)",
       "copyrightlink": "/search?q=%e8%a4%90%e5%96%89%e6%a0%91%e6%87%92&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20240331",
+      "url": "https://www.bing.com/th?id=OHR.ArdeAlba_ZH-CN6807697569_UHD.jpg",
+      "copyright": "潘塔纳尔湿地的大白鹭，巴西 (© Geraldi Corsi/Getty Images)",
+      "copyrightlink": "/search?q=%e5%a4%a7%e7%99%bd%e9%b9%ad&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -4948,10 +4954,9 @@
       "202311",
       "202312",
       "202401",
-      "202402"
-    ],
-    "active": [
+      "202402",
       "202403"
-    ]
+    ],
+    "active": []
   }
 }

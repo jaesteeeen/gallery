@@ -3275,6 +3275,12 @@
       "url": "https://www.bing.com/th?id=OHR.SouthStackLight_FR-CA8578540293_UHD.jpg",
       "copyright": "Phare de South Stack au coucher du soleil, Holyhead, Pays de Galles, Royaume-Uni (© mariotlr/Getty Images)",
       "copyrightlink": "/search?q=phare+de+South+Stack&form=hpcapt&filters=HpDate%3a%2220240329_0400%22"
+    },
+    {
+      "enddate": "20240331",
+      "url": "https://www.bing.com/th?id=OHR.SleepySloth_FR-CA3957487793_UHD.jpg",
+      "copyright": "Paresseux à gorge brune dormant dans un arbre cécropia, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+      "copyrightlink": "/search?q=Paresseux+%c3%a0+gorge+brune&form=hpcapt&filters=HpDate%3a%2220240330_0400%22"
     }
   ],
   "months": {
@@ -3295,10 +3301,9 @@
       "202311",
       "202312",
       "202401",
-      "202402"
-    ],
-    "active": [
+      "202402",
       "202403"
-    ]
+    ],
+    "active": []
   }
 }

@@ -3275,6 +3275,12 @@
       "url": "https://www.bing.com/th?id=OHR.SouthStackLight_EN-CA7056549595_UHD.jpg",
       "copyright": "South Stack Lighthouse at sunset, Holyhead, Wales, UK (© mariotlr/Getty Images)",
       "copyrightlink": "/search?q=South+Stack+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240329_0400%22"
+    },
+    {
+      "enddate": "20240331",
+      "url": "https://www.bing.com/th?id=OHR.SleepySloth_EN-CA8767906433_UHD.jpg",
+      "copyright": "Brown-throated three-toed sloth sleeping in cecropia tree, Costa Rica (© Juan Carlos Vindas/Getty Images)",
+      "copyrightlink": "/search?q=Brown+throated+three+toed+sloth&form=hpcapt&filters=HpDate%3a%2220240330_0400%22"
     }
   ],
   "months": {
@@ -3295,10 +3301,9 @@
       "202311",
       "202312",
       "202401",
-      "202402"
-    ],
-    "active": [
+      "202402",
       "202403"
-    ]
+    ],
+    "active": []
   }
 }

@@ -3281,6 +3281,12 @@
       "url": "https://www.bing.com/th?id=OHR.SleepySloth_IT-IT7892909153_UHD.jpg",
       "copyright": "Bradipo tridattilo dal collo marrone che dorme su un albero di cecropia, Costa Rica (© Juan Carlos Vindas/Getty Images)",
       "copyrightlink": "/search?q=bradipo+a+tre+dita+con+gola+marrone&form=hpcapt"
+    },
+    {
+      "enddate": "20240331",
+      "url": "https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg",
+      "copyright": "Uova di Pasqua di Tünde Csuhaj, Szekszárd, Ungheria (© ATTILA KISBENEDEK/AFP/Getty Images)",
+      "copyrightlink": "/search?q=Pasqua&form=hpcapt"
     }
   ],
   "months": {
@@ -3301,10 +3307,9 @@
       "202311",
       "202312",
       "202401",
-      "202402"
-    ],
-    "active": [
+      "202402",
       "202403"
-    ]
+    ],
+    "active": []
   }
 }

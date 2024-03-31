@@ -3281,6 +3281,12 @@
       "url": "https://www.bing.com/th?id=OHR.PalazzoFarnese_DE-DE4941485496_UHD.jpg",
       "copyright": "„Vanishing Point“, des Straßenkünstlers JR bedeckt die Fassade des Palazzo Farnese, Rom, Italien (© Fabrizio Troiani/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Palazzo+Farnese&form=hpcapt&filters=HpDate%3a%2220240329_2300%22"
+    },
+    {
+      "enddate": "20240331",
+      "url": "https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg",
+      "copyright": "Ostereier von Tünde Csuhaj, Szekszárd, Ungarn (© ATTILA KISBENEDEK/AFP/Getty Images)",
+      "copyrightlink": "/search?q=Ostern&form=hpcapt&filters=HpDate%3a%2220240330_2300%22"
     }
   ],
   "months": {
@@ -3301,10 +3307,9 @@
       "202311",
       "202312",
       "202401",
-      "202402"
-    ],
-    "active": [
+      "202402",
       "202403"
-    ]
+    ],
+    "active": []
   }
 }

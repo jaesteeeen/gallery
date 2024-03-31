@@ -3281,6 +3281,12 @@
       "url": "https://www.bing.com/th?id=OHR.BeaumontClock_ES-ES6311174961_UHD.jpg",
       "copyright": "Reloj mecánico del edificio San Jacinto, Beaumont, Texas, EE.UU. (© Richard T. Nowitz/Getty Images)",
       "copyrightlink": "/search?q=horario+de+verano&form=hpcapt&filters=HpDate%3a%2220240329_2300%22"
+    },
+    {
+      "enddate": "20240331",
+      "url": "https://www.bing.com/th?id=OHR.HungarianEggs_ES-ES9484985742_UHD.jpg",
+      "copyright": "Huevos de Pascua de Tünde Csuhaj, Szekszárd, Hungría (© ATTILA KISBENEDEK/AFP/Getty Images)",
+      "copyrightlink": "/search?q=pascua&form=hpcapt&filters=HpDate%3a%2220240330_2300%22"
     }
   ],
   "months": {
@@ -3301,10 +3307,9 @@
       "202311",
       "202312",
       "202401",
-      "202402"
-    ],
-    "active": [
+      "202402",
       "202403"
-    ]
+    ],
+    "active": []
   }
 }

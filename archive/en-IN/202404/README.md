@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-04)
+![](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-IN6555201202_UHD.jpg&w=1000)Latest: ['Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)](https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-IN6555201202_UHD.jpg)

@@ -3287,6 +3287,12 @@
       "url": "https://www.bing.com/th?id=OHR.HungarianEggs_EN-IN6319733019_UHD.jpg",
       "copyright": "Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)",
       "copyrightlink": "/search?q=easter+weekend&form=hpcapt&filters=HpDate%3a%2220240330_1830%22"
+    },
+    {
+      "enddate": "20240401",
+      "url": "https://www.bing.com/th?id=OHR.PalazzoFarnese_EN-IN6555201202_UHD.jpg",
+      "copyright": "'Vanishing Point' by French street artist JR on the facade of Palazzo Farnese, Rome, Italy (© Fabrizio Troiani/Alamy)",
+      "copyrightlink": "/search?q=Palazzo+Farnese&form=hpcapt&filters=HpDate%3a%2220240331_1830%22"
     }
   ],
   "months": {
@@ -3310,6 +3316,8 @@
       "202402",
       "202403"
     ],
-    "active": []
+    "active": [
+      "202404"
+    ]
   }
 }

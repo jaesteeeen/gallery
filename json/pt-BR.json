@@ -3281,6 +3281,12 @@
       "url": "https://www.bing.com/th?id=OHR.SleepySloth_PT-BR0186395932_UHD.jpg",
       "copyright": "Bicho-preguiça dormindo em uma embaúba, Costa Rica (© Juan Carlos Vindas/Getty Images)",
       "copyrightlink": "/search?q=Pregui%c3%a7a-de-tr%c3%aas-dedos-de-garganta-marrom&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240401",
+      "url": "https://www.bing.com/th?id=OHR.HungarianEggs_PT-BR0431246025_UHD.jpg",
+      "copyright": "Ovos de Páscoa de Tünde Csuhaj, Szekszárd, Hungria (© ATTILA KISBENEDEK/AFP/Getty Images)",
+      "copyrightlink": "/search?q=P%c3%a1scoa&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -3304,6 +3310,8 @@
       "202402",
       "202403"
     ],
-    "active": []
+    "active": [
+      "202404"
+    ]
   }
 }

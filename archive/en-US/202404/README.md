@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-04)
+![](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg&w=1000)Latest: [Easter eggs painted by Tünde Csuhaj, Szekszárd, Hungary (© ATTILA KISBENEDEK/AFP/Getty Images)](https://www.bing.com/th?id=OHR.HungarianEggs_EN-US3026213374_UHD.jpg)

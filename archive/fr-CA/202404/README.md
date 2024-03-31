@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-04)
+![](https://www.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg&w=1000)Latest: [Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)](https://www.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg)

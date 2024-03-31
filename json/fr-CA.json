@@ -3281,6 +3281,12 @@
       "url": "https://www.bing.com/th?id=OHR.SleepySloth_FR-CA3957487793_UHD.jpg",
       "copyright": "Paresseux à gorge brune dormant dans un arbre cécropia, Costa Rica (© Juan Carlos Vindas/Getty Images)",
       "copyrightlink": "/search?q=Paresseux+%c3%a0+gorge+brune&form=hpcapt&filters=HpDate%3a%2220240330_0400%22"
+    },
+    {
+      "enddate": "20240401",
+      "url": "https://www.bing.com/th?id=OHR.HungarianEggs_FR-CA5727463691_UHD.jpg",
+      "copyright": "Œufs de Pâques réalisés par Tünde Csuhaj, Szekszárd, Hongrie (© ATTILA KISBENEDEK/AFP/Getty Images)",
+      "copyrightlink": "/search?q=p%c3%a2ques&form=hpcapt&filters=HpDate%3a%2220240331_0400%22"
     }
   ],
   "months": {
@@ -3304,6 +3310,8 @@
       "202402",
       "202403"
     ],
-    "active": []
+    "active": [
+      "202404"
+    ]
   }
 }

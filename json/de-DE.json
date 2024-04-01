@@ -3287,6 +3287,12 @@
       "url": "https://www.bing.com/th?id=OHR.HungarianEggs_DE-DE6470935823_UHD.jpg",
       "copyright": "Ostereier von Tünde Csuhaj, Szekszárd, Ungarn (© ATTILA KISBENEDEK/AFP/Getty Images)",
       "copyrightlink": "/search?q=Ostern&form=hpcapt&filters=HpDate%3a%2220240330_2300%22"
+    },
+    {
+      "enddate": "20240401",
+      "url": "https://www.bing.com/th?id=OHR.StGeorgiRide_DE-DE6646277481_UHD.jpg",
+      "copyright": "Traunsteiner Pferde beim traditionellen St. Georgi-Ritt am Ostermontag in bayerischen Farben geschmückt, Deutschland (© Christof Stache/AFP via Getty Images)",
+      "copyrightlink": "/search?q=Ostermontag&form=hpcapt&filters=HpDate%3a%2220240331_2200%22"
     }
   ],
   "months": {
@@ -3310,6 +3316,8 @@
       "202402",
       "202403"
     ],
-    "active": []
+    "active": [
+      "202404"
+    ]
   }
 }

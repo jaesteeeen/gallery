@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-04)
+![](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_UHD.jpg&w=1000)Latest: [L'œuvre « Vanishing Point » de l'artiste de rue français JR sur la façade du Palais Farnèse, Rome, Italie (© Fabrizio Troiani/Alamy)](https://www.bing.com/th?id=OHR.PalazzoFarnese_FR-FR9572652511_UHD.jpg)

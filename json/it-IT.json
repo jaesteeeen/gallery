@@ -3287,6 +3287,12 @@
       "url": "https://www.bing.com/th?id=OHR.HungarianEggs_IT-IT8993577928_UHD.jpg",
       "copyright": "Uova di Pasqua di Tünde Csuhaj, Szekszárd, Ungheria (© ATTILA KISBENEDEK/AFP/Getty Images)",
       "copyrightlink": "/search?q=Pasqua&form=hpcapt"
+    },
+    {
+      "enddate": "20240401",
+      "url": "https://www.bing.com/th?id=OHR.PalazzoFarnese_IT-IT8737632028_UHD.jpg",
+      "copyright": "\"Vanishing Point\" dell'artista francese JR copre la facciata del Palazzo Farnese, Roma, Italia (© Fabrizio Troiani/Alamy)",
+      "copyrightlink": "/search?q=Pesce+d%27aprile&form=hpcapt"
     }
   ],
   "months": {
@@ -3310,6 +3316,8 @@
       "202402",
       "202403"
     ],
-    "active": []
+    "active": [
+      "202404"
+    ]
   }
 }

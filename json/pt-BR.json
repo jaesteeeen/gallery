@@ -3455,6 +3455,12 @@
       "url": "https://www.bing.com/th?id=OHR.GuadalupeTexas_PT-BR4550245879_UHD.jpg",
       "copyright": "El Capitan ao nascer do sol no Parque Nacional das Montanhas Guadalupe, Texas, EUA (© Adam Mowery/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Parque+Nacional+das+Montanhas+Guadalupe+Texas&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240430",
+      "url": "https://www.bing.com/th?id=OHR.TulouFujian_PT-BR4910373349_UHD.jpg",
+      "copyright": "Tulou de Fuquiém, edifícios de patrimônio histórico e cultural na província de Fuquiém, China (© Hongjie Han/Getty Images)",
+      "copyrightlink": "/search?q=Tulou+de+Fuqui%c3%a9m&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -3476,10 +3482,9 @@
       "202312",
       "202401",
       "202402",
-      "202403"
-    ],
-    "active": [
+      "202403",
       "202404"
-    ]
+    ],
+    "active": []
   }
 }

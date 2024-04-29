@@ -3455,6 +3455,12 @@
       "url": "https://www.bing.com/th?id=OHR.GuadalupeTexas_EN-CA8167364190_UHD.jpg",
       "copyright": "El Capitan at sunrise in Guadalupe Mountains National Park, Texas (© Adam Mowery/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Guadalupe+Mountains+National+Park&form=hpcapt&filters=HpDate%3a%2220240428_0400%22"
+    },
+    {
+      "enddate": "20240430",
+      "url": "https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390_UHD.jpg",
+      "copyright": "Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)",
+      "copyrightlink": "/search?q=Fujian+Tulou&form=hpcapt&filters=HpDate%3a%2220240429_0400%22"
     }
   ],
   "months": {
@@ -3476,10 +3482,9 @@
       "202312",
       "202401",
       "202402",
-      "202403"
-    ],
-    "active": [
+      "202403",
       "202404"
-    ]
+    ],
+    "active": []
   }
 }

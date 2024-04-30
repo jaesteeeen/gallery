@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-05)
+![](https://www.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg&w=1000)Latest: [夏威夷花环 (© Jotika Pun/Shutterstock)](https://www.bing.com/th?id=OHR.HawaiianLei_ZH-CN7857272499_UHD.jpg)

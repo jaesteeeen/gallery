@@ -3467,6 +3467,12 @@
       "url": "https://www.bing.com/th?id=OHR.CheetahRain_JA-JP5165159755_UHD.jpg",
       "copyright": "ンゴロンゴロ保全地域, タンザニア  (© Paul Souders/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%b3%e3%82%b4%e3%83%ad%e3%83%b3%e3%82%b4%e3%83%ad%e4%bf%9d%e5%85%a8%e5%9c%b0%e5%9f%9f&form=hpcapt&filters=HpDate%3a%2220240429_1500%22"
+    },
+    {
+      "enddate": "20240501",
+      "url": "https://www.bing.com/th?id=OHR.TeaGarden2024_JA-JP5324737275_UHD.jpg",
+      "copyright": "和束町の茶畑, 京都府 (© Tuul & Bruno Morandi/Getty Images)",
+      "copyrightlink": "/search?q=%e5%92%8c%e6%9d%9f%e7%94%ba%e3%81%ae%e8%8c%b6%e7%95%91&form=hpcapt&filters=HpDate%3a%2220240430_1500%22"
     }
   ],
   "months": {
@@ -3491,6 +3497,8 @@
       "202403",
       "202404"
     ],
-    "active": []
+    "active": [
+      "202405"
+    ]
   }
 }

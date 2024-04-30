@@ -3461,6 +3461,12 @@
       "url": "https://www.bing.com/th?id=OHR.TulouFujian_EN-CA1163338390_UHD.jpg",
       "copyright": "Fujian Tulou complex of historical and cultural heritage buildings in Fujian province, China (© Hongjie Han/Getty Images)",
       "copyrightlink": "/search?q=Fujian+Tulou&form=hpcapt&filters=HpDate%3a%2220240429_0400%22"
+    },
+    {
+      "enddate": "20240501",
+      "url": "https://www.bing.com/th?id=OHR.CheetahRain_EN-CA1487637998_UHD.jpg",
+      "copyright": "Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)",
+      "copyrightlink": "/search?q=Cheetah&form=hpcapt&filters=HpDate%3a%2220240430_0400%22"
     }
   ],
   "months": {
@@ -3485,6 +3491,8 @@
       "202403",
       "202404"
     ],
-    "active": []
+    "active": [
+      "202405"
+    ]
   }
 }

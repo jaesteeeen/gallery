@@ -3461,6 +3461,12 @@
       "url": "https://www.bing.com/th?id=OHR.TulouFujian_PT-BR4910373349_UHD.jpg",
       "copyright": "Tulou de Fuquiém, edifícios de patrimônio histórico e cultural na província de Fuquiém, China (© Hongjie Han/Getty Images)",
       "copyrightlink": "/search?q=Tulou+de+Fuqui%c3%a9m&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240501",
+      "url": "https://www.bing.com/th?id=OHR.CheetahRain_PT-BR5107827451_UHD.jpg",
+      "copyright": "Guepardo na chuva da manhã, Planícies de Ndutu, Área de Conservação de Ngorongoro, Tanzânia (© Paul Souders/Getty Images)",
+      "copyrightlink": "/search?q=Guepardo&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -3485,6 +3491,8 @@
       "202403",
       "202404"
     ],
-    "active": []
+    "active": [
+      "202405"
+    ]
   }
 }

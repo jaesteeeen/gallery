@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-05)
+![](https://www.bing.com/th?id=OHR.CheetahRain_PT-BR5107827451_UHD.jpg&w=1000)Latest: [Guepardo na chuva da manhã, Planícies de Ndutu, Área de Conservação de Ngorongoro, Tanzânia (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.CheetahRain_PT-BR5107827451_UHD.jpg)

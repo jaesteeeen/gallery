@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-05)
+![](https://www.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg&w=1000)Latest: [Cheetah in morning rain, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)](https://www.bing.com/th?id=OHR.CheetahRain_EN-US6179670004_UHD.jpg)

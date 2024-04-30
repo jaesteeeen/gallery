@@ -3461,6 +3461,12 @@
       "url": "https://www.bing.com/th?id=OHR.TulouFujian_ES-ES2621683417_UHD.jpg",
       "copyright": "Tulou de Fujian, edificios del patrimonio histórico y cultural de la provincia de Fujian, China (© Hongjie Han/Getty Images)",
       "copyrightlink": "/search?q=Tulou+de+Fujian&form=hpcapt&filters=HpDate%3a%2220240428_2200%22"
+    },
+    {
+      "enddate": "20240430",
+      "url": "https://www.bing.com/th?id=OHR.CheetahRain_ES-ES2760167365_UHD.jpg",
+      "copyright": "Guepardo bajo la lluvia matutina, Llanuras de Ndutu, Área de Conservación del Ngorongoro, Tanzania (© Paul Souders/Getty Images)",
+      "copyrightlink": "/search?q=Guepardo&form=hpcapt&filters=HpDate%3a%2220240429_2200%22"
     }
   ],
   "months": {
@@ -3482,10 +3488,9 @@
       "202312",
       "202401",
       "202402",
-      "202403"
-    ],
-    "active": [
+      "202403",
       "202404"
-    ]
+    ],
+    "active": []
   }
 }

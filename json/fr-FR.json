@@ -3461,6 +3461,12 @@
       "url": "https://www.bing.com/th?id=OHR.TulouFujian_FR-FR9745511197_UHD.jpg",
       "copyright": "Architectures traditionnelles Tulou de Fujian, province de Fujian, Chine (© Hongjie Han/Getty Images)",
       "copyrightlink": "/search?q=tulou+du+Fujian+chine&form=hpcapt&filters=HpDate%3a%2220240428_2200%22"
+    },
+    {
+      "enddate": "20240430",
+      "url": "https://www.bing.com/th?id=OHR.CheetahRain_FR-FR0543352581_UHD.jpg",
+      "copyright": "Guépard sous la pluie, plaines de Ndutu, zone de conservation du Ngorongoro, Tanzanie (© Paul Souders/Getty Images)",
+      "copyrightlink": "/search?q=Gu%c3%a9pard&form=hpcapt&filters=HpDate%3a%2220240429_2200%22"
     }
   ],
   "months": {
@@ -3482,10 +3488,9 @@
       "202312",
       "202401",
       "202402",
-      "202403"
-    ],
-    "active": [
+      "202403",
       "202404"
-    ]
+    ],
+    "active": []
   }
 }

@@ -3461,6 +3461,12 @@
       "url": "https://www.bing.com/th?id=OHR.TulouFujian_IT-IT7939512907_UHD.jpg",
       "copyright": "Fujian Tulou, edifici del patrimonio storico e culturale della provincia del Fujian, Cina (© Hongjie Han/Getty Images)",
       "copyrightlink": "/search?q=Yuan+lou&form=hpcapt"
+    },
+    {
+      "enddate": "20240430",
+      "url": "https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_UHD.jpg",
+      "copyright": "Ghepardo sotto la pioggia del mattino, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)",
+      "copyrightlink": "/search?q=ghepardo+animale&form=hpcapt"
     }
   ],
   "months": {
@@ -3482,10 +3488,9 @@
       "202312",
       "202401",
       "202402",
-      "202403"
-    ],
-    "active": [
+      "202403",
       "202404"
-    ]
+    ],
+    "active": []
   }
 }

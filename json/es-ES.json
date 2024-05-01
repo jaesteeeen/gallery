@@ -3467,6 +3467,12 @@
       "url": "https://www.bing.com/th?id=OHR.CheetahRain_ES-ES2760167365_UHD.jpg",
       "copyright": "Guepardo bajo la lluvia matutina, Llanuras de Ndutu, Área de Conservación del Ngorongoro, Tanzania (© Paul Souders/Getty Images)",
       "copyrightlink": "/search?q=Guepardo&form=hpcapt&filters=HpDate%3a%2220240429_2200%22"
+    },
+    {
+      "enddate": "20240501",
+      "url": "https://www.bing.com/th?id=OHR.HawaiianLei_ES-ES3282014146_UHD.jpg",
+      "copyright": "Guirnaldas de flores de lei hawaianas (© Jotika Pun/Shutterstock)",
+      "copyrightlink": "/search?q=Haw%c3%a1i&form=hpcapt&filters=HpDate%3a%2220240430_2200%22"
     }
   ],
   "months": {
@@ -3491,6 +3497,8 @@
       "202403",
       "202404"
     ],
-    "active": []
+    "active": [
+      "202405"
+    ]
   }
 }

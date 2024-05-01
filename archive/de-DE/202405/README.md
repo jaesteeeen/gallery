@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-05)
+![](https://www.bing.com/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_UHD.jpg&w=1000)Latest: [Weg durch den Gespensterwald bei Sonnenaufgang, Nienhagen, Mecklenburg-Vorpommern (© Martin Ruegner/Getty Images)](https://www.bing.com/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_UHD.jpg)

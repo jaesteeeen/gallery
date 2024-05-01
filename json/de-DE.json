@@ -3467,6 +3467,12 @@
       "url": "https://www.bing.com/th?id=OHR.CheetahRain_DE-DE3160302306_UHD.jpg",
       "copyright": "Gepard im Morgenregen, Ndutu-Region, Ngorongoro, Tansania (© Paul Souders/Getty Images)",
       "copyrightlink": "/search?q=Gepard&form=hpcapt&filters=HpDate%3a%2220240429_2200%22"
+    },
+    {
+      "enddate": "20240501",
+      "url": "https://www.bing.com/th?id=OHR.NienhagenMecklenburg_DE-DE3604963569_UHD.jpg",
+      "copyright": "Weg durch den Gespensterwald bei Sonnenaufgang, Nienhagen, Mecklenburg-Vorpommern (© Martin Ruegner/Getty Images)",
+      "copyrightlink": "/search?q=Nienhagen%2c+Rostock+Mecklenburg-Vorpommern&form=hpcapt&filters=HpDate%3a%2220240430_2200%22"
     }
   ],
   "months": {
@@ -3491,6 +3497,8 @@
       "202403",
       "202404"
     ],
-    "active": []
+    "active": [
+      "202405"
+    ]
   }
 }

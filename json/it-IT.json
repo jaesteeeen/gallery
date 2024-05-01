@@ -3467,6 +3467,12 @@
       "url": "https://www.bing.com/th?id=OHR.CheetahRain_IT-IT8393286525_UHD.jpg",
       "copyright": "Ghepardo sotto la pioggia del mattino, Ndutu Plains, Ngorongoro Conservation Area, Tanzania (© Paul Souders/Getty Images)",
       "copyrightlink": "/search?q=ghepardo+animale&form=hpcapt"
+    },
+    {
+      "enddate": "20240501",
+      "url": "https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_UHD.jpg",
+      "copyright": "Ghirlande di fiori hawaiani, Hawaii, Stati Uniti (© Jotika Pun/Shutterstock)",
+      "copyrightlink": "/search?q=Lei+(Hawaii)+ghirlanda&form=hpcapt"
     }
   ],
   "months": {
@@ -3491,6 +3497,8 @@
       "202403",
       "202404"
     ],
-    "active": []
+    "active": [
+      "202405"
+    ]
   }
 }

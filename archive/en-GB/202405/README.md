@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-05)
+![](https://www.bing.com/th?id=OHR.HawaiianLei_EN-GB6017463804_UHD.jpg&w=1000)Latest: [Hawaiian lei flower garlands (© Jotika Pun/Shutterstock)](https://www.bing.com/th?id=OHR.HawaiianLei_EN-GB6017463804_UHD.jpg)

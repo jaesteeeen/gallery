@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-05)
+![](https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_UHD.jpg&w=1000)Latest: [Ghirlande di fiori hawaiani, Hawaii, Stati Uniti (© Jotika Pun/Shutterstock)](https://www.bing.com/th?id=OHR.HawaiianLei_IT-IT8543155647_UHD.jpg)

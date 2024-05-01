@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-05)
+![](https://www.bing.com/th?id=OHR.HawaiianLei_ES-ES3282014146_UHD.jpg&w=1000)Latest: [Guirnaldas de flores de lei hawaianas (© Jotika Pun/Shutterstock)](https://www.bing.com/th?id=OHR.HawaiianLei_ES-ES3282014146_UHD.jpg)

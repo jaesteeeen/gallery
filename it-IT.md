@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.EmirganPark_IT-IT4111429731_UHD.jpg&w=1000)Today: [Tulips at Emirgan Park in Istanbul, Türkiye (© Ozbalci/Getty Images)](https://www.bing.com/th?id=OHR.EmirganPark_IT-IT4111429731_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.EmirganPark_IT-IT4111429731_UHD.jpg&w=1000)Today: [Tulipani nel parco di Emirgan a Istanbul, Türkiye (© Ozbalci/Getty Images)](https://www.bing.com/th?id=OHR.EmirganPark_IT-IT4111429731_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

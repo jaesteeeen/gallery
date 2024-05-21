@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg&w=1000)Today: [卡梅隆高地茶园，马拉西亚 (© alex cheong/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg&w=1000)Today: [卡梅隆高地茶园，马来西亚 (© alex cheong/Getty Images)](https://www.bing.com/th?id=OHR.MalaysiaTea_ZH-CN6758939415_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

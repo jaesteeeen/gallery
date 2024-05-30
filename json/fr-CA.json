@@ -3641,6 +3641,12 @@
       "url": "https://www.bing.com/th?id=OHR.MullOtter_FR-CA3702502425_UHD.jpg",
       "copyright": "Loutre d'Europe, Loch Spelve, île de Mull, Écosse (© Neil Henderson/Alamy)",
       "copyrightlink": "/search?q=loutre&form=hpcapt&filters=HpDate%3a%2220240529_0400%22"
+    },
+    {
+      "enddate": "20240531",
+      "url": "https://www.bing.com/th?id=OHR.Everglades90th_FR-CA4007437491_UHD.jpg",
+      "copyright": "Pins sylvestres, parc national des Everglades, Floride, États-Unis (© Jonathan Gewirtz/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=Everglades+%c3%a9tats-unis&form=hpcapt&filters=HpDate%3a%2220240530_0400%22"
     }
   ],
   "months": {
@@ -3663,10 +3669,9 @@
       "202401",
       "202402",
       "202403",
-      "202404"
-    ],
-    "active": [
+      "202404",
       "202405"
-    ]
+    ],
+    "active": []
   }
 }

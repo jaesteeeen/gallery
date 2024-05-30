@@ -3641,6 +3641,12 @@
       "url": "https://www.bing.com/th?id=OHR.MullOtter_EN-CA6618769900_UHD.jpg",
       "copyright": "Adolescent European otters, Loch Spelve, Isle of Mull, Scotland (© Neil Henderson/Alamy)",
       "copyrightlink": "/search?q=World+Otter+Day&form=hpcapt&filters=HpDate%3a%2220240529_0400%22"
+    },
+    {
+      "enddate": "20240531",
+      "url": "https://www.bing.com/th?id=OHR.Everglades90th_EN-CA7240904105_UHD.jpg",
+      "copyright": "A stand of slash pines and sawgrass prairie, Everglades National Park, Florida (© Jonathan Gewirtz/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=Everglades+National+Park+Florida&form=hpcapt&filters=HpDate%3a%2220240530_0400%22"
     }
   ],
   "months": {
@@ -3663,10 +3669,9 @@
       "202401",
       "202402",
       "202403",
-      "202404"
-    ],
-    "active": [
+      "202404",
       "202405"
-    ]
+    ],
+    "active": []
   }
 }

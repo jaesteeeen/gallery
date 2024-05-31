@@ -3647,6 +3647,12 @@
       "url": "https://www.bing.com/th?id=OHR.Everglades90th_IT-IT9833292741_UHD.jpg",
       "copyright": "Complesso di pini da taglio e prateria di segatura nel Parco Nazionale delle Everglades, Florida, USA (© Jonathan Gewirtz/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Parco+nazionale+delle+Everglades&form=hpcapt"
+    },
+    {
+      "enddate": "20240531",
+      "url": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_IT-IT9821537287_UHD.jpg",
+      "copyright": "Gunnerside, Swaledale, Parco Nazionale delle Yorkshire Dales, Inghilterra (© Derek Croucher/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Gunnerside%2c+Swaledale%2c+Parco+nazionale+dello+Yorkshire+Dales&form=hpcapt"
     }
   ],
   "months": {
@@ -3669,10 +3675,9 @@
       "202401",
       "202402",
       "202403",
-      "202404"
-    ],
-    "active": [
+      "202404",
       "202405"
-    ]
+    ],
+    "active": []
   }
 }

@@ -3647,6 +3647,12 @@
       "url": "https://www.bing.com/th?id=OHR.Everglades90th_ES-ES6056767360_UHD.jpg",
       "copyright": "Pinos elliotis en el Parque Nacional de los Everglades, Florida, EE.UU. (© Jonathan Gewirtz/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Florida&form=hpcapt&filters=HpDate%3a%2220240529_2200%22"
+    },
+    {
+      "enddate": "20240531",
+      "url": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_ES-ES3243650071_UHD.jpg",
+      "copyright": "Gunnerside, Swaledale, Parque Nacional Yorkshire Dales, Reino Unido (© Derek Croucher/Alamy)",
+      "copyrightlink": "/search?q=parque+nacional+de+yorkshire&form=hpcapt&filters=HpDate%3a%2220240530_2200%22"
     }
   ],
   "months": {
@@ -3669,10 +3675,9 @@
       "202401",
       "202402",
       "202403",
-      "202404"
-    ],
-    "active": [
+      "202404",
       "202405"
-    ]
+    ],
+    "active": []
   }
 }

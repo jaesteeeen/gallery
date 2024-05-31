@@ -3635,6 +3635,12 @@
       "url": "https://www.bing.com/th?id=OHR.Everglades90th_EN-GB0429923413_UHD.jpg",
       "copyright": "A stand of slash pines and sawgrass prairie, Everglades National Park, Florida, USA (© Jonathan Gewirtz/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Everglades+National+Park+Florida&form=hpcapt&filters=HpDate%3a%2220240529_2300%22"
+    },
+    {
+      "enddate": "20240531",
+      "url": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB1861917445_UHD.jpg",
+      "copyright": "Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Gunnerside&form=hpcapt&filters=HpDate%3a%2220240530_2300%22"
     }
   ],
   "months": {
@@ -3657,10 +3663,9 @@
       "202401",
       "202402",
       "202403",
-      "202404"
-    ],
-    "active": [
+      "202404",
       "202405"
-    ]
+    ],
+    "active": []
   }
 }

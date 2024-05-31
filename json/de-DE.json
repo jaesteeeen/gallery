@@ -3647,6 +3647,12 @@
       "url": "https://www.bing.com/th?id=OHR.Everglades90th_DE-DE6253688442_UHD.jpg",
       "copyright": "Sumpf-Kiefer, Everglades-Nationalpark, Florida, USA (© Jonathan Gewirtz/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Everglades-Nationalpark&form=hpcapt&filters=HpDate%3a%2220240529_2200%22"
+    },
+    {
+      "enddate": "20240531",
+      "url": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_DE-DE2262987650_UHD.jpg",
+      "copyright": "Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Gunnerside%2c+Swaledale&form=hpcapt&filters=HpDate%3a%2220240530_2200%22"
     }
   ],
   "months": {
@@ -3669,10 +3675,9 @@
       "202401",
       "202402",
       "202403",
-      "202404"
-    ],
-    "active": [
+      "202404",
       "202405"
-    ]
+    ],
+    "active": []
   }
 }

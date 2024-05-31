@@ -3647,6 +3647,12 @@
       "url": "https://www.bing.com/th?id=OHR.Everglades90th_PT-BR0782569600_UHD.jpg",
       "copyright": "Uma área de pinheiros e pradaria de grama, Parque Nacional de Everglades, Flórida, EUA (© Jonathan Gewirtz/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Parque+Nacional+de+Everglades+Fl%c3%b3rida&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240601",
+      "url": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_PT-BR5805097424_UHD.jpg",
+      "copyright": "Gunnerside, Swaledale, Parque Nacional de Yorkshire Dales, Inglaterra (© Derek Croucher/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Parque+Nacional+de+Yorkshire+Dales+na+Inglaterra&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -3672,6 +3678,8 @@
       "202404",
       "202405"
     ],
-    "active": []
+    "active": [
+      "202406"
+    ]
   }
 }

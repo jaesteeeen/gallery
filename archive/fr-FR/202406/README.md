@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-06)
+![](https://www.bing.com/th?id=OHR.PrideMonthSF_FR-FR1847983334_UHD.jpg&w=1000)Latest: [Le Civic Center illuminé pour la San Francisco Pride, Californie, États-Unis (© Josh Edelson/AFP via Getty Images)](https://www.bing.com/th?id=OHR.PrideMonthSF_FR-FR1847983334_UHD.jpg)

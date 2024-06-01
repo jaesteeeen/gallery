@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-06)
+![](https://www.bing.com/th?id=OHR.PrideMonthSF_DE-DE2818464419_UHD.jpg&w=1000)Latest: [Das Rathaus von San Francisco erstrahlt in Regenbogenfarben anlässlich der Pride, Kalifornien, USA (© Josh Edelson/AFP via Getty Images)](https://www.bing.com/th?id=OHR.PrideMonthSF_DE-DE2818464419_UHD.jpg)

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-06)
+![](https://www.bing.com/th?id=OHR.PrideMonthSF_IT-IT0189244856_UHD.jpg&w=1000)Latest: [Il centro civico di San Francisco illuminato con luci arcobaleno per il Pride, California, USA (© Josh Edelson/AFP via Getty Images)](https://www.bing.com/th?id=OHR.PrideMonthSF_IT-IT0189244856_UHD.jpg)

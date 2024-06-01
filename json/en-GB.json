@@ -3641,6 +3641,12 @@
       "url": "https://www.bing.com/th?id=OHR.YorkshireDalesNP_EN-GB1861917445_UHD.jpg",
       "copyright": "Gunnerside, Swaledale, Yorkshire Dales National Park, England (© Derek Croucher/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Gunnerside&form=hpcapt&filters=HpDate%3a%2220240530_2300%22"
+    },
+    {
+      "enddate": "20240601",
+      "url": "https://www.bing.com/th?id=OHR.PrideMonthSF_EN-GB6271318842_UHD.jpg",
+      "copyright": "San Francisco City Hall lit up in rainbow lights for Pride, California, USA (© Josh Edelson/AFP via Getty Images)",
+      "copyrightlink": "/search?q=Pride+Month&form=hpcapt&filters=HpDate%3a%2220240531_2300%22"
     }
   ],
   "months": {
@@ -3666,6 +3672,8 @@
       "202404",
       "202405"
     ],
-    "active": []
+    "active": [
+      "202406"
+    ]
   }
 }

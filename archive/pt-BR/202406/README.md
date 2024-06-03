@@ -1,6 +1,6 @@
 ## Bing Wallpaper (2024-06)
-![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_PT-BR5476760078_UHD.jpg&w=1000)Latest: [Bicicletas em Copenhague, Dinamarca (© Alphotographic/Getty Images)](https://www.bing.com/th?id=OHR.CopenhagenBicycles_PT-BR5476760078_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.CapybaraEducation_PT-BR9998060500_UHD.jpg&w=1000)Latest: [Capivara, o maior roedor do mundo, na margem de um rio no Pantanal (© Joe McDonald/Getty Images)](https://www.bing.com/th?id=OHR.CapybaraEducation_PT-BR9998060500_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.PrideMonthSF_PT-BR6281938141_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-02 [download 4k](https://www.bing.com/th?id=OHR.PrideMonthSF_PT-BR6281938141_UHD.jpg)|![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_PT-BR5805097424_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-01 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_PT-BR5805097424_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.CopenhagenBicycles_PT-BR5476760078_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-03 [download 4k](https://www.bing.com/th?id=OHR.CopenhagenBicycles_PT-BR5476760078_UHD.jpg)|![](https://www.bing.com/th?id=OHR.PrideMonthSF_PT-BR6281938141_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-02 [download 4k](https://www.bing.com/th?id=OHR.PrideMonthSF_PT-BR6281938141_UHD.jpg)|![](https://www.bing.com/th?id=OHR.YorkshireDalesNP_PT-BR5805097424_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-06-01 [download 4k](https://www.bing.com/th?id=OHR.YorkshireDalesNP_PT-BR5805097424_UHD.jpg)|

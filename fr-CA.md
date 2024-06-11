@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/sa/simg/hpb/LaDigue_EN-CA1115245085_UHD.jpg?w=3840&w=1000)Today: [La Digue, an island in the Seychelles (© Oleksandr Dibrova/Adobe Stock)](https://www.bing.com/sa/simg/hpb/LaDigue_EN-CA1115245085_UHD.jpg?w=3840)
+![](https://www.bing.com/th?id=OHR.OsakaNight_FR-CA3393571963_UHD.jpg&w=1000)Today: [Osaka la nuit, Japon (© wichianduangsri/Getty Images)](https://www.bing.com/th?id=OHR.OsakaNight_FR-CA3393571963_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

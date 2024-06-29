@@ -3821,6 +3821,12 @@
       "url": "https://www.bing.com/th?id=OHR.Pride2024_PT-BR0771293980_UHD.jpg",
       "copyright": "Foliões enchem as ruas segurando uma bandeira gigante do arco-íris durante a parada anual do orgulho LGBT na avenida Paulista (© Nelson Antoine/Shutterstock)",
       "copyrightlink": "/search?q=Parada+do+Orgulho+Lgbt+de+S%c3%a3o+Paulo+&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240630",
+      "url": "https://www.bing.com/th?id=OHR.TourCorsica_PT-BR5751262525_UHD.jpg",
+      "copyright": "Ciclistas no Volta a França de 2013, Córsega, França (© Pascal Pochard-Casabianca/AFP via Getty Images)",
+      "copyrightlink": "/search?q=Volta+a+Fran%c3%a7a+2024&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -3844,10 +3850,9 @@
       "202402",
       "202403",
       "202404",
-      "202405"
-    ],
-    "active": [
+      "202405",
       "202406"
-    ]
+    ],
+    "active": []
   }
 }

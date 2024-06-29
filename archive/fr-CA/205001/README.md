@@ -1,0 +1,2 @@
+## Bing Wallpaper (2050-01)
+![](https://www.bing.com/sa/simg/hpb/LaDigue_EN-CA1115245085_UHD.jpg?w=3840&w=1000)Latest: [La Digue, an island in the Seychelles (© Oleksandr Dibrova/Adobe Stock)](https://www.bing.com/sa/simg/hpb/LaDigue_EN-CA1115245085_UHD.jpg?w=3840)

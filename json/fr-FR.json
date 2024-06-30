@@ -3827,6 +3827,12 @@
       "url": "https://www.bing.com/th?id=OHR.TourCorsica_FR-FR6133264090_UHD.jpg",
       "copyright": "Cyclistes du Tour de France 2013, Corse (© Pascal Pochard-Casabianca/AFP via Getty Images)",
       "copyrightlink": "/search?q=Tour+de+France&form=hpcapt&filters=HpDate%3a%2220240628_2200%22"
+    },
+    {
+      "enddate": "20240630",
+      "url": "https://www.bing.com/th?id=OHR.UbudBali_FR-FR6392717738_UHD.jpg",
+      "copyright": "Sculpture sur pierre dans un temple à Ubud, Bali, Indonésie (© R. Schönebaum/plainpicture)",
+      "copyrightlink": "/search?q=Ubud&form=hpcapt&filters=HpDate%3a%2220240629_2200%22"
     }
   ],
   "months": {
@@ -3850,10 +3856,9 @@
       "202402",
       "202403",
       "202404",
-      "202405"
-    ],
-    "active": [
+      "202405",
       "202406"
-    ]
+    ],
+    "active": []
   }
 }

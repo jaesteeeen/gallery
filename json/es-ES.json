@@ -3827,6 +3827,12 @@
       "url": "https://www.bing.com/th?id=OHR.TourCorsica_ES-ES5232054569_UHD.jpg",
       "copyright": "Ciclistas en el Tour de Francia 2013, Córcega, Francia (© Pascal Pochard-Casabianca/AFP via Getty Images)",
       "copyrightlink": "/search?q=Tour+de+Francia&form=hpcapt&filters=HpDate%3a%2220240628_2200%22"
+    },
+    {
+      "enddate": "20240630",
+      "url": "https://www.bing.com/th?id=OHR.UbudBali_ES-ES5927593831_UHD.jpg",
+      "copyright": "Tallado en piedra en un templo de Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)",
+      "copyrightlink": "/search?q=Ubud+historia&form=hpcapt&filters=HpDate%3a%2220240629_2200%22"
     }
   ],
   "months": {
@@ -3850,10 +3856,9 @@
       "202402",
       "202403",
       "202404",
-      "202405"
-    ],
-    "active": [
+      "202405",
       "202406"
-    ]
+    ],
+    "active": []
   }
 }

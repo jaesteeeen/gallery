@@ -3815,6 +3815,12 @@
       "url": "https://www.bing.com/th?id=OHR.LondonPride2024_EN-GB1799367171_UHD.jpg",
       "copyright": "London Eye lit up with the rainbow colours during Pride Night (© Dosfotos/Axiom/Design Pics Inc/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Pride+in+London+2024&form=hpcapt&filters=HpDate%3a%2220240628_2300%22"
+    },
+    {
+      "enddate": "20240630",
+      "url": "https://www.bing.com/th?id=OHR.UbudBali_EN-GB2185347114_UHD.jpg",
+      "copyright": "Stone carving at a temple in Ubud, Bali, Indonesia (© R. SchönebStone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)aum/plainpicture)",
+      "copyrightlink": "/search?q=Ubud+history&form=hpcapt&filters=HpDate%3a%2220240629_2300%22"
     }
   ],
   "months": {
@@ -3838,10 +3844,9 @@
       "202402",
       "202403",
       "202404",
-      "202405"
-    ],
-    "active": [
+      "202405",
       "202406"
-    ]
+    ],
+    "active": []
   }
 }

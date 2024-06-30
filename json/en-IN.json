@@ -3833,6 +3833,12 @@
       "url": "https://www.bing.com/th?id=OHR.UbudBali_EN-IN5820803064_UHD.jpg",
       "copyright": "Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)",
       "copyrightlink": "/search?q=Ubud+history&form=hpcapt&filters=HpDate%3a%2220240629_1830%22"
+    },
+    {
+      "enddate": "20240701",
+      "url": "https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-IN6359811191_UHD.jpg",
+      "copyright": "Fisgard Lighthouse, Esquimalt Harbour, Colwood, British Columbia, Canada (© davemantel/Getty Images)",
+      "copyrightlink": "/search?q=Fisgard+Lighthouse&form=hpcapt&filters=HpDate%3a%2220240630_1830%22"
     }
   ],
   "months": {
@@ -3859,6 +3865,8 @@
       "202405",
       "202406"
     ],
-    "active": []
+    "active": [
+      "202407"
+    ]
   }
 }

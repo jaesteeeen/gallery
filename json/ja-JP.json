@@ -3833,6 +3833,12 @@
       "url": "https://www.bing.com/th?id=OHR.UbudBali_JA-JP9425870638_UHD.jpg",
       "copyright": "バリ島のウブド村, インドネシア (© R. Schönebaum/plainpicture)",
       "copyrightlink": "/search?q=%e8%81%96%e7%8d%a3%e3%83%90%e3%83%ad%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220240629_1500%22"
+    },
+    {
+      "enddate": "20240701",
+      "url": "https://www.bing.com/th?id=OHR.FisgardLighthouse_JA-JP9618708130_UHD.jpg",
+      "copyright": "フィスガード灯台, カナダ ブリティッシュコロンビア州 (© davemantel/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%ab%e3%83%8a%e3%83%80%e3%81%ae%e3%83%95%e3%82%a3%e3%82%b9%e3%82%ac%e3%83%bc%e3%83%89%e7%81%af%e5%8f%b0&form=hpcapt&filters=HpDate%3a%2220240630_1500%22"
     }
   ],
   "months": {
@@ -3859,6 +3865,8 @@
       "202405",
       "202406"
     ],
-    "active": []
+    "active": [
+      "202407"
+    ]
   }
 }

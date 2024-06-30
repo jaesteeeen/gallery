@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-07)
+![](https://www.bing.com/th?id=OHR.UbudBali_EN-CA8434577809_UHD.jpg&w=1000)Latest: [Stone carving at a temple in Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)](https://www.bing.com/th?id=OHR.UbudBali_EN-CA8434577809_UHD.jpg)

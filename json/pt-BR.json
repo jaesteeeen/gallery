@@ -3827,6 +3827,12 @@
       "url": "https://www.bing.com/th?id=OHR.TourCorsica_PT-BR5751262525_UHD.jpg",
       "copyright": "Ciclistas no Volta a França de 2013, Córsega, França (© Pascal Pochard-Casabianca/AFP via Getty Images)",
       "copyrightlink": "/search?q=Volta+a+Fran%c3%a7a+2024&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240701",
+      "url": "https://www.bing.com/th?id=OHR.UbudBali_PT-BR6634868084_UHD.jpg",
+      "copyright": "Escultura em pedra em um templo em Ubud, Bali, Indonésia (© R. Schönebaum/plainpicture)",
+      "copyrightlink": "/search?q=Ubud+Indon%c3%a9sia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -3853,6 +3859,8 @@
       "202405",
       "202406"
     ],
-    "active": []
+    "active": [
+      "202407"
+    ]
   }
 }

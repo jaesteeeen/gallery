@@ -3833,6 +3833,12 @@
       "url": "https://www.bing.com/th?id=OHR.UbudBali_ES-ES5927593831_UHD.jpg",
       "copyright": "Tallado en piedra en un templo de Ubud, Bali, Indonesia (© R. Schönebaum/plainpicture)",
       "copyrightlink": "/search?q=Ubud+historia&form=hpcapt&filters=HpDate%3a%2220240629_2200%22"
+    },
+    {
+      "enddate": "20240701",
+      "url": "https://www.bing.com/th?id=OHR.FisgardLighthouse_ES-ES6235120426_UHD.jpg",
+      "copyright": "Faro de Fisgard, Puerto de Esquimalt, Colwood, Columbia Británica, Canadá (© davemantel/Getty Images)",
+      "copyrightlink": "/search?q=Columbia+Britanica&form=hpcapt&filters=HpDate%3a%2220240630_2200%22"
     }
   ],
   "months": {
@@ -3859,6 +3865,8 @@
       "202405",
       "202406"
     ],
-    "active": []
+    "active": [
+      "202407"
+    ]
   }
 }

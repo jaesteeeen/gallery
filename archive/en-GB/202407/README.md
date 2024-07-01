@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-07)
+![](https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-GB4370736522_UHD.jpg&w=1000)Latest: [Fisgard Lighthouse, Esquimalt Harbour, Colwood, British Columbia, Canada (© davemantel/Getty Images)](https://www.bing.com/th?id=OHR.FisgardLighthouse_EN-GB4370736522_UHD.jpg)

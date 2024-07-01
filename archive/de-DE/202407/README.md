@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-07)
+![](https://www.bing.com/th?id=OHR.HeidelbergCastle_DE-DE7111251205_UHD.jpg&w=1000)Latest: [Schloss Heidelberg, Heidelberg, Baden-Württemberg (© Hans Blossey/Alamy)](https://www.bing.com/th?id=OHR.HeidelbergCastle_DE-DE7111251205_UHD.jpg)

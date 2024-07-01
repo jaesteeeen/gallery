@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-07)
+![](https://www.bing.com/th?id=OHR.FisgardLighthouse_FR-FR7596685906_UHD.jpg&w=1000)Latest: [Phare de Fisgard, port d'Esquimalt, Colwood, Colombie-Britannique, Canada (© davemantel/Getty Images)](https://www.bing.com/th?id=OHR.FisgardLighthouse_FR-FR7596685906_UHD.jpg)

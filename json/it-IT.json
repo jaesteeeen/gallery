@@ -3833,6 +3833,12 @@
       "url": "https://www.bing.com/th?id=OHR.PrideItalia_IT-IT3295714060_UHD.jpg",
       "copyright": "Mole Antonelliana, Torino, Piemonte (© Nicolò Campo/Getty Images)",
       "copyrightlink": "/search?q=La+Mole+Antonelliana&form=hpcapt"
+    },
+    {
+      "enddate": "20240701",
+      "url": "https://www.bing.com/th?id=OHR.ItalicaRuins_IT-IT3637207546_UHD.jpg",
+      "copyright": "Italica, un'antica città romana a Santiponce, Siviglia, Andalusia, Spagna (© Moses Palermo/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Italica+Spagna&form=hpcapt"
     }
   ],
   "months": {
@@ -3859,6 +3865,8 @@
       "202405",
       "202406"
     ],
-    "active": []
+    "active": [
+      "202407"
+    ]
   }
 }

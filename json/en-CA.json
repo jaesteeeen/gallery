@@ -4007,6 +4007,12 @@
       "url": "https://www.bing.com/th?id=OHR.CorbettTigers_EN-CA4355248170_UHD.jpg",
       "copyright": "Tiger siblings in Jim Corbett National Park, Uttarakhand, India (© Sourabh Bharti/Getty Images)",
       "copyrightlink": "/search?q=International+Tiger+day&form=hpcapt&filters=HpDate%3a%2220240729_0400%22"
+    },
+    {
+      "enddate": "20240731",
+      "url": "https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-CA4771125077_UHD.jpg",
+      "copyright": "San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)",
+      "copyrightlink": "/search?q=San+Gimignano&form=hpcapt&filters=HpDate%3a%2220240730_0400%22"
     }
   ],
   "months": {
@@ -4031,10 +4037,9 @@
       "202403",
       "202404",
       "202405",
-      "202406"
-    ],
-    "active": [
+      "202406",
       "202407"
-    ]
+    ],
+    "active": []
   }
 }

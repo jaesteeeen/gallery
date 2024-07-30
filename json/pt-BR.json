@@ -4007,6 +4007,12 @@
       "url": "https://www.bing.com/th?id=OHR.DiadoAgricultor_PT-BR1621260840_UHD.jpg",
       "copyright": "Imagem aérea de uma plantação de café, Brasil (© Murilo Gualda/Getty Images)",
       "copyrightlink": "/search?q=Agricultura+no+Brasil&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240731",
+      "url": "https://www.bing.com/th?id=OHR.GimignanoTuscany_PT-BR7820946889_UHD.jpg",
+      "copyright": "San Gimignano, Siena, Toscana, Itália (© MNStudio/Shutterstock)",
+      "copyrightlink": "/search?q=san+gimignano&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4031,10 +4037,9 @@
       "202403",
       "202404",
       "202405",
-      "202406"
-    ],
-    "active": [
+      "202406",
       "202407"
-    ]
+    ],
+    "active": []
   }
 }

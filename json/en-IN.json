@@ -4019,6 +4019,12 @@
       "url": "https://www.bing.com/th?id=OHR.HoodoosBryce_EN-IN0026851942_UHD.jpg",
       "copyright": "Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)",
       "copyrightlink": "/search?q=Bryce+Canyon+National+Park+Utah&form=hpcapt&filters=HpDate%3a%2220240730_1830%22"
+    },
+    {
+      "enddate": "20240801",
+      "url": "https://www.bing.com/th?id=OHR.KaptaiLake_EN-IN2191483743_UHD.jpg",
+      "copyright": "Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Kaptai+Lake+Rangamati+Bangladesh&form=hpcapt&filters=HpDate%3a%2220240731_1830%22"
     }
   ],
   "months": {
@@ -4046,6 +4052,8 @@
       "202406",
       "202407"
     ],
-    "active": []
+    "active": [
+      "202408"
+    ]
   }
 }

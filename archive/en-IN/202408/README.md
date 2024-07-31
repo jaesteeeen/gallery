@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-08)
+![](https://www.bing.com/th?id=OHR.KaptaiLake_EN-IN2191483743_UHD.jpg&w=1000)Latest: [Floating market, Kaptai Lake, Rangamati, Bangladesh (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.KaptaiLake_EN-IN2191483743_UHD.jpg)

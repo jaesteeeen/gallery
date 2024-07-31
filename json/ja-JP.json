@@ -4019,6 +4019,12 @@
       "url": "https://www.bing.com/th?id=OHR.HoodoosBryce_JA-JP7560776836_UHD.jpg",
       "copyright": "ブライスキャニオン国立公園, 米国 ユタ州 (© Tim Fitzharris/Minden Pictures)",
       "copyrightlink": "/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%8b%e3%82%aa%e3%83%b3%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220240730_1500%22"
+    },
+    {
+      "enddate": "20240801",
+      "url": "https://www.bing.com/th?id=OHR.Nebuta2024_JA-JP7778073736_UHD.jpg",
+      "copyright": "豪華絢爛なねぷた, 青森県 弘前市 (© David Parker/Alamy)",
+      "copyrightlink": "/search?q=%e5%bc%98%e5%89%8d%e3%81%ad%e3%81%b7%e3%81%9f%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220240731_1500%22"
     }
   ],
   "months": {
@@ -4046,6 +4052,8 @@
       "202406",
       "202407"
     ],
-    "active": []
+    "active": [
+      "202408"
+    ]
   }
 }

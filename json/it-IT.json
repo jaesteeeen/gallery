@@ -4013,6 +4013,12 @@
       "url": "https://www.bing.com/th?id=OHR.GimignanoTuscany_IT-IT2653150377_UHD.jpg",
       "copyright": "San Gimignano, Siena, Toscana, Italia (© MNStudio/Shutterstock)",
       "copyrightlink": "/search?q=San+Gimignano&form=hpcapt"
+    },
+    {
+      "enddate": "20240731",
+      "url": "https://www.bing.com/th?id=OHR.RhinelandVineyards_IT-IT2787669199_UHD.jpg",
+      "copyright": "Vigneti nella Valle della Mosella, Renania-Palatinato, Germania (© Jorg Greuel/Getty Images)",
+      "copyrightlink": "/search?q=Palatinato+regione+vino&form=hpcapt"
     }
   ],
   "months": {
@@ -4037,10 +4043,9 @@
       "202403",
       "202404",
       "202405",
-      "202406"
-    ],
-    "active": [
+      "202406",
       "202407"
-    ]
+    ],
+    "active": []
   }
 }

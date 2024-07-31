@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-08)
+![](https://www.bing.com/th?id=OHR.HoodoosBryce_PT-BR8116004606_UHD.jpg&w=1000)Latest: [Hoodoos, Sunset Point, Parque Nacional de Bryce Canyon, Utah, EUA (© Tim Fitzharris/Minden Pictures)](https://www.bing.com/th?id=OHR.HoodoosBryce_PT-BR8116004606_UHD.jpg)

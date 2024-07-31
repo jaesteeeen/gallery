@@ -4013,6 +4013,12 @@
       "url": "https://www.bing.com/th?id=OHR.GimignanoTuscany_EN-CA4771125077_UHD.jpg",
       "copyright": "San Gimignano, Siena, Tuscany, Italy (© MNStudio/Shutterstock)",
       "copyrightlink": "/search?q=San+Gimignano&form=hpcapt&filters=HpDate%3a%2220240730_0400%22"
+    },
+    {
+      "enddate": "20240801",
+      "url": "https://www.bing.com/th?id=OHR.HoodoosBryce_EN-CA5127000421_UHD.jpg",
+      "copyright": "Hoodoos, Sunset Point, Bryce Canyon National Park, Utah (© Tim Fitzharris/Minden Pictures)",
+      "copyrightlink": "/search?q=Bryce+Canyon+National+Park+Utah&form=hpcapt&filters=HpDate%3a%2220240731_0400%22"
     }
   ],
   "months": {
@@ -4040,6 +4046,8 @@
       "202406",
       "202407"
     ],
-    "active": []
+    "active": [
+      "202408"
+    ]
   }
 }

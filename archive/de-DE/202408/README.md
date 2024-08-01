@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-08)
+![](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg&w=1000)Latest: [Schwimmender Markt, Karnaphuli-Stausee, Rangamati, Bangladesch (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg)

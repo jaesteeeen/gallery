@@ -1,2 +1,6 @@
 ## Bing Wallpaper (2024-08)
-![](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg&w=1000)Latest: [Schwimmender Markt, Karnaphuli-Stausee, Rangamati, Bangladesch (© Azim Khan Ronnie/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.TrunkBay_DE-DE7701117675_UHD.jpg&w=1000)Latest: [Trunk Bay, Virgin-Islands-Nationalpark, Saint John, USA (© cdwheatley/Getty Images)](https://www.bing.com/th?id=OHR.TrunkBay_DE-DE7701117675_UHD.jpg)
+
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-08-01 [download 4k](https://www.bing.com/th?id=OHR.KaptaiLake_DE-DE6482554434_UHD.jpg)|

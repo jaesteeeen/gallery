@@ -4199,6 +4199,12 @@
       "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_JA-JP6933929150_UHD.jpg",
       "copyright": "チェンデラワシ湾のジンベエザメ, インドネシア (© Andy Lerner/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=%e3%83%81%e3%82%a7%e3%83%b3%e3%83%87%e3%83%a9%e3%83%af%e3%82%b7%e6%b9%be%e3%81%ae%e3%82%b8%e3%83%b3%e3%83%99%e3%82%a8%e3%82%b6%e3%83%a1&form=hpcapt&filters=HpDate%3a%2220240829_1500%22"
+    },
+    {
+      "enddate": "20240831",
+      "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_UHD.jpg",
+      "copyright": "タッシリ・ナジェール, アルジェリア (© Airpano/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=%e3%82%bf%e3%83%83%e3%82%b7%e3%83%aa%e3%83%bb%e3%83%8a%e3%82%b8%e3%82%a7%e3%83%bc%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220240830_1500%22"
     }
   ],
   "months": {
@@ -4224,10 +4230,9 @@
       "202404",
       "202405",
       "202406",
-      "202407"
-    ],
-    "active": [
+      "202407",
       "202408"
-    ]
+    ],
+    "active": []
   }
 }

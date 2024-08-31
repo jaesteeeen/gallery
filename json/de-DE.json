@@ -4199,6 +4199,12 @@
       "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_DE-DE9045925984_UHD.jpg",
       "copyright": "Walhai in der Cenderawasih-Bucht, West Papua, Indonesien (© Andy Lerner/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Walhaie&form=hpcapt&filters=HpDate%3a%2220240829_2200%22"
+    },
+    {
+      "enddate": "20240831",
+      "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_DE-DE9446379437_UHD.jpg",
+      "copyright": "Felsformationen in der Sahara, Djanet, Algerien (© Airpano/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Djanet&form=hpcapt&filters=HpDate%3a%2220240830_2200%22"
     }
   ],
   "months": {
@@ -4224,10 +4230,9 @@
       "202404",
       "202405",
       "202406",
-      "202407"
-    ],
-    "active": [
+      "202407",
       "202408"
-    ]
+    ],
+    "active": []
   }
 }

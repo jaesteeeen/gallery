@@ -4199,6 +4199,12 @@
       "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_IT-IT0919967624_UHD.jpg",
       "copyright": "Uno squalo balena nella baia di Cenderawasih, Papua occidentale, Indonesia (© Andy Lerner/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Squalo+balena&form=hpcapt"
+    },
+    {
+      "enddate": "20240831",
+      "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_UHD.jpg",
+      "copyright": "Formazioni rocciose e dune di sabbia nel Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Djanet%2c+comune+algerino&form=hpcapt"
     }
   ],
   "months": {
@@ -4224,10 +4230,9 @@
       "202404",
       "202405",
       "202406",
-      "202407"
-    ],
-    "active": [
+      "202407",
       "202408"
-    ]
+    ],
+    "active": []
   }
 }

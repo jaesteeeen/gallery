@@ -4187,6 +4187,12 @@
       "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_EN-GB4536568745_UHD.jpg",
       "copyright": "A whale shark in Cenderawasih Bay, West Papua, Indonesia (© Andy Lerner/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Whale+sharks&form=hpcapt&filters=HpDate%3a%2220240829_2300%22"
+    },
+    {
+      "enddate": "20240831",
+      "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-GB4963001163_UHD.jpg",
+      "copyright": "Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Djanet&form=hpcapt&filters=HpDate%3a%2220240830_2300%22"
     }
   ],
   "months": {
@@ -4212,10 +4218,9 @@
       "202404",
       "202405",
       "202406",
-      "202407"
-    ],
-    "active": [
+      "202407",
       "202408"
-    ]
+    ],
+    "active": []
   }
 }

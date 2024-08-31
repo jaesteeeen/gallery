@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-09)
+![](https://www.bing.com/th?id=OHR.ThamesLondon_EN-IN2201451554_UHD.jpg&w=1000)Latest: [River Thames, London, England (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.ThamesLondon_EN-IN2201451554_UHD.jpg)

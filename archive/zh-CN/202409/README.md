@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-09)
+![](https://www.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg&w=1000)Latest: [泰晤士河，伦敦，英国 (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.ThamesLondon_ZH-CN3629717426_UHD.jpg)

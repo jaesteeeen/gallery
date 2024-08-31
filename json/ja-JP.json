@@ -4205,6 +4205,12 @@
       "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_JA-JP6784692273_UHD.jpg",
       "copyright": "タッシリ・ナジェール, アルジェリア (© Airpano/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=%e3%82%bf%e3%83%83%e3%82%b7%e3%83%aa%e3%83%bb%e3%83%8a%e3%82%b8%e3%82%a7%e3%83%bc%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220240830_1500%22"
+    },
+    {
+      "enddate": "20240901",
+      "url": "https://www.bing.com/th?id=OHR.ThamesLondon_JA-JP6657553394_UHD.jpg",
+      "copyright": "テムズ川 , イギリス ロンドン (© Puthipong Worasaran/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%86%e3%83%a0%e3%82%ba%e5%b7%9d+&form=hpcapt&filters=HpDate%3a%2220240831_1500%22"
     }
   ],
   "months": {
@@ -4233,6 +4239,8 @@
       "202407",
       "202408"
     ],
-    "active": []
+    "active": [
+      "202409"
+    ]
   }
 }

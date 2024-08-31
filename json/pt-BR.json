@@ -4199,6 +4199,12 @@
       "url": "https://www.bing.com/th?id=OHR.WhaleSharkDay_PT-BR4441364252_UHD.jpg",
       "copyright": "Um tubarão-baleia na Baía de Cenderawasih, Papua Ocidental, Indonésia (© Andy Lerner/Tandem Stills + Motion)",
       "copyrightlink": "/search?q=Tubar%c3%b5es-baleia&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20240901",
+      "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_PT-BR4680900903_UHD.jpg",
+      "copyright": "Formações rochosas e dunas de areia no Saara, Djanet, Argélia (© Airpano/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Saara%2c+Djanet%2c+Arg%c3%a9lia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4227,6 +4233,8 @@
       "202407",
       "202408"
     ],
-    "active": []
+    "active": [
+      "202409"
+    ]
   }
 }

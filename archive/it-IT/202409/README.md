@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-09)
+![](https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg&w=1000)Latest: [Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)](https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg)

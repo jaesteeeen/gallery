@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-09)
+![](https://www.bing.com/th?id=OHR.ThamesLondon_ES-ES4307363719_UHD.jpg&w=1000)Latest: [Río Támesis, Londres, Inglaterra (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.ThamesLondon_ES-ES4307363719_UHD.jpg)

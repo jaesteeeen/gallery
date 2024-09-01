@@ -4205,6 +4205,12 @@
       "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_IT-IT6738833644_UHD.jpg",
       "copyright": "Formazioni rocciose e dune di sabbia nel Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=Djanet%2c+comune+algerino&form=hpcapt"
+    },
+    {
+      "enddate": "20240901",
+      "url": "https://www.bing.com/th?id=OHR.RegataStoricaVenezia_IT-IT2940958877_UHD.jpg",
+      "copyright": "Regata Storica, Venezia, Veneto, Italia (© Peter Zelei Images/Moment/Getty Images)",
+      "copyrightlink": "/search?q=Regata+Storica%2c+Serenissima&form=hpcapt"
     }
   ],
   "months": {
@@ -4233,6 +4239,8 @@
       "202407",
       "202408"
     ],
-    "active": []
+    "active": [
+      "202409"
+    ]
   }
 }

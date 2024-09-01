@@ -4205,6 +4205,12 @@
       "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_FR-FR8225562823_UHD.jpg",
       "copyright": "Formations rocheuses et dunes de sable dans le Sahara, Djanet, Algérie (© Airpano/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=Djanet&form=hpcapt&filters=HpDate%3a%2220240830_2200%22"
+    },
+    {
+      "enddate": "20240901",
+      "url": "https://www.bing.com/th?id=OHR.ThamesLondon_FR-FR8520495131_UHD.jpg",
+      "copyright": "Tamise, Londres, Angleterre (© Puthipong Worasaran/Getty Images)",
+      "copyrightlink": "/search?q=tamise+londres&form=hpcapt&filters=HpDate%3a%2220240831_2200%22"
     }
   ],
   "months": {
@@ -4233,6 +4239,8 @@
       "202407",
       "202408"
     ],
-    "active": []
+    "active": [
+      "202409"
+    ]
   }
 }

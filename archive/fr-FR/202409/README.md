@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-09)
+![](https://www.bing.com/th?id=OHR.ThamesLondon_FR-FR8520495131_UHD.jpg&w=1000)Latest: [Tamise, Londres, Angleterre (© Puthipong Worasaran/Getty Images)](https://www.bing.com/th?id=OHR.ThamesLondon_FR-FR8520495131_UHD.jpg)

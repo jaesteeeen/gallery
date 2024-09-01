@@ -4193,6 +4193,12 @@
       "url": "https://www.bing.com/th?id=OHR.DjanetAlgeria_EN-GB4963001163_UHD.jpg",
       "copyright": "Rock formations and sand dunes in the Sahara, Djanet, Algeria (© Airpano/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=Djanet&form=hpcapt&filters=HpDate%3a%2220240830_2300%22"
+    },
+    {
+      "enddate": "20240901",
+      "url": "https://www.bing.com/th?id=OHR.ThamesLondon_EN-GB5554427883_UHD.jpg",
+      "copyright": "River Thames, London, England (© Puthipong Worasaran/Getty Images)",
+      "copyrightlink": "/search?q=River+Thames&form=hpcapt&filters=HpDate%3a%2220240831_2300%22"
     }
   ],
   "months": {
@@ -4221,6 +4227,8 @@
       "202407",
       "202408"
     ],
-    "active": []
+    "active": [
+      "202409"
+    ]
   }
 }

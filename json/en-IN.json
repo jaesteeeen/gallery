@@ -4379,6 +4379,12 @@
       "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_EN-IN3322601847_UHD.jpg",
       "copyright": "West Cornwall Covered Bridge over the Housatonic River, Connecticut, USA (© pabradyphoto/Getty Images)",
       "copyrightlink": "/search?q=West+Cornwall+Covered+Bridge+Housatonic+River&form=hpcapt&filters=HpDate%3a%2220240928_1830%22"
+    },
+    {
+      "enddate": "20240930",
+      "url": "https://www.bing.com/th?id=OHR.WalrusNorway_EN-IN4352146367_UHD.jpg",
+      "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)",
+      "copyrightlink": "/search?q=walrus&form=hpcapt&filters=HpDate%3a%2220240929_1830%22"
     }
   ],
   "months": {
@@ -4405,10 +4411,9 @@
       "202405",
       "202406",
       "202407",
-      "202408"
-    ],
-    "active": [
+      "202408",
       "202409"
-    ]
+    ],
+    "active": []
   }
 }

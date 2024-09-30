@@ -4379,6 +4379,12 @@
       "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_FR-FR7429205429_UHD.jpg",
       "copyright": "Pont couvert de West Cornwall, Connecticut, États-Unis (© pabradyphoto/Getty Images)",
       "copyrightlink": "/search?q=Pont+couvert+%c3%a9tats-unis&form=hpcapt&filters=HpDate%3a%2220240928_2200%22"
+    },
+    {
+      "enddate": "20240930",
+      "url": "https://www.bing.com/th?id=OHR.WalrusNorway_FR-FR7720633586_UHD.jpg",
+      "copyright": "Troupeau de morses dans le nord du Spitzberg, archipel du Svalbard, Norvège (© AWL Images/Danita Delimont)",
+      "copyrightlink": "/search?q=morse+animal&form=hpcapt&filters=HpDate%3a%2220240929_2200%22"
     }
   ],
   "months": {
@@ -4405,10 +4411,9 @@
       "202405",
       "202406",
       "202407",
-      "202408"
-    ],
-    "active": [
+      "202408",
       "202409"
-    ]
+    ],
+    "active": []
   }
 }

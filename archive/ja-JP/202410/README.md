@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-10)
+![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_UHD.jpg&w=1000)Latest: [ヨセミテ国立公園, 米国 カリフォルニア州 (© Adam Burton/Alamy)](https://www.bing.com/th?id=OHR.HalfDomeYosemite_JA-JP3299475040_UHD.jpg)

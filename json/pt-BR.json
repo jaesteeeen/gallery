@@ -4379,6 +4379,12 @@
       "url": "https://www.bing.com/th?id=OHR.ConnecticutBridge_PT-BR4352188943_UHD.jpg",
       "copyright": "Ponte Coberta de West Cornwall sobre o rio Housatonic, Connecticut, EUA (© pabradyphoto/Getty Images)",
       "copyrightlink": "/search?q=Ponte+Coberta+de+West+Cornwall%2c+EUA&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20241001",
+      "url": "https://www.bing.com/th?id=OHR.WalrusNorway_PT-BR4604487839_UHD.jpg",
+      "copyright": "Colônia de morsas no norte de Spitsbergen, arquipélago de Svalbard, Noruega (© AWL Images/Danita Delimont)",
+      "copyrightlink": "/search?q=morsa+animal&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4408,6 +4414,8 @@
       "202408",
       "202409"
     ],
-    "active": []
+    "active": [
+      "202410"
+    ]
   }
 }

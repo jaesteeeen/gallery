@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-10)
+![](https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184_UHD.jpg&w=1000)Latest: [Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)](https://www.bing.com/th?id=OHR.WalrusNorway_EN-CA4061858184_UHD.jpg)

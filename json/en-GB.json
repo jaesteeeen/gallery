@@ -4373,6 +4373,12 @@
       "url": "https://www.bing.com/th?id=OHR.WalrusNorway_EN-GB0459877191_UHD.jpg",
       "copyright": "Herd of walruses in northern Spitsbergen, Svalbard archipelago, Norway (© AWL Images/DanitaDelimont)",
       "copyrightlink": "/search?q=walrus&form=hpcapt&filters=HpDate%3a%2220240929_2300%22"
+    },
+    {
+      "enddate": "20241001",
+      "url": "https://www.bing.com/th?id=OHR.BlackHistoryMonth2024_EN-GB1865178312_UHD.jpg",
+      "copyright": "Statue of Mary Seacole, London, England (© Charles Bowman/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Black+History+Month&form=hpcapt&filters=HpDate%3a%2220240930_2300%22"
     }
   ],
   "months": {
@@ -4402,6 +4408,8 @@
       "202408",
       "202409"
     ],
-    "active": []
+    "active": [
+      "202410"
+    ]
   }
 }

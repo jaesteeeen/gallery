@@ -4385,6 +4385,12 @@
       "url": "https://www.bing.com/th?id=OHR.WalrusNorway_ES-ES8405668641_UHD.jpg",
       "copyright": "Manada de morsas en el norte de Spitsbergen, archipiélago de Svalbard, Noruega (© AWL Images/Danita Delimont)",
       "copyrightlink": "/search?q=Morsa&form=hpcapt&filters=HpDate%3a%2220240929_2200%22"
+    },
+    {
+      "enddate": "20241001",
+      "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_ES-ES8574128580_UHD.jpg",
+      "copyright": "Half Dome, Parque Nacional de Yosemite, California, EE. UU. (© Adam Burton/Alamy)",
+      "copyrightlink": "/search?q=Half+Dome+Yosemite&form=hpcapt&filters=HpDate%3a%2220240930_2200%22"
     }
   ],
   "months": {
@@ -4414,6 +4420,8 @@
       "202408",
       "202409"
     ],
-    "active": []
+    "active": [
+      "202410"
+    ]
   }
 }

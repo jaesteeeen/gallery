@@ -4385,6 +4385,12 @@
       "url": "https://www.bing.com/th?id=OHR.WalrusNorway_IT-IT2593695501_UHD.jpg",
       "copyright": "Trichechi nel nord di Spitsbergen, arcipelago delle Svalbard, Norvegia (© AWL Images/DanitaDelimont)",
       "copyrightlink": "/search?q=Tricheco&form=hpcapt"
+    },
+    {
+      "enddate": "20241001",
+      "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_IT-IT2723116418_UHD.jpg",
+      "copyright": "Half Dome, Parco Nazionale di Yosemite, California, USA (© Adam Burton/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Half+Dome+Parco+Nazionale+di+Yosemite&form=hpcapt"
     }
   ],
   "months": {
@@ -4414,6 +4420,8 @@
       "202408",
       "202409"
     ],
-    "active": []
+    "active": [
+      "202410"
+    ]
   }
 }

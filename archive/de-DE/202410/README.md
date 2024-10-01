@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-10)
+![](https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_UHD.jpg&w=1000)Latest: [Half Dome, Yosemite-Nationalpark, Kalifornien, USA (© Adam Burton/Alamy Stock Photo)](https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_UHD.jpg)

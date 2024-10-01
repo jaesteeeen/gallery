@@ -4385,6 +4385,12 @@
       "url": "https://www.bing.com/th?id=OHR.WalrusNorway_FR-FR7720633586_UHD.jpg",
       "copyright": "Troupeau de morses dans le nord du Spitzberg, archipel du Svalbard, Norvège (© AWL Images/Danita Delimont)",
       "copyrightlink": "/search?q=morse+animal&form=hpcapt&filters=HpDate%3a%2220240929_2200%22"
+    },
+    {
+      "enddate": "20241001",
+      "url": "https://www.bing.com/th?id=OHR.BoraPapeete_FR-FR3866752919_UHD.jpg",
+      "copyright": "Vue aérienne de Bora-Bora, Polynésie française (© GLF Media/Shutterstock)",
+      "copyrightlink": "/search?q=Moorea%2c+Polyn%c3%a9sie+fran%c3%a7aise&form=hpcapt&filters=HpDate%3a%2220240930_2200%22"
     }
   ],
   "months": {
@@ -4414,6 +4420,8 @@
       "202408",
       "202409"
     ],
-    "active": []
+    "active": [
+      "202410"
+    ]
   }
 }

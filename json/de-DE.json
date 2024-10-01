@@ -4385,6 +4385,12 @@
       "url": "https://www.bing.com/th?id=OHR.WalrusNorway_DE-DE5538217072_UHD.jpg",
       "copyright": "Walrossherde im nördlichen Spitzbergen, Svalbard-Archipel, Norwegen (© AWL Images/DanitaDelimont)",
       "copyrightlink": "/search?q=Walross&form=hpcapt&filters=HpDate%3a%2220240929_2200%22"
+    },
+    {
+      "enddate": "20241001",
+      "url": "https://www.bing.com/th?id=OHR.HalfDomeYosemite_DE-DE5765529355_UHD.jpg",
+      "copyright": "Half Dome, Yosemite-Nationalpark, Kalifornien, USA (© Adam Burton/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Half+Dome%2c+Yosemite-National-Park%2c+Kalifornien&form=hpcapt&filters=HpDate%3a%2220240930_2200%22"
     }
   ],
   "months": {
@@ -4414,6 +4420,8 @@
       "202408",
       "202409"
     ],
-    "active": []
+    "active": [
+      "202410"
+    ]
   }
 }

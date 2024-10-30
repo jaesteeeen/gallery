@@ -6203,6 +6203,12 @@
       "url": "https://www.bing.com/th?id=OHR.GreatOwl_EN-US3778222109_UHD.jpg",
       "copyright": "Great horned owl (© Mark Newman/Getty Images)",
       "copyrightlink": "/search?q=Great+horned+owl&form=hpcapt&filters=HpDate%3a%2220241029_0700%22"
+    },
+    {
+      "enddate": "20241031",
+      "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-US3906244993_UHD.jpg",
+      "copyright": "View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy)",
+      "copyrightlink": "/search?q=Edinburgh+Castle+Scotland&form=hpcapt&filters=HpDate%3a%2220241030_0700%22"
     }
   ],
   "months": {
@@ -6239,10 +6245,9 @@
       "202406",
       "202407",
       "202408",
-      "202409"
-    ],
-    "active": [
+      "202409",
       "202410"
-    ]
+    ],
+    "active": []
   }
 }

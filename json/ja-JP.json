@@ -4565,6 +4565,12 @@
       "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_JA-JP6454143527_UHD.jpg",
       "copyright": "エディンバラ城, イギリス (© Chris Dorney/Alamy)",
       "copyrightlink": "/search?q=%e3%82%a8%e3%83%87%e3%82%a3%e3%83%b3%e3%83%90%e3%83%a9%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220241029_1500%22"
+    },
+    {
+      "enddate": "20241031",
+      "url": "https://www.bing.com/th?id=OHR.Halloween2024_JA-JP6692896772_UHD.jpg",
+      "copyright": "草間彌生の「南瓜」, 香川県 香川郡 (© hedgehog111/Shutterstock)",
+      "copyrightlink": "/search?q=%e8%8d%89%e9%96%93%e5%bd%8c%e7%94%9f%e3%81%ae%e3%80%8c%e5%8d%97%e7%93%9c%e3%80%8d&form=hpcapt&filters=HpDate%3a%2220241030_1500%22"
     }
   ],
   "months": {
@@ -4592,10 +4598,9 @@
       "202406",
       "202407",
       "202408",
-      "202409"
-    ],
-    "active": [
+      "202409",
       "202410"
-    ]
+    ],
+    "active": []
   }
 }

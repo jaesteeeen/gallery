@@ -4565,6 +4565,12 @@
       "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-IN2114348431_UHD.jpg",
       "copyright": "View of Edinburgh Castle from a churchyard in Scotland, United Kingdom (© Chris Dorney/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Edinburgh+Castle+Scotland&form=hpcapt&filters=HpDate%3a%2220241029_1830%22"
+    },
+    {
+      "enddate": "20241031",
+      "url": "https://www.bing.com/th?id=OHR.FireworksDiwali_EN-IN6255593826_UHD.jpg",
+      "copyright": "Diwali celebrations (© Umang Gajjar/Getty Images)",
+      "copyrightlink": "/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220241030_1830%22"
     }
   ],
   "months": {
@@ -4592,10 +4598,9 @@
       "202406",
       "202407",
       "202408",
-      "202409"
-    ],
-    "active": [
+      "202409",
       "202410"
-    ]
+    ],
+    "active": []
   }
 }

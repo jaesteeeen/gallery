@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-11)
+![](https://www.bing.com/th?id=OHR.DiadoSaci_PT-BR3042315379_UHD.jpg&w=1000)Latest: [Pinheiros de araucária em um amanhecer enevoado, paisagem próxima a Gramado, Rio Grande do Sul (© iStock/Getty Images Plus/Getty Images)](https://www.bing.com/th?id=OHR.DiadoSaci_PT-BR3042315379_UHD.jpg)

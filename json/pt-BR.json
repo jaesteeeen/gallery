@@ -4565,6 +4565,12 @@
       "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_PT-BR5740528750_UHD.jpg",
       "copyright": "Vista do Castelo de Edimburgo a partir de um pátio de igreja na Escócia (© Chris Dorney/Alamy)",
       "copyrightlink": "/search?q=Castelo+de+Edimburgo&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20241101",
+      "url": "https://www.bing.com/th?id=OHR.DiadoSaci_PT-BR3042315379_UHD.jpg",
+      "copyright": "Pinheiros de araucária em um amanhecer enevoado, paisagem próxima a Gramado, Rio Grande do Sul (© iStock/Getty Images Plus/Getty Images)",
+      "copyrightlink": "/search?q=N%c3%a9voa&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4595,6 +4601,8 @@
       "202409",
       "202410"
     ],
-    "active": []
+    "active": [
+      "202411"
+    ]
   }
 }

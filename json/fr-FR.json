@@ -4565,6 +4565,12 @@
       "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_FR-FR5789637805_UHD.jpg",
       "copyright": "Vue du château d'Édimbourg depuis un cimetière en Écosse, Royaume-Uni (© Chris Dorney/Alamy)",
       "copyrightlink": "/search?q=chateau+d%27edimbourg+%c3%a9cosse&form=hpcapt&filters=HpDate%3a%2220241029_2300%22"
+    },
+    {
+      "enddate": "20241031",
+      "url": "https://www.bing.com/th?id=OHR.GargoyleParis_FR-FR6298643080_UHD.jpg",
+      "copyright": "Chimères de la cathédrale Notre-Dame de Paris (© scaliger/Getty Images)",
+      "copyrightlink": "/search?q=f%c3%aate+de+Halloween&form=hpcapt&filters=HpDate%3a%2220241030_2300%22"
     }
   ],
   "months": {
@@ -4592,10 +4598,9 @@
       "202406",
       "202407",
       "202408",
-      "202409"
-    ],
-    "active": [
+      "202409",
       "202410"
-    ]
+    ],
+    "active": []
   }
 }

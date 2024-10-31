@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-11)
+![](https://www.bing.com/th?id=OHR.GargoyleParis_EN-GB4271245524_UHD.jpg&w=1000)Latest: [Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)](https://www.bing.com/th?id=OHR.GargoyleParis_EN-GB4271245524_UHD.jpg)

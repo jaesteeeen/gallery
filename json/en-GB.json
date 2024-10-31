@@ -4553,6 +4553,12 @@
       "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_EN-GB3981139829_UHD.jpg",
       "copyright": "View of Edinburgh Castle from a churchyard in Scotland (© Chris Dorney/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Edinburgh+Castle+Scotland&form=hpcapt&filters=HpDate%3a%2220241030_0000%22"
+    },
+    {
+      "enddate": "20241101",
+      "url": "https://www.bing.com/th?id=OHR.GargoyleParis_EN-GB4271245524_UHD.jpg",
+      "copyright": "Chimera of Notre-Dame de Paris, France (© scaliger/Getty Images)",
+      "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220241031_0000%22"
     }
   ],
   "months": {
@@ -4583,6 +4589,8 @@
       "202409",
       "202410"
     ],
-    "active": []
+    "active": [
+      "202411"
+    ]
   }
 }

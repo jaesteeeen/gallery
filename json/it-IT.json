@@ -4565,6 +4565,12 @@
       "url": "https://www.bing.com/th?id=OHR.HauntedEdinburgh_IT-IT6003359191_UHD.jpg",
       "copyright": "Vista del castello di Edimburgo da un cimitero in Scozia, Regno Unito (© Chris Dorney/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Castello+di+Edimburgo&form=hpcapt"
+    },
+    {
+      "enddate": "20241031",
+      "url": "https://www.bing.com/th?id=OHR.GargoyleParis_IT-IT0132581997_UHD.jpg",
+      "copyright": "Chimera della Cattedrale di Notre-Dame, Parigi, Francia (© scaliger/Getty Images)",
+      "copyrightlink": "/search?q=Halloween&form=hpcapt"
     }
   ],
   "months": {
@@ -4592,10 +4598,9 @@
       "202406",
       "202407",
       "202408",
-      "202409"
-    ],
-    "active": [
+      "202409",
       "202410"
-    ]
+    ],
+    "active": []
   }
 }

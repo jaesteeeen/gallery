@@ -4571,6 +4571,12 @@
       "url": "https://www.bing.com/th?id=OHR.FireworksDiwali_EN-IN6255593826_UHD.jpg",
       "copyright": "Diwali celebrations (© Umang Gajjar/Getty Images)",
       "copyrightlink": "/search?q=Diwali&form=hpcapt&filters=HpDate%3a%2220241030_1830%22"
+    },
+    {
+      "enddate": "20241101",
+      "url": "https://www.bing.com/th?id=OHR.LencoisMaranhao_EN-IN6380365409_UHD.jpg",
+      "copyright": "Sunset in Lençóis Maranhenses National Park, Maranhão, Brazil (© thanosquest/Shutterstock)",
+      "copyrightlink": "/search?q=Lencois+Maranhenses+National+Park+Brazil&form=hpcapt&filters=HpDate%3a%2220241031_1830%22"
     }
   ],
   "months": {
@@ -4601,6 +4607,8 @@
       "202409",
       "202410"
     ],
-    "active": []
+    "active": [
+      "202411"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-11)
+![](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_UHD.jpg&w=1000)Latest: [レンソイス・マラニャンセス国立公園, ブラジル マラニャン州 (© thanosquest/Shutterstock)](https://www.bing.com/th?id=OHR.LencoisMaranhao_JA-JP9337793324_UHD.jpg)

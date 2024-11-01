@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-11)
+![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_UHD.jpg&w=1000)Latest: [Luftaufnahme von Weinbergen im Herbst, Varnhalt, Schwarzwald, Baden-Württemberg (© Sabine Gerold/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_UHD.jpg)

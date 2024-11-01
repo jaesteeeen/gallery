@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-11)
+![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ES-ES8727705316_UHD.jpg&w=1000)Latest: [Vista aérea de viñedo en otoño, Varnhalt, Selva Negra, Alemania (© Sabine Gerold/Amazing Aerial Agency)](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_ES-ES8727705316_UHD.jpg)

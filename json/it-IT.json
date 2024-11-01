@@ -4571,6 +4571,12 @@
       "url": "https://www.bing.com/th?id=OHR.GargoyleParis_IT-IT0132581997_UHD.jpg",
       "copyright": "Chimera della Cattedrale di Notre-Dame, Parigi, Francia (© scaliger/Getty Images)",
       "copyrightlink": "/search?q=Halloween&form=hpcapt"
+    },
+    {
+      "enddate": "20241101",
+      "url": "https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_IT-IT5335405353_UHD.jpg",
+      "copyright": "Vista aerea di vigneti in autunno, Varnhalt, Foresta Nera, Germania (© Sabine Gerold/Amazing Aerial Agency)",
+      "copyrightlink": "/search?q=Foresta+Nera&form=hpcapt"
     }
   ],
   "months": {
@@ -4601,6 +4607,8 @@
       "202409",
       "202410"
     ],
-    "active": []
+    "active": [
+      "202411"
+    ]
   }
 }

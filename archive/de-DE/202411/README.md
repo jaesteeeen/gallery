@@ -1,6 +1,6 @@
 ## Bing Wallpaper (2024-11)
-![](https://www.bing.com/th?id=OHR.YucatanBiosphere_DE-DE7980917018_UHD.jpg&w=1000)Latest: [Flamingo-Ei im Nest, Biosphärenreservat Ría Lagartos, Yucatán, Mexiko (© Claudio Contreras/Minden Pictures)](https://www.bing.com/th?id=OHR.YucatanBiosphere_DE-DE7980917018_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.CumbriaAutumn_DE-DE9239463628_UHD.jpg&w=1000)Latest: [Grasmere, Lake District, Cumbria, England (© Thomas Molyneux/Getty Images)](https://www.bing.com/th?id=OHR.CumbriaAutumn_DE-DE9239463628_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.BisonYellowstone_DE-DE2653068985_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-11-02 [download 4k](https://www.bing.com/th?id=OHR.BisonYellowstone_DE-DE2653068985_UHD.jpg)|![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-11-01 [download 4k](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.YucatanBiosphere_DE-DE7980917018_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-11-03 [download 4k](https://www.bing.com/th?id=OHR.YucatanBiosphere_DE-DE7980917018_UHD.jpg)|![](https://www.bing.com/th?id=OHR.BisonYellowstone_DE-DE2653068985_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-11-02 [download 4k](https://www.bing.com/th?id=OHR.BisonYellowstone_DE-DE2653068985_UHD.jpg)|![](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-11-01 [download 4k](https://www.bing.com/th?id=OHR.VineyardsBlackForestFall_DE-DE2832375252_UHD.jpg)|

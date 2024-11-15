@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE1312879989_UHD.jpg&w=1000)Today: [Yi Peng lantern festival, Chiang Mai, Thailand (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE1312879989_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE2623141634_UHD.jpg&w=1000)Today: [Yi Peng-Laternenfest, Chiang Mai, Thailand (© tampatra/Getty Images)](https://www.bing.com/th?id=OHR.YiPengLanterns_DE-DE2623141634_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

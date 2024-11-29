@@ -4745,6 +4745,12 @@
       "url": "https://www.bing.com/th?id=OHR.MtStMichel_EN-IN3221435828_UHD.jpg",
       "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
       "copyrightlink": "/search?q=Mont+Saint+Michel+France&form=hpcapt&filters=HpDate%3a%2220241128_1830%22"
+    },
+    {
+      "enddate": "20241130",
+      "url": "https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_UHD.jpg",
+      "copyright": "Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)",
+      "copyrightlink": "/search?q=White+Rhinoceros&form=hpcapt&filters=HpDate%3a%2220241129_1830%22"
     }
   ],
   "months": {
@@ -4773,10 +4779,9 @@
       "202407",
       "202408",
       "202409",
-      "202410"
-    ],
-    "active": [
+      "202410",
       "202411"
-    ]
+    ],
+    "active": []
   }
 }

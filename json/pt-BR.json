@@ -4739,6 +4739,12 @@
       "url": "https://www.bing.com/th?id=OHR.AssiniboineTS_PT-BR1279222621_UHD.jpg",
       "copyright": "Tempestade se dissipando ao pôr do sol, Parque Provincial do Monte Assiniboine, Canadá (© Jeff Lewis/TANDEM Stills + Motion)",
       "copyrightlink": "/search?q=Parque+Provincial+do+Monte+Assiniboine&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20241130",
+      "url": "https://www.bing.com/th?id=OHR.MtStMichel_PT-BR7244299173_UHD.jpg",
+      "copyright": "Monte Saint-Michel, Normandia, França (© Captain Skyhigh/Getty Images)",
+      "copyrightlink": "/search?q=Saint+Michel+na+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4767,10 +4773,9 @@
       "202407",
       "202408",
       "202409",
-      "202410"
-    ],
-    "active": [
+      "202410",
       "202411"
-    ]
+    ],
+    "active": []
   }
 }

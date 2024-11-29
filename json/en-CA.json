@@ -4739,6 +4739,12 @@
       "url": "https://www.bing.com/th?id=OHR.AssiniboineTS_EN-CA8487090970_UHD.jpg",
       "copyright": "Clearing storm at sunset, Mount Assiniboine Provincial Park, Canada (© Jeff Lewis/TANDEM Stills + Motion)",
       "copyrightlink": "/search?q=Mount+Assiniboine+Provincial+Park&form=hpcapt&filters=HpDate%3a%2220241128_0500%22"
+    },
+    {
+      "enddate": "20241130",
+      "url": "https://www.bing.com/th?id=OHR.MtStMichel_EN-CA3538100784_UHD.jpg",
+      "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
+      "copyrightlink": "/search?q=Mont+Saint+Michel+France&form=hpcapt&filters=HpDate%3a%2220241129_0500%22"
     }
   ],
   "months": {
@@ -4767,10 +4773,9 @@
       "202407",
       "202408",
       "202409",
-      "202410"
-    ],
-    "active": [
+      "202410",
       "202411"
-    ]
+    ],
+    "active": []
   }
 }

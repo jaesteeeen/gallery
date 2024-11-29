@@ -4727,6 +4727,12 @@
       "url": "https://www.bing.com/th?id=OHR.CityHall2024_EN-GB2172832238_UHD.jpg",
       "copyright": "City Hall, London, England (© coldsnowstorm/iStock/Getty Images)",
       "copyrightlink": "/search?q=City+Hall+London&form=hpcapt&filters=HpDate%3a%2220241128_0000%22"
+    },
+    {
+      "enddate": "20241130",
+      "url": "https://www.bing.com/th?id=OHR.MtStMichel_EN-GB8923576020_UHD.jpg",
+      "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
+      "copyrightlink": "/search?q=Mont+Saint+Michel+France&form=hpcapt&filters=HpDate%3a%2220241129_0000%22"
     }
   ],
   "months": {
@@ -4755,10 +4761,9 @@
       "202407",
       "202408",
       "202409",
-      "202410"
-    ],
-    "active": [
+      "202410",
       "202411"
-    ]
+    ],
+    "active": []
   }
 }

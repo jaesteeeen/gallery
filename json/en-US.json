@@ -6389,6 +6389,12 @@
       "url": "https://www.bing.com/th?id=OHR.MtStMichel_EN-US6641012356_UHD.jpg",
       "copyright": "Mont-Saint-Michel, Normandy, France (© Captain Skyhigh/Getty Images)",
       "copyrightlink": "/search?q=Mont+Saint+Michel+France&form=hpcapt&filters=HpDate%3a%2220241129_0800%22"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-US6737063910_UHD.jpg",
+      "copyright": "Kilchurn Castle reflected in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)",
+      "copyrightlink": "/search?q=Saint+Andrew%27s+Day&form=hpcapt&filters=HpDate%3a%2220241130_0800%22"
     }
   ],
   "months": {
@@ -6429,6 +6435,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

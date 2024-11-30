@@ -4745,6 +4745,12 @@
       "url": "https://www.bing.com/th?id=OHR.MtStMichel_PT-BR7244299173_UHD.jpg",
       "copyright": "Monte Saint-Michel, Normandia, França (© Captain Skyhigh/Getty Images)",
       "copyrightlink": "/search?q=Saint+Michel+na+Fran%c3%a7a&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_PT-BR7553426712_UHD.jpg",
+      "copyright": "Castelo Kilchurn refletido no Lago Awe, Argyll e Bute, Escócia (© Tom Mackie/plainpicture)",
+      "copyrightlink": "/search?q=Castelo+Kilchurn&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4776,6 +4782,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

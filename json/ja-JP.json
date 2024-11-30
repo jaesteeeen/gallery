@@ -4751,6 +4751,12 @@
       "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_JA-JP5172394807_UHD.jpg",
       "copyright": "水面に映るキルチャーン城, スコットランド (© Tom Mackie/plainpicture)",
       "copyrightlink": "/search?q=%e3%82%ad%e3%83%ab%e3%83%81%e3%83%a3%e3%83%bc%e3%83%b3%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220241129_1500%22"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_JA-JP7385959905_UHD.jpg",
+      "copyright": "南極大陸の氷山 (© Art Wolfe/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=%e5%8d%97%e6%a5%b5%e5%a4%a7%e9%99%b8%e3%81%ae%e6%b0%b7%e5%b1%b1&form=hpcapt&filters=HpDate%3a%2220241130_1500%22"
     }
   ],
   "months": {
@@ -4782,6 +4788,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

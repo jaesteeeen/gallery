@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-12)
+![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg&w=1000)Latest: [南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg)

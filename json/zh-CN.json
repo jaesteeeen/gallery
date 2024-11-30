@@ -6389,6 +6389,12 @@
       "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_ZH-CN2547959725_UHD.jpg",
       "copyright": "基尔亨城堡倒映在奥湖中，阿盖尔-比特郡，苏格兰 (© Tom Mackie/plainpicture)",
       "copyrightlink": "/search?q=%e5%a5%a5%e6%b9%96&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_ZH-CN2942178295_UHD.jpg",
+      "copyright": "南极洲的冰山 (© Art Wolfe/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=%e5%8d%97%e6%9e%81%e6%97%a5&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -6429,6 +6435,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

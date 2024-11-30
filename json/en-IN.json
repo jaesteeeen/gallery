@@ -4751,6 +4751,12 @@
       "url": "https://www.bing.com/th?id=OHR.RhinosKenya_EN-IN6639992420_UHD.jpg",
       "copyright": "Male white rhinoceroses, Lake Nakuru, Kenya (© Ingo Arndt/Minden Pictures)",
       "copyrightlink": "/search?q=White+Rhinoceros&form=hpcapt&filters=HpDate%3a%2220241129_1830%22"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-IN1897026898_UHD.jpg",
+      "copyright": "Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=Antarctica+Day&form=hpcapt&filters=HpDate%3a%2220241130_1830%22"
     }
   ],
   "months": {
@@ -4782,6 +4788,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

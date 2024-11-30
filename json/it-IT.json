@@ -4745,6 +4745,12 @@
       "url": "https://www.bing.com/th?id=OHR.MtStMichel_IT-IT5961115578_UHD.jpg",
       "copyright": "Mont Saint-Michel, Normandia, Francia (© Captain Skyhigh/Getty Images)",
       "copyrightlink": "/search?q=Mont+Saint-Michel+isolotto+tidale%2c+Normandia%2c+Francia&form=hpcapt"
+    },
+    {
+      "enddate": "20241130",
+      "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634_UHD.jpg",
+      "copyright": "Castello di Kilchurn, Loch Awe, Argyll e Bute, Scozia (© Tom Mackie/plainpicture)",
+      "copyrightlink": "/search?q=Castello+di+Kilchurn%2c+Scozia&form=hpcapt"
     }
   ],
   "months": {
@@ -4773,10 +4779,9 @@
       "202407",
       "202408",
       "202409",
-      "202410"
-    ],
-    "active": [
+      "202410",
       "202411"
-    ]
+    ],
+    "active": []
   }
 }

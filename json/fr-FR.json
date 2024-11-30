@@ -4745,6 +4745,12 @@
       "url": "https://www.bing.com/th?id=OHR.MtStMichel_FR-FR7113909915_UHD.jpg",
       "copyright": "Mont Saint-Michel, Normandie (© Captain Skyhigh/Getty Images)",
       "copyrightlink": "/search?q=le+mont+saint+michel&form=hpcapt&filters=HpDate%3a%2220241128_2300%22"
+    },
+    {
+      "enddate": "20241130",
+      "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-FR7304840775_UHD.jpg",
+      "copyright": "Reflet du château de Kilchurn à Loch Awe, Argyll et Bute, Écosse (© Tom Mackie/plainpicture)",
+      "copyrightlink": "/search?q=Saint+Andrews+Day&form=hpcapt&filters=HpDate%3a%2220241129_2300%22"
     }
   ],
   "months": {
@@ -4773,10 +4779,9 @@
       "202407",
       "202408",
       "202409",
-      "202410"
-    ],
-    "active": [
+      "202410",
       "202411"
-    ]
+    ],
+    "active": []
   }
 }

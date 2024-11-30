@@ -4745,6 +4745,12 @@
       "url": "https://www.bing.com/th?id=OHR.MtStMichel_DE-DE3578803710_UHD.jpg",
       "copyright": "Mont-Saint-Michel, Normandie, Frankreich (© Captain Skyhigh/Getty Images)",
       "copyrightlink": "/search?q=Mont+Saint+Michel+Frankreich&form=hpcapt&filters=HpDate%3a%2220241128_2300%22"
+    },
+    {
+      "enddate": "20241130",
+      "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_UHD.jpg",
+      "copyright": "Kilchurn Castle spiegelt sich im Loch Awe, Argyll und Bute, Schottland (© Tom Mackie/plainpicture)",
+      "copyrightlink": "/search?q=Kilchurn+Castle+Loch+Awe&form=hpcapt&filters=HpDate%3a%2220241129_2300%22"
     }
   ],
   "months": {
@@ -4773,10 +4779,9 @@
       "202407",
       "202408",
       "202409",
-      "202410"
-    ],
-    "active": [
+      "202410",
       "202411"
-    ]
+    ],
+    "active": []
   }
 }

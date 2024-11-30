@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-12)
+![](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg&w=1000)Latest: [Kilchurn Castle reflecting in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg)

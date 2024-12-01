@@ -1,2 +1,6 @@
 ## Bing Wallpaper (2024-12)
-![](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg&w=1000)Latest: [Kilchurn Castle reflecting in Loch Awe, Argyll and Bute, Scotland (© Tom Mackie/plainpicture)](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-GB9447266279_UHD.jpg&w=1000)Latest: [Icebergs, Antarctica (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.IcebergsAntarctica_EN-GB9447266279_UHD.jpg)
+
+|      |      |      |
+| :----: | :----: | :----: |
+|![](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2024-12-01 [download 4k](https://www.bing.com/th?id=OHR.KilchurnAutumn_EN-GB9210745671_UHD.jpg)|

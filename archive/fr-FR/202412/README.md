@@ -1,0 +1,2 @@
+## Bing Wallpaper (2024-12)
+![](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_UHD.jpg&w=1000)Latest: [Icebergs, Antarctique (© Art Wolfe/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_UHD.jpg)

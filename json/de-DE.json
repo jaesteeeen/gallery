@@ -4751,6 +4751,12 @@
       "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_DE-DE0282904512_UHD.jpg",
       "copyright": "Kilchurn Castle spiegelt sich im Loch Awe, Argyll und Bute, Schottland (© Tom Mackie/plainpicture)",
       "copyrightlink": "/search?q=Kilchurn+Castle+Loch+Awe&form=hpcapt&filters=HpDate%3a%2220241129_2300%22"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.FreudenbergHistoricHouses_DE-DE3863423728_UHD.jpg",
+      "copyright": "Verschneite Fachwerkhäuser in Freudenberg bei Siegen, Nordrhein-Westfalen (© Thorsten Frisch/Shutterstock)",
+      "copyrightlink": "/search?q=Beginn+der+Adventszeit&form=hpcapt&filters=HpDate%3a%2220241130_2300%22"
     }
   ],
   "months": {
@@ -4782,6 +4788,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

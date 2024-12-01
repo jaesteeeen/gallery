@@ -4751,6 +4751,12 @@
       "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_FR-FR7304840775_UHD.jpg",
       "copyright": "Reflet du château de Kilchurn à Loch Awe, Argyll et Bute, Écosse (© Tom Mackie/plainpicture)",
       "copyrightlink": "/search?q=Saint+Andrews+Day&form=hpcapt&filters=HpDate%3a%2220241129_2300%22"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_FR-FR7491065799_UHD.jpg",
+      "copyright": "Icebergs, Antarctique (© Art Wolfe/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=jour+de+l%27Antarctique&form=hpcapt&filters=HpDate%3a%2220241130_2300%22"
     }
   ],
   "months": {
@@ -4782,6 +4788,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

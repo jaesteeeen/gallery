@@ -4751,6 +4751,12 @@
       "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_ES-ES3399855267_UHD.jpg",
       "copyright": "Reflejo del castillo de Kilchurn en Loch Awe, Argyll y Bute, Escocia (© Tom Mackie/plainpicture)",
       "copyrightlink": "/search?q=Andrzejki+San+Andres&form=hpcapt&filters=HpDate%3a%2220241129_2300%22"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.IcebergsAntarctica_ES-ES3608779732_UHD.jpg",
+      "copyright": "Icebergs, Antártida (© Art Wolfe/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=Antartida&form=hpcapt&filters=HpDate%3a%2220241130_2300%22"
     }
   ],
   "months": {
@@ -4782,6 +4788,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

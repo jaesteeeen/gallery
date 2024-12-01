@@ -4751,6 +4751,12 @@
       "url": "https://www.bing.com/th?id=OHR.KilchurnAutumn_IT-IT2035726634_UHD.jpg",
       "copyright": "Castello di Kilchurn, Loch Awe, Argyll e Bute, Scozia (© Tom Mackie/plainpicture)",
       "copyrightlink": "/search?q=Castello+di+Kilchurn%2c+Scozia&form=hpcapt"
+    },
+    {
+      "enddate": "20241201",
+      "url": "https://www.bing.com/th?id=OHR.MercatiDiNataleBolzano_IT-IT2256905385_UHD.jpg",
+      "copyright": "Mercatino di Natale, Bressanone, Provincia di Bolzano, Trentino-Alto Adige, Italia (© Olimpio Fantuz/Sime/eStock Photo)",
+      "copyrightlink": "/search?q=Bressanone&form=hpcapt"
     }
   ],
   "months": {
@@ -4782,6 +4788,8 @@
       "202410",
       "202411"
     ],
-    "active": []
+    "active": [
+      "202412"
+    ]
   }
 }

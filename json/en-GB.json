@@ -4913,6 +4913,12 @@
       "url": "https://www.bing.com/th?id=OHR.BorobudurBells_EN-GB3331651821_UHD.jpg",
       "copyright": "Borobudur temple, Java, Indonesia (© Robertharding/Shutterstock)",
       "copyrightlink": "/search?q=Borobudur+temple+Java+Indonesia&form=hpcapt&filters=HpDate%3a%2220241229_0000%22"
+    },
+    {
+      "enddate": "20241231",
+      "url": "https://www.bing.com/th?id=OHR.MountFieldNP_EN-GB1514220907_UHD.jpg",
+      "copyright": "Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)",
+      "copyrightlink": "/search?q=Mount+Field+National+Park&form=hpcapt&filters=HpDate%3a%2220241230_0000%22"
     }
   ],
   "months": {
@@ -4942,10 +4948,9 @@
       "202408",
       "202409",
       "202410",
-      "202411"
-    ],
-    "active": [
+      "202411",
       "202412"
-    ]
+    ],
+    "active": []
   }
 }

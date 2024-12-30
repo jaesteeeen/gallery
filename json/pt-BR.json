@@ -4925,6 +4925,12 @@
       "url": "https://www.bing.com/th?id=OHR.BorobudurBells_PT-BR9535309352_UHD.jpg",
       "copyright": "Templo de Borobudur, Java, Indonésia (© Robertharding/Shutterstock)",
       "copyrightlink": "/search?q=Java+na+Indon%c3%a9sia&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20241231",
+      "url": "https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_UHD.jpg",
+      "copyright": "Vista aérea da Avenida Paulista na cidade de São Paulo (© cifotart/Getty Images)",
+      "copyrightlink": "/search?q=Corrida+de+S%c3%a3o+Silvestre&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4954,10 +4960,9 @@
       "202408",
       "202409",
       "202410",
-      "202411"
-    ],
-    "active": [
+      "202411",
       "202412"
-    ]
+    ],
+    "active": []
   }
 }

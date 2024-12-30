@@ -4931,6 +4931,12 @@
       "url": "https://www.bing.com/th?id=OHR.MountFieldNP_JA-JP6160592179_UHD.jpg",
       "copyright": "マウントフィールド国立公園, オーストラリア (© Whitworth Images/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%88%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220241229_1500%22"
+    },
+    {
+      "enddate": "20241231",
+      "url": "https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg",
+      "copyright": "平等院の梵鐘, 京都 (© Asia Images Group LLC/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=%e5%b9%b3%e7%ad%89%e9%99%a2%e3%81%ae%e6%a2%b5%e9%90%98&form=hpcapt&filters=HpDate%3a%2220241230_1500%22"
     }
   ],
   "months": {
@@ -4960,10 +4966,9 @@
       "202408",
       "202409",
       "202410",
-      "202411"
-    ],
-    "active": [
+      "202411",
       "202412"
-    ]
+    ],
+    "active": []
   }
 }

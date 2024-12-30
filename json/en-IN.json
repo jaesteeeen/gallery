@@ -4931,6 +4931,12 @@
       "url": "https://www.bing.com/th?id=OHR.MountFieldNP_EN-IN2502905267_UHD.jpg",
       "copyright": "Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)",
       "copyrightlink": "/search?q=Mount+Field+National+Park&form=hpcapt&filters=HpDate%3a%2220241229_1830%22"
+    },
+    {
+      "enddate": "20241231",
+      "url": "https://www.bing.com/th?id=OHR.RioNewYear_EN-IN5477298039_UHD.jpg",
+      "copyright": "New Year's Eve fireworks over Copacabana beach, Rio de Janeiro, Brazil (© Wagner Meier/Getty Images)",
+      "copyrightlink": "/search?q=New+Years+Eve&form=hpcapt&filters=HpDate%3a%2220241230_1830%22"
     }
   ],
   "months": {
@@ -4960,10 +4966,9 @@
       "202408",
       "202409",
       "202410",
-      "202411"
-    ],
-    "active": [
+      "202411",
       "202412"
-    ]
+    ],
+    "active": []
   }
 }

@@ -4931,6 +4931,12 @@
       "url": "https://www.bing.com/th?id=OHR.MountFieldNP_IT-IT7967272422_UHD.jpg",
       "copyright": "Piante di gomma delle nevi e pandani, Parco Nazionale di Mount Field, Tasmania, Australia (© Whitworth Images/Getty Images)",
       "copyrightlink": "/search?q=Tasmania&form=hpcapt"
+    },
+    {
+      "enddate": "20241231",
+      "url": "https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg",
+      "copyright": "Fuochi d'artificio di Capodanno a Firenze, Toscana (© Marti Bug Catcher/Shutterstock)",
+      "copyrightlink": "/search?q=Festa+Capodanno&form=hpcapt"
     }
   ],
   "months": {
@@ -4960,10 +4966,9 @@
       "202408",
       "202409",
       "202410",
-      "202411"
-    ],
-    "active": [
+      "202411",
       "202412"
-    ]
+    ],
+    "active": []
   }
 }

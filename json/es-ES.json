@@ -4931,6 +4931,12 @@
       "url": "https://www.bing.com/th?id=OHR.MountFieldNP_ES-ES3508020804_UHD.jpg",
       "copyright": "Eucalipto de nieve de Tasmania y pandani de Tasmania cerca del lago Dobson, Parque Nacional Mount Field, Tasmania, Australia (© Whitworth Images/Getty Images)",
       "copyrightlink": "/search?q=Parque+Nacional+Mount+Field&form=hpcapt&filters=HpDate%3a%2220241229_2300%22"
+    },
+    {
+      "enddate": "20241231",
+      "url": "https://www.bing.com/th?id=OHR.NewYearSpain24_ES-ES3801149904_UHD.jpg",
+      "copyright": "Nochevieja en la Puerta del Sol, Madrid, España (© Mario Montero Arroyo/iStock/Getty Images)",
+      "copyrightlink": "/search?q=Puerta+del+Sol+Madrid&form=hpcapt&filters=HpDate%3a%2220241230_2300%22"
     }
   ],
   "months": {
@@ -4960,10 +4966,9 @@
       "202408",
       "202409",
       "202410",
-      "202411"
-    ],
-    "active": [
+      "202411",
       "202412"
-    ]
+    ],
+    "active": []
   }
 }

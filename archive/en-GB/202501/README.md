@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-01)
+![](https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_UHD.jpg&w=1000)Latest: [Fireworks in Edinburgh, Scotland (© Jane Barlow/PA Images via Getty Images)](https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_UHD.jpg)

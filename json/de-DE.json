@@ -4931,6 +4931,12 @@
       "url": "https://www.bing.com/th?id=OHR.MountFieldNP_DE-DE4643713603_UHD.jpg",
       "copyright": "Tasmanischer Schnee-Eukalyptus und Pandani-Pflanzen in der Nähe des Lake Dobson, Mount-Field-Nationalpark, Tasmanien, Australien (© Whitworth Images/Getty Images)",
       "copyrightlink": "/search?q=Mount-Field-Nationalpark&form=hpcapt&filters=HpDate%3a%2220241229_2300%22"
+    },
+    {
+      "enddate": "20241231",
+      "url": "https://www.bing.com/th?id=OHR.BavariaNewYearsEveFireworks_DE-DE4504129944_UHD.jpg",
+      "copyright": "Silvesterfeuerwerk über der Stadt Garmisch-Partenkirchen mit Blick auf die Zugspitzgruppe, Bayern (© Marc Hohenleitner/Huber/eStock Photo)",
+      "copyrightlink": "/search?q=Silvester&form=hpcapt&filters=HpDate%3a%2220241230_2300%22"
     }
   ],
   "months": {
@@ -4960,10 +4966,9 @@
       "202408",
       "202409",
       "202410",
-      "202411"
-    ],
-    "active": [
+      "202411",
       "202412"
-    ]
+    ],
+    "active": []
   }
 }

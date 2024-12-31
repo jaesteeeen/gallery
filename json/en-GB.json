@@ -4919,6 +4919,12 @@
       "url": "https://www.bing.com/th?id=OHR.MountFieldNP_EN-GB1514220907_UHD.jpg",
       "copyright": "Tasmanian snow gum and pandani plants near Lake Dobson, Mount Field National Park, Tasmania, Australia (© Whitworth Images/Getty Images)",
       "copyrightlink": "/search?q=Mount+Field+National+Park&form=hpcapt&filters=HpDate%3a%2220241230_0000%22"
+    },
+    {
+      "enddate": "20250101",
+      "url": "https://www.bing.com/th?id=OHR.Hogmanay2024_EN-GB1967612260_UHD.jpg",
+      "copyright": "Fireworks in Edinburgh, Scotland (© Jane Barlow/PA Images via Getty Images)",
+      "copyrightlink": "/search?q=Hogmanay&form=hpcapt&filters=HpDate%3a%2220241231_0000%22"
     }
   ],
   "months": {
@@ -4951,6 +4957,8 @@
       "202411",
       "202412"
     ],
-    "active": []
+    "active": [
+      "202501"
+    ]
   }
 }

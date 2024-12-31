@@ -4931,6 +4931,12 @@
       "url": "https://www.bing.com/th?id=OHR.CorridadeSaoSilvestre_PT-BR4824975840_UHD.jpg",
       "copyright": "Vista aérea da Avenida Paulista na cidade de São Paulo (© cifotart/Getty Images)",
       "copyrightlink": "/search?q=Corrida+de+S%c3%a3o+Silvestre&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250101",
+      "url": "https://www.bing.com/th?id=OHR.RioNewYear_PT-BR1238586029_UHD.jpg",
+      "copyright": "Queima de fogos de Ano-Novo na Praia de Copacabana, Rio de Janeiro, Brasil (© Wagner Meier/Getty Images)",
+      "copyrightlink": "/search?q=Ano-novo&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -4963,6 +4969,8 @@
       "202411",
       "202412"
     ],
-    "active": []
+    "active": [
+      "202501"
+    ]
   }
 }

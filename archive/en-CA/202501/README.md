@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-01)
+![](https://www.bing.com/th?id=OHR.CANYE24_EN-CA5635305751_UHD.jpg&w=1000)Latest: [Fireworks over Parliament Hill with reflection, Ottawa (© naibak/Moment/Getty Images)](https://www.bing.com/th?id=OHR.CANYE24_EN-CA5635305751_UHD.jpg)

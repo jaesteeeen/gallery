@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-01)
+![](https://www.bing.com/th?id=OHR.PolarBearSwim_EN-IN5843834952_UHD.jpg&w=1000)Latest: [Polar bears at play in the Arctic (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.PolarBearSwim_EN-IN5843834952_UHD.jpg)

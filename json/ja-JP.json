@@ -4937,6 +4937,12 @@
       "url": "https://www.bing.com/th?id=OHR.Omisoka2024_JA-JP6408751475_UHD.jpg",
       "copyright": "平等院の梵鐘, 京都 (© Asia Images Group LLC/Alamy Stock Photo)",
       "copyrightlink": "/search?q=%e5%b9%b3%e7%ad%89%e9%99%a2%e3%81%ae%e6%a2%b5%e9%90%98&form=hpcapt&filters=HpDate%3a%2220241230_1500%22"
+    },
+    {
+      "enddate": "20250101",
+      "url": "https://www.bing.com/th?id=OHR.ShirahigeSunrise2024_JA-JP6695296609_UHD.jpg",
+      "copyright": "朝日と白髭神社の鳥居, 滋賀県 高島市 (© Cavan Images/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=%e6%9c%9d%e6%97%a5%e3%81%a8%e7%99%bd%e9%ab%ad%e7%a5%9e%e7%a4%be%e3%81%ae%e9%b3%a5%e5%b1%85&form=hpcapt&filters=HpDate%3a%2220241231_1500%22"
     }
   ],
   "months": {
@@ -4969,6 +4975,8 @@
       "202411",
       "202412"
     ],
-    "active": []
+    "active": [
+      "202501"
+    ]
   }
 }

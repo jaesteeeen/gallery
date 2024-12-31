@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-01)
+![](https://www.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg&w=1000)Latest: [在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg)

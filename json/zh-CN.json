@@ -6575,6 +6575,12 @@
       "url": "https://www.bing.com/th?id=OHR.CANYE24_ZH-CN3884754296_UHD.jpg",
       "copyright": "国会山上空的烟花，渥太华，加拿大 (© naibank/Getty Images)",
       "copyrightlink": "/search?q=%e6%b8%a5%e5%a4%aa%e5%8d%8e%e5%9b%bd%e4%bc%9a%e5%b1%b1&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20250101",
+      "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_ZH-CN1000349057_UHD.jpg",
+      "copyright": "在北极玩耍的北极熊 (© Ondrej Prosicky/Shutterstock)",
+      "copyrightlink": "/search?q=%e5%85%83%e6%97%a6&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -6616,6 +6622,8 @@
       "202411",
       "202412"
     ],
-    "active": []
+    "active": [
+      "202501"
+    ]
   }
 }

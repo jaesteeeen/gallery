@@ -4937,6 +4937,12 @@
       "url": "https://www.bing.com/th?id=OHR.CapodannoFirenze_IT-IT8277886621_UHD.jpg",
       "copyright": "Fuochi d'artificio di Capodanno a Firenze, Toscana (© Marti Bug Catcher/Shutterstock)",
       "copyrightlink": "/search?q=Festa+Capodanno&form=hpcapt"
+    },
+    {
+      "enddate": "20250101",
+      "url": "https://www.bing.com/th?id=OHR.PolarBearSwim_IT-IT8600941728_UHD.jpg",
+      "copyright": "Orsi polari, Artico (© Ondrej Prosicky/Shutterstock)",
+      "copyrightlink": "/search?q=1.+Gennaio&form=hpcapt"
     }
   ],
   "months": {
@@ -4969,6 +4975,8 @@
       "202411",
       "202412"
     ],
-    "active": []
+    "active": [
+      "202501"
+    ]
   }
 }

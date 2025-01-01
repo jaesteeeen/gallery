@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-01)
+![](https://www.bing.com/th?id=OHR.PolarBearSwim_FR-FR0276887378_UHD.jpg&w=1000)Latest: [Ours polaires, Arctique (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.PolarBearSwim_FR-FR0276887378_UHD.jpg)

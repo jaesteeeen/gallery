@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-01)
+![](https://www.bing.com/th?id=OHR.PolarBearSwim_DE-DE5203449776_UHD.jpg&w=1000)Latest: [Eisbären beim Spielen in der Arktis (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.PolarBearSwim_DE-DE5203449776_UHD.jpg)

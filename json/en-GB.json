@@ -5099,6 +5099,12 @@
       "url": "https://www.bing.com/th?id=OHR.PortoSunset_EN-GB0347440030_UHD.jpg",
       "copyright": "Porto, Portugal (© Starcevic/Getty Images)",
       "copyrightlink": "/search?q=Porto+Portugal&form=hpcapt&filters=HpDate%3a%2220250129_0000%22"
+    },
+    {
+      "enddate": "20250131",
+      "url": "https://www.bing.com/th?id=OHR.OrdesaSpain_EN-GB0380328230_UHD.jpg",
+      "copyright": "Roland's Breach, Ordesa y Monte Perdido National Park, Spain (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Rolands+Breach&form=hpcapt&filters=HpDate%3a%2220250130_0000%22"
     }
   ],
   "months": {
@@ -5129,10 +5135,9 @@
       "202409",
       "202410",
       "202411",
-      "202412"
-    ],
-    "active": [
+      "202412",
       "202501"
-    ]
+    ],
+    "active": []
   }
 }

@@ -5111,6 +5111,12 @@
       "url": "https://www.bing.com/th?id=OHR.LunarDragon_EN-CA1697133736_UHD.jpg",
       "copyright": "Dragon dance, Wuhan, China (© Miao Jian/Wuhan Morning Post/Visual China Group via Getty Images)",
       "copyrightlink": "/search?q=Chinese+New+Year&form=hpcapt&filters=HpDate%3a%2220250129_0500%22"
+    },
+    {
+      "enddate": "20250131",
+      "url": "https://www.bing.com/th?id=OHR.BoatShowVan_EN-CA2061504870_UHD.jpg",
+      "copyright": "Granville Island in Vancouver, British Columbia, Canada (© AWL Images/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=Granville+Island+in+Vancouver&form=hpcapt&filters=HpDate%3a%2220250130_0500%22"
     }
   ],
   "months": {
@@ -5141,10 +5147,9 @@
       "202409",
       "202410",
       "202411",
-      "202412"
-    ],
-    "active": [
+      "202412",
       "202501"
-    ]
+    ],
+    "active": []
   }
 }

@@ -5117,6 +5117,12 @@
       "url": "https://www.bing.com/th?id=OHR.OrdesaSpain_JA-JP5528658967_UHD.jpg",
       "copyright": "オルデサ・イ・モンテ・ペルディード国立公園, スペイン (© Inaki Relanzon/Nature Picture Library/Alamy)",
       "copyrightlink": "/search?q=%e3%82%aa%e3%83%ab%e3%83%87%e3%82%b5%e3%83%bb%e3%82%a4%e3%83%bb%e3%83%a2%e3%83%b3%e3%83%86%e3%83%bb%e3%83%9a%e3%83%ab%e3%83%87%e3%82%a3%e3%83%bc%e3%83%89%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220250129_1500%22"
+    },
+    {
+      "enddate": "20250131",
+      "url": "https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_UHD.jpg",
+      "copyright": "モカラ国立公園, 南アフリカ (© EcoPrint/Shutterstock)",
+      "copyrightlink": "/search?q=%e3%83%a2%e3%82%ab%e3%83%a9%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220250130_1500%22"
     }
   ],
   "months": {
@@ -5147,10 +5153,9 @@
       "202409",
       "202410",
       "202411",
-      "202412"
-    ],
-    "active": [
+      "202412",
       "202501"
-    ]
+    ],
+    "active": []
   }
 }

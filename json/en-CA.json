@@ -5117,6 +5117,12 @@
       "url": "https://www.bing.com/th?id=OHR.BoatShowVan_EN-CA2061504870_UHD.jpg",
       "copyright": "Granville Island in Vancouver, British Columbia, Canada (© AWL Images/DanitaDelimont.com)",
       "copyrightlink": "/search?q=Granville+Island+in+Vancouver&form=hpcapt&filters=HpDate%3a%2220250130_0500%22"
+    },
+    {
+      "enddate": "20250201",
+      "url": "https://www.bing.com/th?id=OHR.PlainsZebra_EN-CA2255570448_UHD.jpg",
+      "copyright": "Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)",
+      "copyrightlink": "/search?q=International+Zebra+Day&form=hpcapt&filters=HpDate%3a%2220250131_0500%22"
     }
   ],
   "months": {
@@ -5150,6 +5156,8 @@
       "202412",
       "202501"
     ],
-    "active": []
+    "active": [
+      "202502"
+    ]
   }
 }

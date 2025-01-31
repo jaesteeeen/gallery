@@ -5117,6 +5117,12 @@
       "url": "https://www.bing.com/th?id=OHR.BaiadosPorcos_PT-BR0532087075_UHD.jpg",
       "copyright": "Vista de Baía dos Porcos em Fernando de Noronha (© Reuber Duarte/Getty Images)",
       "copyrightlink": "/search?q=Ba%c3%ada+dos+Porcos+(Fernando+de+Noronha)&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250201",
+      "url": "https://www.bing.com/th?id=OHR.PlainsZebra_PT-BR0179432464_UHD.jpg",
+      "copyright": "Zebras-da-planície ao amanhecer, Parque Nacional de Mokala, África do Sul (© EcoPrint/Shutterstock)",
+      "copyrightlink": "/search?q=Dia+Internacional+da+Zebra&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -5150,6 +5156,8 @@
       "202412",
       "202501"
     ],
-    "active": []
+    "active": [
+      "202502"
+    ]
   }
 }

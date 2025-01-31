@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-02)
+![](https://www.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg&w=1000)Latest: [Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)](https://www.bing.com/th?id=OHR.PlainsZebra_EN-US9488790690_UHD.jpg)

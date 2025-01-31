@@ -5123,6 +5123,12 @@
       "url": "https://www.bing.com/th?id=OHR.PlainsZebra_EN-IN2514350674_UHD.jpg",
       "copyright": "Plains zebras at sunrise, Mokala National Park, South Africa (© EcoPrint/Shutterstock)",
       "copyrightlink": "/search?q=International+Zebra+Day&form=hpcapt&filters=HpDate%3a%2220250130_1830%22"
+    },
+    {
+      "enddate": "20250201",
+      "url": "https://www.bing.com/th?id=OHR.FrostedBeech_EN-IN2659852695_UHD.jpg",
+      "copyright": "European beech forest in Belgium (© Philippe Moes/Minden Pictures)",
+      "copyrightlink": "/search?q=European+beech&form=hpcapt&filters=HpDate%3a%2220250131_1830%22"
     }
   ],
   "months": {
@@ -5156,6 +5162,8 @@
       "202412",
       "202501"
     ],
-    "active": []
+    "active": [
+      "202502"
+    ]
   }
 }

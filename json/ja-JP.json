@@ -5123,6 +5123,12 @@
       "url": "https://www.bing.com/th?id=OHR.PlainsZebra_JA-JP5699662720_UHD.jpg",
       "copyright": "モカラ国立公園, 南アフリカ (© EcoPrint/Shutterstock)",
       "copyrightlink": "/search?q=%e3%83%a2%e3%82%ab%e3%83%a9%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220250130_1500%22"
+    },
+    {
+      "enddate": "20250201",
+      "url": "https://www.bing.com/th?id=OHR.GoldenBridge_JA-JP5870058784_UHD.jpg",
+      "copyright": "ゴールデンブリッジ, ベトナム (© Hien Phung Thu/Shutterstock)",
+      "copyrightlink": "/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%87%e3%83%b3%e3%83%96%e3%83%aa%e3%83%83%e3%82%b8+%e3%83%99%e3%83%88%e3%83%8a%e3%83%a0&form=hpcapt&filters=HpDate%3a%2220250131_1500%22"
     }
   ],
   "months": {
@@ -5156,6 +5162,8 @@
       "202412",
       "202501"
     ],
-    "active": []
+    "active": [
+      "202502"
+    ]
   }
 }

@@ -5117,6 +5117,12 @@
       "url": "https://www.bing.com/th?id=OHR.OrdesaSpain_IT-IT2526212966_UHD.jpg",
       "copyright": "La breccia di Orlando, Parco Nazionale di Ordesa e Monte Perdido, Spagna (© Inaki Relanzon/Nature Picture Library/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Breccia+di+Orlando&form=hpcapt"
+    },
+    {
+      "enddate": "20250131",
+      "url": "https://www.bing.com/th?id=OHR.PlainsZebra_IT-IT2615421914_UHD.jpg",
+      "copyright": "Zebre, Parco Nazionale Mokala, Sudafrica (© EcoPrint/Shutterstock)",
+      "copyrightlink": "/search?q=Zebra+mammifero&form=hpcapt"
     }
   ],
   "months": {
@@ -5147,10 +5153,9 @@
       "202409",
       "202410",
       "202411",
-      "202412"
-    ],
-    "active": [
+      "202412",
       "202501"
-    ]
+    ],
+    "active": []
   }
 }

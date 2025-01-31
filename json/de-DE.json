@@ -5117,6 +5117,12 @@
       "url": "https://www.bing.com/th?id=OHR.OrdesaSpain_DE-DE0076469296_UHD.jpg",
       "copyright": "Rolandsbresche, Nationalpark Ordesa y Monte Perdido, Spanien (© Inaki Relanzon/Nature Picture Library/Alamy)",
       "copyrightlink": "/search?q=Rolandsbresche&form=hpcapt&filters=HpDate%3a%2220250129_2300%22"
+    },
+    {
+      "enddate": "20250131",
+      "url": "https://www.bing.com/th?id=OHR.PlainsZebra_DE-DE9982406079_UHD.jpg",
+      "copyright": "Steppenzebras bei Sonnenaufgang, Mokala-Nationalpark, Südafrika (© EcoPrint/Shutterstock)",
+      "copyrightlink": "/search?q=Internationaler+Zebra-Tag&form=hpcapt&filters=HpDate%3a%2220250130_2300%22"
     }
   ],
   "months": {
@@ -5147,10 +5153,9 @@
       "202409",
       "202410",
       "202411",
-      "202412"
-    ],
-    "active": [
+      "202412",
       "202501"
-    ]
+    ],
+    "active": []
   }
 }

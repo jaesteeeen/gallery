@@ -5117,6 +5117,12 @@
       "url": "https://www.bing.com/th?id=OHR.OrdesaSpain_ES-ES4787929078_UHD.jpg",
       "copyright": "La Brecha de Rolando, Parque Nacional de Ordesa y Monte Perdido, España (© Inaki Relanzon/Nature Picture Library/Alamy)",
       "copyrightlink": "/search?q=La+Brecha+de+Rolando&form=hpcapt&filters=HpDate%3a%2220250129_2300%22"
+    },
+    {
+      "enddate": "20250131",
+      "url": "https://www.bing.com/th?id=OHR.TenerifeCarnival2025_ES-ES0044754668_UHD.jpg",
+      "copyright": "Reina del Carnaval de Santa Cruz de Tenerife, España (© DESIREE MARTIN/Getty Images)",
+      "copyrightlink": "/search?q=Santa+Cruz+de+Tenerife&form=hpcapt&filters=HpDate%3a%2220250130_2300%22"
     }
   ],
   "months": {
@@ -5147,10 +5153,9 @@
       "202409",
       "202410",
       "202411",
-      "202412"
-    ],
-    "active": [
+      "202412",
       "202501"
-    ]
+    ],
+    "active": []
   }
 }

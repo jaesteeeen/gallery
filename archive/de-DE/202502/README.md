@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-02)
+![](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_DE-DE4868440436_UHD.jpg&w=1000)Latest: [Festung Königstein, Sächsische Schweiz, Deutschland (© Bildagentur-online/Exss/Alamy)](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_DE-DE4868440436_UHD.jpg)

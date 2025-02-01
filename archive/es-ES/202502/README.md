@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-02)
+![](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ES-ES5179656968_UHD.jpg&w=1000)Latest: [Fortaleza de Königstein, Suiza sajona, Alemania (© Bildagentur-online/Exss/Alamy)](https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ES-ES5179656968_UHD.jpg)

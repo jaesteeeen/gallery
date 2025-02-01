@@ -5123,6 +5123,12 @@
       "url": "https://www.bing.com/th?id=OHR.TenerifeCarnival2025_ES-ES0044754668_UHD.jpg",
       "copyright": "Reina del Carnaval de Santa Cruz de Tenerife, España (© DESIREE MARTIN/Getty Images)",
       "copyrightlink": "/search?q=Santa+Cruz+de+Tenerife&form=hpcapt&filters=HpDate%3a%2220250130_2300%22"
+    },
+    {
+      "enddate": "20250201",
+      "url": "https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_ES-ES5179656968_UHD.jpg",
+      "copyright": "Fortaleza de Königstein, Suiza sajona, Alemania (© Bildagentur-online/Exss/Alamy)",
+      "copyrightlink": "/search?q=Fortaleza+de+K%c3%b6nigstein&form=hpcapt&filters=HpDate%3a%2220250131_2300%22"
     }
   ],
   "months": {
@@ -5156,6 +5162,8 @@
       "202412",
       "202501"
     ],
-    "active": []
+    "active": [
+      "202502"
+    ]
   }
 }

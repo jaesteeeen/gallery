@@ -5123,6 +5123,12 @@
       "url": "https://www.bing.com/th?id=OHR.PlainsZebra_FR-FR3265795603_UHD.jpg",
       "copyright": "Zèbres des plaines au lever du soleil, parc national de Mokala, Afrique du Sud (© EcoPrint/Shutterstock)",
       "copyrightlink": "/search?q=z%c3%a8bre&form=hpcapt&filters=HpDate%3a%2220250130_2300%22"
+    },
+    {
+      "enddate": "20250201",
+      "url": "https://www.bing.com/th?id=OHR.DeerForest_FR-FR6532705920_UHD.jpg",
+      "copyright": "Cerf élaphe, forêt de Rambouillet,  Île-de-France (© Nicolas Le Boulanger/500px/Getty Image)",
+      "copyrightlink": "/search?q=Cerf+%c3%a9laphe&form=hpcapt&filters=HpDate%3a%2220250131_2300%22"
     }
   ],
   "months": {
@@ -5156,6 +5162,8 @@
       "202412",
       "202501"
     ],
-    "active": []
+    "active": [
+      "202502"
+    ]
   }
 }

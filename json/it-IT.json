@@ -5123,6 +5123,12 @@
       "url": "https://www.bing.com/th?id=OHR.PlainsZebra_IT-IT2615421914_UHD.jpg",
       "copyright": "Zebre, Parco Nazionale Mokala, Sudafrica (© EcoPrint/Shutterstock)",
       "copyrightlink": "/search?q=Zebra+mammifero&form=hpcapt"
+    },
+    {
+      "enddate": "20250201",
+      "url": "https://www.bing.com/th?id=OHR.FestungKonigsteinElbsandsteingebirge_IT-IT3107556613_UHD.jpg",
+      "copyright": "Fortezza di Königstein, Svizzera sassone, Germania (© Bildagentur-online/Exss/Alamy)",
+      "copyrightlink": "/search?q=Fortezza+di+K%c3%b6nigstein&form=hpcapt"
     }
   ],
   "months": {
@@ -5156,6 +5162,8 @@
       "202412",
       "202501"
     ],
-    "active": []
+    "active": [
+      "202502"
+    ]
   }
 }

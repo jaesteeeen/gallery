@@ -6923,6 +6923,12 @@
       "url": "https://www.bing.com/th?id=OHR.ArgyllStalker_EN-US2452683665_UHD.jpg",
       "copyright": "Castle Stalker on Loch Laich, Argyll, Scotland (© WLDavies/Getty Images)",
       "copyrightlink": "/search?q=Castle+Stalker&form=hpcapt&filters=HpDate%3a%2220250226_0800%22"
+    },
+    {
+      "enddate": "20250228",
+      "url": "https://www.bing.com/th?id=OHR.PolarCub_EN-US2740470421_UHD.jpg",
+      "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
+      "copyrightlink": "/search?q=international+polar+bear+day&form=hpcapt&filters=HpDate%3a%2220250227_0800%22"
     }
   ],
   "months": {
@@ -6963,10 +6969,9 @@
       "202410",
       "202411",
       "202412",
-      "202501"
-    ],
-    "active": [
+      "202501",
       "202502"
-    ]
+    ],
+    "active": []
   }
 }

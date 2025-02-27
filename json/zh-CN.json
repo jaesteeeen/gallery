@@ -6923,6 +6923,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarCub_ZH-CN1179361319_UHD.jpg",
       "copyright": "北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)",
       "copyrightlink": "/search?q=%e5%9b%bd%e9%99%85%e5%8c%97%e6%9e%81%e7%86%8a%e6%97%a5&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20250228",
+      "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_ZH-CN2469401011_UHD.jpg",
+      "copyright": "虎穴寺，不丹 (© Baron Reznik/Getty Images)",
+      "copyrightlink": "/search?q=%e4%b8%8d%e4%b8%b9%e8%99%8e%e7%a9%b4%e5%af%ba&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -6963,10 +6969,9 @@
       "202410",
       "202411",
       "202412",
-      "202501"
-    ],
-    "active": [
+      "202501",
       "202502"
-    ]
+    ],
+    "active": []
   }
 }

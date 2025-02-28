@@ -5273,6 +5273,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarCub_EN-GB1844708002_UHD.jpg",
       "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
       "copyrightlink": "/search?q=international+polar+bear+day&form=hpcapt&filters=HpDate%3a%2220250227_0000%22"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_EN-GB2130473204_UHD.jpg",
+      "copyright": "Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)",
+      "copyrightlink": "/search?q=Tibetan+new+year&form=hpcapt&filters=HpDate%3a%2220250228_0000%22"
     }
   ],
   "months": {
@@ -5307,6 +5313,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

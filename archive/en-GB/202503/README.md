@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-03)
+![](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-GB2130473204_UHD.jpg&w=1000)Latest: [Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-GB2130473204_UHD.jpg)

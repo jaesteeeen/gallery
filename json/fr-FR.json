@@ -5285,6 +5285,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarCub_FR-FR0353812683_UHD.jpg",
       "copyright": "Ourson polaire, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
       "copyrightlink": "/search?q=Journ%c3%a9e+internationale+de+l%27ours+polaire&form=hpcapt&filters=HpDate%3a%2220250226_2300%22"
+    },
+    {
+      "enddate": "20250228",
+      "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_FR-FR1020195060_UHD.jpg",
+      "copyright": "Monastère Taktshang, Bhoutan (© Baron Reznik/Getty Images)",
+      "copyrightlink": "/search?q=Losar+nouvel+an+tib%c3%a9tain&form=hpcapt&filters=HpDate%3a%2220250227_2300%22"
     }
   ],
   "months": {
@@ -5316,10 +5322,9 @@
       "202410",
       "202411",
       "202412",
-      "202501"
-    ],
-    "active": [
+      "202501",
       "202502"
-    ]
+    ],
+    "active": []
   }
 }

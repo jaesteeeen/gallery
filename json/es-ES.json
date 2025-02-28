@@ -5285,6 +5285,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarCub_ES-ES6085095422_UHD.jpg",
       "copyright": "Cachorro de oso polar, Churchill, Manitoba, Canadá (© Eric Baccega/NPL/Minden Pictures)",
       "copyrightlink": "/search?q=Oso+Polar&form=hpcapt&filters=HpDate%3a%2220250226_2300%22"
+    },
+    {
+      "enddate": "20250228",
+      "url": "https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_UHD.jpg",
+      "copyright": "Iznájar, Andalucía, España (© Miguel Sotomayor/Getty Images)",
+      "copyrightlink": "/search?q=D%c3%ada+de+Andaluc%c3%ada&form=hpcapt&filters=HpDate%3a%2220250227_2300%22"
     }
   ],
   "months": {
@@ -5316,10 +5322,9 @@
       "202410",
       "202411",
       "202412",
-      "202501"
-    ],
-    "active": [
+      "202501",
       "202502"
-    ]
+    ],
+    "active": []
   }
 }

@@ -5285,6 +5285,12 @@
       "url": "https://www.bing.com/th?id=OHR.CologneNight_DE-DE4660512744_UHD.jpg",
       "copyright": "Hohenzollernbrücke mit dem Kölner Dom und dem Rhein bei Sonnenuntergang in Köln (© Prasit Rodphan/Alamy Stock Foto)",
       "copyrightlink": "/search?q=Weiberfastnacht&form=hpcapt&filters=HpDate%3a%2220250226_2300%22"
+    },
+    {
+      "enddate": "20250228",
+      "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_DE-DE8934073002_UHD.jpg",
+      "copyright": "Kloster Taktshang Palphug, Bhutan (© Baron Reznik/Getty Images)",
+      "copyrightlink": "/search?q=Tibetisches+Neujahr+Losar&form=hpcapt&filters=HpDate%3a%2220250227_2300%22"
     }
   ],
   "months": {
@@ -5316,10 +5322,9 @@
       "202410",
       "202411",
       "202412",
-      "202501"
-    ],
-    "active": [
+      "202501",
       "202502"
-    ]
+    ],
+    "active": []
   }
 }

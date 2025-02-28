@@ -5285,6 +5285,12 @@
       "url": "https://www.bing.com/th?id=OHR.PolarCub_EN-CA8015894762_UHD.jpg",
       "copyright": "Polar bear cub, Churchill, Manitoba, Canada (© Eric Baccega/NPL/Minden Pictures)",
       "copyrightlink": "/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220250227_0500%22"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.NevadaBigHorns_EN-CA8281032097_UHD.jpg",
+      "copyright": "Desert bighorn sheep in Valley of Fire State Park, Nevada, United States (© Rachid Dahnoun/Cavan Images)",
+      "copyrightlink": "/search?q=Valley+of+Fire+State+Park&form=hpcapt&filters=HpDate%3a%2220250228_0500%22"
     }
   ],
   "months": {
@@ -5319,6 +5325,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-03)
+![](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg&w=1000)Latest: [Paro Taktsang, a Buddhist monastery in Bhutan (© Baron Reznik/Getty Images)](https://www.bing.com/th?id=OHR.BhutanMonastery_EN-US2804780711_UHD.jpg)

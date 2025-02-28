@@ -5291,6 +5291,12 @@
       "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_EN-IN9102034060_UHD.jpg",
       "copyright": "Taktsang Palphug Monastery, Bhutan (© Baron Reznik/Getty Images)",
       "copyrightlink": "/search?q=Tibetan+new+year&form=hpcapt&filters=HpDate%3a%2220250227_1830%22"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.BryceHoodoos_EN-IN9126700951_UHD.jpg",
+      "copyright": "Sandstone hoodoos, Bryce Canyon National Park, Utah, United States (© Stephen Matera/TANDEM Stills + Motion)",
+      "copyrightlink": "/search?q=Bryce+Canyon+National+Park&form=hpcapt&filters=HpDate%3a%2220250228_1830%22"
     }
   ],
   "months": {
@@ -5325,6 +5331,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

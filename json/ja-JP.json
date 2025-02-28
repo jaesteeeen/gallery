@@ -5291,6 +5291,12 @@
       "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_JA-JP1458270567_UHD.jpg",
       "copyright": "タクツァン僧院, ブータン (© Baron Reznik/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%bf%e3%82%af%e3%83%84%e3%82%a1%e3%83%b3%e5%83%a7%e9%99%a2&form=hpcapt&filters=HpDate%3a%2220250227_1500%22"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.EucalyptusForest_JA-JP1746182669_UHD.jpg",
+      "copyright": "ブルー・マウンテンズ国立公園, オーストラリア ニューサウスウェールズ州 (© Andrew Peacock/TANDEM Stills + Motion)",
+      "copyrightlink": "/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%bb%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%86%e3%83%b3%e3%82%ba%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220250228_1500%22"
     }
   ],
   "months": {
@@ -5325,6 +5331,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

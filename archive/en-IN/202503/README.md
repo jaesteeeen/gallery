@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-03)
+![](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-IN9126700951_UHD.jpg&w=1000)Latest: [Sandstone hoodoos, Bryce Canyon National Park, Utah, United States (© Stephen Matera/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.BryceHoodoos_EN-IN9126700951_UHD.jpg)

@@ -5291,6 +5291,12 @@
       "url": "https://www.bing.com/th?id=OHR.AndalusianStreet_ES-ES6181340886_UHD.jpg",
       "copyright": "Iznájar, Andalucía, España (© Miguel Sotomayor/Getty Images)",
       "copyrightlink": "/search?q=D%c3%ada+de+Andaluc%c3%ada&form=hpcapt&filters=HpDate%3a%2220250227_2300%22"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_UHD.jpg",
+      "copyright": "Aurora boreal sobre la Isla Spirit en el Lago Maligne, Parque Nacional Jasper, Canadá (© Mumemories/Getty Images)",
+      "copyrightlink": "/search?q=El+Lago+Maligne&form=hpcapt&filters=HpDate%3a%2220250228_2300%22"
     }
   ],
   "months": {
@@ -5325,6 +5331,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

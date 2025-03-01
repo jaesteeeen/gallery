@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-03)
+![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_FR-FR2308232847_UHD.jpg&w=1000)Latest: [Aurores boréales au-dessus de Spirit Island sur le lac Maligne, Parc national Jasper, Canada (© Mumemories/Getty Images)](https://www.bing.com/th?id=OHR.MaligneLakeJasper_FR-FR2308232847_UHD.jpg)

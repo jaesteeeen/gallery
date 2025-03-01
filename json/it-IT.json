@@ -5291,6 +5291,12 @@
       "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_IT-IT9860257157_UHD.jpg",
       "copyright": "Monastero di Taktsang Palphug, Bhutan (© Baron Reznik/Getty Images)",
       "copyrightlink": "/search?q=Anno+nuovo+tibetano&form=hpcapt"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.MaligneLakeJasper_IT-IT4481289877_UHD.jpg",
+      "copyright": "Aurora boreale sopra Spirit Island sul lago Maligne, Parco Nazionale di Jasper, Canada (© Mumemories/Getty Images)",
+      "copyrightlink": "/search?q=Parco+Nazionale+Jasper+canadese&form=hpcapt"
     }
   ],
   "months": {
@@ -5325,6 +5331,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

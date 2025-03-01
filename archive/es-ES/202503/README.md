@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-03)
+![](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_UHD.jpg&w=1000)Latest: [Aurora boreal sobre la Isla Spirit en el Lago Maligne, Parque Nacional Jasper, Canadá (© Mumemories/Getty Images)](https://www.bing.com/th?id=OHR.MaligneLakeJasper_ES-ES6288170690_UHD.jpg)

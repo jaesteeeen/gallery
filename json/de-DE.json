@@ -5291,6 +5291,12 @@
       "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_DE-DE8934073002_UHD.jpg",
       "copyright": "Kloster Taktshang Palphug, Bhutan (© Baron Reznik/Getty Images)",
       "copyrightlink": "/search?q=Tibetisches+Neujahr+Losar&form=hpcapt&filters=HpDate%3a%2220250227_2300%22"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.MaligneLakeJasper_DE-DE5640949329_UHD.jpg",
+      "copyright": "Nordlicht über Spirit Island am Maligne Lake im Jasper-Nationalpark, Kanada (© Mumemories/Getty Images)",
+      "copyrightlink": "/search?q=Maligne+Lake&form=hpcapt&filters=HpDate%3a%2220250228_2300%22"
     }
   ],
   "months": {
@@ -5325,6 +5331,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

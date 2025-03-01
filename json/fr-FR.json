@@ -5291,6 +5291,12 @@
       "url": "https://www.bing.com/th?id=OHR.BhutanMonastery_FR-FR1020195060_UHD.jpg",
       "copyright": "Monastère Taktshang, Bhoutan (© Baron Reznik/Getty Images)",
       "copyrightlink": "/search?q=Losar+nouvel+an+tib%c3%a9tain&form=hpcapt&filters=HpDate%3a%2220250227_2300%22"
+    },
+    {
+      "enddate": "20250301",
+      "url": "https://www.bing.com/th?id=OHR.MaligneLakeJasper_FR-FR2308232847_UHD.jpg",
+      "copyright": "Aurores boréales au-dessus de Spirit Island sur le lac Maligne, Parc national Jasper, Canada (© Mumemories/Getty Images)",
+      "copyrightlink": "/search?q=Lac+Maligne&form=hpcapt&filters=HpDate%3a%2220250228_2300%22"
     }
   ],
   "months": {
@@ -5325,6 +5331,8 @@
       "202501",
       "202502"
     ],
-    "active": []
+    "active": [
+      "202503"
+    ]
   }
 }

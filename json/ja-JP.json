@@ -5471,6 +5471,12 @@
       "url": "https://www.bing.com/th?id=OHR.SydneyHarbour_JA-JP1159048271_UHD.jpg",
       "copyright": "シドニー・ハーバー, オーストラリア ニューサウスウェールズ州 (© jamenpercy/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b7%e3%83%89%e3%83%8b%e3%83%bc%e3%83%bb%e3%83%8f%e3%83%bc%e3%83%90%e3%83%bc%2c+%e3%82%b7%e3%83%89%e3%83%8b%e3%83%bc%2c+%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b5%e3%82%a6%e3%82%b9%e3%82%a6%e3%82%a7%e3%83%bc%e3%83%ab%e3%82%ba%e5%b7%9e&form=hpcapt&filters=HpDate%3a%2220250329_1500%22"
+    },
+    {
+      "enddate": "20250331",
+      "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_JA-JP1339145959_UHD.jpg",
+      "copyright": "夕暮れのオストゥーニ, イタリア プッリャ州 (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%aa%e3%82%b9%e3%83%88%e3%82%a5%e3%83%bc%e3%83%8b%2c+%e3%83%97%e3%83%83%e3%83%aa%e3%83%a3%e5%b7%9e%2c+%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+&form=hpcapt&filters=HpDate%3a%2220250330_1500%22"
     }
   ],
   "months": {
@@ -5503,10 +5509,9 @@
       "202411",
       "202412",
       "202501",
-      "202502"
-    ],
-    "active": [
+      "202502",
       "202503"
-    ]
+    ],
+    "active": []
   }
 }

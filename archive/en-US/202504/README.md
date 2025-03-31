@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-04)
+![](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg&w=1000)Latest: [Ostuni at dusk, Apulia, Italy (© Feng Wei Photography/Getty Images)](https://www.bing.com/th?id=OHR.ItalyOstuni_EN-US2964422003_UHD.jpg)

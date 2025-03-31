@@ -5471,6 +5471,12 @@
       "url": "https://www.bing.com/th?id=OHR.SydneyHarbour_PT-BR9026745479_UHD.jpg",
       "copyright": "Vista aérea do Porto de Sydney, Nova Gales do Sul, Austrália (© jamenpercy/Getty Images)",
       "copyrightlink": "/search?q=Ba%c3%ada+de+Sydney&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250401",
+      "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_PT-BR1632629962_UHD.jpg",
+      "copyright": "Ostuni ao entardecer, Apúlia, Itália (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=Ap%c3%balia+It%c3%a1lia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -5506,6 +5512,8 @@
       "202502",
       "202503"
     ],
-    "active": []
+    "active": [
+      "202504"
+    ]
   }
 }

@@ -5471,6 +5471,12 @@
       "url": "https://www.bing.com/th?id=OHR.ItalyClock_FR-FR5009254968_UHD.jpg",
       "copyright": "Tour de l'horloge de Saint-Marc, Venise, Italie (© scaliger/Getty Images)",
       "copyrightlink": "/search?q=Heure+d%27%c3%a9t%c3%a9&form=hpcapt&filters=HpDate%3a%2220250329_2300%22"
+    },
+    {
+      "enddate": "20250331",
+      "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_FR-FR7585525322_UHD.jpg",
+      "copyright": "Ostuni au crépuscule, Pouilles, Italie (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=Ostuni%2c+Pouilles%2c+Italie+&form=hpcapt&filters=HpDate%3a%2220250330_2200%22"
     }
   ],
   "months": {
@@ -5503,10 +5509,9 @@
       "202411",
       "202412",
       "202501",
-      "202502"
-    ],
-    "active": [
+      "202502",
       "202503"
-    ]
+    ],
+    "active": []
   }
 }

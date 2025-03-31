@@ -5453,6 +5453,12 @@
       "url": "https://www.bing.com/th?id=OHR.CarrizoBloom_EN-GB8154155837_UHD.jpg",
       "copyright": "Superbloom in Carrizo Plain National Monument, California, United States (© Robb Hirsch/TANDEM Stills + Motion)",
       "copyrightlink": "/search?q=superbloom+flowers+california&form=hpcapt&filters=HpDate%3a%2220250329_0000%22"
+    },
+    {
+      "enddate": "20250331",
+      "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_EN-GB1857300472_UHD.jpg",
+      "copyright": "Ostuni, Apulia, Italy (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=Ostuni+Italy&form=hpcapt&filters=HpDate%3a%2220250330_2300%22"
     }
   ],
   "months": {
@@ -5485,10 +5491,9 @@
       "202411",
       "202412",
       "202501",
-      "202502"
-    ],
-    "active": [
+      "202502",
       "202503"
-    ]
+    ],
+    "active": []
   }
 }

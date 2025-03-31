@@ -5471,6 +5471,12 @@
       "url": "https://www.bing.com/th?id=OHR.ItalyClock_ES-ES6730268051_UHD.jpg",
       "copyright": "Torre del Reloj de San Marcos, Venecia, Italia (© scaliger/Getty Images)",
       "copyrightlink": "/search?q=Horario+de+verano&form=hpcapt&filters=HpDate%3a%2220250329_2300%22"
+    },
+    {
+      "enddate": "20250331",
+      "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_ES-ES6756528922_UHD.jpg",
+      "copyright": "Ostuni al atardecer, Brindisi, Apulia, Italia (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=Brindisi+Italia&form=hpcapt&filters=HpDate%3a%2220250330_2200%22"
     }
   ],
   "months": {
@@ -5503,10 +5509,9 @@
       "202411",
       "202412",
       "202501",
-      "202502"
-    ],
-    "active": [
+      "202502",
       "202503"
-    ]
+    ],
+    "active": []
   }
 }

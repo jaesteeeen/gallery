@@ -5471,6 +5471,12 @@
       "url": "https://www.bing.com/th?id=OHR.AtheneNoctuaGermany_DE-DE4640297200_UHD.jpg",
       "copyright": "Steinkauz-Junges in einem Baumloch (© Bildagentur Zoonar GmbH/Alamy)",
       "copyrightlink": "/search?q=Sommerzeit&form=hpcapt&filters=HpDate%3a%2220250329_2300%22"
+    },
+    {
+      "enddate": "20250331",
+      "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_DE-DE7873606461_UHD.jpg",
+      "copyright": "Ostuni bei Dämmerung, Apulien, Italien (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=Ostuni+Italien&form=hpcapt&filters=HpDate%3a%2220250330_2200%22"
     }
   ],
   "months": {
@@ -5503,10 +5509,9 @@
       "202411",
       "202412",
       "202501",
-      "202502"
-    ],
-    "active": [
+      "202502",
       "202503"
-    ]
+    ],
+    "active": []
   }
 }

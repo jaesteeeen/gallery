@@ -5471,6 +5471,12 @@
       "url": "https://www.bing.com/th?id=OHR.Clock_IT-IT7164959440_UHD.jpg",
       "copyright": "Torre dell'Orologio e statua in marmo del Leone alato di San Marco, Piazza dei Signori, Padova, Veneto (© Alberto Masnovo/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Ora+legale+wiki&form=hpcapt"
+    },
+    {
+      "enddate": "20250331",
+      "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_IT-IT5728384591_UHD.jpg",
+      "copyright": "Ostuni al tramonto, Puglia (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=Ostuni+un+comune+in+Puglia+&form=hpcapt"
     }
   ],
   "months": {
@@ -5503,10 +5509,9 @@
       "202411",
       "202412",
       "202501",
-      "202502"
-    ],
-    "active": [
+      "202502",
       "202503"
-    ]
+    ],
+    "active": []
   }
 }

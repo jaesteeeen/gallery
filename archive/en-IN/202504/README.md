@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-04)
+![](https://www.bing.com/th?id=OHR.TicanFrog_EN-IN0941028255_UHD.jpg&w=1000)Latest: [Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.TicanFrog_EN-IN0941028255_UHD.jpg)

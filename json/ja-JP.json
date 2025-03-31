@@ -5477,6 +5477,12 @@
       "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_JA-JP1339145959_UHD.jpg",
       "copyright": "夕暮れのオストゥーニ, イタリア プッリャ州 (© Feng Wei Photography/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%aa%e3%82%b9%e3%83%88%e3%82%a5%e3%83%bc%e3%83%8b%2c+%e3%83%97%e3%83%83%e3%83%aa%e3%83%a3%e5%b7%9e%2c+%e3%82%a4%e3%82%bf%e3%83%aa%e3%82%a2+&form=hpcapt&filters=HpDate%3a%2220250330_1500%22"
+    },
+    {
+      "enddate": "20250401",
+      "url": "https://www.bing.com/th?id=OHR.CherryBlossom2025_JA-JP1573820444_UHD.jpg",
+      "copyright": "奈良公園, 奈良県 奈良市 (© AaronChenPS2/Shutterstock)",
+      "copyrightlink": "/search?q=%e5%a5%88%e8%89%af%e5%85%ac%e5%9c%92%e3%81%ae%e6%a1%9c%2c+%e5%a5%88%e8%89%af%e5%b8%82&form=hpcapt&filters=HpDate%3a%2220250331_1500%22"
     }
   ],
   "months": {
@@ -5512,6 +5518,8 @@
       "202502",
       "202503"
     ],
-    "active": []
+    "active": [
+      "202504"
+    ]
   }
 }

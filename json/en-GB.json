@@ -5459,6 +5459,12 @@
       "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_EN-GB1857300472_UHD.jpg",
       "copyright": "Ostuni, Apulia, Italy (© Feng Wei Photography/Getty Images)",
       "copyrightlink": "/search?q=Ostuni+Italy&form=hpcapt&filters=HpDate%3a%2220250330_2300%22"
+    },
+    {
+      "enddate": "20250401",
+      "url": "https://www.bing.com/th?id=OHR.TicanFrog_EN-GB2046965668_UHD.jpg",
+      "copyright": "Tree frog, Costa Rica (© Ondrej Prosicky/Shutterstock)",
+      "copyrightlink": "/search?q=Canal+Zone+tree+frog&form=hpcapt&filters=HpDate%3a%2220250331_2300%22"
     }
   ],
   "months": {
@@ -5494,6 +5500,8 @@
       "202502",
       "202503"
     ],
-    "active": []
+    "active": [
+      "202504"
+    ]
   }
 }

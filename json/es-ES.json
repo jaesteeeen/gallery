@@ -5477,6 +5477,12 @@
       "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_ES-ES6756528922_UHD.jpg",
       "copyright": "Ostuni al atardecer, Brindisi, Apulia, Italia (© Feng Wei Photography/Getty Images)",
       "copyrightlink": "/search?q=Brindisi+Italia&form=hpcapt&filters=HpDate%3a%2220250330_2200%22"
+    },
+    {
+      "enddate": "20250401",
+      "url": "https://www.bing.com/th?id=OHR.CerezoEnFlor_ES-ES6779922174_UHD.jpg",
+      "copyright": "Castillo de La Calahorra, Granada, Andalucía, España (© Ugo Mellone/Sime/eStock Photo)",
+      "copyrightlink": "/search?q=La+Calahorra+Granada&form=hpcapt&filters=HpDate%3a%2220250331_2200%22"
     }
   ],
   "months": {
@@ -5512,6 +5518,8 @@
       "202502",
       "202503"
     ],
-    "active": []
+    "active": [
+      "202504"
+    ]
   }
 }

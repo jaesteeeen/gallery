@@ -5477,6 +5477,12 @@
       "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_DE-DE7873606461_UHD.jpg",
       "copyright": "Ostuni bei Dämmerung, Apulien, Italien (© Feng Wei Photography/Getty Images)",
       "copyrightlink": "/search?q=Ostuni+Italien&form=hpcapt&filters=HpDate%3a%2220250330_2200%22"
+    },
+    {
+      "enddate": "20250401",
+      "url": "https://www.bing.com/th?id=OHR.TicanFrog_DE-DE8199372905_UHD.jpg",
+      "copyright": "Kanalzonen-Baumfrosch, Costa Rica (© Ondrej Prosicky/Shutterstock)",
+      "copyrightlink": "/search?q=Fr%c3%b6sche&form=hpcapt&filters=HpDate%3a%2220250331_2200%22"
     }
   ],
   "months": {
@@ -5512,6 +5518,8 @@
       "202502",
       "202503"
     ],
-    "active": []
+    "active": [
+      "202504"
+    ]
   }
 }

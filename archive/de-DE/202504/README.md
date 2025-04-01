@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-04)
+![](https://www.bing.com/th?id=OHR.TicanFrog_DE-DE8199372905_UHD.jpg&w=1000)Latest: [Kanalzonen-Baumfrosch, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.TicanFrog_DE-DE8199372905_UHD.jpg)

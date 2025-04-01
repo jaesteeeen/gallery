@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-04)
+![](https://www.bing.com/th?id=OHR.TicanFrog_FR-FR5747392507_UHD.jpg&w=1000)Latest: [Grenouille rainette, Costa Rica (© Ondrej Prosicky/Shutterstock)](https://www.bing.com/th?id=OHR.TicanFrog_FR-FR5747392507_UHD.jpg)

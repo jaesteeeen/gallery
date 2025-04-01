@@ -5477,6 +5477,12 @@
       "url": "https://www.bing.com/th?id=OHR.ItalyOstuni_IT-IT5728384591_UHD.jpg",
       "copyright": "Ostuni al tramonto, Puglia (© Feng Wei Photography/Getty Images)",
       "copyrightlink": "/search?q=Ostuni+un+comune+in+Puglia+&form=hpcapt"
+    },
+    {
+      "enddate": "20250401",
+      "url": "https://www.bing.com/th?id=OHR.TicanFrog_IT-IT7236834033_UHD.jpg",
+      "copyright": "Rana, Costa Rica (© Ondrej Prosicky/Shutterstock)",
+      "copyrightlink": "/search?q=Rane+anfibi&form=hpcapt"
     }
   ],
   "months": {
@@ -5512,6 +5518,8 @@
       "202502",
       "202503"
     ],
-    "active": []
+    "active": [
+      "202504"
+    ]
   }
 }

@@ -5645,6 +5645,12 @@
       "url": "https://www.bing.com/th?id=OHR.OrangeImpala_EN-CA7752458355_UHD.jpg",
       "copyright": "Impala in Moremi Game Reserve, Botswana (© Paul Souders/Getty Images)",
       "copyrightlink": "/search?q=Impala&form=hpcapt&filters=HpDate%3a%2220250428_0400%22"
+    },
+    {
+      "enddate": "20250430",
+      "url": "https://www.bing.com/th?id=OHR.GardensVillandry_EN-CA7797620166_UHD.jpg",
+      "copyright": "Formal Château de Villandry, Loire Valley, France (© Mint Images/Getty Images)",
+      "copyrightlink": "/search?q=Chateau+de+Villandry+France&form=hpcapt&filters=HpDate%3a%2220250429_0400%22"
     }
   ],
   "months": {
@@ -5678,10 +5684,9 @@
       "202412",
       "202501",
       "202502",
-      "202503"
-    ],
-    "active": [
+      "202503",
       "202504"
-    ]
+    ],
+    "active": []
   }
 }

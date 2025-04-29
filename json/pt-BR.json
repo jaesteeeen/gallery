@@ -5645,6 +5645,12 @@
       "url": "https://www.bing.com/th?id=OHR.DunasMaranhenses_PT-BR7731502605_UHD.jpg",
       "copyright": "Parque Nacional dos Lençóis Maranhenses, Maranhão (© WhyNotTrip/Shutterstock)",
       "copyrightlink": "/search?q=Parque+Nacional+dos+Len%c3%a7%c3%b3is+Maranhenses&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250430",
+      "url": "https://www.bing.com/th?id=OHR.GardensVillandry_PT-BR2651560431_UHD.jpg",
+      "copyright": "Castelo de Villandry, Vale do Loire, França (© Mint Images/Getty Images)",
+      "copyrightlink": "/search?q=Castelo+de+Villandry&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -5678,10 +5684,9 @@
       "202412",
       "202501",
       "202502",
-      "202503"
-    ],
-    "active": [
+      "202503",
       "202504"
-    ]
+    ],
+    "active": []
   }
 }

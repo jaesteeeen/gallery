@@ -5651,6 +5651,12 @@
       "url": "https://www.bing.com/th?id=OHR.GardensVillandry_JA-JP2835269741_UHD.jpg",
       "copyright": "ヴィランドリー城, フランス (© Mint Images/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%b4%e3%82%a3%e3%83%a9%e3%83%b3%e3%83%89%e3%83%aa%e3%83%bc%e5%9f%8e%e3%81%ae%e5%ba%ad%e5%9c%92%2c+%e3%83%95%e3%83%a9%e3%83%b3%e3%82%b9&form=hpcapt&filters=HpDate%3a%2220250428_1500%22"
+    },
+    {
+      "enddate": "20250430",
+      "url": "https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg",
+      "copyright": "サックス奏者ジョン・コルトレーンと彼のバンド, イギリス ロンドン (© Popperfoto/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%bb%e3%82%b3%e3%83%ab%e3%83%88%e3%83%ac%e3%83%bc%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220250429_1500%22"
     }
   ],
   "months": {
@@ -5684,10 +5690,9 @@
       "202412",
       "202501",
       "202502",
-      "202503"
-    ],
-    "active": [
+      "202503",
       "202504"
-    ]
+    ],
+    "active": []
   }
 }

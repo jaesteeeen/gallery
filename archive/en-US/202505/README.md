@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-05)
+![](https://www.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg&w=1000)Latest: [Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)](https://www.bing.com/th?id=OHR.ColtraneBand_EN-US3561448385_UHD.jpg)

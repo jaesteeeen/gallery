@@ -5651,6 +5651,12 @@
       "url": "https://www.bing.com/th?id=OHR.GardensVillandry_FR-FR7410166716_UHD.jpg",
       "copyright": "Jardins du château de Villandry, Vallée de la Loire (© Mint Images/Getty Images)",
       "copyrightlink": "/search?q=Chateau+de+Villandry&form=hpcapt&filters=HpDate%3a%2220250428_2200%22"
+    },
+    {
+      "enddate": "20250430",
+      "url": "https://www.bing.com/th?id=OHR.Pheasant_FR-FR7804669644_UHD.jpg",
+      "copyright": "Faisan de Colchide mâle au milieu de fleurs jaunes, Normandie (© slowmotiongli/Getty Images)",
+      "copyrightlink": "/search?q=Faisan+de+Colchide&form=hpcapt&filters=HpDate%3a%2220250429_2200%22"
     }
   ],
   "months": {
@@ -5684,10 +5690,9 @@
       "202412",
       "202501",
       "202502",
-      "202503"
-    ],
-    "active": [
+      "202503",
       "202504"
-    ]
+    ],
+    "active": []
   }
 }

@@ -5651,6 +5651,12 @@
       "url": "https://www.bing.com/th?id=OHR.GardensVillandry_ES-ES9696020463_UHD.jpg",
       "copyright": "Jardin del Castillo de Villandry, Valle del Loira, Francia (© Mint Images/Getty Images)",
       "copyrightlink": "/search?q=castillo+de+villandry+Francia&form=hpcapt&filters=HpDate%3a%2220250428_2200%22"
+    },
+    {
+      "enddate": "20250430",
+      "url": "https://www.bing.com/th?id=OHR.ColtraneBand_ES-ES9738799865_UHD.jpg",
+      "copyright": "El saxofonista de jazz John Coltrane y su banda actuando en 1961 en Londres, Inglaterra (© Popperfoto/Getty Images)",
+      "copyrightlink": "/search?q=d%c3%ada+internacional+del+jazz&form=hpcapt&filters=HpDate%3a%2220250429_2200%22"
     }
   ],
   "months": {
@@ -5684,10 +5690,9 @@
       "202412",
       "202501",
       "202502",
-      "202503"
-    ],
-    "active": [
+      "202503",
       "202504"
-    ]
+    ],
+    "active": []
   }
 }

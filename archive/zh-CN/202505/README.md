@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-05)
+![](https://www.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg&w=1000)Latest: [鸡蛋花，夏威夷，美国 (© Miranda Jans/Getty Images)](https://www.bing.com/th?id=OHR.PinkPlumeria_ZH-CN3890147555_UHD.jpg)

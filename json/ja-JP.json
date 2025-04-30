@@ -5657,6 +5657,12 @@
       "url": "https://www.bing.com/th?id=OHR.ColtraneBand_JA-JP3450716389_UHD.jpg",
       "copyright": "サックス奏者ジョン・コルトレーンと彼のバンド, イギリス ロンドン (© Popperfoto/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e3%83%bb%e3%82%b3%e3%83%ab%e3%83%88%e3%83%ac%e3%83%bc%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220250429_1500%22"
+    },
+    {
+      "enddate": "20250501",
+      "url": "https://www.bing.com/th?id=OHR.Hachijyuhachi2025_JA-JP6490825826_UHD.jpg",
+      "copyright": "大淵笹場の茶畑, 静岡県 富士市 (© 7maru/Getty Images)",
+      "copyrightlink": "/search?q=%e5%a4%a7%e6%b7%b5%e7%ac%b9%e5%a0%b4%e3%81%ae%e8%8c%b6%e7%95%91%2c+%e5%af%8c%e5%a3%ab%e5%b8%82%2c+%e9%9d%99%e5%b2%a1%e7%9c%8c&form=hpcapt&filters=HpDate%3a%2220250430_1500%22"
     }
   ],
   "months": {
@@ -5693,6 +5699,8 @@
       "202503",
       "202504"
     ],
-    "active": []
+    "active": [
+      "202505"
+    ]
   }
 }

@@ -5657,6 +5657,12 @@
       "url": "https://www.bing.com/th?id=OHR.ColtraneBand_EN-IN4058785023_UHD.jpg",
       "copyright": "Jazz saxophonist John Coltrane and band performing in 1961 in London, England (© Popperfoto/Getty Images)",
       "copyrightlink": "/search?q=International+Jazz+Day&form=hpcapt&filters=HpDate%3a%2220250429_1830%22"
+    },
+    {
+      "enddate": "20250501",
+      "url": "https://www.bing.com/th?id=OHR.SeaLink_EN-IN8546932125_UHD.jpg",
+      "copyright": "Bandra–Worli Sea Link, Mumbai, Maharashtra (© Puneet Vikram Singh, Nature and Concept photographer/Getty Images)",
+      "copyrightlink": "/search?q=Maharashtra+Day&form=hpcapt&filters=HpDate%3a%2220250430_1830%22"
     }
   ],
   "months": {
@@ -5693,6 +5699,8 @@
       "202503",
       "202504"
     ],
-    "active": []
+    "active": [
+      "202505"
+    ]
   }
 }

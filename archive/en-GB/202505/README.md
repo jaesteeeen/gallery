@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-05)
+![](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-GB9432400887_UHD.jpg&w=1000)Latest: [Plumeria flowers, Hawaii, United States (© Miranda Jans/Getty Images)](https://www.bing.com/th?id=OHR.PinkPlumeria_EN-GB9432400887_UHD.jpg)

@@ -5657,6 +5657,12 @@
       "url": "https://www.bing.com/th?id=OHR.ColtraneBand_ES-ES9738799865_UHD.jpg",
       "copyright": "El saxofonista de jazz John Coltrane y su banda actuando en 1961 en Londres, Inglaterra (© Popperfoto/Getty Images)",
       "copyrightlink": "/search?q=d%c3%ada+internacional+del+jazz&form=hpcapt&filters=HpDate%3a%2220250429_2200%22"
+    },
+    {
+      "enddate": "20250501",
+      "url": "https://www.bing.com/th?id=OHR.PinkPlumeria_ES-ES3406077464_UHD.jpg",
+      "copyright": "Flores de plumeria, Hawái, EE. UU. (© Miranda Jans/Getty Images)",
+      "copyrightlink": "/search?q=lei+hawaiano&form=hpcapt&filters=HpDate%3a%2220250430_2200%22"
     }
   ],
   "months": {
@@ -5693,6 +5699,8 @@
       "202503",
       "202504"
     ],
-    "active": []
+    "active": [
+      "202505"
+    ]
   }
 }

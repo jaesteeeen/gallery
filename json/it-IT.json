@@ -5657,6 +5657,12 @@
       "url": "https://www.bing.com/th?id=OHR.ColtraneBand_IT-IT2364291009_UHD.jpg",
       "copyright": "Il sassofonista John Coltrane e la sua band si esibiscono nel 1961 a Londra, Inghilterra (© Popperfoto/Getty Images)",
       "copyrightlink": "/search?q=Jazz&form=hpcapt"
+    },
+    {
+      "enddate": "20250501",
+      "url": "https://www.bing.com/th?id=OHR.PinkPlumeria_IT-IT2418782991_UHD.jpg",
+      "copyright": "Fiori di plumeria, Hawaii, USA (© Miranda Jans/Getty Images)",
+      "copyrightlink": "/search?q=Plumeria&form=hpcapt"
     }
   ],
   "months": {
@@ -5693,6 +5699,8 @@
       "202503",
       "202504"
     ],
-    "active": []
+    "active": [
+      "202505"
+    ]
   }
 }

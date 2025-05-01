@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-05)
+![](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg&w=1000)Latest: [Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)](https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg)

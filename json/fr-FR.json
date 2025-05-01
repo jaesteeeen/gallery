@@ -5657,6 +5657,12 @@
       "url": "https://www.bing.com/th?id=OHR.Pheasant_FR-FR7804669644_UHD.jpg",
       "copyright": "Faisan de Colchide mâle au milieu de fleurs jaunes, Normandie (© slowmotiongli/Getty Images)",
       "copyrightlink": "/search?q=Faisan+de+Colchide&form=hpcapt&filters=HpDate%3a%2220250429_2200%22"
+    },
+    {
+      "enddate": "20250501",
+      "url": "https://www.bing.com/th?id=OHR.PinkPlumeria_FR-FR9237716464_UHD.jpg",
+      "copyright": "Fleurs de frangipanier, Hawaï, États-Unis (© Miranda Jans/Getty Images)",
+      "copyrightlink": "/search?q=frangipanier&form=hpcapt&filters=HpDate%3a%2220250430_2200%22"
     }
   ],
   "months": {
@@ -5693,6 +5699,8 @@
       "202503",
       "202504"
     ],
-    "active": []
+    "active": [
+      "202505"
+    ]
   }
 }

@@ -5657,6 +5657,12 @@
       "url": "https://www.bing.com/th?id=OHR.ColtraneBand_DE-DE0172172574_UHD.jpg",
       "copyright": "Jazz-Saxophonist John Coltrane und Band bei einem Auftritt 1961 in London, England (© Popperfoto/Getty Images)",
       "copyrightlink": "/search?q=Internationaler+Tag+des+Jazz&form=hpcapt&filters=HpDate%3a%2220250429_2200%22"
+    },
+    {
+      "enddate": "20250501",
+      "url": "https://www.bing.com/th?id=OHR.PinkPlumeria_DE-DE1954010737_UHD.jpg",
+      "copyright": "Plumeria-Blumen, Hawaii, USA (© Miranda Jans/Getty Images)",
+      "copyrightlink": "/search?q=Lei+Day+Feiertag&form=hpcapt&filters=HpDate%3a%2220250430_2200%22"
     }
   ],
   "months": {
@@ -5693,6 +5699,8 @@
       "202503",
       "202504"
     ],
-    "active": []
+    "active": [
+      "202505"
+    ]
   }
 }

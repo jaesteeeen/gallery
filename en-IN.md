@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN8622946515_UHD.jpg&w=1000)Today: [Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge (© Gerry Ellis/Minden Pictures)](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN8622946515_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN0989850469_UHD.jpg&w=1000)Today: [Sea otter floating in a kelp bed in Alaska Maritime National Wildlife Refuge, United States (© Gerry Ellis/Minden Pictures)](https://www.bing.com/th?id=OHR.KelpOtter_EN-IN0989850469_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

@@ -5831,6 +5831,12 @@
       "url": "https://www.bing.com/th?id=OHR.MiravetSpain_PT-BR7483184425_UHD.jpg",
       "copyright": "Miravet às margens do rio Ebro, Tarragona, Catalunha, Espanha (© Eloi_Omella/Getty Images)",
       "copyrightlink": "/search?q=Miravet+na+Catalunha+Espanha&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250531",
+      "url": "https://www.bing.com/th?id=OHR.LittlePigeonRiver_PT-BR7889046917_UHD.jpg",
+      "copyright": "Rio Little Pigeon, Parque Nacional das Grandes Montanhas Fumegantes, Tennessee, EUA (© GreenStock/Getty Images)",
+      "copyrightlink": "/search?q=Parque+Nacional+das+Grandes+Montanhas+Fumegantes&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -5865,10 +5871,9 @@
       "202501",
       "202502",
       "202503",
-      "202504"
-    ],
-    "active": [
+      "202504",
       "202505"
-    ]
+    ],
+    "active": []
   }
 }

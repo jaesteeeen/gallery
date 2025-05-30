@@ -7475,6 +7475,12 @@
       "url": "https://www.bing.com/th?id=OHR.MiravetSpain_EN-US4967052818_UHD.jpg",
       "copyright": "Miravet on the Ebro River, Tarragona, Catalonia, Spain (© Eloi_Omella/Getty Images)",
       "copyrightlink": "/search?q=Miravet+Spain&form=hpcapt&filters=HpDate%3a%2220250529_0700%22"
+    },
+    {
+      "enddate": "20250531",
+      "url": "https://www.bing.com/th?id=OHR.LittlePigeonRiver_EN-US1765916005_UHD.jpg",
+      "copyright": "Little Pigeon River, Great Smoky Mountains National Park, Tennessee (© GreenStock/Getty Images)",
+      "copyrightlink": "/search?q=Little+Pigeon+River&form=hpcapt&filters=HpDate%3a%2220250530_0700%22"
     }
   ],
   "months": {
@@ -7518,10 +7524,9 @@
       "202501",
       "202502",
       "202503",
-      "202504"
-    ],
-    "active": [
+      "202504",
       "202505"
-    ]
+    ],
+    "active": []
   }
 }

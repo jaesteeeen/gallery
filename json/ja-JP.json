@@ -5837,6 +5837,12 @@
       "url": "https://www.bing.com/th?id=OHR.LittlePigeonRiver_JA-JP4939584633_UHD.jpg",
       "copyright": "グレート・スモーキー山脈国立公園, 米国 テネシー州 (© GreenStock/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b0%e3%83%ac%e3%83%bc%e3%83%88%e3%83%bb%e3%82%b9%e3%83%a2%e3%83%bc%e3%82%ad%e3%83%bc%e5%b1%b1%e8%84%88%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92%2c+%e3%83%86%e3%83%8d%e3%82%b7%e3%83%bc%e5%b7%9e&form=hpcapt&filters=HpDate%3a%2220250529_1500%22"
+    },
+    {
+      "enddate": "20250531",
+      "url": "https://www.bing.com/th?id=OHR.SwedenReserve_JA-JP5195008647_UHD.jpg",
+      "copyright": "クヌートイスモッセン自然保護区, スウェーデン (© Sven Halling/DEEPOL/plainpicture)",
+      "copyrightlink": "/search?q=Knuth%c3%b6jdsmossen+%e8%87%aa%e7%84%b6%e4%bf%9d%e8%ad%b7%e5%8c%ba%2c+%e3%82%b9%e3%82%a6%e3%82%a7%e3%83%bc%e3%83%87%e3%83%b3&form=hpcapt&filters=HpDate%3a%2220250530_1500%22"
     }
   ],
   "months": {
@@ -5871,10 +5877,9 @@
       "202501",
       "202502",
       "202503",
-      "202504"
-    ],
-    "active": [
+      "202504",
       "202505"
-    ]
+    ],
+    "active": []
   }
 }

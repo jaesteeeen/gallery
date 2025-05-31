@@ -5843,6 +5843,12 @@
       "url": "https://www.bing.com/th?id=OHR.SwedenReserve_EN-IN3145271969_UHD.jpg",
       "copyright": "Knuthöjdsmossen nature reserve, Sweden (© Sven Halling/DEEPOL/plainpicture)",
       "copyrightlink": "/search?q=Knuthojdsmossen+Sweden&form=hpcapt&filters=HpDate%3a%2220250530_1830%22"
+    },
+    {
+      "enddate": "20250601",
+      "url": "https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-IN3346781319_UHD.jpg",
+      "copyright": "Barrier reef off Grande Terre, New Caledonia, France (© Karsten Wrobel/Getty Images)",
+      "copyrightlink": "/search?q=World+Reef+Awareness+Day&form=hpcapt&filters=HpDate%3a%2220250531_1830%22"
     }
   ],
   "months": {
@@ -5880,6 +5886,8 @@
       "202504",
       "202505"
     ],
-    "active": []
+    "active": [
+      "202506"
+    ]
   }
 }

@@ -5837,6 +5837,12 @@
       "url": "https://www.bing.com/th?id=OHR.CanaryIslandDay_ES-ES5813844536_UHD.jpg",
       "copyright": "Atardecer en el Parque Nacional del Teide, Santa Cruz de Tenerife, España (© DiegoJose/Adobe Stock)",
       "copyrightlink": "/search?q=D%c3%ada+de+Canarias&form=hpcapt&filters=HpDate%3a%2220250529_2200%22"
+    },
+    {
+      "enddate": "20250531",
+      "url": "https://www.bing.com/th?id=OHR.SwedenReserve_ES-ES5600233708_UHD.jpg",
+      "copyright": "Reserva natural de Knuthöjdsmossen, Suecia (© Sven Halling/DEEPOL/plainpicture)",
+      "copyrightlink": "/search?q=Suecia&form=hpcapt&filters=HpDate%3a%2220250530_2200%22"
     }
   ],
   "months": {
@@ -5871,10 +5877,9 @@
       "202501",
       "202502",
       "202503",
-      "202504"
-    ],
-    "active": [
+      "202504",
       "202505"
-    ]
+    ],
+    "active": []
   }
 }

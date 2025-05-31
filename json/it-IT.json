@@ -5837,6 +5837,12 @@
       "url": "https://www.bing.com/th?id=OHR.LittlePigeonRiver_IT-IT1807202812_UHD.jpg",
       "copyright": "Fiume Little Pigeon, Parco Nazionale delle Great Smoky Mountains, Tennessee, USA (© GreenStock/Getty Images)",
       "copyrightlink": "/search?q=Fiume+Little+Pigeon+Parco+Nazionale+delle+Great+Smoky+Mountains&form=hpcapt"
+    },
+    {
+      "enddate": "20250531",
+      "url": "https://www.bing.com/th?id=OHR.SwedenReserve_IT-IT1642458062_UHD.jpg",
+      "copyright": "Riserva naturale di Knuthöjdsmossen, Svezia (© Sven Halling/DEEPOL/plainpicture)",
+      "copyrightlink": "/search?q=Svezia&form=hpcapt"
     }
   ],
   "months": {
@@ -5871,10 +5877,9 @@
       "202501",
       "202502",
       "202503",
-      "202504"
-    ],
-    "active": [
+      "202504",
       "202505"
-    ]
+    ],
+    "active": []
   }
 }

@@ -5837,6 +5837,12 @@
       "url": "https://www.bing.com/th?id=OHR.LittlePigeonRiver_EN-CA7466568191_UHD.jpg",
       "copyright": "Little Pigeon River, Great Smoky Mountains National Park, Tennessee, United States (© GreenStock/Getty Images)",
       "copyrightlink": "/search?q=Little+Pigeon+River&form=hpcapt&filters=HpDate%3a%2220250530_0400%22"
+    },
+    {
+      "enddate": "20250601",
+      "url": "https://www.bing.com/th?id=OHR.SwedenReserve_EN-CA7601065601_UHD.jpg",
+      "copyright": "Knuthöjdsmossen nature reserve, Sweden (© Sven Halling/DEEPOL/plainpicture)",
+      "copyrightlink": "/search?q=Knuthojdsmossen+Sweden&form=hpcapt&filters=HpDate%3a%2220250531_0400%22"
     }
   ],
   "months": {
@@ -5874,6 +5880,8 @@
       "202504",
       "202505"
     ],
-    "active": []
+    "active": [
+      "202506"
+    ]
   }
 }

@@ -5837,6 +5837,12 @@
       "url": "https://www.bing.com/th?id=OHR.LittlePigeonRiver_PT-BR7889046917_UHD.jpg",
       "copyright": "Rio Little Pigeon, Parque Nacional das Grandes Montanhas Fumegantes, Tennessee, EUA (© GreenStock/Getty Images)",
       "copyrightlink": "/search?q=Parque+Nacional+das+Grandes+Montanhas+Fumegantes&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250601",
+      "url": "https://www.bing.com/th?id=OHR.SwedenReserve_PT-BR8224811231_UHD.jpg",
+      "copyright": "Reserva Natural Knuthöjdsmossen, Suécia (© Sven Halling/DEEPOL/plainpicture)",
+      "copyrightlink": "/search?q=Su%c3%a9cia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -5874,6 +5880,8 @@
       "202504",
       "202505"
     ],
-    "active": []
+    "active": [
+      "202506"
+    ]
   }
 }

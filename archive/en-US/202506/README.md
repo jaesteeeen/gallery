@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-06)
+![](https://www.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg&w=1000)Latest: [Knuthöjdsmossen, a nature reserve in Sweden (© Sven Halling/DEEPOL/plainpicture)](https://www.bing.com/th?id=OHR.SwedenReserve_EN-US8234763267_UHD.jpg)

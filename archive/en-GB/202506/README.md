@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-06)
+![](https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-GB1338968705_UHD.jpg&w=1000)Latest: [Barrier reef off Grande Terre, New Caledonia, France (© Karsten Wrobel/Getty Images)](https://www.bing.com/th?id=OHR.GrandeTerreReef_EN-GB1338968705_UHD.jpg)

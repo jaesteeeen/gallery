@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-06)
+![](https://www.bing.com/th?id=OHR.GrandeTerreReef_DE-DE5368451110_UHD.jpg&w=1000)Latest: [Barriere-Riff vor Grande Terre, Neukaledonien, Frankreich (© Karsten Wrobel/Getty Images)](https://www.bing.com/th?id=OHR.GrandeTerreReef_DE-DE5368451110_UHD.jpg)

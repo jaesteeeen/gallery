@@ -5843,6 +5843,12 @@
       "url": "https://www.bing.com/th?id=OHR.SwedenReserve_DE-DE3687449792_UHD.jpg",
       "copyright": "Naturschutzgebiet Knuthöjdsmossen, Schweden (© Sven Halling/DEEPOL/plainpicture)",
       "copyrightlink": "/search?q=Knuthojdsmossen+Schweden&form=hpcapt&filters=HpDate%3a%2220250530_2200%22"
+    },
+    {
+      "enddate": "20250601",
+      "url": "https://www.bing.com/th?id=OHR.GrandeTerreReef_DE-DE5368451110_UHD.jpg",
+      "copyright": "Barriere-Riff vor Grande Terre, Neukaledonien, Frankreich (© Karsten Wrobel/Getty Images)",
+      "copyrightlink": "/search?q=Welttag+der+Riffe&form=hpcapt&filters=HpDate%3a%2220250531_2200%22"
     }
   ],
   "months": {
@@ -5880,6 +5886,8 @@
       "202504",
       "202505"
     ],
-    "active": []
+    "active": [
+      "202506"
+    ]
   }
 }

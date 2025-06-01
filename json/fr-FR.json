@@ -5843,6 +5843,12 @@
       "url": "https://www.bing.com/th?id=OHR.SwedenReserve_FR-FR4947459912_UHD.jpg",
       "copyright": "Réserve naturelle de Knuthöjdsmossen, Suède (© Sven Halling/DEEPOL/plainpicture)",
       "copyrightlink": "/search?q=h%c3%a4llefors+su%c3%a8de&form=hpcapt&filters=HpDate%3a%2220250530_2200%22"
+    },
+    {
+      "enddate": "20250601",
+      "url": "https://www.bing.com/th?id=OHR.GrandeTerreReef_FR-FR5223115069_UHD.jpg",
+      "copyright": "Récif barrière au large de la Grande Terre, Nouvelle-Calédonie (© Karsten Wrobel/Getty Images)",
+      "copyrightlink": "/search?q=r%c3%a9cifs+coralliens&form=hpcapt&filters=HpDate%3a%2220250531_2200%22"
     }
   ],
   "months": {
@@ -5880,6 +5886,8 @@
       "202504",
       "202505"
     ],
-    "active": []
+    "active": [
+      "202506"
+    ]
   }
 }

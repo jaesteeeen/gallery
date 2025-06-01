@@ -5843,6 +5843,12 @@
       "url": "https://www.bing.com/th?id=OHR.SwedenReserve_IT-IT1642458062_UHD.jpg",
       "copyright": "Riserva naturale di Knuthöjdsmossen, Svezia (© Sven Halling/DEEPOL/plainpicture)",
       "copyrightlink": "/search?q=Svezia&form=hpcapt"
+    },
+    {
+      "enddate": "20250601",
+      "url": "https://www.bing.com/th?id=OHR.GrandeTerreReef_IT-IT2395565523_UHD.jpg",
+      "copyright": "Barriera corallina al largo di Grande Terre, Nuova Caledonia, Francia (© Karsten Wrobel/Getty Images)",
+      "copyrightlink": "/search?q=Barriera+Corallina&form=hpcapt"
     }
   ],
   "months": {
@@ -5880,6 +5886,8 @@
       "202504",
       "202505"
     ],
-    "active": []
+    "active": [
+      "202506"
+    ]
   }
 }

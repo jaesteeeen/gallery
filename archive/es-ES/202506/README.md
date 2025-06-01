@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-06)
+![](https://www.bing.com/th?id=OHR.GrandeTerreReef_ES-ES6037163646_UHD.jpg&w=1000)Latest: [Barrera de coral frente a Grande Terre, Nueva Caledonia, Francia (© Karsten Wrobel/Getty Images)](https://www.bing.com/th?id=OHR.GrandeTerreReef_ES-ES6037163646_UHD.jpg)

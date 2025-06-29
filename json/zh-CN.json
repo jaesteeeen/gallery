@@ -7655,6 +7655,12 @@
       "url": "https://www.bing.com/th?id=OHR.BandaIsland_ZH-CN1145779264_UHD.jpg",
       "copyright": "Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)",
       "copyrightlink": "/search?q=%e7%8f%ad%e8%be%be%e7%be%a4%e5%b2%9b&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20250630",
+      "url": "https://www.bing.com/th?id=OHR.WolfeCrater_ZH-CN1652906326_UHD.jpg",
+      "copyright": "沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)",
+      "copyrightlink": "/search?q=%e5%b0%8f%e8%a1%8c%e6%98%9f%e6%97%a5&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -7699,10 +7705,9 @@
       "202502",
       "202503",
       "202504",
-      "202505"
-    ],
-    "active": [
+      "202505",
       "202506"
-    ]
+    ],
+    "active": []
   }
 }

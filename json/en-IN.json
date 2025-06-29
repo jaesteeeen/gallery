@@ -6017,6 +6017,12 @@
       "url": "https://www.bing.com/th?id=OHR.BandaIsland_EN-IN2302848153_UHD.jpg",
       "copyright": "Blue lagoon of Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Banda+Islands&form=hpcapt&filters=HpDate%3a%2220250628_1830%22"
+    },
+    {
+      "enddate": "20250630",
+      "url": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-IN2493314424_UHD.jpg",
+      "copyright": "Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)",
+      "copyrightlink": "/search?q=Asteroid+Day&form=hpcapt&filters=HpDate%3a%2220250629_1830%22"
     }
   ],
   "months": {
@@ -6052,10 +6058,9 @@
       "202502",
       "202503",
       "202504",
-      "202505"
-    ],
-    "active": [
+      "202505",
       "202506"
-    ]
+    ],
+    "active": []
   }
 }

@@ -6011,6 +6011,12 @@
       "url": "https://www.bing.com/th?id=OHR.PrideParade_EN-CA1755780382_UHD.jpg",
       "copyright": "Rainbow flags at New York Pride, United States (© Alan Schein/Getty Images)",
       "copyrightlink": "/search?q=Stonewall+Uprising&form=hpcapt&filters=HpDate%3a%2220250628_0400%22"
+    },
+    {
+      "enddate": "20250630",
+      "url": "https://www.bing.com/th?id=OHR.BandaIsland_EN-CA1920506603_UHD.jpg",
+      "copyright": "Blue lagoon of Pulau Ay, Banda Islands, Indonesia (© fabio lamanna/Alamy Stock Photo)",
+      "copyrightlink": "/search?q=Banda+Islands&form=hpcapt&filters=HpDate%3a%2220250629_0400%22"
     }
   ],
   "months": {
@@ -6046,10 +6052,9 @@
       "202502",
       "202503",
       "202504",
-      "202505"
-    ],
-    "active": [
+      "202505",
       "202506"
-    ]
+    ],
+    "active": []
   }
 }

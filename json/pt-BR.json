@@ -6011,6 +6011,12 @@
       "url": "https://www.bing.com/th?id=OHR.PrideParade_PT-BR2044753051_UHD.jpg",
       "copyright": "Parada do Orgulho LGBTQIA+ em Nova York, EUA (© Alan Schein/Getty Images)",
       "copyrightlink": "/search?q=Rebeli%c3%a3o+de+Stonewall&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250630",
+      "url": "https://www.bing.com/th?id=OHR.BandaIsland_PT-BR1841651609_UHD.jpg",
+      "copyright": "Pulau Ay, Ilhas Banda, Indonésia (© fabio lamanna/Alamy)",
+      "copyrightlink": "/search?q=Ilhas+Banda&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6046,10 +6052,9 @@
       "202502",
       "202503",
       "202504",
-      "202505"
-    ],
-    "active": [
+      "202505",
       "202506"
-    ]
+    ],
+    "active": []
   }
 }

@@ -6017,6 +6017,12 @@
       "url": "https://www.bing.com/th?id=OHR.BandaIsland_PT-BR1841651609_UHD.jpg",
       "copyright": "Pulau Ay, Ilhas Banda, Indonésia (© fabio lamanna/Alamy)",
       "copyrightlink": "/search?q=Ilhas+Banda&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250701",
+      "url": "https://www.bing.com/th?id=OHR.WolfeCrater_PT-BR9729187204_UHD.jpg",
+      "copyright": "Cratera Wolfe Creek, Austrália (© Abstract Aerial Art/Getty Images)",
+      "copyrightlink": "/search?q=Dia+Internacional+do+Asteroide&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6055,6 +6061,8 @@
       "202505",
       "202506"
     ],
-    "active": []
+    "active": [
+      "202507"
+    ]
   }
 }

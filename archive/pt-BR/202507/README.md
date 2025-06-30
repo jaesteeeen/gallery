@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-07)
+![](https://www.bing.com/th?id=OHR.WolfeCrater_PT-BR9729187204_UHD.jpg&w=1000)Latest: [Cratera Wolfe Creek, Austrália (© Abstract Aerial Art/Getty Images)](https://www.bing.com/th?id=OHR.WolfeCrater_PT-BR9729187204_UHD.jpg)

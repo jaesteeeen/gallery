@@ -6023,6 +6023,12 @@
       "url": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-IN2493314424_UHD.jpg",
       "copyright": "Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)",
       "copyrightlink": "/search?q=Asteroid+Day&form=hpcapt&filters=HpDate%3a%2220250629_1830%22"
+    },
+    {
+      "enddate": "20250701",
+      "url": "https://www.bing.com/th?id=OHR.KeralaHouseboats_EN-IN3537088049_UHD.jpg",
+      "copyright": "Houseboats on Vembanad lake, Kerala (© artherng/Getty Images)",
+      "copyrightlink": "/search?q=van+mahotsav&form=hpcapt&filters=HpDate%3a%2220250630_1830%22"
     }
   ],
   "months": {
@@ -6061,6 +6067,8 @@
       "202505",
       "202506"
     ],
-    "active": []
+    "active": [
+      "202507"
+    ]
   }
 }

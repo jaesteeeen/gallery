@@ -6023,6 +6023,12 @@
       "url": "https://www.bing.com/th?id=OHR.WolfeCrater_JA-JP6958421820_UHD.jpg",
       "copyright": "ウルフクリーク・クレーター, オーストラリア (© Abstract Aerial Art/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%a6%e3%83%ab%e3%83%95%e3%82%af%e3%83%aa%e3%83%bc%e3%82%af%e3%83%bb%e3%82%af%e3%83%ac%e3%83%bc%e3%82%bf%e3%83%bc%2c+%e3%82%aa%e3%83%bc%e3%82%b9%e3%83%88%e3%83%a9%e3%83%aa%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220250629_1500%22"
+    },
+    {
+      "enddate": "20250701",
+      "url": "https://www.bing.com/th?id=OHR.CanadaDayFogo_JA-JP7164591765_UHD.jpg",
+      "copyright": "赤と白の漁師小屋, カナダ (© FedevPhoto/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%86%e3%82%a3%e3%83%ab%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0%e6%bc%81%e6%9d%91%2c+%e3%82%ab%e3%83%8a%e3%83%80&form=hpcapt&filters=HpDate%3a%2220250630_1500%22"
     }
   ],
   "months": {
@@ -6061,6 +6067,8 @@
       "202505",
       "202506"
     ],
-    "active": []
+    "active": [
+      "202507"
+    ]
   }
 }

@@ -6017,6 +6017,12 @@
       "url": "https://www.bing.com/th?id=OHR.BandaIsland_IT-IT2071858356_UHD.jpg",
       "copyright": "Laguna blu di Pulau Ay, Isole Banda, Indonesia (© fabio lamanna/Alamy Stock Photo)",
       "copyrightlink": "/search?q=Isole+Banda+Indonesia&form=hpcapt"
+    },
+    {
+      "enddate": "20250630",
+      "url": "https://www.bing.com/th?id=OHR.WolfeCrater_IT-IT2121882402_UHD.jpg",
+      "copyright": "Cratere di Wolfe Creek, Australia (© Abstract Aerial Art/Getty Images)",
+      "copyrightlink": "/search?q=Giornata+mondiale+degli+asteroidi&form=hpcapt"
     }
   ],
   "months": {
@@ -6052,10 +6058,9 @@
       "202502",
       "202503",
       "202504",
-      "202505"
-    ],
-    "active": [
+      "202505",
       "202506"
-    ]
+    ],
+    "active": []
   }
 }

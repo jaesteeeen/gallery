@@ -6017,6 +6017,12 @@
       "url": "https://www.bing.com/th?id=OHR.BandaIsland_DE-DE7986522169_UHD.jpg",
       "copyright": "Blaue Lagune, Pulau Ai, Banda-Inseln, Indonesien (© fabio lamanna/Alamy)",
       "copyrightlink": "/search?q=Banda-Inseln+Indonesien&form=hpcapt&filters=HpDate%3a%2220250628_2200%22"
+    },
+    {
+      "enddate": "20250630",
+      "url": "https://www.bing.com/th?id=OHR.WolfeCrater_DE-DE8115529012_UHD.jpg",
+      "copyright": "Wolfe-Creek-Krater, Australien (© Abstract Aerial Art/Getty Images)",
+      "copyrightlink": "/search?q=Internationaler+Asteroidentag&form=hpcapt&filters=HpDate%3a%2220250629_2200%22"
     }
   ],
   "months": {
@@ -6052,10 +6058,9 @@
       "202502",
       "202503",
       "202504",
-      "202505"
-    ],
-    "active": [
+      "202505",
       "202506"
-    ]
+    ],
+    "active": []
   }
 }

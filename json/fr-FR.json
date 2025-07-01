@@ -6023,6 +6023,12 @@
       "url": "https://www.bing.com/th?id=OHR.WolfeCrater_FR-FR7427852782_UHD.jpg",
       "copyright": "Cratère de Wolfe Creek, Australie (© Abstract Aerial Art/Getty Images)",
       "copyrightlink": "/search?q=Journ%c3%a9e+internationale+des+ast%c3%a9ro%c3%afdes&form=hpcapt&filters=HpDate%3a%2220250629_2200%22"
+    },
+    {
+      "enddate": "20250701",
+      "url": "https://www.bing.com/th?id=OHR.ButterflyPurpleFlower_FR-FR7407948243_UHD.jpg",
+      "copyright": "Papillon et abeille butinant délicatement une fleur aster (© Viviane Caballero/500px Viviane Caballero/500px/Getty Images)",
+      "copyrightlink": "/search?q=papillons&form=hpcapt&filters=HpDate%3a%2220250630_2200%22"
     }
   ],
   "months": {
@@ -6061,6 +6067,8 @@
       "202505",
       "202506"
     ],
-    "active": []
+    "active": [
+      "202507"
+    ]
   }
 }

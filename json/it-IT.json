@@ -6023,6 +6023,12 @@
       "url": "https://www.bing.com/th?id=OHR.WolfeCrater_IT-IT2121882402_UHD.jpg",
       "copyright": "Cratere di Wolfe Creek, Australia (© Abstract Aerial Art/Getty Images)",
       "copyrightlink": "/search?q=Giornata+mondiale+degli+asteroidi&form=hpcapt"
+    },
+    {
+      "enddate": "20250701",
+      "url": "https://www.bing.com/th?id=OHR.CanadaDayFogo_IT-IT2208843144_UHD.jpg",
+      "copyright": "Villaggio di pescatori di Tilting, Isola di Fogo, Terranova e Labrador, Canada (© FedevPhoto/Getty Images)",
+      "copyrightlink": "/search?q=Festa+del+Canada&form=hpcapt"
     }
   ],
   "months": {
@@ -6061,6 +6067,8 @@
       "202505",
       "202506"
     ],
-    "active": []
+    "active": [
+      "202507"
+    ]
   }
 }

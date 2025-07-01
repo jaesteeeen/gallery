@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-07)
+![](https://www.bing.com/th?id=OHR.CanadaDayFogo_ES-ES1121865641_UHD.jpg&w=1000)Latest: [Pueblo pesquero de Tilting, isla de Fogo, Terranova y Labrador, Canadá (© FedevPhoto/Getty Images)](https://www.bing.com/th?id=OHR.CanadaDayFogo_ES-ES1121865641_UHD.jpg)

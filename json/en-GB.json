@@ -6005,6 +6005,12 @@
       "url": "https://www.bing.com/th?id=OHR.WolfeCrater_EN-GB1775115242_UHD.jpg",
       "copyright": "Wolfe Creek Crater, Australia (© Abstract Aerial Art/Getty Images)",
       "copyrightlink": "/search?q=Asteroid+Day&form=hpcapt&filters=HpDate%3a%2220250629_2300%22"
+    },
+    {
+      "enddate": "20250701",
+      "url": "https://www.bing.com/th?id=OHR.CanadaDayFogo_EN-GB1957442949_UHD.jpg",
+      "copyright": "Fishing village of Tilting, Fogo Island, Newfoundland and Labrador, Canada (© FedevPhoto/Getty Images)",
+      "copyrightlink": "/search?q=Canada+Day&form=hpcapt&filters=HpDate%3a%2220250630_2300%22"
     }
   ],
   "months": {
@@ -6043,6 +6049,8 @@
       "202505",
       "202506"
     ],
-    "active": []
+    "active": [
+      "202507"
+    ]
   }
 }

@@ -6203,6 +6203,12 @@
       "url": "https://www.bing.com/th?id=OHR.AgraFortInside_EN-IN8393128269_UHD.jpg",
       "copyright": "Inside Agra Fort, Agra, Uttar Pradesh (© Luke Mackenzie/Getty Images)",
       "copyrightlink": "/search?q=Agra+Fort&form=hpcapt&filters=HpDate%3a%2220250729_1830%22"
+    },
+    {
+      "enddate": "20250731",
+      "url": "https://www.bing.com/th?id=OHR.NaPaliKauai_EN-IN8581936308_UHD.jpg",
+      "copyright": "Kalalau Beach on the Nā Pali Coast, Kauai, Hawaii, United States (© Russ Bishop/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=Kalalau+Beach&form=hpcapt&filters=HpDate%3a%2220250730_1830%22"
     }
   ],
   "months": {
@@ -6239,10 +6245,9 @@
       "202503",
       "202504",
       "202505",
-      "202506"
-    ],
-    "active": [
+      "202506",
       "202507"
-    ]
+    ],
+    "active": []
   }
 }

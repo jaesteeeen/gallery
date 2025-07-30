@@ -6197,6 +6197,12 @@
       "url": "https://www.bing.com/th?id=OHR.TigerDay_PT-BR9994663817_UHD.jpg",
       "copyright": "Tigre-de-bengala fêmea, Parque Nacional de Kanha, Índia (© Axel Gomille/Nature Picture Library)",
       "copyrightlink": "/search?q=Dia+Internacional+do+Tigre&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250731",
+      "url": "https://www.bing.com/th?id=OHR.SaypeDubai_PT-BR3110184128_UHD.jpg",
+      "copyright": "Instalação de arte \"Beyond Walls\", de Saype, na Expo 2020 Dubai, Emirados Árabes Unidos (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)",
+      "copyrightlink": "/search?q=Dia+Internacional+da+Amizade&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6233,10 +6239,9 @@
       "202503",
       "202504",
       "202505",
-      "202506"
-    ],
-    "active": [
+      "202506",
       "202507"
-    ]
+    ],
+    "active": []
   }
 }

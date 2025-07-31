@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-08)
+![](https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_UHD.jpg&w=1000)Latest: [エディンバラの旧市街, スコットランド (© MEDITERRANEAN/Getty Images)](https://www.bing.com/th?id=OHR.EdinburghFringe_JA-JP2026368495_UHD.jpg)

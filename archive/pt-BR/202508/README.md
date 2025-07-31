@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-08)
+![](https://www.bing.com/th?id=OHR.NaPaliKauai_PT-BR1647941765_UHD.jpg&w=1000)Latest: [Praia de Kalalau na Costa Nā Pali, Kauai, Havaí, EUA (© Russ Bishop/DanitaDelimont.com)](https://www.bing.com/th?id=OHR.NaPaliKauai_PT-BR1647941765_UHD.jpg)

@@ -6203,6 +6203,12 @@
       "url": "https://www.bing.com/th?id=OHR.SaypeDubai_PT-BR3110184128_UHD.jpg",
       "copyright": "Instalação de arte \"Beyond Walls\", de Saype, na Expo 2020 Dubai, Emirados Árabes Unidos (© VALENTIN FLAURAUD/EPA-EFE/Shutterstock)",
       "copyrightlink": "/search?q=Dia+Internacional+da+Amizade&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250801",
+      "url": "https://www.bing.com/th?id=OHR.NaPaliKauai_PT-BR1647941765_UHD.jpg",
+      "copyright": "Praia de Kalalau na Costa Nā Pali, Kauai, Havaí, EUA (© Russ Bishop/DanitaDelimont.com)",
+      "copyrightlink": "/search?q=Kauai+no+Hava%c3%ad&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6242,6 +6248,8 @@
       "202506",
       "202507"
     ],
-    "active": []
+    "active": [
+      "202508"
+    ]
   }
 }

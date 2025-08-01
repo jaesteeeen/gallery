@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-08)
+![](https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_UHD.jpg&w=1000)Latest: [Costumes folkloriques bretons, Lorient, Finistère (© guy-ozenne/Getty images)](https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_UHD.jpg)

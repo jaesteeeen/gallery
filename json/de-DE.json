@@ -6209,6 +6209,12 @@
       "url": "https://www.bing.com/th?id=OHR.NaPaliKauai_DE-DE7014828359_UHD.jpg",
       "copyright": "Kalalau Beach an der Nā Pali Küste, Kauai, Hawaii, USA (© Russ Bishop/DanitaDelimont.com)",
       "copyrightlink": "/search?q=Der+Kalalau+Beach+Hawaii&form=hpcapt&filters=HpDate%3a%2220250730_2200%22"
+    },
+    {
+      "enddate": "20250801",
+      "url": "https://www.bing.com/th?id=OHR.EdinburghFringe_DE-DE9968170483_UHD.jpg",
+      "copyright": "Royal Mile, Edinburgh, Schottland (© MEDITERRANEAN/Getty Images)",
+      "copyrightlink": "/search?q=Das+Edinburgh+Festival+Fringe&form=hpcapt&filters=HpDate%3a%2220250731_2200%22"
     }
   ],
   "months": {
@@ -6248,6 +6254,8 @@
       "202506",
       "202507"
     ],
-    "active": []
+    "active": [
+      "202508"
+    ]
   }
 }

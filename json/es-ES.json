@@ -6209,6 +6209,12 @@
       "url": "https://www.bing.com/th?id=OHR.NaPaliKauai_ES-ES3845188228_UHD.jpg",
       "copyright": "Playa de Kalalau en la costa de Nā Pali, Kauai, Hawái, EE. UU. (© Russ Bishop/DanitaDelimont.com)",
       "copyrightlink": "/search?q=Valle+de+Kalalau&form=hpcapt&filters=HpDate%3a%2220250730_2200%22"
+    },
+    {
+      "enddate": "20250801",
+      "url": "https://www.bing.com/th?id=OHR.EdinburghFringe_ES-ES3946944974_UHD.jpg",
+      "copyright": "Royal Mile, Edimburgo, Escocia (© MEDITERRANEAN/Getty Images)",
+      "copyrightlink": "/search?q=Festival+Fringe+de+Edimburgo&form=hpcapt&filters=HpDate%3a%2220250731_2200%22"
     }
   ],
   "months": {
@@ -6248,6 +6254,8 @@
       "202506",
       "202507"
     ],
-    "active": []
+    "active": [
+      "202508"
+    ]
   }
 }

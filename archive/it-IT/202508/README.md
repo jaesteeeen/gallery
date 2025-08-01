@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-08)
+![](https://www.bing.com/th?id=OHR.EdinburghFringe_IT-IT8835204472_UHD.jpg&w=1000)Latest: [Royal Mile, Edimburgo, Scozia (© MEDITERRANEAN/Getty Images)](https://www.bing.com/th?id=OHR.EdinburghFringe_IT-IT8835204472_UHD.jpg)

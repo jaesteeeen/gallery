@@ -6209,6 +6209,12 @@
       "url": "https://www.bing.com/th?id=OHR.NaPaliKauai_IT-IT1557569434_UHD.jpg",
       "copyright": "Spiaggia di Kalalau sulla costa di Nā Pali, Kauai, Hawaii, USA (© Russ Bishop/DanitaDelimont.com)",
       "copyrightlink": "/search?q=Kalalau+Beach+USA&form=hpcapt"
+    },
+    {
+      "enddate": "20250801",
+      "url": "https://www.bing.com/th?id=OHR.EdinburghFringe_IT-IT8835204472_UHD.jpg",
+      "copyright": "Royal Mile, Edimburgo, Scozia (© MEDITERRANEAN/Getty Images)",
+      "copyrightlink": "/search?q=Edimburgo&form=hpcapt"
     }
   ],
   "months": {
@@ -6248,6 +6254,8 @@
       "202506",
       "202507"
     ],
-    "active": []
+    "active": [
+      "202508"
+    ]
   }
 }

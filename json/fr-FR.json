@@ -6209,6 +6209,12 @@
       "url": "https://www.bing.com/th?id=OHR.NaPaliKauai_FR-FR8653157618_UHD.jpg",
       "copyright": "Plage de Kalalau sur la côte Nā Pali, Kauai, Hawaï, États-Unis (© Russ Bishop/DanitaDelimont.com)",
       "copyrightlink": "/search?q=Hawa%c3%af&form=hpcapt&filters=HpDate%3a%2220250730_2200%22"
+    },
+    {
+      "enddate": "20250801",
+      "url": "https://www.bing.com/th?id=OHR.LorientCeltic_FR-FR1271228559_UHD.jpg",
+      "copyright": "Costumes folkloriques bretons, Lorient, Finistère (© guy-ozenne/Getty images)",
+      "copyrightlink": "/search?q=+Festival+Celtic+de+Lorient&form=hpcapt&filters=HpDate%3a%2220250731_2200%22"
     }
   ],
   "months": {
@@ -6248,6 +6254,8 @@
       "202506",
       "202507"
     ],
-    "active": []
+    "active": [
+      "202508"
+    ]
   }
 }

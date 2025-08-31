@@ -6389,6 +6389,12 @@
       "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_PT-BR7655648447_UHD.jpg",
       "copyright": "Tubarão-baleia na costa do Atol Alifu Dhaalu, Maldivas (© Bachir  Moukarzel/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=Dia+Internacional+do+Tubar%c3%a3o-Baleia&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250901",
+      "url": "https://www.bing.com/th?id=OHR.ScottsBluff_PT-BR7461504826_UHD.jpg",
+      "copyright": "Monumento Nacional Scotts Bluff em Gering, Nebraska, EUA (© Hawk Buckman/Getty Images)",
+      "copyrightlink": "/search?q=Monumento+Nacional+Scotts+Bluff+em+Gering%2c+Nebraska%2c+EUA&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6429,6 +6435,8 @@
       "202507",
       "202508"
     ],
-    "active": []
+    "active": [
+      "202509"
+    ]
   }
 }

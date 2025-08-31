@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-09)
+![](https://www.bing.com/th?id=OHR.ScottsBluff_EN-CA3033262054_UHD.jpg&w=1000)Latest: [Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)](https://www.bing.com/th?id=OHR.ScottsBluff_EN-CA3033262054_UHD.jpg)

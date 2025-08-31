@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-09)
+![](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg&w=1000)Latest: [凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)](https://www.bing.com/th?id=OHR.FieldKaiserstuhl_ZH-CN0467488834_UHD.jpg)

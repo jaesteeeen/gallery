@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-09)
+![](https://www.bing.com/th?id=OHR.PerseidsPine_EN-IN9650707879_UHD.jpg&w=1000)Latest: [An ancient bristlecone pine, Great Basin National Park, Nevada, United States (© Wirestock Creators/Shutterstock)](https://www.bing.com/th?id=OHR.PerseidsPine_EN-IN9650707879_UHD.jpg)

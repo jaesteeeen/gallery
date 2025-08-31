@@ -6395,6 +6395,12 @@
       "url": "https://www.bing.com/th?id=OHR.ScottsBluff_JA-JP5785584590_UHD.jpg",
       "copyright": "スコッツブラフ国定記念物, 米国 ネブラスカ州 (© Hawk Buckman/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b9%e3%82%b3%e3%83%83%e3%83%84%e3%83%96%e3%83%a9%e3%83%95%e5%9b%bd%e5%ae%9a%e8%a8%98%e5%bf%b5%e7%89%a9&form=hpcapt&filters=HpDate%3a%2220250830_1500%22"
+    },
+    {
+      "enddate": "20250901",
+      "url": "https://www.bing.com/th?id=OHR.SaintBarbaras_JA-JP5804029970_UHD.jpg",
+      "copyright": "聖バルボラ教会, チェコ共和国 (© Castka/Getty Images)",
+      "copyrightlink": "/search?q=%e8%81%96%e3%83%90%e3%83%ab%e3%83%9c%e3%83%a9%e6%95%99%e4%bc%9a&form=hpcapt&filters=HpDate%3a%2220250831_1500%22"
     }
   ],
   "months": {
@@ -6435,6 +6441,8 @@
       "202507",
       "202508"
     ],
-    "active": []
+    "active": [
+      "202509"
+    ]
   }
 }

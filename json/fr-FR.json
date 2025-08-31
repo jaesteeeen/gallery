@@ -6389,6 +6389,12 @@
       "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_FR-FR6621180531_UHD.jpg",
       "copyright": "Requin-baleine au large de l’atoll Alifu Dhaalu, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=Requin-baleine&form=hpcapt&filters=HpDate%3a%2220250829_2200%22"
+    },
+    {
+      "enddate": "20250831",
+      "url": "https://www.bing.com/th?id=OHR.ScottsBluff_FR-FR7081718097_UHD.jpg",
+      "copyright": "Monument national de Scotts Bluff, Gering, Nebraska, États-Unis (© Hawk Buckman/Getty Images)",
+      "copyrightlink": "/search?q=Monument+national+de+Scotts+Bluff%2c+Nebraska&form=hpcapt&filters=HpDate%3a%2220250830_2200%22"
     }
   ],
   "months": {
@@ -6426,10 +6432,9 @@
       "202504",
       "202505",
       "202506",
-      "202507"
-    ],
-    "active": [
+      "202507",
       "202508"
-    ]
+    ],
+    "active": []
   }
 }

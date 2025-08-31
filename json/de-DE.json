@@ -6389,6 +6389,12 @@
       "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_DE-DE5305266157_UHD.jpg",
       "copyright": "Walhai vor der Küste des Alifu Dhaalu-Atolls, Malediven (© Bachir Moukarzel/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate%3a%2220250829_2200%22"
+    },
+    {
+      "enddate": "20250831",
+      "url": "https://www.bing.com/th?id=OHR.ScottsBluff_DE-DE5756991570_UHD.jpg",
+      "copyright": "Scotts Bluff National Monument in Gering, Nebraska, USA (© Hawk Buckman/Getty Images)",
+      "copyrightlink": "/search?q=Nebraska&form=hpcapt&filters=HpDate%3a%2220250830_2200%22"
     }
   ],
   "months": {
@@ -6426,10 +6432,9 @@
       "202504",
       "202505",
       "202506",
-      "202507"
-    ],
-    "active": [
+      "202507",
       "202508"
-    ]
+    ],
+    "active": []
   }
 }

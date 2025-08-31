@@ -6389,6 +6389,12 @@
       "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_ES-ES8989429655_UHD.jpg",
       "copyright": "Tiburón ballena frente a la costa del Atolón Alif Dhaal, Maldivas (© Bachir Moukarzel/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=Tibur%c3%b3n+Ballena&form=hpcapt&filters=HpDate%3a%2220250829_2200%22"
+    },
+    {
+      "enddate": "20250831",
+      "url": "https://www.bing.com/th?id=OHR.Palafrugell_ES-ES9170936933_UHD.jpg",
+      "copyright": "Vista aérea de Port Bo de Calella en la costa de Palafrugell, Gerona, Cataluña, España (© AlexKazachok2/iStock/Getty Images Plus)",
+      "copyrightlink": "/search?q=portb%c3%b2&form=hpcapt&filters=HpDate%3a%2220250830_2200%22"
     }
   ],
   "months": {
@@ -6426,10 +6432,9 @@
       "202504",
       "202505",
       "202506",
-      "202507"
-    ],
-    "active": [
+      "202507",
       "202508"
-    ]
+    ],
+    "active": []
   }
 }

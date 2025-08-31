@@ -6371,6 +6371,12 @@
       "url": "https://www.bing.com/th?id=OHR.MaldivesWhaleShark_EN-GB0087739452_UHD.jpg",
       "copyright": "Whale shark off the coast of Alifu Dhaalu Atoll, Maldives (© Bachir Moukarzel/Amazing Aerial Agency)",
       "copyrightlink": "/search?q=International+Whale+Shark+Day&form=hpcapt&filters=HpDate%3a%2220250829_2300%22"
+    },
+    {
+      "enddate": "20250831",
+      "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-GB0264012392_UHD.jpg",
+      "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
+      "copyrightlink": "/search?q=Scotts+Bluff+National+Monument&form=hpcapt&filters=HpDate%3a%2220250830_2300%22"
     }
   ],
   "months": {
@@ -6408,10 +6414,9 @@
       "202504",
       "202505",
       "202506",
-      "202507"
-    ],
-    "active": [
+      "202507",
       "202508"
-    ]
+    ],
+    "active": []
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-09)
+![](https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg&w=1000)Latest: [Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)](https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg)

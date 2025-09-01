@@ -6377,6 +6377,12 @@
       "url": "https://www.bing.com/th?id=OHR.ScottsBluff_EN-GB0264012392_UHD.jpg",
       "copyright": "Scotts Bluff National Monument in Gering, Nebraska, United States (© Hawk Buckman/Getty Images)",
       "copyrightlink": "/search?q=Scotts+Bluff+National+Monument&form=hpcapt&filters=HpDate%3a%2220250830_2300%22"
+    },
+    {
+      "enddate": "20250901",
+      "url": "https://www.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg",
+      "copyright": "Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)",
+      "copyrightlink": "/search?q=Zumaia&form=hpcapt&filters=HpDate%3a%2220250831_2300%22"
     }
   ],
   "months": {
@@ -6417,6 +6423,8 @@
       "202507",
       "202508"
     ],
-    "active": []
+    "active": [
+      "202509"
+    ]
   }
 }

@@ -6395,6 +6395,12 @@
       "url": "https://www.bing.com/th?id=OHR.ScottsBluff_IT-IT0073144913_UHD.jpg",
       "copyright": "Monumento Nazionale di Scotts Bluff a Gering, Nebraska, USA (© Hawk Buckman/Getty Images)",
       "copyrightlink": "/search?q=Gering+citt%c3%a0+in+Nebraska&form=hpcapt"
+    },
+    {
+      "enddate": "20250901",
+      "url": "https://www.bing.com/th?id=OHR.TrulliHouses_IT-IT0120917493_UHD.jpg",
+      "copyright": "Trulli ad Alberobello, Bari, Puglia (© Feng Wei Photography/Getty Images)",
+      "copyrightlink": "/search?q=Alberobello&form=hpcapt"
     }
   ],
   "months": {
@@ -6435,6 +6441,8 @@
       "202507",
       "202508"
     ],
-    "active": []
+    "active": [
+      "202509"
+    ]
   }
 }

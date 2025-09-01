@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-09)
+![](https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790_UHD.jpg&w=1000)Latest: [Trulli in Alberobello, Apulien, Italien (© Feng Wei Photography/Getty Images)](https://www.bing.com/th?id=OHR.TrulliHouses_DE-DE2753356790_UHD.jpg)

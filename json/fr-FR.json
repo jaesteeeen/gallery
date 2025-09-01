@@ -6395,6 +6395,12 @@
       "url": "https://www.bing.com/th?id=OHR.ScottsBluff_FR-FR7081718097_UHD.jpg",
       "copyright": "Monument national de Scotts Bluff, Gering, Nebraska, États-Unis (© Hawk Buckman/Getty Images)",
       "copyrightlink": "/search?q=Monument+national+de+Scotts+Bluff%2c+Nebraska&form=hpcapt&filters=HpDate%3a%2220250830_2200%22"
+    },
+    {
+      "enddate": "20250901",
+      "url": "https://www.bing.com/th?id=OHR.MinnesotaWaters_FR-FR7608099826_UHD.jpg",
+      "copyright": "Zone sauvage des Boundary Waters Canoe Area, Minnesota, États-Unis (© s.tomas/Shutterstock)",
+      "copyrightlink": "/search?q=Boundary+waters+canoe+area&form=hpcapt&filters=HpDate%3a%2220250831_2200%22"
     }
   ],
   "months": {
@@ -6435,6 +6441,8 @@
       "202507",
       "202508"
     ],
-    "active": []
+    "active": [
+      "202509"
+    ]
   }
 }

@@ -6563,6 +6563,12 @@
       "url": "https://www.bing.com/th?id=OHR.PienzaItaly_PT-BR0767999929_UHD.jpg",
       "copyright": "Cidade de Pienza, na Toscana, Itália (© zpagistock/Getty Images)",
       "copyrightlink": "/search?q=Pienza+na+Toscana&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20250930",
+      "url": "https://www.bing.com/th?id=OHR.HoutenHouses_PT-BR1748801440_UHD.jpg",
+      "copyright": "Casas Arco-Íris na cidade de Houten, Países Baixos (© George Pachantouris/Getty Images)",
+      "copyrightlink": "/search?q=houten+pa%c3%adses+baixos&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6601,10 +6607,9 @@
       "202505",
       "202506",
       "202507",
-      "202508"
-    ],
-    "active": [
+      "202508",
       "202509"
-    ]
+    ],
+    "active": []
   }
 }

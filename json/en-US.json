@@ -8207,6 +8207,12 @@
       "url": "https://www.bing.com/th?id=OHR.PienzaItaly_EN-US8831227247_UHD.jpg",
       "copyright": "Town of Pienza in Tuscany, Italy (© zpagistock/Getty Images)",
       "copyrightlink": "/search?q=Pienza&form=hpcapt&filters=HpDate%3a%2220250928_0700%22"
+    },
+    {
+      "enddate": "20250930",
+      "url": "https://www.bing.com/th?id=OHR.HoutenHouses_EN-US8966537355_UHD.jpg",
+      "copyright": "The Rainbow Houses of Houten, Netherlands (© George Pachantouris/Getty Images)",
+      "copyrightlink": "/search?q=Houten+Netherlands&form=hpcapt&filters=HpDate%3a%2220250929_0700%22"
     }
   ],
   "months": {
@@ -8254,10 +8260,9 @@
       "202505",
       "202506",
       "202507",
-      "202508"
-    ],
-    "active": [
+      "202508",
       "202509"
-    ]
+    ],
+    "active": []
   }
 }

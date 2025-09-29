@@ -6569,6 +6569,12 @@
       "url": "https://www.bing.com/th?id=OHR.ManekiNeko_JA-JP6063646197_UHD.jpg",
       "copyright": "豪徳寺の招き猫, 東京都 (© Maria S./Alamy Stock Photo)",
       "copyrightlink": "/search?q=%e8%b1%aa%e5%be%b3%e5%af%ba%e3%81%ae%e6%8b%9b%e3%81%8d%e7%8c%ab&form=hpcapt&filters=HpDate%3a%2220250928_1500%22"
+    },
+    {
+      "enddate": "20250930",
+      "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_JA-JP6385601679_UHD.jpg",
+      "copyright": "コアラ, オーストラリア (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%b3%e3%82%a2%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220250929_1500%22"
     }
   ],
   "months": {
@@ -6607,10 +6613,9 @@
       "202505",
       "202506",
       "202507",
-      "202508"
-    ],
-    "active": [
+      "202508",
       "202509"
-    ]
+    ],
+    "active": []
   }
 }

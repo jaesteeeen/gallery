@@ -6569,6 +6569,12 @@
       "url": "https://www.bing.com/th?id=OHR.HoutenHouses_PT-BR1748801440_UHD.jpg",
       "copyright": "Casas Arco-Íris na cidade de Houten, Países Baixos (© George Pachantouris/Getty Images)",
       "copyrightlink": "/search?q=houten+pa%c3%adses+baixos&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20251001",
+      "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_PT-BR2049021569_UHD.jpg",
+      "copyright": "Coala em uma árvore de eucalipto, Parque Nacional Great Otway, Austrália (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+      "copyrightlink": "/search?q=Coala&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6610,6 +6616,8 @@
       "202508",
       "202509"
     ],
-    "active": []
+    "active": [
+      "202510"
+    ]
   }
 }

@@ -6569,6 +6569,12 @@
       "url": "https://www.bing.com/th?id=OHR.HoutenHouses_DE-DE0958725859_UHD.jpg",
       "copyright": "Regenbogenhäuser in der Stadt Houten, Niederlande (© George Pachantouris/Getty Images)",
       "copyrightlink": "/search?q=Houten+Niederlande&form=hpcapt&filters=HpDate%3a%2220250928_2200%22"
+    },
+    {
+      "enddate": "20250930",
+      "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_UHD.jpg",
+      "copyright": "Koala in einem Eukalyptusbaum, Great-Otway-Nationalpark, Australien (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+      "copyrightlink": "/search?q=Koala+Tier&form=hpcapt&filters=HpDate%3a%2220250929_2200%22"
     }
   ],
   "months": {
@@ -6607,10 +6613,9 @@
       "202505",
       "202506",
       "202507",
-      "202508"
-    ],
-    "active": [
+      "202508",
       "202509"
-    ]
+    ],
+    "active": []
   }
 }

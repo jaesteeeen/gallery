@@ -6569,6 +6569,12 @@
       "url": "https://www.bing.com/th?id=OHR.HoutenHouses_ES-ES0772668707_UHD.jpg",
       "copyright": "Casas arcoíris en la ciudad de Houten, Países Bajos (© George Pachantouris/Getty Images)",
       "copyrightlink": "/search?q=Houten+Pa%c3%adses+Bajos&form=hpcapt&filters=HpDate%3a%2220250928_2200%22"
+    },
+    {
+      "enddate": "20250930",
+      "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_ES-ES0797719606_UHD.jpg",
+      "copyright": "Koala en un eucalipto, Parque Nacional Great Otway, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+      "copyrightlink": "/search?q=koala&form=hpcapt&filters=HpDate%3a%2220250929_2200%22"
     }
   ],
   "months": {
@@ -6607,10 +6613,9 @@
       "202505",
       "202506",
       "202507",
-      "202508"
-    ],
-    "active": [
+      "202508",
       "202509"
-    ]
+    ],
+    "active": []
   }
 }

@@ -6551,6 +6551,12 @@
       "url": "https://www.bing.com/th?id=OHR.HoutenHouses_EN-GB0083761278_UHD.jpg",
       "copyright": "Rainbow houses in the town of Houten, Netherlands (© George Pachantouris/Getty Images)",
       "copyrightlink": "/search?q=Houten+Netherlands&form=hpcapt&filters=HpDate%3a%2220250928_2300%22"
+    },
+    {
+      "enddate": "20250930",
+      "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_UHD.jpg",
+      "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+      "copyrightlink": "/search?q=koala&form=hpcapt&filters=HpDate%3a%2220250929_2300%22"
     }
   ],
   "months": {
@@ -6589,10 +6595,9 @@
       "202505",
       "202506",
       "202507",
-      "202508"
-    ],
-    "active": [
+      "202508",
       "202509"
-    ]
+    ],
+    "active": []
   }
 }

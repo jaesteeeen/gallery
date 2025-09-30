@@ -6569,6 +6569,12 @@
       "url": "https://www.bing.com/th?id=OHR.HoutenHouses_IT-IT9070932054_UHD.jpg",
       "copyright": "Case arcobaleno nella città di Houten, Paesi Bassi (© George Pachantouris/Getty Images)",
       "copyrightlink": "/search?q=Houten+provincia+di+Utrecht&form=hpcapt"
+    },
+    {
+      "enddate": "20250930",
+      "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_UHD.jpg",
+      "copyright": "Koala su un albero di eucalipto, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
+      "copyrightlink": "/search?q=koala&form=hpcapt"
     }
   ],
   "months": {
@@ -6607,10 +6613,9 @@
       "202505",
       "202506",
       "202507",
-      "202508"
-    ],
-    "active": [
+      "202508",
       "202509"
-    ]
+    ],
+    "active": []
   }
 }

@@ -6575,6 +6575,12 @@
       "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_JA-JP6385601679_UHD.jpg",
       "copyright": "コアラ, オーストラリア (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%b3%e3%82%a2%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220250929_1500%22"
+    },
+    {
+      "enddate": "20251001",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteClark_JA-JP6457719277_UHD.jpg",
+      "copyright": "クラーク山脈, 米国 カリフォルニア州 (© Robb Hirsch/TANDEM Stills + Motion)",
+      "copyrightlink": "/search?q=%e3%82%af%e3%83%a9%e3%83%bc%e3%82%af%e5%b1%b1%e8%84%88&form=hpcapt&filters=HpDate%3a%2220250930_1500%22"
     }
   ],
   "months": {
@@ -6616,6 +6622,8 @@
       "202508",
       "202509"
     ],
-    "active": []
+    "active": [
+      "202510"
+    ]
   }
 }

@@ -6575,6 +6575,12 @@
       "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-IN3734256942_UHD.jpg",
       "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
       "copyrightlink": "/search?q=koala&form=hpcapt&filters=HpDate%3a%2220250929_1830%22"
+    },
+    {
+      "enddate": "20251001",
+      "url": "https://www.bing.com/th?id=OHR.GoddessDurga2025_EN-IN4254679403_UHD.jpg",
+      "copyright": "Goddess Durga idol at a puja pandal in Kolkata, West Bengal (© Arnav Pratap Singh/Getty Images)",
+      "copyrightlink": "/search?q=Maha+Navami&form=hpcapt&filters=HpDate%3a%2220250930_1830%22"
     }
   ],
   "months": {
@@ -6616,6 +6622,8 @@
       "202508",
       "202509"
     ],
-    "active": []
+    "active": [
+      "202510"
+    ]
   }
 }

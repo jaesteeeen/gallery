@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-10)
+![](https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_UHD.jpg&w=1000)Latest: [Catena montuosa Clark, Sierra Nevada, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_UHD.jpg)

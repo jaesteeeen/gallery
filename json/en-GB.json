@@ -6557,6 +6557,12 @@
       "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_EN-GB0256529335_UHD.jpg",
       "copyright": "Koala in a eucalyptus tree, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
       "copyrightlink": "/search?q=koala&form=hpcapt&filters=HpDate%3a%2220250929_2300%22"
+    },
+    {
+      "enddate": "20251001",
+      "url": "https://www.bing.com/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_UHD.jpg",
+      "copyright": "Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019 (© Leon Neal/Getty Images)",
+      "copyrightlink": "/search?q=Black+History+Month+UK&form=hpcapt&filters=HpDate%3a%2220250930_2300%22"
     }
   ],
   "months": {
@@ -6598,6 +6604,8 @@
       "202508",
       "202509"
     ],
-    "active": []
+    "active": [
+      "202510"
+    ]
   }
 }

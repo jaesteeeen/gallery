@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-10)
+![](https://www.bing.com/th?id=OHR.YosemiteClark_ES-ES0823562766_UHD.jpg&w=1000)Latest: [Cordillera Clark, Sierra Nevada, Parque Nacional de Yosemite, California, EE. UU. (© Robb Hirsch/TANDEM Stills + Motion)](https://www.bing.com/th?id=OHR.YosemiteClark_ES-ES0823562766_UHD.jpg)

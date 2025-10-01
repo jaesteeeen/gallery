@@ -6575,6 +6575,12 @@
       "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_IT-IT9137756909_UHD.jpg",
       "copyright": "Koala su un albero di eucalipto, Great Otway National Park, Australia (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
       "copyrightlink": "/search?q=koala&form=hpcapt"
+    },
+    {
+      "enddate": "20251001",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteClark_IT-IT9290949114_UHD.jpg",
+      "copyright": "Catena montuosa Clark, Sierra Nevada, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/TANDEM Stills + Motion)",
+      "copyrightlink": "/search?q=Parco+Nazionale+di+Yosemite&form=hpcapt"
     }
   ],
   "months": {
@@ -6616,6 +6622,8 @@
       "202508",
       "202509"
     ],
-    "active": []
+    "active": [
+      "202510"
+    ]
   }
 }

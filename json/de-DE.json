@@ -6575,6 +6575,12 @@
       "url": "https://www.bing.com/th?id=OHR.EucalyptusKoala_DE-DE1090162276_UHD.jpg",
       "copyright": "Koala in einem Eukalyptusbaum, Great-Otway-Nationalpark, Australien (© Jamie Lamb - elusive-images.co.uk/Getty Images)",
       "copyrightlink": "/search?q=Koala+Tier&form=hpcapt&filters=HpDate%3a%2220250929_2200%22"
+    },
+    {
+      "enddate": "20251001",
+      "url": "https://www.bing.com/th?id=OHR.YosemiteClark_DE-DE1037605908_UHD.jpg",
+      "copyright": "Clark Range, Sierra Nevada, Yosemite-Nationalpark, Kalifornien, USA (© Robb Hirsch/TANDEM Stills + Motion)",
+      "copyrightlink": "/search?q=Yosemite-Nationalpark&form=hpcapt&filters=HpDate%3a%2220250930_2200%22"
     }
   ],
   "months": {
@@ -6616,6 +6622,8 @@
       "202508",
       "202509"
     ],
-    "active": []
+    "active": [
+      "202510"
+    ]
   }
 }

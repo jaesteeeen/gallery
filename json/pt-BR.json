@@ -6749,6 +6749,12 @@
       "url": "https://www.bing.com/th?id=OHR.FanalForest_PT-BR7092033197_UHD.jpg",
       "copyright": "Antigas árvores de til na Floresta do Fanal, Ilha da Madeira, Portugal (© Lukas Jonaitis/Shutterstock)",
       "copyrightlink": "/search?q=Floresta+Laurissilva+Madeira&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20251031",
+      "url": "https://www.bing.com/th?id=OHR.PushkarFair_PT-BR6477108877_UHD.jpg",
+      "copyright": "Camelos em Jaisalmer, Rajastão, Índia (© f9photos/Getty Images)",
+      "copyrightlink": "/search?q=feira+Pushkar+na+%c3%8dndia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6788,10 +6794,9 @@
       "202506",
       "202507",
       "202508",
-      "202509"
-    ],
-    "active": [
+      "202509",
       "202510"
-    ]
+    ],
+    "active": []
   }
 }

@@ -6755,6 +6755,12 @@
       "url": "https://www.bing.com/th?id=OHR.PushkarFair_JA-JP5237549354_UHD.jpg",
       "copyright": "砂漠を歩くラクダたち, インド ラージャスターン州 (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%97%e3%82%b7%e3%83%a5%e3%82%ab%e3%83%ab%e3%83%bb%e3%82%ad%e3%83%a3%e3%83%a1%e3%83%ab%e3%83%95%e3%82%a7%e3%82%a2&form=hpcapt&filters=HpDate%3a%2220251029_1500%22"
+    },
+    {
+      "enddate": "20251031",
+      "url": "https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_UHD.jpg",
+      "copyright": "ブラン城, ルーマニア (© blue sky in my pocket/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220251030_1500%22"
     }
   ],
   "months": {
@@ -6794,10 +6800,9 @@
       "202506",
       "202507",
       "202508",
-      "202509"
-    ],
-    "active": [
+      "202509",
       "202510"
-    ]
+    ],
+    "active": []
   }
 }

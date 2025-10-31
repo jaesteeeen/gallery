@@ -6755,6 +6755,12 @@
       "url": "https://www.bing.com/th?id=OHR.PushkarFair_ES-ES0743477785_UHD.jpg",
       "copyright": "Dromedarios en Jaisalmer, Rajasthan, India (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=Feria+de+Pushkar&form=hpcapt&filters=HpDate%3a%2220251029_2300%22"
+    },
+    {
+      "enddate": "20251031",
+      "url": "https://www.bing.com/th?id=OHR.BranCastle_ES-ES0559707677_UHD.jpg",
+      "copyright": "Entrada al castillo de Bran en Bran, Brașov, Rumania (© blue sky in my pocket/Getty Images)",
+      "copyrightlink": "/search?q=castillo+de+Bran&form=hpcapt&filters=HpDate%3a%2220251030_2300%22"
     }
   ],
   "months": {
@@ -6794,10 +6800,9 @@
       "202506",
       "202507",
       "202508",
-      "202509"
-    ],
-    "active": [
+      "202509",
       "202510"
-    ]
+    ],
+    "active": []
   }
 }

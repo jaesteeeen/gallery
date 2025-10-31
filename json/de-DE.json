@@ -6755,6 +6755,12 @@
       "url": "https://www.bing.com/th?id=OHR.PushkarFair_DE-DE2030410858_UHD.jpg",
       "copyright": "Kamele in Jaisalmer, Rajasthan, Indien (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=Kamele&form=hpcapt&filters=HpDate%3a%2220251029_2300%22"
+    },
+    {
+      "enddate": "20251031",
+      "url": "https://www.bing.com/th?id=OHR.BranCastle_DE-DE1129139069_UHD.jpg",
+      "copyright": "Eingang zum Schloss Bran, Brașov, Rumänien (© blue sky in my pocket/Getty Images)",
+      "copyrightlink": "/search?q=Schloss+Bran+Bra%c8%99ov&form=hpcapt&filters=HpDate%3a%2220251030_2300%22"
     }
   ],
   "months": {
@@ -6794,10 +6800,9 @@
       "202506",
       "202507",
       "202508",
-      "202509"
-    ],
-    "active": [
+      "202509",
       "202510"
-    ]
+    ],
+    "active": []
   }
 }

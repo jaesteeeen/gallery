@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-11)
+![](https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg&w=1000)Latest: [Different kinds of pumpkins and gourds (© davidfillion/Getty Images)](https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg)

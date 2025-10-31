@@ -6755,6 +6755,12 @@
       "url": "https://www.bing.com/th?id=OHR.PushkarFair_PT-BR6477108877_UHD.jpg",
       "copyright": "Camelos em Jaisalmer, Rajastão, Índia (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=feira+Pushkar+na+%c3%8dndia&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20251101",
+      "url": "https://www.bing.com/th?id=OHR.BranCastle_PT-BR1477730083_UHD.jpg",
+      "copyright": "Entrada do Castelo de Bran em Brașov, Romênia (© blue sky in my  pocket/Getty Images)",
+      "copyrightlink": "/search?q=Dia+das+Bruxas&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6797,6 +6803,8 @@
       "202509",
       "202510"
     ],
-    "active": []
+    "active": [
+      "202511"
+    ]
   }
 }

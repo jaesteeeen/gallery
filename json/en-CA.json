@@ -6755,6 +6755,12 @@
       "url": "https://www.bing.com/th?id=OHR.PushkarFair_EN-CA8887755695_UHD.jpg",
       "copyright": "Camels at Jaisalmer, Rajasthan, India (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=Pushkar+Camel+Fair&form=hpcapt&filters=HpDate%3a%2220251030_0400%22"
+    },
+    {
+      "enddate": "20251101",
+      "url": "https://www.bing.com/th?id=OHR.PumpkinHalloween_EN-CA7800115096_UHD.jpg",
+      "copyright": "Different kinds of pumpkins and gourds (© davidfillion/Getty Images)",
+      "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220251031_0400%22"
     }
   ],
   "months": {
@@ -6797,6 +6803,8 @@
       "202509",
       "202510"
     ],
-    "active": []
+    "active": [
+      "202511"
+    ]
   }
 }

@@ -6761,6 +6761,12 @@
       "url": "https://www.bing.com/th?id=OHR.BranCastle_JA-JP1493249630_UHD.jpg",
       "copyright": "ブラン城, ルーマニア (© blue sky in my pocket/Getty Images)",
       "copyrightlink": "/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e5%9f%8e&form=hpcapt&filters=HpDate%3a%2220251030_1500%22"
+    },
+    {
+      "enddate": "20251101",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_JA-JP2014731306_UHD.jpg",
+      "copyright": "イエローストーン国立公園, 米国 (© Cheryl Ramalho/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%a4%e3%82%a8%e3%83%ad%e3%83%bc%e3%82%b9%e3%83%88%e3%83%bc%e3%83%b3%e5%9b%bd%e7%ab%8b%e5%85%ac%e5%9c%92&form=hpcapt&filters=HpDate%3a%2220251031_1500%22"
     }
   ],
   "months": {
@@ -6803,6 +6809,8 @@
       "202509",
       "202510"
     ],
-    "active": []
+    "active": [
+      "202511"
+    ]
   }
 }

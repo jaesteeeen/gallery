@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-11)
+![](https://www.bing.com/th?id=OHR.BisonSprings_EN-IN1200877160_UHD.jpg&w=1000)Latest: [Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States (© Cheryl Ramalho/Getty Images)](https://www.bing.com/th?id=OHR.BisonSprings_EN-IN1200877160_UHD.jpg)

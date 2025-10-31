@@ -6761,6 +6761,12 @@
       "url": "https://www.bing.com/th?id=OHR.BranCastle_EN-IN0933024345_UHD.jpg",
       "copyright": "Entrance of Bran Castle in Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
       "copyrightlink": "/search?q=bran+castle&form=hpcapt&filters=HpDate%3a%2220251030_1830%22"
+    },
+    {
+      "enddate": "20251101",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_EN-IN1200877160_UHD.jpg",
+      "copyright": "Bison grazing at thermal hot springs, Yellowstone National Park, Wyoming, United States (© Cheryl Ramalho/Getty Images)",
+      "copyrightlink": "/search?q=Bison&form=hpcapt&filters=HpDate%3a%2220251031_1830%22"
     }
   ],
   "months": {
@@ -6803,6 +6809,8 @@
       "202509",
       "202510"
     ],
-    "active": []
+    "active": [
+      "202511"
+    ]
   }
 }

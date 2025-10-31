@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-11)
+![](https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg&w=1000)Latest: [野牛在温泉边吃草,  黄石国家公园, 怀俄明州, 美国 (© Cheryl Ramalho/Getty Images)](https://www.bing.com/th?id=OHR.BisonSprings_ZH-CN4419733534_UHD.jpg)

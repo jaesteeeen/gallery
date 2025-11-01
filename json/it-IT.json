@@ -6761,6 +6761,12 @@
       "url": "https://www.bing.com/th?id=OHR.BranCastle_IT-IT5114720491_UHD.jpg",
       "copyright": "Ingresso del Castello di Bran a Bran, Brașov, Romania (© blue sky in my pocket/Getty Images)",
       "copyrightlink": "/search?q=Il+castello+di+Bran&form=hpcapt"
+    },
+    {
+      "enddate": "20251101",
+      "url": "https://www.bing.com/th?id=OHR.BisonSprings_IT-IT4205256619_UHD.jpg",
+      "copyright": "Bisonti al pascolo, Parco Nazionale di Yellowstone, Wyoming, USA (© Cheryl Ramalho/Getty Images)",
+      "copyrightlink": "/search?q=Il+Parco+nazionale+di+Yellowstone+USA&form=hpcapt"
     }
   ],
   "months": {
@@ -6803,6 +6809,8 @@
       "202509",
       "202510"
     ],
-    "active": []
+    "active": [
+      "202511"
+    ]
   }
 }

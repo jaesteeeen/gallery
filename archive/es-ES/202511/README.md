@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-11)
+![](https://www.bing.com/th?id=OHR.AutumSaints_ES-ES0641147491_UHD.jpg&w=1000)Latest: [Foz de Arbaiun, Navarra, España (© Martín Zalba/500px/Getty Images)](https://www.bing.com/th?id=OHR.AutumSaints_ES-ES0641147491_UHD.jpg)

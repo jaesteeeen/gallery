@@ -6761,6 +6761,12 @@
       "url": "https://www.bing.com/th?id=OHR.BranCastle_ES-ES0559707677_UHD.jpg",
       "copyright": "Entrada al castillo de Bran en Bran, Brașov, Rumania (© blue sky in my pocket/Getty Images)",
       "copyrightlink": "/search?q=castillo+de+Bran&form=hpcapt&filters=HpDate%3a%2220251030_2300%22"
+    },
+    {
+      "enddate": "20251101",
+      "url": "https://www.bing.com/th?id=OHR.AutumSaints_ES-ES0641147491_UHD.jpg",
+      "copyright": "Foz de Arbaiun, Navarra, España (© Martín Zalba/500px/Getty Images)",
+      "copyrightlink": "/search?q=D%c3%ada+de+Todos+los+Santos&form=hpcapt&filters=HpDate%3a%2220251031_2300%22"
     }
   ],
   "months": {
@@ -6803,6 +6809,8 @@
       "202509",
       "202510"
     ],
-    "active": []
+    "active": [
+      "202511"
+    ]
   }
 }

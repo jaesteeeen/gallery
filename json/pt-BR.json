@@ -6929,6 +6929,12 @@
       "url": "https://www.bing.com/th?id=OHR.PraiaFloripa_PT-BR9500409157_UHD.jpg",
       "copyright": "Praia da Armação, Florianópolis, Santa Catarina (© André Damasco/Getty Images)",
       "copyrightlink": "/search?q=praia+da+arma%c3%a7%c3%a3o+florian%c3%b3polis&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20251130",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_PT-BR9808049674_UHD.jpg",
+      "copyright": "Veado-vermelho no Parque Nacional De Hoge Veluwe, Países Baixos (© CreativeNature_nl/Getty Images)",
+      "copyrightlink": "/search?q=Parque+Nacional+De+Hoge+Veluwe%2c+Pa%c3%adses+Baixos&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -6969,10 +6975,9 @@
       "202507",
       "202508",
       "202509",
-      "202510"
-    ],
-    "active": [
+      "202510",
       "202511"
-    ]
+    ],
+    "active": []
   }
 }

@@ -6929,6 +6929,12 @@
       "url": "https://www.bing.com/th?id=OHR.InvernoItalia_EN-CA2895961852_UHD.jpg",
       "copyright": "Val Brandet, Brescia, Lombardy, Italy (© ClickAlps/Alamy)",
       "copyrightlink": "/search?q=Lombardy+Italy&form=hpcapt&filters=HpDate%3a%2220251128_0500%22"
+    },
+    {
+      "enddate": "20251130",
+      "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_EN-CA0538816629_UHD.jpg",
+      "copyright": "Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)",
+      "copyrightlink": "/search?q=De+Hoge+Veluwe+National+Park&form=hpcapt&filters=HpDate%3a%2220251129_0500%22"
     }
   ],
   "months": {
@@ -6969,10 +6975,9 @@
       "202507",
       "202508",
       "202509",
-      "202510"
-    ],
-    "active": [
+      "202510",
       "202511"
-    ]
+    ],
+    "active": []
   }
 }

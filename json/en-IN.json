@@ -6935,6 +6935,12 @@
       "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_EN-IN0058666460_UHD.jpg",
       "copyright": "Red deer stag in De Hoge Veluwe National Park, Netherlands (© CreativeNature_nl/Getty Images)",
       "copyrightlink": "/search?q=De+Hoge+Veluwe+National+Park&form=hpcapt&filters=HpDate%3a%2220251128_1830%22"
+    },
+    {
+      "enddate": "20251130",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_EN-IN0234720576_UHD.jpg",
+      "copyright": "Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)",
+      "copyrightlink": "/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_1830%22"
     }
   ],
   "months": {
@@ -6975,10 +6981,9 @@
       "202507",
       "202508",
       "202509",
-      "202510"
-    ],
-    "active": [
+      "202510",
       "202511"
-    ]
+    ],
+    "active": []
   }
 }

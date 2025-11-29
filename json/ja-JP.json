@@ -6935,6 +6935,12 @@
       "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_JA-JP4126519808_UHD.jpg",
       "copyright": "アカシカ, オランダ (© CreativeNature_nl/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%a2%e3%82%ab%e3%82%b7%e3%82%ab&form=hpcapt&filters=HpDate%3a%2220251128_1500%22"
+    },
+    {
+      "enddate": "20251130",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_JA-JP4635398784_UHD.jpg",
+      "copyright": "ライプツィヒ・クリスマスマーケット, ドイツ (© Krzysztof Baranowski/Getty Images)",
+      "copyrightlink": "/search?q=%e3%83%a9%e3%82%a4%e3%83%97%e3%83%84%e3%82%a3%e3%83%92%e3%83%bb%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%9e%e3%83%bc%e3%82%b1%e3%83%83%e3%83%88&form=hpcapt&filters=HpDate%3a%2220251129_1500%22"
     }
   ],
   "months": {
@@ -6975,10 +6981,9 @@
       "202507",
       "202508",
       "202509",
-      "202510"
-    ],
-    "active": [
+      "202510",
       "202511"
-    ]
+    ],
+    "active": []
   }
 }

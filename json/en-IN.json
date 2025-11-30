@@ -6941,6 +6941,12 @@
       "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_EN-IN0234720576_UHD.jpg",
       "copyright": "Christmas market in Leipzig, Germany (© Krzysztof Baranowski/Getty Images)",
       "copyrightlink": "/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_1830%22"
+    },
+    {
+      "enddate": "20251201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_EN-IN0373340419_UHD.jpg",
+      "copyright": "Natural arch carved in an iceberg, Antarctica (© Gabrielle/Adobe Stock)",
+      "copyrightlink": "/search?q=Antarctica+Day&form=hpcapt&filters=HpDate%3a%2220251130_1830%22"
     }
   ],
   "months": {
@@ -6984,6 +6990,8 @@
       "202510",
       "202511"
     ],
-    "active": []
+    "active": [
+      "202512"
+    ]
   }
 }

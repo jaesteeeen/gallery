@@ -6935,6 +6935,12 @@
       "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_FR-FR6754870424_UHD.jpg",
       "copyright": "Cerf élaphe dans le parc national De Hoge Veluwe, Pays-Bas (© CreativeNature_nl/Getty Images)",
       "copyrightlink": "/search?q=Parc+national+De+Hoge+Veluwe+&form=hpcapt&filters=HpDate%3a%2220251128_2300%22"
+    },
+    {
+      "enddate": "20251130",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_FR-FR6920337470_UHD.jpg",
+      "copyright": "Marché de Noël à Leipzig, Allemagne (© Krzysztof Baranowski/Getty Images)",
+      "copyrightlink": "/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_2300%22"
     }
   ],
   "months": {
@@ -6975,10 +6981,9 @@
       "202507",
       "202508",
       "202509",
-      "202510"
-    ],
-    "active": [
+      "202510",
       "202511"
-    ]
+    ],
+    "active": []
   }
 }

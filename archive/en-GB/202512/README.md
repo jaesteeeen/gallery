@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-12)
+![](https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg&w=1000)Latest: [Fireworks over Edinburgh seen from Calton Hill, Scotland (© georgeclerk/E+/Getty Images)](https://www.bing.com/th?id=OHR.StAndrewsDay2025_EN-GB5442155816_UHD.jpg)

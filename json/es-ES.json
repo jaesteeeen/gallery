@@ -6935,6 +6935,12 @@
       "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_ES-ES0975453330_UHD.jpg",
       "copyright": "Ciervo rojo en el Parque Nacional De Hoge Veluwe, Países Bajos (© CreativeNature_nl/Getty Images)",
       "copyrightlink": "/search?q=Parque+Nacional+De+Hoge+Veluwe&form=hpcapt&filters=HpDate%3a%2220251128_2300%22"
+    },
+    {
+      "enddate": "20251130",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg",
+      "copyright": "Mercado navideño en Leipzig, Alemania (© Krzysztof Baranowski/Getty Images)",
+      "copyrightlink": "/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_2300%22"
     }
   ],
   "months": {
@@ -6975,10 +6981,9 @@
       "202507",
       "202508",
       "202509",
-      "202510"
-    ],
-    "active": [
+      "202510",
       "202511"
-    ]
+    ],
+    "active": []
   }
 }

@@ -6935,6 +6935,12 @@
       "url": "https://www.bing.com/th?id=OHR.DeerVeluwe_IT-IT1796855659_UHD.jpg",
       "copyright": "Cervo rosso, Parco Nazionale De Hoge Veluwe, Paesi Bassi (© CreativeNature_nl/Getty Images)",
       "copyrightlink": "/search?q=Parco+nazionale+De+Hoge+Veluwe&form=hpcapt"
+    },
+    {
+      "enddate": "20251130",
+      "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_IT-IT2166339294_UHD.jpg",
+      "copyright": "Mercatino di Natale, Lipsia, Sassonia, Germania (© Krzysztof Baranowski/Getty Images)",
+      "copyrightlink": "/search?q=Lipsia&form=hpcapt"
     }
   ],
   "months": {
@@ -6975,10 +6981,9 @@
       "202507",
       "202508",
       "202509",
-      "202510"
-    ],
-    "active": [
+      "202510",
       "202511"
-    ]
+    ],
+    "active": []
   }
 }

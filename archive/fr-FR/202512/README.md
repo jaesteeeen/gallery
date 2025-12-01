@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-12)
+![](https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_UHD.jpg&w=1000)Latest: [Arche naturelle sculptée dans un iceberg, Antarctique (© Gabrielle/Adobe Stock)](https://www.bing.com/th?id=OHR.AntarcticArch_FR-FR7424154136_UHD.jpg)

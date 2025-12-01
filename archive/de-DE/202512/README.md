@@ -1,0 +1,2 @@
+## Bing Wallpaper (2025-12)
+![](https://www.bing.com/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_UHD.jpg&w=1000)Latest: [Adventskalendersäckchen mit süßen Überraschungen (© wideonet/Getty Images)](https://www.bing.com/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_UHD.jpg)

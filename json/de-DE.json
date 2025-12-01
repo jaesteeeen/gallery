@@ -6941,6 +6941,12 @@
       "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_DE-DE5264146684_UHD.jpg",
       "copyright": "Weihnachtsmarkt in Leipzig, Sachsen (© Krzysztof Baranowski/Getty Images)",
       "copyrightlink": "/search?q=Leipzig+Weihnachtsmarkt&form=hpcapt&filters=HpDate%3a%2220251129_2300%22"
+    },
+    {
+      "enddate": "20251201",
+      "url": "https://www.bing.com/th?id=OHR.AdventcalendarGermany_DE-DE4536925565_UHD.jpg",
+      "copyright": "Adventskalendersäckchen mit süßen Überraschungen (© wideonet/Getty Images)",
+      "copyrightlink": "/search?q=Adventszeit&form=hpcapt&filters=HpDate%3a%2220251130_2300%22"
     }
   ],
   "months": {
@@ -6984,6 +6990,8 @@
       "202510",
       "202511"
     ],
-    "active": []
+    "active": [
+      "202512"
+    ]
   }
 }

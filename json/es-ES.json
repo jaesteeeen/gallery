@@ -6941,6 +6941,12 @@
       "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_ES-ES1066408557_UHD.jpg",
       "copyright": "Mercado navideño en Leipzig, Alemania (© Krzysztof Baranowski/Getty Images)",
       "copyrightlink": "/search?q=Leipzig&form=hpcapt&filters=HpDate%3a%2220251129_2300%22"
+    },
+    {
+      "enddate": "20251201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_ES-ES0463895614_UHD.jpg",
+      "copyright": "Arco natural tallado en un iceberg, Antártida (© Gabrielle/Adobe Stock)",
+      "copyrightlink": "/search?q=Ant%c3%a1rtida&form=hpcapt&filters=HpDate%3a%2220251130_2300%22"
     }
   ],
   "months": {
@@ -6984,6 +6990,8 @@
       "202510",
       "202511"
     ],
-    "active": []
+    "active": [
+      "202512"
+    ]
   }
 }

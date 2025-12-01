@@ -6941,6 +6941,12 @@
       "url": "https://www.bing.com/th?id=OHR.LeipzigMarket_IT-IT2166339294_UHD.jpg",
       "copyright": "Mercatino di Natale, Lipsia, Sassonia, Germania (© Krzysztof Baranowski/Getty Images)",
       "copyrightlink": "/search?q=Lipsia&form=hpcapt"
+    },
+    {
+      "enddate": "20251201",
+      "url": "https://www.bing.com/th?id=OHR.AntarcticArch_IT-IT2245369400_UHD.jpg",
+      "copyright": "Arco naturale scolpito in un iceberg, Antartide (© Gabrielle/Adobe Stock)",
+      "copyrightlink": "/search?q=Giornata+dell%e2%80%99+Antartide&form=hpcapt"
     }
   ],
   "months": {
@@ -6984,6 +6990,8 @@
       "202510",
       "202511"
     ],
-    "active": []
+    "active": [
+      "202512"
+    ]
   }
 }

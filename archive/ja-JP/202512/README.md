@@ -1,6 +1,6 @@
 ## Bing Wallpaper (2025-12)
-![](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg&w=1000)Latest: [秩父夜祭の屋台, 埼玉県 秩父市 (© Joshua Hawley/Alamy)](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_UHD.jpg&w=1000)Latest: [チーター, ケニア (© Andy Rouse/naturepl.com)](https://www.bing.com/th?id=OHR.CheetahMound_JA-JP6984308413_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-02 [download 4k](https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg)|![](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-01 [download 4k](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-03 [download 4k](https://www.bing.com/th?id=OHR.ChichibuNightFestival2025_JA-JP8715169093_UHD.jpg)|![](https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-02 [download 4k](https://www.bing.com/th?id=OHR.WillowLake_JA-JP5149786689_UHD.jpg)|![](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2025-12-01 [download 4k](https://www.bing.com/th?id=OHR.AntarcticArch_JA-JP4876185328_UHD.jpg)|

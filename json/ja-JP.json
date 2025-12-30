@@ -7121,6 +7121,12 @@
       "url": "https://www.bing.com/th?id=OHR.JapanSwans_JA-JP3625883145_UHD.jpg",
       "copyright": "古徳沼, 茨城県 那珂市 (© Martin Bailey/Shutterstock)",
       "copyrightlink": "/search?q=%e5%8f%a4%e5%be%b3%e6%b2%bc&form=hpcapt&filters=HpDate%3a%2220251229_1500%22"
+    },
+    {
+      "enddate": "20251231",
+      "url": "https://www.bing.com/th?id=OHR.Omisoka2026_JA-JP3799587419_UHD.jpg",
+      "copyright": "輪王寺の梵鐘, 宮城県 仙台市 (© Grandbrothers/Alamy)",
+      "copyrightlink": "/search?q=%e8%bc%aa%e7%8e%8b%e5%af%ba%e4%bb%99%e5%8f%b0%e5%b8%82&form=hpcapt&filters=HpDate%3a%2220251230_1500%22"
     }
   ],
   "months": {
@@ -7162,10 +7168,9 @@
       "202508",
       "202509",
       "202510",
-      "202511"
-    ],
-    "active": [
+      "202511",
       "202512"
-    ]
+    ],
+    "active": []
   }
 }

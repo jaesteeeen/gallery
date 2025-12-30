@@ -7115,6 +7115,12 @@
       "url": "https://www.bing.com/th?id=OHR.AniTurkey_PT-BR7063147187_UHD.jpg",
       "copyright": "Igreja de São Gregório nas Ruínas de Ani, Turquia (© Kenan Talas/Getty Images)",
       "copyrightlink": "/search?q=Ru%c3%adnas+de+Ani&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20251231",
+      "url": "https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_UHD.jpg",
+      "copyright": "Cisnes-bravos, Lago Kotoku, Kantō, Japão (© Martin Bailey/Shutterstock)",
+      "copyrightlink": "/search?q=Cisne-bravo&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7156,10 +7162,9 @@
       "202508",
       "202509",
       "202510",
-      "202511"
-    ],
-    "active": [
+      "202511",
       "202512"
-    ]
+    ],
+    "active": []
   }
 }

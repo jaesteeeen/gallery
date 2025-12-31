@@ -7103,6 +7103,12 @@
       "url": "https://www.bing.com/th?id=OHR.JapanSwans_EN-GB2256410683_UHD.jpg",
       "copyright": "Whooper swans, Kotoku Pond, Japan (© Martin Bailey/Shutterstock)",
       "copyrightlink": "/search?q=Whooper+swans&form=hpcapt&filters=HpDate%3a%2220251230_0000%22"
+    },
+    {
+      "enddate": "20260101",
+      "url": "https://www.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_UHD.jpg",
+      "copyright": "National Monument of Scotland, Edinburgh (© Serge_Bertasius/iStock/Getty Images)",
+      "copyrightlink": "/search?q=Hogmanay&form=hpcapt&filters=HpDate%3a%2220251231_0000%22"
     }
   ],
   "months": {
@@ -7147,6 +7153,8 @@
       "202511",
       "202512"
     ],
-    "active": []
+    "active": [
+      "202601"
+    ]
   }
 }

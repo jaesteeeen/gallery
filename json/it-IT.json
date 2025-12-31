@@ -7121,6 +7121,12 @@
       "url": "https://www.bing.com/th?id=OHR.JapanSwans_IT-IT1972442165_UHD.jpg",
       "copyright": "Cigni selvatici, stagno di Kotoku, Giappone (© Martin Bailey/Shutterstock)",
       "copyrightlink": "/search?q=Cigno+Selvatico&form=hpcapt"
+    },
+    {
+      "enddate": "20251231",
+      "url": "https://www.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg",
+      "copyright": "Capodanno, Venezia (© Marco Secchi/Collaboratore/Getty Images News)",
+      "copyrightlink": "/search?q=Il+Capodanno&form=hpcapt"
     }
   ],
   "months": {
@@ -7162,10 +7168,9 @@
       "202508",
       "202509",
       "202510",
-      "202511"
-    ],
-    "active": [
+      "202511",
       "202512"
-    ]
+    ],
+    "active": []
   }
 }

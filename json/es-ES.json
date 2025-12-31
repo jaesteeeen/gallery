@@ -7121,6 +7121,12 @@
       "url": "https://www.bing.com/th?id=OHR.JapanSwans_ES-ES6742186728_UHD.jpg",
       "copyright": "Cisnes cantores, estanque Kotoku, Japón (© Martin Bailey/Shutterstock)",
       "copyrightlink": "/search?q=Cisne+cantor&form=hpcapt&filters=HpDate%3a%2220251229_2300%22"
+    },
+    {
+      "enddate": "20251231",
+      "url": "https://www.bing.com/th?id=OHR.NewYearES_ES-ES0875645687_UHD.jpg",
+      "copyright": "Reloj de la Puerta del Sol antes de Nochevieja, Madrid (© Pablo Blazquez Dominguez/Getty Images)",
+      "copyrightlink": "/search?q=Nochevieja&form=hpcapt&filters=HpDate%3a%2220251230_2300%22"
     }
   ],
   "months": {
@@ -7162,10 +7168,9 @@
       "202508",
       "202509",
       "202510",
-      "202511"
-    ],
-    "active": [
+      "202511",
       "202512"
-    ]
+    ],
+    "active": []
   }
 }

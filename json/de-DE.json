@@ -7121,6 +7121,12 @@
       "url": "https://www.bing.com/th?id=OHR.JapanSwans_DE-DE3934541892_UHD.jpg",
       "copyright": "Singschwäne, Kotoku-Teich, Japan (© Martin Bailey/Shutterstock)",
       "copyrightlink": "/search?q=Singschwan&form=hpcapt&filters=HpDate%3a%2220251229_2300%22"
+    },
+    {
+      "enddate": "20251231",
+      "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_DE-DE8479244811_UHD.jpg",
+      "copyright": "Silvester, Oberbaumbrücke, Berlin (© spreephoto.de/Getty Images)",
+      "copyrightlink": "/search?q=Silvester&form=hpcapt&filters=HpDate%3a%2220251230_2300%22"
     }
   ],
   "months": {
@@ -7162,10 +7168,9 @@
       "202508",
       "202509",
       "202510",
-      "202511"
-    ],
-    "active": [
+      "202511",
       "202512"
-    ]
+    ],
+    "active": []
   }
 }

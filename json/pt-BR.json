@@ -7121,6 +7121,12 @@
       "url": "https://www.bing.com/th?id=OHR.JapanSwans_PT-BR6213616732_UHD.jpg",
       "copyright": "Cisnes-bravos, Lago Kotoku, Kantō, Japão (© Martin Bailey/Shutterstock)",
       "copyrightlink": "/search?q=Cisne-bravo&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260101",
+      "url": "https://www.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg",
+      "copyright": "Fogos de artifício na praia de Copacabana, Rio de Janeiro (© BrasilNut1/Getty Images)",
+      "copyrightlink": "/search?q=v%c3%a9spera+de+Ano+Novo&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7165,6 +7171,8 @@
       "202511",
       "202512"
     ],
-    "active": []
+    "active": [
+      "202601"
+    ]
   }
 }

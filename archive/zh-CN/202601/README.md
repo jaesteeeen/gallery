@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-01)
+![](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg&w=1000)Latest: [正在睡觉的北极狐 (© Chansak Joe/Getty Images)](https://www.bing.com/th?id=OHR.NewYearFox_ZH-CN9312618796_UHD.jpg)

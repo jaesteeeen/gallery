@@ -7127,6 +7127,12 @@
       "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_EN-IN0096135546_UHD.jpg",
       "copyright": "New Year's Eve, Oberbaum Bridge, Berlin, Germany (© spreephoto.de/Getty Images)",
       "copyrightlink": "/search?q=New+Years+Eve&form=hpcapt&filters=HpDate%3a%2220251230_1830%22"
+    },
+    {
+      "enddate": "20260101",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_UHD.jpg",
+      "copyright": "Arctic fox sleeping (© Chansak Joe/Getty Images)",
+      "copyrightlink": "/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220251231_1830%22"
     }
   ],
   "months": {
@@ -7171,6 +7177,8 @@
       "202511",
       "202512"
     ],
-    "active": []
+    "active": [
+      "202601"
+    ]
   }
 }

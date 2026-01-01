@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-01)
+![](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg&w=1000)Latest: [Volpe artica che dorme (© Chansak Joe/Getty Images)](https://www.bing.com/th?id=OHR.NewYearFox_IT-IT2197998427_UHD.jpg)

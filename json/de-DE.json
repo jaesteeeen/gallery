@@ -7127,6 +7127,12 @@
       "url": "https://www.bing.com/th?id=OHR.GermanyNewYear_DE-DE8479244811_UHD.jpg",
       "copyright": "Silvester, Oberbaumbrücke, Berlin (© spreephoto.de/Getty Images)",
       "copyrightlink": "/search?q=Silvester&form=hpcapt&filters=HpDate%3a%2220251230_2300%22"
+    },
+    {
+      "enddate": "20260101",
+      "url": "https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg",
+      "copyright": "Frostbedeckte Bäume entlang des Flusses Loisach, Kochelsee, Bayern (© Malorny/Getty Images)",
+      "copyrightlink": "/search?q=Neujahr&form=hpcapt&filters=HpDate%3a%2220251231_2300%22"
     }
   ],
   "months": {
@@ -7171,6 +7177,8 @@
       "202511",
       "202512"
     ],
-    "active": []
+    "active": [
+      "202601"
+    ]
   }
 }

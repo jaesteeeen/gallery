@@ -7127,6 +7127,12 @@
       "url": "https://www.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg",
       "copyright": "Le nouvel an à Paris, France (© Kiran Ridley/Getty Images)",
       "copyrightlink": "/search?q=Nouvel+An&form=hpcapt&filters=HpDate%3a%2220251230_2300%22"
+    },
+    {
+      "enddate": "20260101",
+      "url": "https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg",
+      "copyright": "Un renard polaire endormi (© Chansak Joe/Getty Images)",
+      "copyrightlink": "/search?q=New+Years+Day&form=hpcapt&filters=HpDate%3a%2220251231_2300%22"
     }
   ],
   "months": {
@@ -7171,6 +7177,8 @@
       "202511",
       "202512"
     ],
-    "active": []
+    "active": [
+      "202601"
+    ]
   }
 }

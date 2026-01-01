@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-01)
+![](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg&w=1000)Latest: [Frostbedeckte Bäume entlang des Flusses Loisach, Kochelsee, Bayern (© Malorny/Getty Images)](https://www.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg)

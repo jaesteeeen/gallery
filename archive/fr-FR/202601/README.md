@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-01)
+![](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg&w=1000)Latest: [Un renard polaire endormi (© Chansak Joe/Getty Images)](https://www.bing.com/th?id=OHR.NewYearFox_FR-FR1449445493_UHD.jpg)

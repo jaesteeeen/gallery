@@ -7283,6 +7283,12 @@
       "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-GB2048442838_UHD.jpg",
       "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, USA (© lavin photography/Getty Images)",
       "copyrightlink": "/search?q=Milwaukee+city&form=hpcapt&filters=HpDate%3a%2220260129_0000%22"
+    },
+    {
+      "enddate": "20260131",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-GB2680243066_UHD.jpg",
+      "copyright": "St Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)",
+      "copyrightlink": "/search?q=St+Michaels+Mount&form=hpcapt&filters=HpDate%3a%2220260130_0000%22"
     }
   ],
   "months": {
@@ -7325,10 +7331,9 @@
       "202509",
       "202510",
       "202511",
-      "202512"
-    ],
-    "active": [
+      "202512",
       "202601"
-    ]
+    ],
+    "active": []
   }
 }

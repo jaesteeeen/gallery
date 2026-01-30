@@ -7301,6 +7301,12 @@
       "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_PT-BR7635077740_UHD.jpg",
       "copyright": "Prefeitura de Milwaukee, Wisconsin, Estados Unidos (© lavin photography/Getty Images)",
       "copyrightlink": "/search?q=Milwaukee+Wisconsin+EUA&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260131",
+      "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_PT-BR8735847757_UHD.jpg",
+      "copyright": "Monte St. Michael em Marazion, Cornualha, Inglaterra (© Baxter Bradford/robertharding/Getty Images)",
+      "copyrightlink": "/search?q=Monte+de+St+Michael+na+Inglaterra&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7343,10 +7349,9 @@
       "202509",
       "202510",
       "202511",
-      "202512"
-    ],
-    "active": [
+      "202512",
       "202601"
-    ]
+    ],
+    "active": []
   }
 }

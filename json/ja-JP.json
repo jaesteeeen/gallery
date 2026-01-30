@@ -7307,6 +7307,12 @@
       "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_JA-JP9057356830_UHD.jpg",
       "copyright": "セント・マイケルズ・マウント, イングランド (© Baxter Bradford/robertharding/Getty Images)",
       "copyrightlink": "/search?q=%e3%82%bb%e3%83%b3%e3%83%88%e3%83%bb%e3%83%9e%e3%82%a4%e3%82%b1%e3%83%ab%e3%82%ba%e3%83%bb%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260129_1500%22"
+    },
+    {
+      "enddate": "20260131",
+      "url": "https://www.bing.com/th?id=OHR.IceFestival2026_JA-JP1189462193_UHD.jpg",
+      "copyright": "ライトアップされた氷像, 北海道 千歳市 (© Hide's photos/Shutterstock)",
+      "copyrightlink": "/search?q=%e6%94%af%e7%ac%8f%e6%b9%96%e6%b0%b7%e6%bf%a4%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220260130_1500%22"
     }
   ],
   "months": {
@@ -7349,10 +7355,9 @@
       "202509",
       "202510",
       "202511",
-      "202512"
-    ],
-    "active": [
+      "202512",
       "202601"
-    ]
+    ],
+    "active": []
   }
 }

@@ -7301,6 +7301,12 @@
       "url": "https://www.bing.com/th?id=OHR.MilwaukeeHall_EN-CA4166565215_UHD.jpg",
       "copyright": "The eight-story open atrium of Milwaukee City Hall, Wisconsin, United States (© lavin photography/Getty Images)",
       "copyrightlink": "/search?q=Milwaukee+city&form=hpcapt&filters=HpDate%3a%2220260129_0500%22"
+    },
+    {
+      "enddate": "20260131",
+      "url": "https://www.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg",
+      "copyright": "'Kimono' sculpted by Hiroaki Kimura and Masaki Takahashi of Japan, Winterlude 2010 (© PensiveDragon/Shutterstock)",
+      "copyrightlink": "/search?q=Winterlude+2026&form=hpcapt&filters=HpDate%3a%2220260130_0500%22"
     }
   ],
   "months": {
@@ -7343,10 +7349,9 @@
       "202509",
       "202510",
       "202511",
-      "202512"
-    ],
-    "active": [
+      "202512",
       "202601"
-    ]
+    ],
+    "active": []
   }
 }

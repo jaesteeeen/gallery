@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-02)
+![](https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_UHD.jpg&w=1000)Latest: [セイタカシギ, フランス (© Antonio Sementa/500px/Getty Images)](https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_UHD.jpg)

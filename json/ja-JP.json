@@ -7313,6 +7313,12 @@
       "url": "https://www.bing.com/th?id=OHR.IceFestival2026_JA-JP1189462193_UHD.jpg",
       "copyright": "ライトアップされた氷像, 北海道 千歳市 (© Hide's photos/Shutterstock)",
       "copyrightlink": "/search?q=%e6%94%af%e7%ac%8f%e6%b9%96%e6%b0%b7%e6%bf%a4%e3%81%be%e3%81%a4%e3%82%8a&form=hpcapt&filters=HpDate%3a%2220260130_1500%22"
+    },
+    {
+      "enddate": "20260201",
+      "url": "https://www.bing.com/th?id=OHR.Echasse_JA-JP1351434706_UHD.jpg",
+      "copyright": "セイタカシギ, フランス (© Antonio Sementa/500px/Getty Images)",
+      "copyrightlink": "/search?q=%e3%82%bb%e3%82%a4%e3%82%bf%e3%82%ab%e3%82%b7%e3%82%ae&form=hpcapt&filters=HpDate%3a%2220260131_1500%22"
     }
   ],
   "months": {
@@ -7358,6 +7364,8 @@
       "202512",
       "202601"
     ],
-    "active": []
+    "active": [
+      "202602"
+    ]
   }
 }

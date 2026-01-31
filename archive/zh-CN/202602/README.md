@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-02)
+![](https://www.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg&w=1000)Latest: [奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)](https://www.bing.com/th?id=OHR.Olinda_ZH-CN6216385346_UHD.jpg)

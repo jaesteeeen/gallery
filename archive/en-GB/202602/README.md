@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-02)
+![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_UHD.jpg&w=1000)Latest: [Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_UHD.jpg)

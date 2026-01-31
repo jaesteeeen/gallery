@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-02)
+![](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_UHD.jpg&w=1000)Latest: [Zebras-da-planície, Parque Nacional de Etosha, Namíbia (© Mogens Trolle/Shutterstock)](https://www.bing.com/th?id=OHR.EtoshaZebra_PT-BR9612132259_UHD.jpg)

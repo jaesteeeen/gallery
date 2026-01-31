@@ -7307,6 +7307,12 @@
       "url": "https://www.bing.com/th?id=OHR.AndermattSwiss_IT-IT7291559000_UHD.jpg",
       "copyright": "Andermatt, Svizzera (© Xantana/Getty Images)",
       "copyrightlink": "/search?q=Andermatt+Svizzera&form=hpcapt"
+    },
+    {
+      "enddate": "20260131",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_UHD.jpg",
+      "copyright": "Zebre delle pianure, Parco Nazionale di Etosha, Namibia (© Mogens Trolle/Shutterstock)",
+      "copyrightlink": "/search?q=Zebra+di+pianura&form=hpcapt"
     }
   ],
   "months": {
@@ -7349,10 +7355,9 @@
       "202509",
       "202510",
       "202511",
-      "202512"
-    ],
-    "active": [
+      "202512",
       "202601"
-    ]
+    ],
+    "active": []
   }
 }

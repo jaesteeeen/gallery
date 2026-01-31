@@ -7289,6 +7289,12 @@
       "url": "https://www.bing.com/th?id=OHR.StMichaelsCornwall_EN-GB2680243066_UHD.jpg",
       "copyright": "St Michael's Mount in Marazion, Cornwall, England (© Baxter Bradford/robertharding/Getty Images)",
       "copyrightlink": "/search?q=St+Michaels+Mount&form=hpcapt&filters=HpDate%3a%2220260130_0000%22"
+    },
+    {
+      "enddate": "20260201",
+      "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_EN-GB2928302935_UHD.jpg",
+      "copyright": "Plains zebras, Etosha National Park, Namibia (© Mogens Trolle/Shutterstock)",
+      "copyrightlink": "/search?q=Plains+zebras&form=hpcapt&filters=HpDate%3a%2220260131_0000%22"
     }
   ],
   "months": {
@@ -7334,6 +7340,8 @@
       "202512",
       "202601"
     ],
-    "active": []
+    "active": [
+      "202602"
+    ]
   }
 }

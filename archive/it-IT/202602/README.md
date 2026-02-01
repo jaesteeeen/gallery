@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-02)
+![](https://www.bing.com/th?id=OHR.Olinda_IT-IT4333912850_UHD.jpg&w=1000)Latest: [Casa colorata, Olinda, Pernambuco, Brasile (© Robert Pekar/Alamy)](https://www.bing.com/th?id=OHR.Olinda_IT-IT4333912850_UHD.jpg)

@@ -7313,6 +7313,12 @@
       "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_FR-FR8636454138_UHD.jpg",
       "copyright": "Des zèbres des plaines, Parc National d’Etosha, Namibie (© Mogens Trolle/Shutterstock)",
       "copyrightlink": "/search?q=z%c3%a8bres+des+plaines&form=hpcapt&filters=HpDate%3a%2220260130_2300%22"
+    },
+    {
+      "enddate": "20260201",
+      "url": "https://www.bing.com/th?id=OHR.AlpineMarmots_FR-FR0828345948_UHD.jpg",
+      "copyright": "Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche (© Raimund Linke/Getty Images)",
+      "copyrightlink": "/search?q=marmotte+des+Alpes&form=hpcapt&filters=HpDate%3a%2220260131_2300%22"
     }
   ],
   "months": {
@@ -7358,6 +7364,8 @@
       "202512",
       "202601"
     ],
-    "active": []
+    "active": [
+      "202602"
+    ]
   }
 }

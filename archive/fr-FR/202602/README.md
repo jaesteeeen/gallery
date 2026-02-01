@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-02)
+![](https://www.bing.com/th?id=OHR.AlpineMarmots_FR-FR0828345948_UHD.jpg&w=1000)Latest: [Des marmottes des Alpes, Parc National des Hohe Tauern, Autriche (© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmots_FR-FR0828345948_UHD.jpg)

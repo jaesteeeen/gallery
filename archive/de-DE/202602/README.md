@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-02)
+![](https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_UHD.jpg&w=1000)Latest: [Buntes Haus in Olinda, Brasilien (© Robert Pekar/Alamy)](https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_UHD.jpg)

@@ -7313,6 +7313,12 @@
       "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_IT-IT4234811619_UHD.jpg",
       "copyright": "Zebre delle pianure, Parco Nazionale di Etosha, Namibia (© Mogens Trolle/Shutterstock)",
       "copyrightlink": "/search?q=Zebra+di+pianura&form=hpcapt"
+    },
+    {
+      "enddate": "20260201",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_IT-IT4333912850_UHD.jpg",
+      "copyright": "Casa colorata, Olinda, Pernambuco, Brasile (© Robert Pekar/Alamy)",
+      "copyrightlink": "/search?q=Olinda+Pernambuco+Brasile&form=hpcapt"
     }
   ],
   "months": {
@@ -7358,6 +7364,8 @@
       "202512",
       "202601"
     ],
-    "active": []
+    "active": [
+      "202602"
+    ]
   }
 }

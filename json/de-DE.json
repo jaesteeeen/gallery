@@ -7313,6 +7313,12 @@
       "url": "https://www.bing.com/th?id=OHR.EtoshaZebra_DE-DE4542235434_UHD.jpg",
       "copyright": "Steppenzebras, Etosha-Nationalpark, Namibia (© Mogens Trolle/Shutterstock)",
       "copyrightlink": "/search?q=Steppenzebras&form=hpcapt&filters=HpDate%3a%2220260130_2300%22"
+    },
+    {
+      "enddate": "20260201",
+      "url": "https://www.bing.com/th?id=OHR.Olinda_DE-DE3587898033_UHD.jpg",
+      "copyright": "Buntes Haus in Olinda, Brasilien (© Robert Pekar/Alamy)",
+      "copyrightlink": "/search?q=Olinda%2c+Brasilien&form=hpcapt&filters=HpDate%3a%2220260131_2300%22"
     }
   ],
   "months": {
@@ -7358,6 +7364,8 @@
       "202512",
       "202601"
     ],
-    "active": []
+    "active": [
+      "202602"
+    ]
   }
 }

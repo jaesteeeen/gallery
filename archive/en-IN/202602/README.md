@@ -1,6 +1,6 @@
 ## Bing Wallpaper (2026-02)
-![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg&w=1000)Latest: [Emerald Bay and Fannette Island, Lake Tahoe, California, United States (© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-IN1823015725_UHD.jpg&w=1000)Latest: [Red kite in snow (© Carl Mckie/500px/Getty Images)](https://www.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-IN1823015725_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-02 [download 4k](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg)|![](https://www.bing.com/th?id=OHR.Olinda_EN-IN1019677032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://www.bing.com/th?id=OHR.Olinda_EN-IN1019677032_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-03 [download 4k](https://www.bing.com/th?id=OHR.FanetteIsland_EN-IN1597160991_UHD.jpg)|![](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-02 [download 4k](https://www.bing.com/th?id=OHR.NeuschwansteinWinter_EN-IN1290603562_UHD.jpg)|![](https://www.bing.com/th?id=OHR.Olinda_EN-IN1019677032_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://www.bing.com/th?id=OHR.Olinda_EN-IN1019677032_UHD.jpg)|

@@ -1,6 +1,6 @@
 ## Bing Wallpaper (2026-02)
-![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&w=1000)Latest: [Alpine marmots, Hohe Tauern National Park, Austria (© Raimund Linke/Getty Images)](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg&w=1000)Latest: [Emerald Bay and Fannette Island, Lake Tahoe, California (© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_EN-US0236094374_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-02 [download 4k](https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-03 [download 4k](https://www.bing.com/th?id=OHR.AlpineMarmots_EN-US0200342638_UHD.jpg)|![](https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-02 [download 4k](https://www.bing.com/th?id=OHR.ArmyNurses_EN-US0165759491_UHD.jpg)|![](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-02-01 [download 4k](https://www.bing.com/th?id=OHR.EtoshaZebra_EN-US0091145236_UHD.jpg)|

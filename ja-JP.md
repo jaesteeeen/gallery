@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP1861312549_UHD.jpg&w=1000)Today: [タホ湖, 米国 (© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP1861312549_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP9866283970_UHD.jpg&w=1000)Today: [タホ湖, 米国 (© Bill Stevenson/Cavan Images)](https://www.bing.com/th?id=OHR.FanetteIsland_JA-JP9866283970_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

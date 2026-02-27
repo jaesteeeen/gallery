@@ -7475,6 +7475,12 @@
       "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-IN2131361524_UHD.jpg",
       "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)",
       "copyrightlink": "/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220260226_1830%22"
+    },
+    {
+      "enddate": "20260228",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_UHD.jpg",
+      "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)",
+      "copyrightlink": "/search?q=Molokai&form=hpcapt&filters=HpDate%3a%2220260227_1830%22"
     }
   ],
   "months": {
@@ -7518,10 +7524,9 @@
       "202510",
       "202511",
       "202512",
-      "202601"
-    ],
-    "active": [
+      "202601",
       "202602"
-    ]
+    ],
+    "active": []
   }
 }

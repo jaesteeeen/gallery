@@ -7469,6 +7469,12 @@
       "url": "https://www.bing.com/th?id=OHR.GrandSunset_PT-BR8623216224_UHD.jpg",
       "copyright": "Grand Canyon e o Rio Colorado, Arizona, Estados Unidos (© Matt Anderson Photography/Getty Images)",
       "copyrightlink": "/search?q=grand+canyon+estados+unidos&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260228",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_UHD.jpg",
+      "copyright": "Filhote de urso-polar sobre o gelo, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, Estados Unidos (© Steven Kazlowski/naturepl.com)",
+      "copyrightlink": "/search?q=dia+do+urso+polar&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7512,10 +7518,9 @@
       "202510",
       "202511",
       "202512",
-      "202601"
-    ],
-    "active": [
+      "202601",
       "202602"
-    ]
+    ],
+    "active": []
   }
 }

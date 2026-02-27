@@ -7469,6 +7469,12 @@
       "url": "https://www.bing.com/th?id=OHR.GrandSunset_EN-CA7701935901_UHD.jpg",
       "copyright": "Grand Canyon and the Colorado River, Arizona, United States (© Matt Anderson Photography/Getty Images)",
       "copyrightlink": "/search?q=Grand+Canyon+National+Park+USA&form=hpcapt&filters=HpDate%3a%2220260226_0500%22"
+    },
+    {
+      "enddate": "20260228",
+      "url": "https://www.bing.com/th?id=OHR.ArcitcCub_EN-CA7641529812_UHD.jpg",
+      "copyright": "Polar bear cub walking across pack ice, Arctic National Wildlife Refuge, Alaska, United States (© Steven Kazlowski/naturepl.com)",
+      "copyrightlink": "/search?q=International+Polar+Bear+Day&form=hpcapt&filters=HpDate%3a%2220260227_0500%22"
     }
   ],
   "months": {
@@ -7512,10 +7518,9 @@
       "202510",
       "202511",
       "202512",
-      "202601"
-    ],
-    "active": [
+      "202601",
       "202602"
-    ]
+    ],
+    "active": []
   }
 }

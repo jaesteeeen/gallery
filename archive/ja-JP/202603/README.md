@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-03)
+![](https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg&w=1000)Latest: [イビサ島, スペイン (© tokar/Shutterstock)](https://www.bing.com/th?id=OHR.BalearesDay_JA-JP8835307227_UHD.jpg)

@@ -7481,6 +7481,12 @@
       "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_EN-IN2487636294_UHD.jpg",
       "copyright": "Olo'upena Falls, island of Moloka'i, Hawaii, United States (© Andrew Aylett/Getty Images)",
       "copyrightlink": "/search?q=Molokai&form=hpcapt&filters=HpDate%3a%2220260227_1830%22"
+    },
+    {
+      "enddate": "20260301",
+      "url": "https://www.bing.com/th?id=OHR.BabyElephant_EN-IN3027316479_UHD.jpg",
+      "copyright": "African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)",
+      "copyrightlink": "/search?q=African+elephant&form=hpcapt&filters=HpDate%3a%2220260228_1830%22"
     }
   ],
   "months": {
@@ -7527,6 +7533,8 @@
       "202601",
       "202602"
     ],
-    "active": []
+    "active": [
+      "202603"
+    ]
   }
 }

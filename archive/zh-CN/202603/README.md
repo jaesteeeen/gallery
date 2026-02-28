@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-03)
+![](https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg&w=1000)Latest: [伊维萨岛, 巴利阿里群岛, 西班牙 (© tokar/Shutterstock)](https://www.bing.com/th?id=OHR.BalearesDay_ZH-CN5024902433_UHD.jpg)

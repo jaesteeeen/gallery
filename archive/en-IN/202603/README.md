@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-03)
+![](https://www.bing.com/th?id=OHR.BabyElephant_EN-IN3027316479_UHD.jpg&w=1000)Latest: [African elephant calf playing with its mother, Masai Mara National Reserve, Kenya (© Denis-Huot/naturepl.com)](https://www.bing.com/th?id=OHR.BabyElephant_EN-IN3027316479_UHD.jpg)

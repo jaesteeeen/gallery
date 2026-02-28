@@ -7475,6 +7475,12 @@
       "url": "https://www.bing.com/th?id=OHR.ArcitcCub_DE-DE4317147803_UHD.jpg",
       "copyright": "Eisbärenjunges läuft über Packeis im Arctic National Wildlife Refuge, Alaska, USA (© Steven Kazlowski/naturepl.com)",
       "copyrightlink": "/search?q=Internationaler+Tag+Eisb%c3%a4ren&form=hpcapt&filters=HpDate%3a%2220260226_2300%22"
+    },
+    {
+      "enddate": "20260228",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_UHD.jpg",
+      "copyright": "Oloʻupena‑Wasserfälle an der Nordküste der Insel Molokaʻi, Hawaii, USA (© Andrew Aylett/Getty Images)",
+      "copyrightlink": "/search?q=Molokai+Hawaii&form=hpcapt&filters=HpDate%3a%2220260227_2300%22"
     }
   ],
   "months": {
@@ -7518,10 +7524,9 @@
       "202510",
       "202511",
       "202512",
-      "202601"
-    ],
-    "active": [
+      "202601",
       "202602"
-    ]
+    ],
+    "active": []
   }
 }

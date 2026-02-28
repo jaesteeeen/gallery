@@ -7475,6 +7475,12 @@
       "url": "https://www.bing.com/th?id=OHR.ArcitcCub_PT-BR4178932499_UHD.jpg",
       "copyright": "Filhote de urso-polar sobre o gelo, Refúgio Nacional de Vida Selvagem do Ártico, Alasca, Estados Unidos (© Steven Kazlowski/naturepl.com)",
       "copyrightlink": "/search?q=dia+do+urso+polar&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260301",
+      "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_PT-BR4023643923_UHD.jpg",
+      "copyright": "Cachoeira Olo’upena, ilha de Molokai, Havaí, Estados Unidos (© Andrew Aylett/Getty Images)",
+      "copyrightlink": "/search?q=Molokai+Havai&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7521,6 +7527,8 @@
       "202601",
       "202602"
     ],
-    "active": []
+    "active": [
+      "202603"
+    ]
   }
 }

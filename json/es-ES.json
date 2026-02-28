@@ -7475,6 +7475,12 @@
       "url": "https://www.bing.com/th?id=OHR.ArcitcCub_ES-ES5029887843_UHD.jpg",
       "copyright": "Cachorro de oso polar, Refugio Nacional de Vida Silvestre del Ártico, Alaska, EE. UU. (© Steven Kazlowski/naturepl.com)",
       "copyrightlink": "/search?q=Oso+polar&form=hpcapt&filters=HpDate%3a%2220260226_2300%22"
+    },
+    {
+      "enddate": "20260228",
+      "url": "https://www.bing.com/th?id=OHR.andaluciasevilla_ES-ES3883487322_UHD.jpg",
+      "copyright": "Sevilla, Andalucía (© Sarmad Al Lawati/Shutterstock)",
+      "copyrightlink": "/search?q=D%c3%ada+de+Andaluc%c3%ada&form=hpcapt&filters=HpDate%3a%2220260227_2300%22"
     }
   ],
   "months": {
@@ -7518,10 +7524,9 @@
       "202510",
       "202511",
       "202512",
-      "202601"
-    ],
-    "active": [
+      "202601",
       "202602"
-    ]
+    ],
+    "active": []
   }
 }

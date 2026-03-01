@@ -7481,6 +7481,12 @@
       "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_IT-IT4647121958_UHD.jpg",
       "copyright": "Cascate Olo'upena, isola di Moloka'i, Hawaii, USA (© Andrew Aylett/Getty Images)",
       "copyrightlink": "/search?q=Molokai&form=hpcapt"
+    },
+    {
+      "enddate": "20260301",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_IT-IT5306710674_UHD.jpg",
+      "copyright": "Ibiza, Isole Baleari Spagna (© tokar/Shutterstock)",
+      "copyrightlink": "/search?q=Ibiza&form=hpcapt"
     }
   ],
   "months": {
@@ -7527,6 +7533,8 @@
       "202601",
       "202602"
     ],
-    "active": []
+    "active": [
+      "202603"
+    ]
   }
 }

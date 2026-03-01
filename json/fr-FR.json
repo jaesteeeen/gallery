@@ -7481,6 +7481,12 @@
       "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_FR-FR3490700079_UHD.jpg",
       "copyright": "Les chutes d’Olo'upena, Île de Moloka'i, Hawaï, États-Unis (© Andrew Aylett/Getty Images)",
       "copyrightlink": "/search?q=Molokai+Hawa%c3%af&form=hpcapt&filters=HpDate%3a%2220260227_2300%22"
+    },
+    {
+      "enddate": "20260301",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_UHD.jpg",
+      "copyright": "Ibiza, Îles Baléares, Espagne (© tokar/Shutterstock)",
+      "copyrightlink": "/search?q=ville+Ibiza&form=hpcapt&filters=HpDate%3a%2220260228_2300%22"
     }
   ],
   "months": {
@@ -7527,6 +7533,8 @@
       "202601",
       "202602"
     ],
-    "active": []
+    "active": [
+      "202603"
+    ]
   }
 }

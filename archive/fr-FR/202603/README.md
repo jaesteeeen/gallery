@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-03)
+![](https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_UHD.jpg&w=1000)Latest: [Ibiza, Îles Baléares, Espagne (© tokar/Shutterstock)](https://www.bing.com/th?id=OHR.BalearesDay_FR-FR4421004317_UHD.jpg)

@@ -7481,6 +7481,12 @@
       "url": "https://www.bing.com/th?id=OHR.OloupenaFalls_DE-DE5017042185_UHD.jpg",
       "copyright": "Oloʻupena‑Wasserfälle an der Nordküste der Insel Molokaʻi, Hawaii, USA (© Andrew Aylett/Getty Images)",
       "copyrightlink": "/search?q=Molokai+Hawaii&form=hpcapt&filters=HpDate%3a%2220260227_2300%22"
+    },
+    {
+      "enddate": "20260301",
+      "url": "https://www.bing.com/th?id=OHR.BalearesDay_DE-DE6256697714_UHD.jpg",
+      "copyright": "Ibiza, Balearische Inseln, Spanien (© tokar/Shutterstock)",
+      "copyrightlink": "/search?q=Ibiza+Stadt&form=hpcapt&filters=HpDate%3a%2220260228_2300%22"
     }
   ],
   "months": {
@@ -7527,6 +7533,8 @@
       "202601",
       "202602"
     ],
-    "active": []
+    "active": [
+      "202603"
+    ]
   }
 }

@@ -1,7 +1,7 @@
 ## Bing Wallpaper
 [中文](README.md) |                     [English(US)](en-US.md) |                     [日本語](ja-JP.md) |                     [English(IN)](en-IN.md) |                     [Português do Brasil](pt-BR.md) |                     [Français](fr-FR.md) |                     [Deutsch](de-DE.md) |                     [English(CA)](en-CA.md) |                     [English(GB)](en-GB.md) |                     [Italiano](it-IT.md) |                     [Español](es-ES.md) |                     [Français(CA)](fr-CA.md) |                    
 
-![](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_UHD.jpg&w=1000)Today: [African buffalo, Ngorongoro Crater, Tanzania (© jesuss8/500px/Getty Images)](https://www.bing.com/th?id=OHR.CapeBuffalo_EN-GB5085555398_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg&w=1000)Today: [Liberty Clock, London, England (© Dukas/Universal Images Group/Getty Images)](https://www.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |

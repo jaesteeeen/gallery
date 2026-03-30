@@ -7661,6 +7661,12 @@
       "url": "https://www.bing.com/th?id=OHR.IndiaCranes_JA-JP0130275400_UHD.jpg",
       "copyright": "アネハヅル, インド (© Axel Gomille/Nature Picture Library)",
       "copyrightlink": "/search?q=%e3%82%a2%e3%83%8d%e3%83%8f%e3%83%85%e3%83%ab&form=hpcapt&filters=HpDate%3a%2220260329_1500%22"
+    },
+    {
+      "enddate": "20260331",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_UHD.jpg",
+      "copyright": "天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images)",
+      "copyrightlink": "/search?q=%e5%a4%a9%e5%9b%bd%e3%81%ae%e6%b4%9e&form=hpcapt&filters=HpDate%3a%2220260330_1500%22"
     }
   ],
   "months": {
@@ -7705,10 +7711,9 @@
       "202511",
       "202512",
       "202601",
-      "202602"
-    ],
-    "active": [
+      "202602",
       "202603"
-    ]
+    ],
+    "active": []
   }
 }

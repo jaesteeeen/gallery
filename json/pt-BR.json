@@ -7655,6 +7655,12 @@
       "url": "https://www.bing.com/th?id=OHR.AniverSalvador_PT-BR9414211573_UHD.jpg",
       "copyright": "Vista aérea do Forte de Santa Maria, Salvador, Bahia (© Uiler Costa/Shutterstock)",
       "copyrightlink": "/search?q=cidade+de+Salvador&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260331",
+      "url": "https://www.bing.com/th?id=OHR.IndiaCranes_PT-BR8548033158_UHD.jpg",
+      "copyright": "Grou-pequeno, Índia (© Axel Gomille/Nature Picture Library)",
+      "copyrightlink": "/search?q=grou+pequeno&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7699,10 +7705,9 @@
       "202511",
       "202512",
       "202601",
-      "202602"
-    ],
-    "active": [
+      "202602",
       "202603"
-    ]
+    ],
+    "active": []
   }
 }

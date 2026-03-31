@@ -7667,6 +7667,12 @@
       "url": "https://www.bing.com/th?id=OHR.ParadiseCave_JA-JP9838102190_UHD.jpg",
       "copyright": "天国の洞, ベトナム (© Pakawat Thongcharoen/Getty Images)",
       "copyrightlink": "/search?q=%e5%a4%a9%e5%9b%bd%e3%81%ae%e6%b4%9e&form=hpcapt&filters=HpDate%3a%2220260330_1500%22"
+    },
+    {
+      "enddate": "20260401",
+      "url": "https://www.bing.com/th?id=OHR.WildflowerValley_JA-JP7238318324_UHD.jpg",
+      "copyright": "セントラル・バレー, 米国 カリフォルニア州 (© Jeff Lewis/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=%e3%82%bb%e3%83%b3%e3%83%88%e3%83%a9%e3%83%ab%e3%83%bb%e3%83%90%e3%83%ac%e3%83%bc&form=hpcapt&filters=HpDate%3a%2220260331_1500%22"
     }
   ],
   "months": {
@@ -7714,6 +7720,8 @@
       "202602",
       "202603"
     ],
-    "active": []
+    "active": [
+      "202604"
+    ]
   }
 }

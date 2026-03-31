@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-04)
+![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg&w=1000)Latest: [粉色牵牛花里的日本树蛙 (© Tetsuya Tanooka/Getty Images)](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ZH-CN6467379766_UHD.jpg)

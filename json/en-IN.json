@@ -7667,6 +7667,12 @@
       "url": "https://www.bing.com/th?id=OHR.ParadiseCave_EN-IN4544625926_UHD.jpg",
       "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)",
       "copyrightlink": "/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate%3a%2220260330_1830%22"
+    },
+    {
+      "enddate": "20260401",
+      "url": "https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg",
+      "copyright": "The Great Stupa at Sanchi, Madhya Pradesh (© Dmitry Rukhlenko - Photos of India/Alamy)",
+      "copyrightlink": "/search?q=The+Great+Stupa+at+Sanchi+Madhya+Pradesh&form=hpcapt&filters=HpDate%3a%2220260331_1830%22"
     }
   ],
   "months": {
@@ -7714,6 +7720,8 @@
       "202602",
       "202603"
     ],
-    "active": []
+    "active": [
+      "202604"
+    ]
   }
 }

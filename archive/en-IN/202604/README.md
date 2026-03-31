@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-04)
+![](https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg&w=1000)Latest: [The Great Stupa at Sanchi, Madhya Pradesh (© Dmitry Rukhlenko - Photos of India/Alamy)](https://www.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg)

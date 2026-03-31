@@ -7661,6 +7661,12 @@
       "url": "https://www.bing.com/th?id=OHR.IndiaCranes_FR-FR3094038321_UHD.jpg",
       "copyright": "Grues demoiselles, Inde (© Axel Gomille/Nature Picture Library)",
       "copyrightlink": "/search?q=grue+demoiselle&form=hpcapt&filters=HpDate%3a%2220260329_2200%22"
+    },
+    {
+      "enddate": "20260331",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_FR-FR2965632202_UHD.jpg",
+      "copyright": "Grotte du Paradis, Parc national de Phong Nha–Ke Bang, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+      "copyrightlink": "/search?q=Grotte+du+Paradis+Phong+Nha%e2%80%93Ke+Bang&form=hpcapt&filters=HpDate%3a%2220260330_2200%22"
     }
   ],
   "months": {
@@ -7705,10 +7711,9 @@
       "202511",
       "202512",
       "202601",
-      "202602"
-    ],
-    "active": [
+      "202602",
       "202603"
-    ]
+    ],
+    "active": []
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-04)
+![](https://www.bing.com/th?id=OHR.ParadiseCave_PT-BR7537263269_UHD.jpg&w=1000)Latest: [Paradise Cave, Parque Nacional Phong Nha-Kẻ Bàng, Vietnã (© Pakawat Thongcharoen/Getty Images)](https://www.bing.com/th?id=OHR.ParadiseCave_PT-BR7537263269_UHD.jpg)

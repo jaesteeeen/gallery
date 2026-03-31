@@ -7637,6 +7637,12 @@
       "url": "https://www.bing.com/th?id=OHR.IndiaCranes_EN-GB3610624769_UHD.jpg",
       "copyright": "Demoiselle cranes, India (© Axel Gomille/Nature Picture Library)",
       "copyrightlink": "/search?q=Demoiselle+cranes&form=hpcapt&filters=HpDate%3a%2220260329_2300%22"
+    },
+    {
+      "enddate": "20260331",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_EN-GB6349854312_UHD.jpg",
+      "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+      "copyrightlink": "/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate%3a%2220260330_2300%22"
     }
   ],
   "months": {
@@ -7681,10 +7687,9 @@
       "202511",
       "202512",
       "202601",
-      "202602"
-    ],
-    "active": [
+      "202602",
       "202603"
-    ]
+    ],
+    "active": []
   }
 }

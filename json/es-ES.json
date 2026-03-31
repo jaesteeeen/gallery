@@ -7661,6 +7661,12 @@
       "url": "https://www.bing.com/th?id=OHR.IndiaCranes_ES-ES2181628479_UHD.jpg",
       "copyright": "Grullas damiselas, India (© Axel Gomille/Nature Picture Library)",
       "copyrightlink": "/search?q=Grulla+damisela&form=hpcapt&filters=HpDate%3a%2220260329_2200%22"
+    },
+    {
+      "enddate": "20260331",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_ES-ES7693918794_UHD.jpg",
+      "copyright": "Gruta de Paraíso, Parque Nacional Phong Nha-Kẻ Bàng, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+      "copyrightlink": "/search?q=Gruta+de+Para%c3%adso+Vietnam&form=hpcapt&filters=HpDate%3a%2220260330_2200%22"
     }
   ],
   "months": {
@@ -7705,10 +7711,9 @@
       "202511",
       "202512",
       "202601",
-      "202602"
-    ],
-    "active": [
+      "202602",
       "202603"
-    ]
+    ],
+    "active": []
   }
 }

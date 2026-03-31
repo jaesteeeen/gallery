@@ -7661,6 +7661,12 @@
       "url": "https://www.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg",
       "copyright": "Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock)",
       "copyrightlink": "/search?q=Lago+Federa&form=hpcapt"
+    },
+    {
+      "enddate": "20260331",
+      "url": "https://www.bing.com/th?id=OHR.ParadiseCave_IT-IT3577786918_UHD.jpg",
+      "copyright": "Paradise Cave, Parco Nazionale di Phong Nha-Kẻ Bàng, Vietnam (© Pakawat Thongcharoen/Getty Images)",
+      "copyrightlink": "/search?q=Paradise+Cave+Vietnam&form=hpcapt"
     }
   ],
   "months": {
@@ -7705,10 +7711,9 @@
       "202511",
       "202512",
       "202601",
-      "202602"
-    ],
-    "active": [
+      "202602",
       "202603"
-    ]
+    ],
+    "active": []
   }
 }

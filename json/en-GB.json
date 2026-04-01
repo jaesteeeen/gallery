@@ -7643,6 +7643,12 @@
       "url": "https://www.bing.com/th?id=OHR.ParadiseCave_EN-GB6349854312_UHD.jpg",
       "copyright": "Paradise Cave, Phong Nha-Ke Bang National Park, Vietnam (© Pakawat Thongcharoen/Getty Images)",
       "copyrightlink": "/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate%3a%2220260330_2300%22"
+    },
+    {
+      "enddate": "20260401",
+      "url": "https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_UHD.jpg",
+      "copyright": "Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)",
+      "copyrightlink": "/search?q=Peggys+Point+Lighthouse&form=hpcapt&filters=HpDate%3a%2220260331_2300%22"
     }
   ],
   "months": {
@@ -7690,6 +7696,8 @@
       "202602",
       "202603"
     ],
-    "active": []
+    "active": [
+      "202604"
+    ]
   }
 }

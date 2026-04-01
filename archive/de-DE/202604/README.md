@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-04)
+![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_UHD.jpg&w=1000)Latest: [Japanischer Laubfrosch in einer rosa Prunkwinde (© Tetsuya Tanooka/Getty Images)](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_UHD.jpg)

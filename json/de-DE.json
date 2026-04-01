@@ -7667,6 +7667,12 @@
       "url": "https://www.bing.com/th?id=OHR.ParadiseCave_DE-DE0326941666_UHD.jpg",
       "copyright": "Paradise Cave, Nationalpark Phong Nha‑Ke Bang, Vietnam (© Pakawat Thongcharoen/Getty Images)",
       "copyrightlink": "/search?q=Paradise+Cave+Vietnam&form=hpcapt&filters=HpDate%3a%2220260330_2200%22"
+    },
+    {
+      "enddate": "20260401",
+      "url": "https://www.bing.com/th?id=OHR.JapaneseTreeFrog_DE-DE8961418037_UHD.jpg",
+      "copyright": "Japanischer Laubfrosch in einer rosa Prunkwinde (© Tetsuya Tanooka/Getty Images)",
+      "copyrightlink": "/search?q=Japanischer+Laubfrosch&form=hpcapt&filters=HpDate%3a%2220260331_2200%22"
     }
   ],
   "months": {
@@ -7714,6 +7720,8 @@
       "202602",
       "202603"
     ],
-    "active": []
+    "active": [
+      "202604"
+    ]
   }
 }

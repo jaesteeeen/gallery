@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-04)
+![](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_UHD.jpg&w=1000)Latest: [Peggy's Point Lighthouse, Atlantic Coast, Nova Scotia, Canada (© Prashanth Bala/Shutterstock)](https://www.bing.com/th?id=OHR.PeggysLighthouse_EN-GB6505153693_UHD.jpg)

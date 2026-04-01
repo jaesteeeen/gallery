@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-04)
+![](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_UHD.jpg&w=1000)Latest: [Rana arbórea japonesa en una campanilla rosa (© Tetsuya Tanooka/Getty Images)](https://www.bing.com/th?id=OHR.JapaneseTreeFrog_ES-ES2872201795_UHD.jpg)

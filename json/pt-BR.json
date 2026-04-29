@@ -7835,6 +7835,12 @@
       "url": "https://www.bing.com/th?id=OHR.AndeanBear_PT-BR8313253312_UHD.jpg",
       "copyright": "Urso-de-óculos descansando em uma árvore, Equador (© Andy Rouse/Nature Picture Library)",
       "copyrightlink": "/search?q=urso+de+oculos&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260430",
+      "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_PT-BR9115323805_UHD.jpg",
+      "copyright": "Torre de Belém às margens do rio Tejo, Lisboa, Portugal (© f9photos/Getty Images)",
+      "copyrightlink": "/search?q=torre+bel%c3%a9m&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7880,10 +7886,9 @@
       "202512",
       "202601",
       "202602",
-      "202603"
-    ],
-    "active": [
+      "202603",
       "202604"
-    ]
+    ],
+    "active": []
   }
 }

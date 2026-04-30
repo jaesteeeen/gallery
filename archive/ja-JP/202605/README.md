@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-05)
+![](https://www.bing.com/th?id=OHR.GreenJasper_JA-JP1765702331_UHD.jpg&w=1000)Latest: [ジャスパー国立公園, カナダ (© Don White/Getty Images)](https://www.bing.com/th?id=OHR.GreenJasper_JA-JP1765702331_UHD.jpg)

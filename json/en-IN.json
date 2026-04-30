@@ -7847,6 +7847,12 @@
       "url": "https://www.bing.com/th?id=OHR.DutchTulips_EN-IN3094932538_UHD.jpg",
       "copyright": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)",
       "copyrightlink": "/search?q=Keukenhof+Gardens&form=hpcapt&filters=HpDate%3a%2220260429_1830%22"
+    },
+    {
+      "enddate": "20260501",
+      "url": "https://www.bing.com/th?id=OHR.MaharashtraDay2026_EN-IN0347211798_UHD.jpg",
+      "copyright": "Kailasa Temple, Ellora Caves, Maharashtra (© mazzzur/iStock/Getty Images)",
+      "copyrightlink": "/search?q=Maharashtra+Day&form=hpcapt&filters=HpDate%3a%2220260430_1830%22"
     }
   ],
   "months": {
@@ -7895,6 +7901,8 @@
       "202603",
       "202604"
     ],
-    "active": []
+    "active": [
+      "202605"
+    ]
   }
 }

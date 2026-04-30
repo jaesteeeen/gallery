@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-05)
+![](https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg&w=1000)Latest: [中国的长城 (© aphotostory/Getty Images)](https://www.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg)

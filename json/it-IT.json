@@ -7841,6 +7841,12 @@
       "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_IT-IT4141068514_UHD.jpg",
       "copyright": "Torre di Belém, fiume Tago, Lisbona, Portogallo (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=Torre+di+Belem&form=hpcapt"
+    },
+    {
+      "enddate": "20260430",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_UHD.jpg",
+      "copyright": "Giacinti e tulipani, Giardini di Keukenhof, Lisse, Paesi Bassi (© Martin Ruegner/Getty Images)",
+      "copyrightlink": "/search?q=Tulipa&form=hpcapt"
     }
   ],
   "months": {
@@ -7886,10 +7892,9 @@
       "202512",
       "202601",
       "202602",
-      "202603"
-    ],
-    "active": [
+      "202603",
       "202604"
-    ]
+    ],
+    "active": []
   }
 }

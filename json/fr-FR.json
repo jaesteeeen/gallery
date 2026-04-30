@@ -7841,6 +7841,12 @@
       "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_FR-FR7863616687_UHD.jpg",
       "copyright": "Tour de Belém au bord du Tage, Lisbonne, Portugal (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=Tour+de+Bel%c3%a9m&form=hpcapt&filters=HpDate%3a%2220260428_2200%22"
+    },
+    {
+      "enddate": "20260430",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_FR-FR1030292533_UHD.jpg",
+      "copyright": "Muscaris et tulipes, Keukenhof, Lisse, Pyas-Bas (© Martin Ruegner/Getty Images)",
+      "copyrightlink": "/search?q=Keukenhof&form=hpcapt&filters=HpDate%3a%2220260429_2200%22"
     }
   ],
   "months": {
@@ -7886,10 +7892,9 @@
       "202512",
       "202601",
       "202602",
-      "202603"
-    ],
-    "active": [
+      "202603",
       "202604"
-    ]
+    ],
+    "active": []
   }
 }

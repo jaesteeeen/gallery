@@ -7841,6 +7841,12 @@
       "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_PT-BR9115323805_UHD.jpg",
       "copyright": "Torre de Belém às margens do rio Tejo, Lisboa, Portugal (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=torre+bel%c3%a9m&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260501",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_PT-BR9358504949_UHD.jpg",
+      "copyright": "Jacintos e tulipas no Jardim Keukenhof, Lisse, Países Baixos (© Martin Ruegner/Getty Images)",
+      "copyrightlink": "/search?q=jardim+europa+nos+paises+baixos&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -7889,6 +7895,8 @@
       "202603",
       "202604"
     ],
-    "active": []
+    "active": [
+      "202605"
+    ]
   }
 }

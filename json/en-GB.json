@@ -7817,6 +7817,12 @@
       "url": "https://www.bing.com/th?id=OHR.BelemTowerBank_EN-GB6963805322_UHD.jpg",
       "copyright": "Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)",
       "copyrightlink": "/search?q=Belem+Tower&form=hpcapt&filters=HpDate%3a%2220260428_2300%22"
+    },
+    {
+      "enddate": "20260430",
+      "url": "https://www.bing.com/th?id=OHR.DutchTulips_EN-GB7175502570_UHD.jpg",
+      "copyright": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)",
+      "copyrightlink": "/search?q=Keukenhof+Gardens&form=hpcapt&filters=HpDate%3a%2220260429_2300%22"
     }
   ],
   "months": {
@@ -7862,10 +7868,9 @@
       "202512",
       "202601",
       "202602",
-      "202603"
-    ],
-    "active": [
+      "202603",
       "202604"
-    ]
+    ],
+    "active": []
   }
 }

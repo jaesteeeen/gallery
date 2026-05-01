@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-05)
+![](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_UHD.jpg&w=1000)Latest: [Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles (© Lukas Bischoff/Getty Images)](https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_UHD.jpg)

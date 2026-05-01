@@ -7847,6 +7847,12 @@
       "url": "https://www.bing.com/th?id=OHR.DutchTulips_DE-DE6573946518_UHD.jpg",
       "copyright": "Traubenhyazinthen und Tulpen im Keukenhof, Lisse, Niederlande (© Martin Ruegner/Getty Images)",
       "copyrightlink": "/search?q=Keukenhof+Lisse&form=hpcapt&filters=HpDate%3a%2220260429_2200%22"
+    },
+    {
+      "enddate": "20260501",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_DE-DE3505547766_UHD.jpg",
+      "copyright": "Leuchtturm Tŵr Mawr, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)",
+      "copyrightlink": "/search?q=Leuchtturm+Twr+Mawr&form=hpcapt&filters=HpDate%3a%2220260430_2200%22"
     }
   ],
   "months": {
@@ -7895,6 +7901,8 @@
       "202603",
       "202604"
     ],
-    "active": []
+    "active": [
+      "202605"
+    ]
   }
 }

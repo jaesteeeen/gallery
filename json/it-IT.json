@@ -7847,6 +7847,12 @@
       "url": "https://www.bing.com/th?id=OHR.DutchTulips_IT-IT3654570550_UHD.jpg",
       "copyright": "Giacinti e tulipani, Giardini di Keukenhof, Lisse, Paesi Bassi (© Martin Ruegner/Getty Images)",
       "copyrightlink": "/search?q=Tulipa&form=hpcapt"
+    },
+    {
+      "enddate": "20260501",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_IT-IT6995398128_UHD.jpg",
+      "copyright": "Faro di Tŵr Mawr, isola di Llanddwyn, Anglesey, Galles (© Lukas Bischoff/Getty Images)",
+      "copyrightlink": "/search?q=Isola+di+Ynys+Llanddwyn&form=hpcapt"
     }
   ],
   "months": {
@@ -7895,6 +7901,8 @@
       "202603",
       "202604"
     ],
-    "active": []
+    "active": [
+      "202605"
+    ]
   }
 }

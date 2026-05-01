@@ -7847,6 +7847,12 @@
       "url": "https://www.bing.com/th?id=OHR.DutchTulips_FR-FR1030292533_UHD.jpg",
       "copyright": "Muscaris et tulipes, Keukenhof, Lisse, Pyas-Bas (© Martin Ruegner/Getty Images)",
       "copyrightlink": "/search?q=Keukenhof&form=hpcapt&filters=HpDate%3a%2220260429_2200%22"
+    },
+    {
+      "enddate": "20260501",
+      "url": "https://www.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_UHD.jpg",
+      "copyright": "Brin de muguet, Ukraine (© tomch/Getty Images Plus)",
+      "copyrightlink": "/search?q=1er+mai&form=hpcapt&filters=HpDate%3a%2220260430_2200%22"
     }
   ],
   "months": {
@@ -7895,6 +7901,8 @@
       "202603",
       "202604"
     ],
-    "active": []
+    "active": [
+      "202605"
+    ]
   }
 }

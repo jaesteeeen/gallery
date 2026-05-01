@@ -7847,6 +7847,12 @@
       "url": "https://www.bing.com/th?id=OHR.DutchTulips_ES-ES1084356423_UHD.jpg",
       "copyright": "Jacintos y tulipanes, Jardines de Keukenhof, Lisse, Países Bajos (© Martin Ruegner/Getty Images)",
       "copyrightlink": "/search?q=Jardines+de+Keukenhof&form=hpcapt&filters=HpDate%3a%2220260429_2200%22"
+    },
+    {
+      "enddate": "20260501",
+      "url": "https://www.bing.com/th?id=OHR.TwrMawrLighthouse2026_ES-ES5064200815_UHD.jpg",
+      "copyright": "Faro de Tŵr Mawr en la isla de Llanddwyn, en Anglesey, Gales (© Lukas Bischoff/Getty Images)",
+      "copyrightlink": "/search?q=Faro+de+T%c5%b5r+Mawr&form=hpcapt&filters=HpDate%3a%2220260430_2200%22"
     }
   ],
   "months": {
@@ -7895,6 +7901,8 @@
       "202603",
       "202604"
     ],
-    "active": []
+    "active": [
+      "202605"
+    ]
   }
 }

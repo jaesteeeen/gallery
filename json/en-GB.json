@@ -7823,6 +7823,12 @@
       "url": "https://www.bing.com/th?id=OHR.DutchTulips_EN-GB7175502570_UHD.jpg",
       "copyright": "Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)",
       "copyrightlink": "/search?q=Keukenhof+Gardens&form=hpcapt&filters=HpDate%3a%2220260429_2300%22"
+    },
+    {
+      "enddate": "20260501",
+      "url": "https://www.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_UHD.jpg",
+      "copyright": "A merry-go-round in Brighton, England (© Alisia Luther/Shutterstock)",
+      "copyrightlink": "/search?q=Brighton+Festival&form=hpcapt&filters=HpDate%3a%2220260430_2300%22"
     }
   ],
   "months": {
@@ -7871,6 +7877,8 @@
       "202603",
       "202604"
     ],
-    "active": []
+    "active": [
+      "202605"
+    ]
   }
 }

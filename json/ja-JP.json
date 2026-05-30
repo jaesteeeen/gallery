@@ -8027,6 +8027,12 @@
       "url": "https://www.bing.com/th?id=OHR.EquusQuagga_JA-JP7756090544_UHD.jpg",
       "copyright": "サバンナシマウマの子馬, ナミビア (© Sharon Heald/Nature Picture Library)",
       "copyrightlink": "/search?q=%e3%82%b5%e3%83%90%e3%83%b3%e3%83%8a%e3%82%b7%e3%83%9e%e3%82%a6%e3%83%9e%e3%81%ae%e5%ad%90%e9%a6%ac&form=hpcapt&filters=HpDate%3a%2220260529_1500%22"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_JA-JP7977535602_UHD.jpg",
+      "copyright": "エバーグレーズ国立公園, 米国 フロリダ州 (© Tetra Images/Getty Images)",
+      "copyrightlink": "/search?q=%e7%b1%b3%e5%9b%bd%e3%81%ae%e6%b9%bf%e5%9c%b0%e6%9c%88%e9%96%93&form=hpcapt&filters=HpDate%3a%2220260530_1500%22"
     }
   ],
   "months": {
@@ -8073,10 +8079,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

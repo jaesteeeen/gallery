@@ -8021,6 +8021,12 @@
       "url": "https://www.bing.com/th?id=OHR.SummitEverest_PT-BR8310035958_UHD.jpg",
       "copyright": "Topo do Monte Everest, Parque Nacional de Sagarmatha, Nepal (© fotoVoyager/Getty Images)",
       "copyrightlink": "/search?q=primeira+escalada+Everest&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_PT-BR5698040013_UHD.jpg",
+      "copyright": "Filhote de zebra-da-planície no Parque Nacional Etosha, Namíbia (© Sharon Heald/Nature Picture Library)",
+      "copyrightlink": "/search?q=zebra+da+planicie&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8067,10 +8073,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

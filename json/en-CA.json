@@ -8021,6 +8021,12 @@
       "url": "https://www.bing.com/th?id=OHR.SummitEverest_EN-CA4641976323_UHD.jpg",
       "copyright": "Mount Everest summit, Sagarmatha National Park, Nepal (© fotoVoyager/Getty Images)",
       "copyrightlink": "/search?q=Mt+Everest+summit+1953&form=hpcapt&filters=HpDate%3a%2220260529_0400%22"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-CA6382180419_UHD.jpg",
+      "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
+      "copyrightlink": "/search?q=Plains+zebras&form=hpcapt&filters=HpDate%3a%2220260530_0400%22"
     }
   ],
   "months": {
@@ -8067,10 +8073,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

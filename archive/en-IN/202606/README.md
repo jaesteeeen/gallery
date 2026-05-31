@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-06)
+![](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_UHD.jpg&w=1000)Latest: [Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.OlivaPalermo_EN-IN8542997213_UHD.jpg)

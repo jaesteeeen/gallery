@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-06)
+![](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&w=1000)Latest: [巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg)

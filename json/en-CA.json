@@ -8027,6 +8027,12 @@
       "url": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-CA6382180419_UHD.jpg",
       "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
       "copyrightlink": "/search?q=Plains+zebras&form=hpcapt&filters=HpDate%3a%2220260530_0400%22"
+    },
+    {
+      "enddate": "20260601",
+      "url": "https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg",
+      "copyright": "Humber River winding through Boyd Conservation Area, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)",
+      "copyrightlink": "/search?q=Boyd+Conservation+Area+Vaughan&form=hpcapt&filters=HpDate%3a%2220260531_0400%22"
     }
   ],
   "months": {
@@ -8076,6 +8082,8 @@
       "202604",
       "202605"
     ],
-    "active": []
+    "active": [
+      "202606"
+    ]
   }
 }

@@ -8027,6 +8027,12 @@
       "url": "https://www.bing.com/th?id=OHR.EquusQuagga_FR-FR5450236947_UHD.jpg",
       "copyright": "Zébreau dans le parc national d’Etosha, Namibie (© Sharon Heald/Nature Picture Library)",
       "copyrightlink": "/search?q=z%c3%a8bre+animal&form=hpcapt&filters=HpDate%3a%2220260529_2200%22"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_UHD.jpg",
+      "copyright": "Une guéparde et son guépardeau (© hilton123/Getty Images)",
+      "copyrightlink": "/search?q=f%c3%aate+des+m%c3%a8res&form=hpcapt&filters=HpDate%3a%2220260530_2200%22"
     }
   ],
   "months": {
@@ -8073,10 +8079,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

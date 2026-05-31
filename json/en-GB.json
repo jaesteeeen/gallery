@@ -8003,6 +8003,12 @@
       "url": "https://www.bing.com/th?id=OHR.EquusQuagga_EN-GB1868293768_UHD.jpg",
       "copyright": "Plains zebra foal in Etosha National Park, Namibia (© Sharon Heald/Nature Picture Library)",
       "copyrightlink": "/search?q=Plains+zebras&form=hpcapt&filters=HpDate%3a%2220260529_2300%22"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_UHD.jpg",
+      "copyright": "Aerial view of Everglades National Park, Florida, United States (© Tetra Images/Getty Images)",
+      "copyrightlink": "/search?q=Everglades+National+Park&form=hpcapt&filters=HpDate%3a%2220260530_2300%22"
     }
   ],
   "months": {
@@ -8049,10 +8055,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

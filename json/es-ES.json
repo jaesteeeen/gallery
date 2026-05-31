@@ -8027,6 +8027,12 @@
       "url": "https://www.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553_UHD.jpg",
       "copyright": "Vista aérea del Puerto de la Cruz, Tenerife (© Balate Dorin/Getty Images)",
       "copyrightlink": "/search?q=D%c3%ada+de+Canarias&form=hpcapt&filters=HpDate%3a%2220260529_2200%22"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_ES-ES0912999305_UHD.jpg",
+      "copyright": "Vista aérea del Parque Nacional de los Everglades, Florida, EE. UU. (© Tetra Images/Getty Images)",
+      "copyrightlink": "/search?q=Parque+Nacional+de+los+Everglades&form=hpcapt&filters=HpDate%3a%2220260530_2200%22"
     }
   ],
   "months": {
@@ -8073,10 +8079,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

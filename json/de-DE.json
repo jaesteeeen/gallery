@@ -8027,6 +8027,12 @@
       "url": "https://www.bing.com/th?id=OHR.EquusQuagga_DE-DE3459381022_UHD.jpg",
       "copyright": "Steppenzebra-Fohlen im Etosha-Nationalpark, Namibia (© Sharon Heald/Nature Picture Library)",
       "copyrightlink": "/search?q=Steppenzebra&form=hpcapt&filters=HpDate%3a%2220260529_2200%22"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg",
+      "copyright": "Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen (© Frank Bienewald/Getty Images)",
+      "copyrightlink": "/search?q=Festung+K%c3%b6nigstein&form=hpcapt&filters=HpDate%3a%2220260530_2200%22"
     }
   ],
   "months": {
@@ -8073,10 +8079,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-06)
+![](https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg&w=1000)Latest: [Humber River winding through Boyd Conservation Area, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)](https://www.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg)

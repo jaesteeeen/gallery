@@ -8027,6 +8027,12 @@
       "url": "https://www.bing.com/th?id=OHR.EquusQuagga_IT-IT4668961444_UHD.jpg",
       "copyright": "Puledro di zebra della pianura, parco nazionale di Etosha, Namibia (© Sharon Heald/Nature Picture Library)",
       "copyrightlink": "/search?q=Zebra+della+pianura&form=hpcapt"
+    },
+    {
+      "enddate": "20260531",
+      "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_UHD.jpg",
+      "copyright": "Vista aerea del parco nazionale delle Everglades, Florida, USA (© Tetra Images/Getty Images)",
+      "copyrightlink": "/search?q=Zone+umide&form=hpcapt"
     }
   ],
   "months": {
@@ -8073,10 +8079,9 @@
       "202601",
       "202602",
       "202603",
-      "202604"
-    ],
-    "active": [
+      "202604",
       "202605"
-    ]
+    ],
+    "active": []
   }
 }

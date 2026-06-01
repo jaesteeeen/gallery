@@ -8033,6 +8033,12 @@
       "url": "https://www.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg",
       "copyright": "Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen (© Frank Bienewald/Getty Images)",
       "copyrightlink": "/search?q=Festung+K%c3%b6nigstein&form=hpcapt&filters=HpDate%3a%2220260530_2200%22"
+    },
+    {
+      "enddate": "20260601",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_UHD.jpg",
+      "copyright": "Skyline von Palermo in der Abenddämmerung, Sizilien, Italien (© Sean Pavone/Getty Images)",
+      "copyrightlink": "/search?q=Palermo+Sizilien&form=hpcapt&filters=HpDate%3a%2220260531_2200%22"
     }
   ],
   "months": {
@@ -8082,6 +8088,8 @@
       "202604",
       "202605"
     ],
-    "active": []
+    "active": [
+      "202606"
+    ]
   }
 }

@@ -8033,6 +8033,12 @@
       "url": "https://www.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_UHD.jpg",
       "copyright": "Une guéparde et son guépardeau (© hilton123/Getty Images)",
       "copyrightlink": "/search?q=f%c3%aate+des+m%c3%a8res&form=hpcapt&filters=HpDate%3a%2220260530_2200%22"
+    },
+    {
+      "enddate": "20260601",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg",
+      "copyright": "Palerme au crépuscule, Sicile, Italie (© Sean Pavone/Getty Images)",
+      "copyrightlink": "/search?q=Palerme+Italie&form=hpcapt&filters=HpDate%3a%2220260531_2200%22"
     }
   ],
   "months": {
@@ -8082,6 +8088,8 @@
       "202604",
       "202605"
     ],
-    "active": []
+    "active": [
+      "202606"
+    ]
   }
 }

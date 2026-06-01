@@ -8033,6 +8033,12 @@
       "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_IT-IT8250643798_UHD.jpg",
       "copyright": "Vista aerea del parco nazionale delle Everglades, Florida, USA (© Tetra Images/Getty Images)",
       "copyrightlink": "/search?q=Zone+umide&form=hpcapt"
+    },
+    {
+      "enddate": "20260601",
+      "url": "https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg",
+      "copyright": "Castello di Dunseverick, contea di Antrim, Irlanda del Nord (© Krzysztof Rogalski/Getty Images)",
+      "copyrightlink": "/search?q=Contea+di+Antrim&form=hpcapt"
     }
   ],
   "months": {
@@ -8082,6 +8088,8 @@
       "202604",
       "202605"
     ],
-    "active": []
+    "active": [
+      "202606"
+    ]
   }
 }

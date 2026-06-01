@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-06)
+![](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg&w=1000)Latest: [Palerme au crépuscule, Sicile, Italie (© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.OlivaPalermo_FR-FR3764883294_UHD.jpg)

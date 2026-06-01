@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-06)
+![](https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_UHD.jpg&w=1000)Latest: [Skyline von Palermo in der Abenddämmerung, Sizilien, Italien (© Sean Pavone/Getty Images)](https://www.bing.com/th?id=OHR.OlivaPalermo_DE-DE3024542120_UHD.jpg)

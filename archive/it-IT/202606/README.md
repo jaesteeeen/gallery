@@ -1,0 +1,2 @@
+## Bing Wallpaper (2026-06)
+![](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg&w=1000)Latest: [Castello di Dunseverick, contea di Antrim, Irlanda del Nord (© Krzysztof Rogalski/Getty Images)](https://www.bing.com/th?id=OHR.DunseverickCastle2026_IT-IT6990234859_UHD.jpg)

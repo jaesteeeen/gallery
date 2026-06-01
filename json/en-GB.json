@@ -8009,6 +8009,12 @@
       "url": "https://www.bing.com/th?id=OHR.EvergladesWetlands_EN-GB2174930094_UHD.jpg",
       "copyright": "Aerial view of Everglades National Park, Florida, United States (© Tetra Images/Getty Images)",
       "copyrightlink": "/search?q=Everglades+National+Park&form=hpcapt&filters=HpDate%3a%2220260530_2300%22"
+    },
+    {
+      "enddate": "20260601",
+      "url": "https://www.bing.com/th?id=OHR.OlivaPalermo_EN-GB8668911302_UHD.jpg",
+      "copyright": "Palermo skyline, Sicily, Italy (© Sean Pavone/Getty Images)",
+      "copyrightlink": "/search?q=Palermo&form=hpcapt&filters=HpDate%3a%2220260531_2300%22"
     }
   ],
   "months": {
@@ -8058,6 +8064,8 @@
       "202604",
       "202605"
     ],
-    "active": []
+    "active": [
+      "202606"
+    ]
   }
 }

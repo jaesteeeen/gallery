@@ -1,6 +1,6 @@
 ## Bing Wallpaper (2026-06)
-![](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg&w=1000)Latest: [穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg)
+![](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg&w=1000)Latest: [骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)](https://www.bing.com/th?id=OHR.BardenasReales_ZH-CN0480548935_UHD.jpg)
 
 |      |      |      |
 | :----: | :----: | :----: |
-|![](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-01 [download 4k](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg)|
+|![](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-02 [download 4k](https://www.bing.com/th?id=OHR.Qinghai_ZH-CN9899656327_UHD.jpg)|![](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg&pid=hp&w=384&h=216&rs=1&c=4)2026-06-01 [download 4k](https://www.bing.com/th?id=OHR.OlivaPalermo_ZH-CN9639920195_UHD.jpg)|

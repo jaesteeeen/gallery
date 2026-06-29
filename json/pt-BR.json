@@ -8201,6 +8201,12 @@
       "url": "https://www.bing.com/th?id=OHR.SaguaroSun_PT-BR3626457853_UHD.jpg",
       "copyright": "Cactos-saguaro perto de Windgate Pass, cordilheira McDowell, Arizona, Estados Unidos (© Eric Mischke/Getty Images)",
       "copyrightlink": "/search?q=cactos+saguaro&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260630",
+      "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_PT-BR8111630763_UHD.jpg",
+      "copyright": "Bora Bora e sua lagoa, Pacífico Sul, Polinésia Francesa (© Frederick Millett/Shutterstock)",
+      "copyrightlink": "/search?q=Dia+Internacional+dos+Tr%c3%b3picos&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8248,10 +8254,9 @@
       "202602",
       "202603",
       "202604",
-      "202605"
-    ],
-    "active": [
+      "202605",
       "202606"
-    ]
+    ],
+    "active": []
   }
 }

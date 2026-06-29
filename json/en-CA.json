@@ -8201,6 +8201,12 @@
       "url": "https://www.bing.com/th?id=OHR.SaguaroSun_EN-CA5131430817_UHD.jpg",
       "copyright": "Saguaro cacti near Windgate Pass, McDowell Range, Arizona, United States (© Eric Mischke/Getty Images)",
       "copyrightlink": "/search?q=Saguaro+cactus&form=hpcapt&filters=HpDate%3a%2220260628_0400%22"
+    },
+    {
+      "enddate": "20260630",
+      "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-CA7294184526_UHD.jpg",
+      "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
+      "copyrightlink": "/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0400%22"
     }
   ],
   "months": {
@@ -8248,10 +8254,9 @@
       "202602",
       "202603",
       "202604",
-      "202605"
-    ],
-    "active": [
+      "202605",
       "202606"
-    ]
+    ],
+    "active": []
   }
 }

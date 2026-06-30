@@ -9851,6 +9851,12 @@
       "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_EN-US1491116478_UHD.jpg",
       "copyright": "Bora Bora and its lagoon, South Pacific, French Polynesia (© Frederick Millett/Shutterstock)",
       "copyrightlink": "/search?q=International+Day+of+the+Tropics&form=hpcapt&filters=HpDate%3a%2220260629_0700%22"
+    },
+    {
+      "enddate": "20260701",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-US2240704874_UHD.jpg",
+      "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
+      "copyrightlink": "/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260630_0700%22"
     }
   ],
   "months": {
@@ -9910,6 +9916,8 @@
       "202605",
       "202606"
     ],
-    "active": []
+    "active": [
+      "202607"
+    ]
   }
 }

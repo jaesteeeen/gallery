@@ -8213,6 +8213,12 @@
       "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-IN0088128873_UHD.jpg",
       "copyright": "Giraffes at sunset in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
       "copyrightlink": "/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260629_1830%22"
+    },
+    {
+      "enddate": "20260701",
+      "url": "https://www.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_UHD.jpg",
+      "copyright": "Jog Falls on the Sharavathi River, Shivamogga district, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+      "copyrightlink": "/search?q=Jog+Falls&form=hpcapt&filters=HpDate%3a%2220260630_1830%22"
     }
   ],
   "months": {
@@ -8263,6 +8269,8 @@
       "202605",
       "202606"
     ],
-    "active": []
+    "active": [
+      "202607"
+    ]
   }
 }

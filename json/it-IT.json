@@ -8207,6 +8207,12 @@
       "url": "https://www.bing.com/th?id=OHR.SanPietroPaolo_IT-IT6089431696_UHD.jpg",
       "copyright": "Castel Sant’Angelo, Roma (© Domenico Cippitelli/NurPhoto via Getty Images)",
       "copyrightlink": "/search?q=Santi+Pietro+e+Paolo&form=hpcapt"
+    },
+    {
+      "enddate": "20260630",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_IT-IT8100161271_UHD.jpg",
+      "copyright": "Giraffe al tramonto nella Riserva Nazionale Masai Mara, Kenya (© danm/Getty Images)",
+      "copyrightlink": "/search?q=Masai+Mara&form=hpcapt"
     }
   ],
   "months": {
@@ -8254,10 +8260,9 @@
       "202602",
       "202603",
       "202604",
-      "202605"
-    ],
-    "active": [
+      "202605",
       "202606"
-    ]
+    ],
+    "active": []
   }
 }

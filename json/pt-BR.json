@@ -8207,6 +8207,12 @@
       "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_PT-BR8111630763_UHD.jpg",
       "copyright": "Bora Bora e sua lagoa, Pacífico Sul, Polinésia Francesa (© Frederick Millett/Shutterstock)",
       "copyrightlink": "/search?q=Dia+Internacional+dos+Tr%c3%b3picos&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260701",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_PT-BR8199198867_UHD.jpg",
+      "copyright": "Girafas ao pôr do sol na Reserva Nacional Masai Mara, Quênia (© danm/Getty Images)",
+      "copyrightlink": "/search?q=Reserva+Nacional+Masai+Mara+Quenia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8257,6 +8263,8 @@
       "202605",
       "202606"
     ],
-    "active": []
+    "active": [
+      "202607"
+    ]
   }
 }

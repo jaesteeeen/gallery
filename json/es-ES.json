@@ -8207,6 +8207,12 @@
       "url": "https://www.bing.com/th?id=OHR.BoraBoraLagoon_ES-ES4364920301_UHD.jpg",
       "copyright": "Bora Bora y su laguna, Pacífico Sur, Polinesia Francesa (© Frederick Millett/Shutterstock)",
       "copyrightlink": "/search?q=Bora+Bora+Atol%c3%b3n&form=hpcapt&filters=HpDate%3a%2220260628_2200%22"
+    },
+    {
+      "enddate": "20260630",
+      "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_ES-ES0604244262_UHD.jpg",
+      "copyright": "Jirafas al atardecer en la Reserva Nacional Masai Mara, Kenia (© danm/Getty Images)",
+      "copyrightlink": "/search?q=Reserva+Nacional+Masai+Mara&form=hpcapt&filters=HpDate%3a%2220260629_2200%22"
     }
   ],
   "months": {
@@ -8254,10 +8260,9 @@
       "202602",
       "202603",
       "202604",
-      "202605"
-    ],
-    "active": [
+      "202605",
       "202606"
-    ]
+    ],
+    "active": []
   }
 }

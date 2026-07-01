@@ -8213,6 +8213,12 @@
       "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_FR-FR7072948459_UHD.jpg",
       "copyright": "Girafes au coucher du soleil, Masai Mara, Kenya (© danm/Getty Images)",
       "copyrightlink": "/search?q=r%c3%a9serve+Masai+Mara&form=hpcapt&filters=HpDate%3a%2220260629_2200%22"
+    },
+    {
+      "enddate": "20260701",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_FR-FR7667168923_UHD.jpg",
+      "copyright": "Parc provincial de Dungeon, Terre-Neuve-et-Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
+      "copyrightlink": "/search?q=F%c3%aate+du+Canada&form=hpcapt&filters=HpDate%3a%2220260630_2200%22"
     }
   ],
   "months": {
@@ -8263,6 +8269,8 @@
       "202605",
       "202606"
     ],
-    "active": []
+    "active": [
+      "202607"
+    ]
   }
 }

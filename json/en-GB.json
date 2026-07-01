@@ -8189,6 +8189,12 @@
       "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_EN-GB8702520320_UHD.jpg",
       "copyright": "Giraffes in the Masai Mara National Reserve, Kenya (© danm/Getty Images)",
       "copyrightlink": "/search?q=Masai+Mara+National+Reserve&form=hpcapt&filters=HpDate%3a%2220260629_2300%22"
+    },
+    {
+      "enddate": "20260701",
+      "url": "https://www.bing.com/th?id=OHR.KaysersbergVillage_EN-GB9678795742_UHD.jpg",
+      "copyright": "Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)",
+      "copyrightlink": "/search?q=Kaysersberg+Alsace&form=hpcapt&filters=HpDate%3a%2220260630_2300%22"
     }
   ],
   "months": {
@@ -8239,6 +8245,8 @@
       "202605",
       "202606"
     ],
-    "active": []
+    "active": [
+      "202607"
+    ]
   }
 }

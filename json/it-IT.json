@@ -8213,6 +8213,12 @@
       "url": "https://www.bing.com/th?id=OHR.MasaiGiraffe_IT-IT8100161271_UHD.jpg",
       "copyright": "Giraffe al tramonto nella Riserva Nazionale Masai Mara, Kenya (© danm/Getty Images)",
       "copyrightlink": "/search?q=Masai+Mara&form=hpcapt"
+    },
+    {
+      "enddate": "20260701",
+      "url": "https://www.bing.com/th?id=OHR.DungeonPark_IT-IT0964634478_UHD.jpg",
+      "copyright": "Parco provinciale di Dungeon, Terranova e Labrador, Canada (© Kaitlyn McLachlan/Getty Images)",
+      "copyrightlink": "/search?q=Festa+del+Canada&form=hpcapt"
     }
   ],
   "months": {
@@ -8263,6 +8269,8 @@
       "202605",
       "202606"
     ],
-    "active": []
+    "active": [
+      "202607"
+    ]
   }
 }

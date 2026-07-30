@@ -8387,6 +8387,12 @@
       "url": "https://www.bing.com/th?id=OHR.TigerFamily_PT-BR8805441851_UHD.jpg",
       "copyright": "Família de tigres-de-bengala no Parque Nacional de Ranthambore, Rajastão, Índia (© Archna Singh/Shutterstock)",
       "copyrightlink": "/search?q=Dia+Internacional+do+Tigre&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260731",
+      "url": "https://www.bing.com/th?id=OHR.Furada_PT-BR7092103592_UHD.jpg",
+      "copyright": "Pedra Furada em Jericoacoara, Ceará (© Brendan van Son/Shutterstock)",
+      "copyrightlink": "/search?q=Jericoacoara&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8435,10 +8441,9 @@
       "202603",
       "202604",
       "202605",
-      "202606"
-    ],
-    "active": [
+      "202606",
       "202607"
-    ]
+    ],
+    "active": []
   }
 }

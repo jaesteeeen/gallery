@@ -8393,6 +8393,12 @@
       "url": "https://www.bing.com/th?id=OHR.Furada_PT-BR7092103592_UHD.jpg",
       "copyright": "Pedra Furada em Jericoacoara, Ceará (© Brendan van Son/Shutterstock)",
       "copyrightlink": "/search?q=Jericoacoara&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260801",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_PT-BR9310516852_UHD.jpg",
+      "copyright": "Vista aérea da Virginia Creeper Trail, Damascus, Virgínia, Estados Unidos (© Eifel Kreutz/Getty Images)",
+      "copyrightlink": "/search?q=Damascus+na+Virginia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8444,6 +8450,8 @@
       "202606",
       "202607"
     ],
-    "active": []
+    "active": [
+      "202608"
+    ]
   }
 }

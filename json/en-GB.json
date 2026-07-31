@@ -8369,6 +8369,12 @@
       "url": "https://www.bing.com/th?id=OHR.NavajoNation_EN-GB6080318819_UHD.jpg",
       "copyright": "Monument Valley, Navajo Nation, Arizona, United States (© Westend61/Adobe Stock)",
       "copyrightlink": "/search?q=Monument+Valley&form=hpcapt&filters=HpDate%3a%2220260729_2300%22"
+    },
+    {
+      "enddate": "20260731",
+      "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-GB6394833598_UHD.jpg",
+      "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
+      "copyrightlink": "/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2300%22"
     }
   ],
   "months": {
@@ -8417,10 +8423,9 @@
       "202603",
       "202604",
       "202605",
-      "202606"
-    ],
-    "active": [
+      "202606",
       "202607"
-    ]
+    ],
+    "active": []
   }
 }

@@ -8399,6 +8399,12 @@
       "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_EN-IN1200650554_UHD.jpg",
       "copyright": "Aerial view of the Virginia Creeper Trail, Damascus, Virginia, United States (© Eifel Kreutz/Getty Images)",
       "copyrightlink": "/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_1830%22"
+    },
+    {
+      "enddate": "20260801",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_EN-IN1784864041_UHD.jpg",
+      "copyright": "A series of lava flows spill into the ocean, Big Island, Hawaii, United States (© Ken McCurdy/Getty Images)",
+      "copyrightlink": "/search?q=Hawaii+Volcanoes+National+Park&form=hpcapt&filters=HpDate%3a%2220260731_1830%22"
     }
   ],
   "months": {
@@ -8450,6 +8456,8 @@
       "202606",
       "202607"
     ],
-    "active": []
+    "active": [
+      "202608"
+    ]
   }
 }

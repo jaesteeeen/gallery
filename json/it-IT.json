@@ -8399,6 +8399,12 @@
       "url": "https://www.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_UHD.jpg",
       "copyright": "Cielo colorato al tramonto sopra barche a vela ormeggiate, Isole Eolie, Messina, Sicilia, Italia (© Paolo Graziosi/E+/Getty Images)",
       "copyrightlink": "/search?q=Isole+Eolie&form=hpcapt"
+    },
+    {
+      "enddate": "20260801",
+      "url": "https://www.bing.com/th?id=OHR.HawaiiLava_IT-IT9255141439_UHD.jpg",
+      "copyright": "Una serie di colate laviche si riversa nell'oceano, Big Island, Hawaii, USA (© Ken McCurdy/Getty Images)",
+      "copyrightlink": "/search?q=Parco+nazionale+Vulcani+delle+Hawaii&form=hpcapt"
     }
   ],
   "months": {
@@ -8450,6 +8456,8 @@
       "202606",
       "202607"
     ],
-    "active": []
+    "active": [
+      "202608"
+    ]
   }
 }

@@ -8399,6 +8399,12 @@
       "url": "https://www.bing.com/th?id=OHR.VirginiaTrail_FR-FR7594645617_UHD.jpg",
       "copyright": "Vue aérienne du sentier Virginia Creeper Trail, Damascus, Virginie, États-Unis (© Eifel Kreutz/Getty Images)",
       "copyrightlink": "/search?q=Virginia+Creeper+Trail&form=hpcapt&filters=HpDate%3a%2220260730_2200%22"
+    },
+    {
+      "enddate": "20260801",
+      "url": "https://www.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_UHD.jpg",
+      "copyright": "Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)",
+      "copyrightlink": "/search?q=False+Klamath+Cove&form=hpcapt&filters=HpDate%3a%2220260731_2200%22"
     }
   ],
   "months": {
@@ -8450,6 +8456,8 @@
       "202606",
       "202607"
     ],
-    "active": []
+    "active": [
+      "202608"
+    ]
   }
 }

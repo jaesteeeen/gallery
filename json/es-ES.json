@@ -8399,6 +8399,12 @@
       "url": "https://www.bing.com/th?id=OHR.DeltaEbro_ES-ES3023885514_UHD.jpg",
       "copyright": "Flamencos en el Delta del Ebro, Tarragona, España (© mafrmcfa/Getty Images)",
       "copyrightlink": "/search?q=Parque+natural+del+Delta+del+Ebro&form=hpcapt&filters=HpDate%3a%2220260730_2200%22"
+    },
+    {
+      "enddate": "20260801",
+      "url": "https://www.bing.com/th?id=OHR.SantaCatalina_ES-ES2186596110_UHD.jpg",
+      "copyright": "Arco de Santa Catalina, Antigua Guatemala, Guatemala (© Filippo Maria Bianchi/Getty Images)",
+      "copyrightlink": "/search?q=Arco+de+Santa+Catalina+Monumento+de+Antigua+Guatemala&form=hpcapt&filters=HpDate%3a%2220260731_2200%22"
     }
   ],
   "months": {
@@ -8450,6 +8456,8 @@
       "202606",
       "202607"
     ],
-    "active": []
+    "active": [
+      "202608"
+    ]
   }
 }

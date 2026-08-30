@@ -8573,6 +8573,12 @@
       "url": "https://www.bing.com/th?id=OHR.SantaCatarina_PT-BR2149597812_UHD.jpg",
       "copyright": "Vista aérea de surfistas em Santa Catarina (© Wonderful Nature/Shutterstock)",
       "copyrightlink": "/search?q=Santa+Catarina+Brasil&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260831",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_PT-BR2490068911_UHD.jpg",
+      "copyright": "Tubarão-baleia e xaréus-dourados na Baía de Cenderawasih, Papua Ocidental, Indonésia (© Pete Oxford/Nature Picture Library)",
+      "copyrightlink": "/search?q=tubarao+baleia&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8622,10 +8628,9 @@
       "202604",
       "202605",
       "202606",
-      "202607"
-    ],
-    "active": [
+      "202607",
       "202608"
-    ]
+    ],
+    "active": []
   }
 }

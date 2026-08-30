@@ -8573,6 +8573,12 @@
       "url": "https://www.bing.com/th?id=OHR.SantaCatarina_EN-CA1161995702_UHD.jpg",
       "copyright": "Aerial view of surfers, Santa Catarina, Brazil (© Wonderful Nature/Shutterstock)",
       "copyrightlink": "/search?q=Brazil+Santa+Catarina&form=hpcapt&filters=HpDate%3a%2220260829_0400%22"
+    },
+    {
+      "enddate": "20260831",
+      "url": "https://www.bing.com/th?id=OHR.YellowShark_EN-CA1504942162_UHD.jpg",
+      "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
+      "copyrightlink": "/search?q=Whale+shark&form=hpcapt&filters=HpDate%3a%2220260830_0400%22"
     }
   ],
   "months": {
@@ -8622,10 +8628,9 @@
       "202604",
       "202605",
       "202606",
-      "202607"
-    ],
-    "active": [
+      "202607",
       "202608"
-    ]
+    ],
+    "active": []
   }
 }

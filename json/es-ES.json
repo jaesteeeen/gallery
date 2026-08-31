@@ -8579,6 +8579,12 @@
       "url": "https://www.bing.com/th?id=OHR.YellowShark_ES-ES9780213231_UHD.jpg",
       "copyright": "Tiburón ballena y jurel real dorado, Bahía de Cenderawasih, Papúa Occidental, Indonesia (© Pete Oxford/Nature Picture Library)",
       "copyrightlink": "/search?q=Tibur%c3%b3n+Ballena&form=hpcapt&filters=HpDate%3a%2220260829_2200%22"
+    },
+    {
+      "enddate": "20260831",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_ES-ES9960905844_UHD.jpg",
+      "copyright": "Cúpula en el interior de la mezquita de la madrasa Tilla-Kari, Plaza Registan, Samarcanda, Uzbekistán (© Piero M. Bianchi/Getty Images)",
+      "copyrightlink": "/search?q=Plaza+Registan+Samarcanda&form=hpcapt&filters=HpDate%3a%2220260830_2200%22"
     }
   ],
   "months": {
@@ -8628,10 +8634,9 @@
       "202604",
       "202605",
       "202606",
-      "202607"
-    ],
-    "active": [
+      "202607",
       "202608"
-    ]
+    ],
+    "active": []
   }
 }

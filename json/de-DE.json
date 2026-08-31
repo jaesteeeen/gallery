@@ -8579,6 +8579,12 @@
       "url": "https://www.bing.com/th?id=OHR.YellowShark_DE-DE7632036192_UHD.jpg",
       "copyright": "Walhai und Goldmakrelen, Cenderawasih-Bucht, West-Papua, Indonesien (© Pete Oxford/Nature Picture Library)",
       "copyrightlink": "/search?q=Internationaler+Tag+des+Walhais&form=hpcapt&filters=HpDate%3a%2220260829_2200%22"
+    },
+    {
+      "enddate": "20260831",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_UHD.jpg",
+      "copyright": "Architektonisches Detail des Registan-Platzes, Samarkand, Usbekistan (© Piero M. Bianchi/Getty Images)",
+      "copyrightlink": "/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2200%22"
     }
   ],
   "months": {
@@ -8628,10 +8634,9 @@
       "202604",
       "202605",
       "202606",
-      "202607"
-    ],
-    "active": [
+      "202607",
       "202608"
-    ]
+    ],
+    "active": []
   }
 }

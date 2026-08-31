@@ -8579,6 +8579,12 @@
       "url": "https://www.bing.com/th?id=OHR.YellowShark_PT-BR2490068911_UHD.jpg",
       "copyright": "Tubarão-baleia e xaréus-dourados na Baía de Cenderawasih, Papua Ocidental, Indonésia (© Pete Oxford/Nature Picture Library)",
       "copyrightlink": "/search?q=tubarao+baleia&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260901",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_PT-BR2655743090_UHD.jpg",
+      "copyright": "Detalhes da Praça Registan, Samarcanda, Uzbequistão (© Piero M. Bianchi/Getty Images)",
+      "copyrightlink": "/search?q=Samarcanda&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8631,6 +8637,8 @@
       "202607",
       "202608"
     ],
-    "active": []
+    "active": [
+      "202609"
+    ]
   }
 }

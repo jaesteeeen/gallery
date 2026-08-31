@@ -8579,6 +8579,12 @@
       "url": "https://www.bing.com/th?id=OHR.YellowShark_FR-FR9208937852_UHD.jpg",
       "copyright": "Requin-baleine et carangues royales, Golfe de Cenderawasih, Papouasie occidentale, Indonésie (© Pete Oxford/Nature Picture Library)",
       "copyrightlink": "/search?q=requin-baleine&form=hpcapt&filters=HpDate%3a%2220260829_2200%22"
+    },
+    {
+      "enddate": "20260831",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_UHD.jpg",
+      "copyright": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
+      "copyrightlink": "/search?q=Samarcande&form=hpcapt&filters=HpDate%3a%2220260830_2200%22"
     }
   ],
   "months": {
@@ -8628,10 +8634,9 @@
       "202604",
       "202605",
       "202606",
-      "202607"
-    ],
-    "active": [
+      "202607",
       "202608"
-    ]
+    ],
+    "active": []
   }
 }

@@ -8579,6 +8579,12 @@
       "url": "https://www.bing.com/th?id=OHR.YellowShark_IT-IT2405493473_UHD.jpg",
       "copyright": "Squalo balena e carango dorato, Baia di Cenderawasih, Papua Occidentale, Indonesia (© Pete Oxford/Nature Picture Library)",
       "copyrightlink": "/search?q=Squalo+balena&form=hpcapt"
+    },
+    {
+      "enddate": "20260831",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_IT-IT1763957510_UHD.jpg",
+      "copyright": "Cupola all'interno della moschea Tilla Kari Madrasa, Piazza Registan, Samarcanda, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "copyrightlink": "/search?q=Madrasa+Tilla+Kari&form=hpcapt"
     }
   ],
   "months": {
@@ -8628,10 +8634,9 @@
       "202604",
       "202605",
       "202606",
-      "202607"
-    ],
-    "active": [
+      "202607",
       "202608"
-    ]
+    ],
+    "active": []
   }
 }

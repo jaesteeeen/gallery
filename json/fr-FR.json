@@ -8585,6 +8585,12 @@
       "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_FR-FR3513297737_UHD.jpg",
       "copyright": "Détails d’un plafond, Régistan, Samarcande, Ouzbékistan (© Piero M. Bianchi/Getty Images)",
       "copyrightlink": "/search?q=Samarcande&form=hpcapt&filters=HpDate%3a%2220260830_2200%22"
+    },
+    {
+      "enddate": "20260901",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_FR-FR3845055413_UHD.jpg",
+      "copyright": "Gymnopus androsaceus, Biélorussie (© Máté/Nature Picture Library)",
+      "copyrightlink": "/search?q=champignon+Gymnopus+androsaceus&form=hpcapt&filters=HpDate%3a%2220260831_2200%22"
     }
   ],
   "months": {
@@ -8637,6 +8643,8 @@
       "202607",
       "202608"
     ],
-    "active": []
+    "active": [
+      "202609"
+    ]
   }
 }

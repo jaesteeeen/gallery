@@ -8585,6 +8585,12 @@
       "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_DE-DE7789243927_UHD.jpg",
       "copyright": "Architektonisches Detail des Registan-Platzes, Samarkand, Usbekistan (© Piero M. Bianchi/Getty Images)",
       "copyrightlink": "/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_2200%22"
+    },
+    {
+      "enddate": "20260901",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_DE-DE7910104416_UHD.jpg",
+      "copyright": "Rosshaar-Schwindling, Belarus (© Máté/Nature Picture Library)",
+      "copyrightlink": "/search?q=Rosshaar-Schwindling&form=hpcapt&filters=HpDate%3a%2220260831_2200%22"
     }
   ],
   "months": {
@@ -8637,6 +8643,8 @@
       "202607",
       "202608"
     ],
-    "active": []
+    "active": [
+      "202609"
+    ]
   }
 }

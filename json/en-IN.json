@@ -8585,6 +8585,12 @@
       "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-IN0367504407_UHD.jpg",
       "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
       "copyrightlink": "/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260830_1830%22"
+    },
+    {
+      "enddate": "20260901",
+      "url": "https://www.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg",
+      "copyright": "The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)",
+      "copyrightlink": "/search?q=Surathkal+Beach&form=hpcapt&filters=HpDate%3a%2220260831_1830%22"
     }
   ],
   "months": {
@@ -8637,6 +8643,8 @@
       "202607",
       "202608"
     ],
-    "active": []
+    "active": [
+      "202609"
+    ]
   }
 }

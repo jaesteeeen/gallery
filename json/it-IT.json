@@ -8585,6 +8585,12 @@
       "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_IT-IT1763957510_UHD.jpg",
       "copyright": "Cupola all'interno della moschea Tilla Kari Madrasa, Piazza Registan, Samarcanda, Uzbekistan (© Piero M. Bianchi/Getty Images)",
       "copyrightlink": "/search?q=Madrasa+Tilla+Kari&form=hpcapt"
+    },
+    {
+      "enddate": "20260901",
+      "url": "https://www.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649_UHD.jpg",
+      "copyright": "Vista aerea del Fiordo di Furore, Costiera Amalfitana, Italia (© Artur Debat/Getty Images)",
+      "copyrightlink": "/search?q=Il+Capodanno+Bizantino+ad+Amalfi&form=hpcapt"
     }
   ],
   "months": {
@@ -8637,6 +8643,8 @@
       "202607",
       "202608"
     ],
-    "active": []
+    "active": [
+      "202609"
+    ]
   }
 }

@@ -10223,6 +10223,12 @@
       "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_ZH-CN1818913296_UHD.jpg",
       "copyright": "雷吉斯坦广场的建筑细节，撒马尔罕，乌兹别克斯坦 (© Piero M. Bianchi/Getty Images)",
       "copyrightlink": "/search?q=%e6%92%92%e9%a9%ac%e5%b0%94%e7%bd%95&form=hpcapt&mkt=zh-cn"
+    },
+    {
+      "enddate": "20260901",
+      "url": "https://www.bing.com/th?id=OHR.HorseHairShroom_ZH-CN2241458451_UHD.jpg",
+      "copyright": "马鬃小皮伞，白俄罗斯 (© Máté/Nature Picture Library)",
+      "copyrightlink": "/search?q=%e9%a9%ac%e9%ac%83%e5%b0%8f%e7%9a%ae%e4%bc%9e&form=hpcapt&mkt=zh-cn"
     }
   ],
   "months": {
@@ -10284,6 +10290,8 @@
       "202607",
       "202608"
     ],
-    "active": []
+    "active": [
+      "202609"
+    ]
   }
 }

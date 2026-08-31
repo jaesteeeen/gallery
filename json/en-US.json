@@ -10223,6 +10223,12 @@
       "url": "https://www.bing.com/th?id=OHR.YellowShark_EN-US3678567058_UHD.jpg",
       "copyright": "Whale shark and golden trevally, Cenderawasih Bay, West Papua, Indonesia (© Pete Oxford/Nature Picture Library)",
       "copyrightlink": "/search?q=whale+shark&form=hpcapt&filters=HpDate%3a%2220260830_0700%22"
+    },
+    {
+      "enddate": "20260901",
+      "url": "https://www.bing.com/th?id=OHR.SamarkandCeiling_EN-US3761829748_UHD.jpg",
+      "copyright": "Building detail of Registan Square, Samarkand, Uzbekistan (© Piero M. Bianchi/Getty Images)",
+      "copyrightlink": "/search?q=Samarkand&form=hpcapt&filters=HpDate%3a%2220260831_0700%22"
     }
   ],
   "months": {
@@ -10284,6 +10290,8 @@
       "202607",
       "202608"
     ],
-    "active": []
+    "active": [
+      "202609"
+    ]
   }
 }

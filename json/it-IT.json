@@ -8759,6 +8759,12 @@
       "url": "https://www.bing.com/th?id=OHR.KasilofRiver_IT-IT8693387372_UHD.jpg",
       "copyright": "Le acque blu alimentate dai ghiacciai del fiume Kasilof, Alaska, USA (© jared lloyd/Getty Images)",
       "copyrightlink": "/search?q=Il+Fiume+Kasilof+Alaska&form=hpcapt"
+    },
+    {
+      "enddate": "20260930",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_IT-IT8754476280_UHD.jpg",
+      "copyright": "Maschio di basettino, Norfolk, Inghilterra (© Andrew Sproule/Shutterstock)",
+      "copyrightlink": "/search?q=basettino+(Panurus+biarmicus)&form=hpcapt"
     }
   ],
   "months": {
@@ -8809,10 +8815,9 @@
       "202605",
       "202606",
       "202607",
-      "202608"
-    ],
-    "active": [
+      "202608",
       "202609"
-    ]
+    ],
+    "active": []
   }
 }

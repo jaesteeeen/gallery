@@ -8759,6 +8759,12 @@
       "url": "https://www.bing.com/th?id=OHR.KasilofRiver_DE-DE4065933153_UHD.jpg",
       "copyright": "Das blaue, von Gletschern gespeiste Wasser des Kasilof River in Alaska, USA (© jared lloyd/Getty Images)",
       "copyrightlink": "/search?q=Kasilof+River+Vereinigte+Staaten&form=hpcapt&filters=HpDate%3a%2220260928_2200%22"
+    },
+    {
+      "enddate": "20260930",
+      "url": "https://www.bing.com/th?id=OHR.AlphornBavaria_DE-DE4197541227_UHD.jpg",
+      "copyright": "Alphornbläser in Bayern (© U. J. Alexander/Shutterstock)",
+      "copyrightlink": "/search?q=Alphorn+Instrument&form=hpcapt&filters=HpDate%3a%2220260929_2200%22"
     }
   ],
   "months": {
@@ -8809,10 +8815,9 @@
       "202605",
       "202606",
       "202607",
-      "202608"
-    ],
-    "active": [
+      "202608",
       "202609"
-    ]
+    ],
+    "active": []
   }
 }

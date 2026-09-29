@@ -8759,6 +8759,12 @@
       "url": "https://www.bing.com/th?id=OHR.KasilofRiver_ES-ES8214443142_UHD.jpg",
       "copyright": "Las aguas azules alimentadas por glaciares del río Kasilof, Alaska, EE. UU. (© jared lloyd/Getty Images)",
       "copyrightlink": "/search?q=R%c3%ado+Kasilof+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2200%22"
+    },
+    {
+      "enddate": "20260930",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_UHD.jpg",
+      "copyright": "Macho de bigotudo, Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
+      "copyrightlink": "/search?q=bigotudo+Panurus+biarmicus&form=hpcapt&filters=HpDate%3a%2220260929_2200%22"
     }
   ],
   "months": {
@@ -8809,10 +8815,9 @@
       "202605",
       "202606",
       "202607",
-      "202608"
-    ],
-    "active": [
+      "202608",
       "202609"
-    ]
+    ],
+    "active": []
   }
 }

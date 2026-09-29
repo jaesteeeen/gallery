@@ -8759,6 +8759,12 @@
       "url": "https://www.bing.com/th?id=OHR.KasilofRiver_FR-FR9609860572_UHD.jpg",
       "copyright": "Les eaux bleues de la rivière Kasilof, Alaska, États-Unis (© jared lloyd/Getty Images)",
       "copyrightlink": "/search?q=rivi%c3%a8re+Kasilof+Alaska&form=hpcapt&filters=HpDate%3a%2220260928_2200%22"
+    },
+    {
+      "enddate": "20260930",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_UHD.jpg",
+      "copyright": "Panure à moustaches mâle, Norfolk, Angleterre (© Andrew Sproule/Shutterstock)",
+      "copyrightlink": "/search?q=panure+%c3%a0+moustache&form=hpcapt&filters=HpDate%3a%2220260929_2200%22"
     }
   ],
   "months": {
@@ -8809,10 +8815,9 @@
       "202605",
       "202606",
       "202607",
-      "202608"
-    ],
-    "active": [
+      "202608",
       "202609"
-    ]
+    ],
+    "active": []
   }
 }

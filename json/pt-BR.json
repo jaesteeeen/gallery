@@ -8753,6 +8753,12 @@
       "url": "https://www.bing.com/th?id=OHR.AmberHall_PT-BR1465916376_UHD.jpg",
       "copyright": "Salão Sattais Katcheri no Forte de Amber, perto de Jaipur, Rajastão, Índia (© R.M. Nunes/Getty Images)",
       "copyrightlink": "/search?q=Forte+de+Amber&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20260930",
+      "url": "https://www.bing.com/th?id=OHR.KasilofRiver_PT-BR1313310893_UHD.jpg",
+      "copyright": "Rio Kasilof, Península de Kenai, Alasca, Estados Unidos (© jared lloyd/Getty Images)",
+      "copyrightlink": "/search?q=Pen%c3%adnsula+de+Kenai+no+Alasca&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8803,10 +8809,9 @@
       "202605",
       "202606",
       "202607",
-      "202608"
-    ],
-    "active": [
+      "202608",
       "202609"
-    ]
+    ],
+    "active": []
   }
 }

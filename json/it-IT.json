@@ -8765,6 +8765,12 @@
       "url": "https://www.bing.com/th?id=OHR.BeardReedling_IT-IT8754476280_UHD.jpg",
       "copyright": "Maschio di basettino, Norfolk, Inghilterra (© Andrew Sproule/Shutterstock)",
       "copyrightlink": "/search?q=basettino+(Panurus+biarmicus)&form=hpcapt"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_IT-IT8819239294_UHD.jpg",
+      "copyright": "Tramonto da Olmsted Point, Parco Nazionale di Yosemite, California, USA (© Robb Hirsch/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=Parco+Nazionale+di+Yosemite+California&form=hpcapt"
     }
   ],
   "months": {
@@ -8818,6 +8824,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

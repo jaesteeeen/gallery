@@ -8765,6 +8765,12 @@
       "url": "https://www.bing.com/th?id=OHR.BeardReedling_ES-ES8271136302_UHD.jpg",
       "copyright": "Macho de bigotudo, Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
       "copyrightlink": "/search?q=bigotudo+Panurus+biarmicus&form=hpcapt&filters=HpDate%3a%2220260929_2200%22"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.ElGolfo_ES-ES8850772045_UHD.jpg",
+      "copyright": "Vista aérea de la playa de lava negra, El Golfo, Lanzarote, Islas Canarias, España (© Westend61/Adobe Stock)",
+      "copyrightlink": "/search?q=Lanzarote&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
     }
   ],
   "months": {
@@ -8818,6 +8824,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

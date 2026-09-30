@@ -8765,6 +8765,12 @@
       "url": "https://www.bing.com/th?id=OHR.BeardReedling_EN-IN8949803206_UHD.jpg",
       "copyright": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
       "copyrightlink": "/search?q=Bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260929_1830%22"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.NathmaljiHaveli2026_EN-IN9027003376_UHD.jpg",
+      "copyright": "View into the sky from Nathmal Ki Haveli courtyard, Jaisalmer, Rajasthan (© Emad Aljumah/Moment/Getty Images)",
+      "copyrightlink": "/search?q=Jaisalmer+Rajasthan&form=hpcapt&filters=HpDate%3a%2220260930_1830%22"
     }
   ],
   "months": {
@@ -8818,6 +8824,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

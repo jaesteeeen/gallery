@@ -8765,6 +8765,12 @@
       "url": "https://www.bing.com/th?id=OHR.BeardReedling_FR-FR6298814586_UHD.jpg",
       "copyright": "Panure à moustaches mâle, Norfolk, Angleterre (© Andrew Sproule/Shutterstock)",
       "copyrightlink": "/search?q=panure+%c3%a0+moustache&form=hpcapt&filters=HpDate%3a%2220260929_2200%22"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.ParisSunset_FR-FR0051640032_UHD.jpg",
+      "copyright": "La tour Eiffel au coucher de soleil, Paris (© Alexander Spatari/Getty Images)",
+      "copyrightlink": "/search?q=Paris&form=hpcapt&filters=HpDate%3a%2220260930_2200%22"
     }
   ],
   "months": {
@@ -8818,6 +8824,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

@@ -8759,6 +8759,12 @@
       "url": "https://www.bing.com/th?id=OHR.KasilofRiver_EN-CA0207893749_UHD.jpg",
       "copyright": "The blue, glacier-fed waters of the Kasilof River, Alaska, United States (© jared lloyd/Getty Images)",
       "copyrightlink": "/search?q=Kasilof+River+Alaska&form=hpcapt&filters=HpDate%3a%2220260929_0400%22"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_EN-CA1270469815_UHD.jpg",
+      "copyright": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
+      "copyrightlink": "/search?q=Bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260930_0400%22"
     }
   ],
   "months": {
@@ -8812,6 +8818,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

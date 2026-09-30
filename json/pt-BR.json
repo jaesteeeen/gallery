@@ -8759,6 +8759,12 @@
       "url": "https://www.bing.com/th?id=OHR.KasilofRiver_PT-BR1313310893_UHD.jpg",
       "copyright": "Rio Kasilof, Península de Kenai, Alasca, Estados Unidos (© jared lloyd/Getty Images)",
       "copyrightlink": "/search?q=Pen%c3%adnsula+de+Kenai+no+Alasca&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.BeardReedling_PT-BR1145161880_UHD.jpg",
+      "copyright": "Chapim-de-bigodes em Norfolk, Inglaterra (© Andrew Sproule/Shutterstock)",
+      "copyrightlink": "/search?q=chapim+de+bigodes&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8812,6 +8818,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

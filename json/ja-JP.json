@@ -8765,6 +8765,12 @@
       "url": "https://www.bing.com/th?id=OHR.BeardReedling_JA-JP9843863193_UHD.jpg",
       "copyright": "ヒゲガラ, イングランド (© Andrew Sproule/Shutterstock)",
       "copyrightlink": "/search?q=%e3%83%92%e3%82%b2%e3%82%ac%e3%83%a9&form=hpcapt&filters=HpDate%3a%2220260929_1500%22"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.OlmstedPoint_JA-JP0098463265_UHD.jpg",
+      "copyright": "オルムステッド・ポイント, 米国 カリフォルニア州 (© Robb Hirsch/Tandem Stills + Motion)",
+      "copyrightlink": "/search?q=%e3%82%aa%e3%83%ab%e3%83%a0%e3%82%b9%e3%83%86%e3%83%83%e3%83%89%e3%83%bb%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88&form=hpcapt&filters=HpDate%3a%2220260930_1500%22"
     }
   ],
   "months": {
@@ -8818,6 +8824,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

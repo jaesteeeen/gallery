@@ -8741,6 +8741,12 @@
       "url": "https://www.bing.com/th?id=OHR.BeardReedling_EN-GB9865111388_UHD.jpg",
       "copyright": "Male bearded reedling, Norfolk, England (© Andrew Sproule/Shutterstock)",
       "copyrightlink": "/search?q=Bearded+reedling&form=hpcapt&filters=HpDate%3a%2220260929_2300%22"
+    },
+    {
+      "enddate": "20261001",
+      "url": "https://www.bing.com/th?id=OHR.BlackHistoryMonthUK2026_EN-GB9938862434_UHD.jpg",
+      "copyright": "Panorama of Parliament Square and Nelson Mandela memorial, London (© ansharphoto/Shutterstock)",
+      "copyrightlink": "/search?q=Black+History+Month+UK&form=hpcapt&filters=HpDate%3a%2220260930_2300%22"
     }
   ],
   "months": {
@@ -8794,6 +8800,8 @@
       "202608",
       "202609"
     ],
-    "active": []
+    "active": [
+      "202610"
+    ]
   }
 }

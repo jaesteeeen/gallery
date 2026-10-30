@@ -8915,6 +8915,12 @@
       "url": "https://www.bing.com/th?id=OHR.AveburyStones_EN-GB5895980350_UHD.jpg",
       "copyright": "Standing stones at Avebury in Wiltshire, England (© George W Johnson/Getty Images)",
       "copyrightlink": "/search?q=Avebury+henge+Wiltshire&form=hpcapt&filters=HpDate%3a%2220261029_0000%22"
+    },
+    {
+      "enddate": "20261031",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-GB1528709848_UHD.jpg",
+      "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
+      "copyrightlink": "/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0000%22"
     }
   ],
   "months": {
@@ -8966,10 +8972,9 @@
       "202606",
       "202607",
       "202608",
-      "202609"
-    ],
-    "active": [
+      "202609",
       "202610"
-    ]
+    ],
+    "active": []
   }
 }

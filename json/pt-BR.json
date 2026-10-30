@@ -8939,6 +8939,12 @@
       "url": "https://www.bing.com/th?id=OHR.AveburyStones_PT-BR9317811680_UHD.jpg",
       "copyright": "Círculo de Pedras de Avebury, Wiltshire, Inglaterra (© George W Johnson/Getty Images)",
       "copyrightlink": "/search?q=Avebury+na+Inglaterra&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20261031",
+      "url": "https://www.bing.com/th?id=OHR.AutumnCranes_PT-BR8749482923_UHD.jpg",
+      "copyright": "Grous-canadenses, Refúgio Nacional de Vida Selvagem Bosque del Apache, Novo México, Estados Unidos (© Terry St.Louis/Getty Images)",
+      "copyrightlink": "/search?q=Grous-canadenses&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8990,10 +8996,9 @@
       "202606",
       "202607",
       "202608",
-      "202609"
-    ],
-    "active": [
+      "202609",
       "202610"
-    ]
+    ],
+    "active": []
   }
 }

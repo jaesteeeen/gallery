@@ -8951,6 +8951,12 @@
       "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-IN8941917618_UHD.jpg",
       "copyright": "St Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
       "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_1830%22"
+    },
+    {
+      "enddate": "20261101",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_EN-IN9123894203_UHD.jpg",
+      "copyright": "Black Forest, Baden-Württemberg, Germany (© Britus/Getty Images)",
+      "copyrightlink": "/search?q=Black+Forest+Germany&form=hpcapt&filters=HpDate%3a%2220261031_1830%22"
     }
   ],
   "months": {
@@ -9005,6 +9011,8 @@
       "202609",
       "202610"
     ],
-    "active": []
+    "active": [
+      "202611"
+    ]
   }
 }

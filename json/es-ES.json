@@ -8945,6 +8945,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnCranes_ES-ES8460518037_UHD.jpg",
       "copyright": "Grullas canadienses, Refugio Nacional de Vida Silvestre Bosque del Apache, Nuevo Mexico, EUA (© Terry St.Louis/Getty Images)",
       "copyrightlink": "/search?q=Grullas+Canadienses&form=hpcapt&filters=HpDate%3a%2220261029_2300%22"
+    },
+    {
+      "enddate": "20261031",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_UHD.jpg",
+      "copyright": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
+      "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22"
     }
   ],
   "months": {
@@ -8996,10 +9002,9 @@
       "202606",
       "202607",
       "202608",
-      "202609"
-    ],
-    "active": [
+      "202609",
       "202610"
-    ]
+    ],
+    "active": []
   }
 }

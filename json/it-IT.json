@@ -8945,6 +8945,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnCranes_IT-IT0637151336_UHD.jpg",
       "copyright": "Gru canadesi, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
       "copyrightlink": "/search?q=gru+canadesi&form=hpcapt"
+    },
+    {
+      "enddate": "20261031",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_UHD.jpg",
+      "copyright": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
+      "copyrightlink": "/search?q=Halloween&form=hpcapt"
     }
   ],
   "months": {
@@ -8996,10 +9002,9 @@
       "202606",
       "202607",
       "202608",
-      "202609"
-    ],
-    "active": [
+      "202609",
       "202610"
-    ]
+    ],
+    "active": []
   }
 }

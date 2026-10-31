@@ -8945,6 +8945,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnCranes_PT-BR8749482923_UHD.jpg",
       "copyright": "Grous-canadenses, Refúgio Nacional de Vida Selvagem Bosque del Apache, Novo México, Estados Unidos (© Terry St.Louis/Getty Images)",
       "copyrightlink": "/search?q=Grous-canadenses&form=hpcapt&mkt=pt-br"
+    },
+    {
+      "enddate": "20261101",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_PT-BR9368321413_UHD.jpg",
+      "copyright": "Catedral de São Bartolomeu, em Frankfurt, Alemanha (© AlxeyPnferov/Getty Images)",
+      "copyrightlink": "/search?q=Halloween&form=hpcapt&mkt=pt-br"
     }
   ],
   "months": {
@@ -8999,6 +9005,8 @@
       "202609",
       "202610"
     ],
-    "active": []
+    "active": [
+      "202611"
+    ]
   }
 }

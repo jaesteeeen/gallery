@@ -10589,6 +10589,12 @@
       "url": "https://www.bing.com/th?id=OHR.AutumnCranes_EN-US9795571462_UHD.jpg",
       "copyright": "Sandhill cranes, Bosque del Apache National Wildlife Refuge, New Mexico, USA (© Terry St.Louis/Getty Images)",
       "copyrightlink": "/search?q=Sandhill+Cranes&form=hpcapt&filters=HpDate%3a%2220261030_0700%22"
+    },
+    {
+      "enddate": "20261101",
+      "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_EN-US0115213682_UHD.jpg",
+      "copyright": "St. Bartholomew's Cathedral in Frankfurt, Germany (© AlxeyPnferov/Getty Images)",
+      "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261031_0700%22"
     }
   ],
   "months": {
@@ -10652,6 +10658,8 @@
       "202609",
       "202610"
     ],
-    "active": []
+    "active": [
+      "202611"
+    ]
   }
 }

@@ -8951,6 +8951,12 @@
       "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_IT-IT1676201038_UHD.jpg",
       "copyright": "Duomo Imperiale di Francoforte, Germania (© AlxeyPnferov/Getty Images)",
       "copyrightlink": "/search?q=Halloween&form=hpcapt"
+    },
+    {
+      "enddate": "20261101",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_IT-IT2276159599_UHD.jpg",
+      "copyright": "Foresta Nera, Baden-Württemberg, Germania (© Britus/Getty Images)",
+      "copyrightlink": "/search?q=Foresta+Nera+Germania&form=hpcapt"
     }
   ],
   "months": {
@@ -9005,6 +9011,8 @@
       "202609",
       "202610"
     ],
-    "active": []
+    "active": [
+      "202611"
+    ]
   }
 }

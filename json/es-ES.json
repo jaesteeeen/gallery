@@ -8951,6 +8951,12 @@
       "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_ES-ES0138515727_UHD.jpg",
       "copyright": "Catedral de San Bartolomé, Fráncfort, Alemania (© AlxeyPnferov/Getty Images)",
       "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22"
+    },
+    {
+      "enddate": "20261101",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_ES-ES0251623557_UHD.jpg",
+      "copyright": "La selva Negra, Baden-Württemberg, Alemania (© Britus/Getty Images)",
+      "copyrightlink": "/search?q=Selva+Negra+Alemania&form=hpcapt&filters=HpDate%3a%2220261031_2300%22"
     }
   ],
   "months": {
@@ -9005,6 +9011,8 @@
       "202609",
       "202610"
     ],
-    "active": []
+    "active": [
+      "202611"
+    ]
   }
 }

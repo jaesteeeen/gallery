@@ -8951,6 +8951,12 @@
       "url": "https://www.bing.com/th?id=OHR.FrankfurtHalloween_DE-DE2172526536_UHD.jpg",
       "copyright": "Kaiserdom St. Bartholomäus in Frankfurt am Main, Deutschland (© AlxeyPnferov/Getty Images)",
       "copyrightlink": "/search?q=Halloween&form=hpcapt&filters=HpDate%3a%2220261030_2300%22"
+    },
+    {
+      "enddate": "20261101",
+      "url": "https://www.bing.com/th?id=OHR.SchwarzwaldAutumn_DE-DE2707949453_UHD.jpg",
+      "copyright": "Schwarzwald, Baden-Württemberg (© Britus/Getty Images)",
+      "copyrightlink": "/search?q=Schwarzwald+Deutschland&form=hpcapt&filters=HpDate%3a%2220261031_2300%22"
     }
   ],
   "months": {
@@ -9005,6 +9011,8 @@
       "202609",
       "202610"
     ],
-    "active": []
+    "active": [
+      "202611"
+    ]
   }
 }
